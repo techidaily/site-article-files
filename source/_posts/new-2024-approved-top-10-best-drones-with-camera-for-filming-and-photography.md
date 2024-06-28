@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top 10 Best Drones with Camera for Filming and Photography\""
-date: 2024-06-12T02:14:16.020Z
-updated: 2024-06-13T02:14:16.020Z
+date: 2024-06-19T23:52:16.731Z
+updated: 2024-06-20T23:52:16.731Z
 tags: 
   - screen-recording
   - ai video
@@ -51,7 +51,7 @@ Check this comparison able and click the name to see the detailed info directly
 
 #### 1\. Wingsland S6 RC Drone
 
-![wingsland s6 rc drone ](https://images.wondershare.com/filmora/article-images/wingsland-s6-rc-drone.jpg)
+![wingsland s6 rc drone](https://images.wondershare.com/filmora/article-images/wingsland-s6-rc-drone.jpg)
 
 **Key Features:**
 

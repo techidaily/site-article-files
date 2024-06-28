@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Economical Action Filmmaking Gear for the Aspiring Pro"
-date: 2024-06-12T02:09:32.377Z
-updated: 2024-06-13T02:09:32.377Z
+date: 2024-06-19T23:52:17.535Z
+updated: 2024-06-20T23:52:17.535Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ To ease the process of choosing the right one at a budget below $200, here are t
 
 ## Best Action and Sports Camera under $200
 
-#### **1.[FujiFilm FinePix XP90 HD- $159.03](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)**
+#### **1. FujiFilm FinePix XP90 HD- $159.03
 
 [fujifilm-finepix%20-xp90-hd](https://images.wondershare.com/filmora/article-images/fujifilm-finepix%20-xp90-hd.jpg)](https://www.amazon.com/gp/product/B01AJUG4IW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AJUG4IW&linkId=d5f688a03fa8181f805338662cf2b039)
 
@@ -54,7 +54,7 @@ This camera configured with face detection has digital filters to shoot at diffe
 
 [Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
 
-#### **2. [YI 4K action Camera](https://tools.techidaily.com/wondershare/filmora/download/)\- $199.99**
+#### **2. YI 4K action Camera
 
 [xiaomi-yi-4k](https://images.wondershare.com/filmora/article-images/xiaomi-yi-4k.jpg) ](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
 
@@ -99,9 +99,9 @@ This camera is widely popular among professional photographers looking to captur
 | **• Lens:** f/ 2.4, 160°                                             | **• Frame Rate:** 1080p @60/30fps 960p@30fps 720p@60/30fps, 480 @30fps |
 | **• Battery:** 1400 mAh suffices 2hrs of 4K video                    | **• Image Resolution:** Ultra Resolution photo capturing-16MP          |
 | **• Media Format:** .MP4, JPEG                                       | **• Connectivity:** mini HDMI, mini USB, Wifi, App                     |
-| **• Waterproof:** 5M waterproofing protection (no housing provided ) | • 1.5 inches LCD display                                               |
+| **• Waterproof:** 5M waterproofing protection (no housing provided) | • 1.5 inches LCD display                                               |
 
-#### **5. [GoPro Hero Session- $199.99](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)**[](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+#### **5. GoPro Hero Session- $199.99
 
 [gopro-hero-session](https://images.wondershare.com/filmora/article-images/gopro-hero-session.jpeg) ](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Top Five Excellent Cameras for High Fidelity Movies\""
-date: 2024-06-12T02:14:34.191Z
-updated: 2024-06-13T02:14:34.191Z
+date: 2024-06-19T23:52:15.447Z
+updated: 2024-06-20T23:52:15.447Z
 tags: 
   - screen-recording
   - ai video
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 
 #### 3\. Sony Alpha a99 II
 
-![sony-alpha-a99-ii ](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
+![sony-alpha-a99-ii](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
 
  Sensor: Full Frame CMOS:
 

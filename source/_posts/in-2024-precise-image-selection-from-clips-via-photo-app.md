@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Precise Image Selection From Clips via Photo App"
-date: 2024-06-12T02:07:35.233Z
-updated: 2024-06-13T02:07:35.233Z
+date: 2024-06-19T23:52:15.993Z
+updated: 2024-06-20T23:52:15.993Z
 tags: 
   - screen-recording
   - ai video
@@ -45,7 +45,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 
