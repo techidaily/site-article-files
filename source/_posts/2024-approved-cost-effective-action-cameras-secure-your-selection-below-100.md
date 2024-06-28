@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Cost-Effective Action Cameras  Secure Your Selection Below $100\""
-date: 2024-06-12T02:18:37.053Z
-updated: 2024-06-13T02:18:37.053Z
+date: 2024-06-27T10:17:07.257Z
+updated: 2024-06-28T10:17:07.257Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
 ## Top 6 Cheapest Action Cameras to Buy Under $100
 
-#### **1. [Polaroid Cube+](https://tools.techidaily.com/wondershare/filmora/download/) HD 1080p Lifestyle Action Camera- $99.99**
+#### **1. Polaroid Cube+
 
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e
 )

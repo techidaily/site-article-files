@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Guidelines to Broaden YouTube Content Area"
-date: 2024-06-12T02:13:53.447Z
-updated: 2024-06-13T02:13:53.447Z
+date: 2024-06-27T10:17:06.104Z
+updated: 2024-06-28T10:17:06.104Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -90,7 +90,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

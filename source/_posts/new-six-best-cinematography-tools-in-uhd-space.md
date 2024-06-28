@@ -1,7 +1,7 @@
 ---
 title: "[New] Six Best Cinematography Tools in UHD Space"
-date: 2024-06-12T02:11:21.797Z
-updated: 2024-06-13T02:11:21.797Z
+date: 2024-06-27T10:17:04.688Z
+updated: 2024-06-28T10:17:04.688Z
 tags: 
   - screen-recording
   - ai video
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 
 #### 3\. Sony Alpha a99 II
 
-![sony-alpha-a99-ii ](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
+![sony-alpha-a99-ii](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
 
  Sensor: Full Frame CMOS:
 
