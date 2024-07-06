@@ -1,7 +1,7 @@
 ---
 title: "\"Peak Choice  Top Five High Definition Cameras\""
-date: 2024-06-12T02:11:26.671Z
-updated: 2024-06-13T02:11:26.672Z
+date: 2024-07-05T02:43:14.789Z
+updated: 2024-07-06T02:43:14.790Z
 tags: 
   - screen-recording
   - ai video
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 
 #### 3\. Sony Alpha a99 II
 
-![sony-alpha-a99-ii ](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
+![sony-alpha-a99-ii](https://images.wondershare.com/filmora/article-images/sony-alpha-a99-ii.jpg)
 
  Sensor: Full Frame CMOS:
 
