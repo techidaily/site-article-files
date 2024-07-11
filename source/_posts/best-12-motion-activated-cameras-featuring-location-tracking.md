@@ -1,7 +1,7 @@
 ---
 title: "\"Best 12 Motion-Activated Cameras Featuring Location Tracking\""
-date: 2024-06-12T02:14:48.777Z
-updated: 2024-06-13T02:14:48.777Z
+date: 2024-07-10T15:19:15.508Z
+updated: 2024-07-11T15:19:15.508Z
 tags: 
   - screen-recording
   - ai video
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
 #### **2. Garmin VIRB Series:**
 
-**a. [ Garmin VIRB Ultra 30: ](<https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8>**
+**a. [Garmin VIRB Ultra 30:](<https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8>**
 **)**
 
 [Garmin Virb Ultra 30](https://images.wondershare.com/filmora/article-images/garmin-virb-ultra-30-design.jpg) ](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
 [Learn more about Garmin VIRB Ultra 30](https://tools.techidaily.com/wondershare/filmora/download/)
 
-**b. [ Garmin VIRB XE: ](<https://www.amazon.com/gp/product/B0160BC1EK/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0160BC1EK&linkId=95b0e00bcbf50903696c22879509a038>**
+**b. [Garmin VIRB XE:](<https://www.amazon.com/gp/product/B0160BC1EK/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0160BC1EK&linkId=95b0e00bcbf50903696c22879509a038>**
 **)**
 
 [Garmin Virb XE](https://images.wondershare.com/filmora/article-images/garmin-virb-xe.jpg)](https://www.amazon.com/gp/product/B0160BC1EK/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0160BC1EK&linkId=95b0e00bcbf50903696c22879509a038
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  This device is able to record footage with 1080p resolution at 30fps and wide angle stills can be taken with 12MP. VIRB X comes with G-Metric technology that captures moment along with performance data and environmental reading. It can perfectly reflect heart rate, temperature, acceleration and speed etc. Other then this it offers remote controlled ecosystem along with Multi-camera synchronization and one touch recording functionality.
 
-**d. [ Garmin VIRB Elite:](<https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1>**
+**d. [Garmin VIRB Elite:](<https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1>**
 **)**
 
 [Garmin Virb Elite](https://images.wondershare.com/filmora/article-images/garmin-virb-elit.jpg) ](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  Here is a perfect action camera with unique design, impressive image quality and GPS enabled features. It also accommodates barometric altimeter and accelerometer inside and assists in HD recording with 1080p resolution level. It is Wi-Fi enabled and possess digital image stabilization feature along with auto lens distortion correction facility.
 
-#### **3.[ GoPro Hero5 Black:](<https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa>**
+#### **3.[GoPro Hero5 Black:](<https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa>**
 
 **)**
 
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
 #### **5. Sony Series:**
 
-**a. [ 4K action Camera FDR-X3000:](<https://www.amazon.com/gp/product/B01LYSJB8A/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYSJB8A&linkId=2a4195190e2c6e5b63a38a4bed0e7957>**
+**a. [4K action Camera FDR-X3000:](<https://www.amazon.com/gp/product/B01LYSJB8A/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYSJB8A&linkId=2a4195190e2c6e5b63a38a4bed0e7957>**
 **)**
 
 [Sony 4K FDR X3000](https://images.wondershare.com/filmora/article-images/sony-4k-fdr-x3000.jpg) ](https://www.amazon.com/gp/product/B01LYSJB8A/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYSJB8A&linkId=2a4195190e2c6e5b63a38a4bed0e7957
@@ -152,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  With this affordable action camera model you can enjoy Full HD recording at 60fps frame rate and 11.9MP stills at 19:9 aspect ratio. It can go under water up to 16 Feet and offers Wi-Fi, NFC and GPS connectivity. The remote control also possesses GPS feature and assists in overlay adjustment over videos with additional layer of information related to proper speed and route details.
 
-#### **6.[ TomTom Bandit: ](<https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5>**
+#### **6.[TomTom Bandit:](<https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5>**
 
 **)**
 
@@ -202,3 +202,31 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-leading-android-picture-perfection-apps/"><u>2024 Approved  Leading Android Picture Perfection Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-iphone-photography-secrets-unveiled/"><u>2024 Approved  IPhone Photography Secrets Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-achieving-visual-precision-with-the-right-4k-display-selection/"><u>In 2024, Achieving Visual Precision with the Right 4K Display Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[New] In 2024, Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] 2024 Approved  Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-deep-dive-into-benq-sw320s-4k-visuals/"><u>2024 Approved  Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-how-to-manipulate-iphone-pics-flip-tilt-and-more/"><u>2024 Approved  How to Manipulate iPhone Pics  Flip, Tilt & More</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] In 2024, Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>[New] Original Design Potential  Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-screen-recording-steps-for-perfection/"><u>[Updated] Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-recording-audio-in-action-for-2024/"><u>[Updated] Rapid Recording  Audio in Action for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft-for-2024/"><u>[Updated] Unlocking the Secrets to Effective Screen Capturing with Apeaksoft for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-yt-content-with-the-top-thumbnail-hacks/"><u>[Updated] In 2024, Elevating Your YT Content with the Top Thumbnail Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-15-masterpieces-in-stop-motion-cinema-history/"><u>In 2024, Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-time-bending-brilliance-the-ultimate-slow-motion-video-makers-for-2024/"><u>Updated Time Bending Brilliance The Ultimate Slow Motion Video Makers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids/"><u>2024 Approved  Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-epic-tiktok-success-the-virality-formula/"><u>In 2024, Epic TikTok Success  The Virality Formula</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-igniting-laughter-a-path-to-meme-fame/"><u>[New] 2024 Approved  Igniting Laughter  A Path to Meme Fame</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-vs-passive-entertainment-twitch-vs-youtube/"><u>In 2024, Interactive vs Passive Entertainment  Twitch vs YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-reimagine-personal-storytelling-on-snapchat-access-a-library-of-over-120-ideas-to-stand-out/"><u>[Updated] In 2024, Reimagine Personal Storytelling on Snapchat  Access a Library of Over 120 Ideas to Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-uavs-the-basics-of-drone-operations/"><u>Unveiling UAVs  The Basics of Drone Operations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-xcover-7-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy XCover 7 Phone Now with These Tips</u></a></li>
+</ul></div>

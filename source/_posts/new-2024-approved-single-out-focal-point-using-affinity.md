@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Single-Out Focal Point Using Affinity\""
-date: 2024-06-12T02:09:39.435Z
-updated: 2024-06-13T02:09:39.435Z
+date: 2024-07-10T15:07:42.141Z
+updated: 2024-07-11T15:07:42.141Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Affinity Photo is a simple and easy-to-use editing software, and you can remove 
 
 To erase a white background in Affinity Designer, do these steps:
 
-Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/)software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
+Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/) software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
@@ -89,7 +89,7 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -123,7 +123,7 @@ Hopefully, this article and video can help you create ideal images!
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -176,3 +176,52 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-seamless-speech-to-text-translation-in-microsoft-office-suite-word-for-2024/"><u>[New] Seamless Speech-to-Text Translation in Microsoft Office Suite (Word) for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-metaverse-enthusiasts-secret-to-simple-avatars/"><u>2024 Approved  Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-powerful-strategies-for-optimizing-gratuitous-timer-use-for-2024/"><u>[New] Powerful Strategies for Optimizing Gratuitous Timer Use for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-palette-wisdom-essential-color-theory-explained/"><u>[Updated] Palette Wisdom  Essential Color Theory Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-essential-steps-to-boost-your-instagram-unboxings/"><u>2024 Approved  Essential Steps to Boost Your Instagram Unboxings</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-dynamic-imagery-achieving-balanced-colors-in-gopro-footage/"><u>2024 Approved  Dynamic Imagery  Achieving Balanced Colors in GoPro Footage</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-kinemaster-app-for-android-complete-review-2023/"><u>2024 Approved  KineMaster App for Android - Complete Review 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enhance-images-with-text-via-web-and-mobile-apps/"><u>2024 Approved  Enhance Images with Text via Web & Mobile Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-auto-enhancing-shots-with-innovative-exposure-algorithms/"><u>[Updated] 2024 Approved  Auto-Enhancing Shots with Innovative Exposure Algorithms</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[New] In 2024, Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>[Updated] 2024 Approved  Ideal Matches  Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leverage-smart-organization-in-mematic/"><u>2024 Approved  Leverage Smart Organization in Mematic</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-picks-for-novice-gopro-enthusiasts-for-2024/"><u>[New] Top Picks for Novice GoPro Enthusiasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-4k-clarity-comparison-projectors-vs-traditional-televisions/"><u>2024 Approved  4K Clarity Comparison  Projectors vs Traditional Televisions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-next-gen-cinema-a-virtual-leap-forward/"><u>2024 Approved  Next-Gen Cinema  A Virtual Leap Forward</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>2024 Approved  Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastery-in-simulating-chrono-displacement/"><u>2024 Approved  Mastery in Simulating Chrono-Displacement</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>2024 Approved  Captivating Cuts  10 Essential Filmora Edits Everyone Loves</u></a></li>
+<li><a href="https://article-files.techidaily.com/skip-the-hassle-find-4-ringtone-sources-here/"><u>Skip the Hassle  Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-breaking-down-barriers-to-affordable-editing-power/"><u>2024 Approved  Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fundamentals-of-hue-adjustments-in-photoshop/"><u>2024 Approved  Fundamentals of Hue Adjustments in Photoshop</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-master-iphone-photo-watermarks-the-top-apps-reviewed/"><u>2024 Approved  Master iPhone Photo Watermarks  The Top Apps Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-from-flight-to-frame-editing-drones-into-art/"><u>2024 Approved  From Flight to Frame  Editing Drones Into Art</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-big-on-snapchat-the-ultimate-guide-to-money-making-tips/"><u>2024 Approved  Earn Big on Snapchat  The Ultimate Guide to Money-Making Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-start-setting-up-and-using-obs-on-a-mac-computer/"><u>2024 Approved  Quick Start  Setting Up and Using OBS on a Mac Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-creating-a-photo-video-with-music-for-2024/"><u>New The Ultimate Guide to Creating a Photo Video with Music for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-spectacular-showcase-revolutionary-bio-ideas-for-growing-audiences-and-followers-with-filmora/"><u>In 2024, Spectacular Showcase  Revolutionary Bio Ideas for Growing Audiences and Followers with Filmora</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>2024 Approved  Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-complete-walkthrough-mastering-adobe-cloud-services-for-2024/"><u>[Updated] Complete Walkthrough  Mastering Adobe Cloud Services for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-surprise-refresh-on-tiktok-can-i-see-old-videos/"><u>[Updated] In 2024, Surprise Refresh on TikTok – Can I See Old Videos?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimal-steps-livestream-and-preserve-real-time-sports-events/"><u>[Updated] Optimal Steps  Livestream and Preserve Real-Time Sports Events</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-attention-grabber-composer/"><u>Top Attention Grabber Composer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-maximizing-your-youtube-potential-with-content-partnerships/"><u>2024 Approved  Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>[Updated] Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-s-top-online-video-editing-platforms-for-chromebooks/"><u>New In 2024, S Top Online Video Editing Platforms for Chromebooks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-perfect-placement-for-instagrams-audio-emojis-a-quick-guide/"><u>[New] In 2024, Perfect Placement for Instagram’s Audio Emojis – A Quick Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/speedy-setup-procedures-for-personalized-youtube-shorts-images-for-2024/"><u>Speedy Setup Procedures for Personalized YouTube Shorts Images for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-exploring-the-most-popular-global-tiktok-creators/"><u>[Updated] Exploring The Most Popular Global TikTok Creators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-v30-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme V30?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-perfect-frame-a-guide-to-polishing-videos-with-instagram-edits/"><u>[New] 2024 Approved  The Perfect Frame  A Guide to Polishing Videos with Instagram Edits</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlock-creativity-try-these-14-text-animation-wonders/"><u>2024 Approved  Unlock Creativity  Try These 14 Text Animation Wonders</u></a></li>
+</ul></div>
