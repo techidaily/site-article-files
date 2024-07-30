@@ -1,7 +1,7 @@
 ---
 title: "[New] Creating Stunning 3D Text with PS"
-date: 2024-07-10T15:05:07.434Z
-updated: 2024-07-11T15:05:07.434Z
+date: 2024-07-29T01:44:26.012Z
+updated: 2024-07-30T01:44:26.012Z
 tags: 
   - screen-recording
   - ai video
@@ -22,20 +22,32 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
@@ -54,6 +66,9 @@ Step7 The next thing you need to do is add a light source. To do this, go back t
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
@@ -62,10 +77,16 @@ Step9 We're almost done. The next step is to go back to the **Layers** tab → r
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Easier Way to Create a 3D Text Effect or Animation
 
 As we mentioned, Photoshop may get challenging to use, especially for complete beginners. What if there was an easier tool you can use and still get the same high-quality and professional-grade results?
@@ -78,6 +99,9 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -96,6 +120,9 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
@@ -114,6 +141,9 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -126,6 +156,9 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
@@ -159,3 +192,42 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-the-sub4sub-strategy-improve-content-consumption-in-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-heimdalls-vigil-gods-clash-in-ragnarok/"><u>[New] Heimdall's Vigil  Gods Clash in Ragnarok</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-three-methods-for-capturing-ps4-gaming-moments/"><u>[New] In 2024, Three Methods for Capturing PS4 Gaming Moments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-innovativescreens-newrecorderx-reviewed-and-rated/"><u>[New] InnovativeScreens' NewRecorderX Reviewed & Rated</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-closer-look-at-asuss-proart-pa-329q-an-in-depth-review-of-its-professional-standards/"><u>2024 Approved  A Closer Look at Asus's ProArt PA 329Q – An In-Depth Review of Its Professional Standards</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-auroras-approach-to-hdv-standing-out-or-same-old/"><u>2024 Approved  Aurora's Approach to HDV  Standing Out or Same Old</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-broadcast-capture-made-easy-your-comprehensive-guide/"><u>2024 Approved  Broadcast Capture Made Easy  Your Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-efficient-strategies-for-posting-srt-files-to-social-media/"><u>2024 Approved  Efficient Strategies for Posting SRT Files to Social Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-effortless-gif-integration-on-your-iphone/"><u>2024 Approved  Effortless GIF Integration on Your iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elite-recording-tech-premium-podcast-mics/"><u>2024 Approved  Elite Recording Tech  Premium Podcast Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fast-frame-freedom-in-photography/"><u>2024 Approved  Fast Frame Freedom in Photography</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>2024 Approved  Gaming on the Green  Comprehenive Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-image-trimming-techniques-apples-ios-solutions/"><u>2024 Approved  Image Trimming Techniques  Apple's iOS Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-integrating-technology-effective-school-vid-eds/"><u>2024 Approved  Integrating Technology  Effective School Vid Eds</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-jokes-just-a-click-away-iphone/"><u>2024 Approved  Jokes Just a Click Away (iPhone)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-luts-unveiled-transforming-the-lands-market/"><u>2024 Approved  LUTs Unveiled  Transforming the Lands Market</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-modern-methods-rapidly-turning-srt-into-txt-format/"><u>2024 Approved  Modern Methods  Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-perfect-iphone-photos-quick-editing-hacks/"><u>2024 Approved  Perfect iPhone Photos  Quick Editing Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-podcast-dominance-through-powerful-seo-tactics/"><u>2024 Approved  Podcast Dominance Through Powerful SEO Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>2024 Approved  Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>2024 Approved  Step-by-Step  Applying the Cartoon Face Filter in Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>2024 Approved  Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unlicensed-zen-audio-streaming/"><u>2024 Approved  Unlicensed Zen Audio Streaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ustream-review-and-alternatives/"><u>2024 Approved  Ustream Review and Alternatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-fresh-take-on-viewing-the-new-lg-bp550-review/"><u>A Fresh Take on Viewing  The New LG BP550 Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/add-radial-blur-effect-to-photos-in-photoshop-for-2024/"><u>Add Radial Blur Effect to Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-photo-skills-speed-and-simplicity-with-windows-10-paint-app/"><u>Boosting Photo Skills  Speed & Simplicity with Windows 10 Paint App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chinas-value-driven-virtual-reality-marketplace/"><u>China's Value-Driven Virtual Reality Marketplace</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-3-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 3 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-x6-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find X6 to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-practices-for-youtube-video-brightness-and-contrast/"><u>In 2024, Best Practices for YouTube Video Brightness and Contrast</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-11x-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 11X 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27s Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-meme-manifestation-station/"><u>In 2024, Meme Manifestation Station</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-propel-your-video-writes-the-ai-way/"><u>In 2024, Propel Your Video' Writes  The AI Way</u></a></li>
+</ul></div>

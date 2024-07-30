@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Single-Out Focal Point Using Affinity\""
-date: 2024-07-10T15:07:42.141Z
-updated: 2024-07-11T15:07:42.141Z
+date: 2024-07-29T01:45:42.138Z
+updated: 2024-07-30T01:45:42.138Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,10 +37,16 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -56,6 +65,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,6 +93,9 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -91,6 +106,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -125,6 +143,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -178,3 +199,38 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-bypassing-blockbusters-2023-indie-favorites-for-2024/"><u>[New] Bypassing Blockbusters  2023 Indie Favorites for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-captivating-visual-transformation-software-for-pc-mac-linux/"><u>[New] Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-decoding-visual-history-navigating-reverse-search-on-instagram/"><u>[Updated] In 2024, Decoding Visual History  Navigating Reverse Search on Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-make-your-gaming-great-not-stressful/"><u>[Updated] In 2024, Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-a70-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-chuckle-composer-app/"><u>2024 Approved  Chuckle Composer App</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-fisheye-panoramas/"><u>2024 Approved  Comprehensive Guide to Fisheye Panoramas</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-deep-dive-into-benq-sw320s-4k-visuals/"><u>2024 Approved  Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discover-top-tier-cost-effective-mobile-imaging-enhancers/"><u>2024 Approved  Discover Top-Tier, Cost-Effective Mobile Imaging Enhancers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-easy-to-follow-guide-to-time-lapse-phenomena-with-gopro/"><u>2024 Approved  Easy-to-Follow Guide to Time-Lapse Phenomena with GoPro</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-efficient-color-grading-in-ar-understanding-and-downloading-luts/"><u>2024 Approved  Efficient Color Grading in AR  Understanding and Downloading LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-effortlessly-fast-forward-focus-in-video-content/"><u>2024 Approved  Effortlessly Fast-Forward Focus in Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-new-frontiers-in-contactless-interface-designs/"><u>2024 Approved  Exploring New Frontiers in Contactless Interface Designs</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-guiding-audio-dimming-in-fl-studio/"><u>2024 Approved  Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-high-quality-audio-excellence-with-these-mics/"><u>2024 Approved  High-Quality Audio Excellence with These Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-innovations-in-videography-infusing-narratives-effortlessly/"><u>2024 Approved  Innovations in Videography  Infusing Narratives Effortlessly</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-lg-vr-360-review-a-new-dimension-of-gaming/"><u>2024 Approved  LG VR 360 Review  A New Dimension of Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-slow-mo-in-snapchat-a-comprehensive-tutorial/"><u>2024 Approved  Mastering Slow-Mo in Snapchat  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>2024 Approved  Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-spotify-how-to-halt-default-podcast-additions/"><u>2024 Approved  Spotify  How to Halt Default Podcast Additions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>2024 Approved  Streamlining Communication  The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-video-editing-in-obs-with-luts/"><u>2024 Approved  Streamlining Video Editing in OBS With LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-science-of-writing-gripping-documentaries/"><u>2024 Approved  The Science of Writing Gripping Documentaries</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>2024 Approved  The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-workflow-top-10-stealthy-canva-techniques/"><u>2024 Approved  Transform Your Workflow  Top 10 Stealthy Canva Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-trendsetters-pictures-origins-explored/"><u>2024 Approved  Trendsetters' Pictures  Origins Explored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-uncovering-top-tier-cloud-services-to-sustain-data/"><u>2024 Approved  Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-spark-10-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-motion-in-4k-with-nikon-d500/"><u>In 2024, Capturing Motion in 4K with Nikon D500</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/innovative-snapchat-techniques-for-lens-makers-for-2024/"><u>Innovative Snapchat Techniques for Lens Makers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme 12+ 5G | Dr.fone</u></a></li>
+</ul></div>
