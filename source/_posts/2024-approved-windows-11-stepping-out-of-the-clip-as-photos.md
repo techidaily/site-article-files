@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Windows 11  Stepping Out of the Clip as Photos\""
-date: 2024-07-10T16:30:45.432Z
-updated: 2024-07-11T16:30:45.432Z
+date: 2024-08-08T02:42:15.830Z
+updated: 2024-08-09T02:42:15.830Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
 # How to Save Photo from Video in Windows 10 Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -45,6 +48,9 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -58,6 +64,9 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
@@ -68,6 +77,9 @@ We are explaining the solutions here –
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
@@ -82,6 +94,9 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
@@ -91,6 +106,13 @@ Here comes the guide –
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -117,3 +139,41 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>[New] 2024 Approved  Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-editors-elevate-your-webcam-recordings/"><u>[New] 2024 Approved  Top 10 Editors  Elevate Your Webcam Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unbeatable-wingspan-top-10-durable-aerial-vehicles/"><u>[New] 2024 Approved  Unbeatable Wingspan  Top 10 Durable Aerial Vehicles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-high-dynamic-range-effects-in-adobes-realm/"><u>[New] Mastering High Dynamic Range Effects in Adobe's Realm</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat-for-2024/"><u>[New] Stepwise Instructions  Preserve Your Memories by Uploading to Snapchat for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-photos-that-speak-volumes-starting-with-lunapics-tutorial/"><u>2024 Approved  Photos That Speak Volumes  Starting with LunaPic's Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/8-innovative-tablets-changing-the-face-of-photo-editing-landscape-for-2024/"><u>8 Innovative Tablets Changing the Face of Photo Editing Landscape for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/90p-p-197-082r/"><u>90P - P 1.97 = 0.82R</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-step-by-step-guide-to-posting-on-instagram/"><u>A Step-by-Step Guide to Posting on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/above-and-beyond-the-ultimate-guide-to-mavic-pro-for-2024/"><u>Above and Beyond - The Ultimate Guide to Mavic Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/action-shooting-basics-buying-guide-for-new-film-enthusiasts/"><u>Action Shooting Basics – Buying Guide for New Film Enthusiasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-itel-p55plus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Itel P55+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://article-files.techidaily.com/apex-creations-workspace-assessment/"><u>Apex Creations Workspace Assessment</u></a></li>
+<li><a href="https://article-files.techidaily.com/apex-fusion-hubs-all-in-one-4k-multi-touch-desktops-for-2024/"><u>Apex Fusion Hubs  All-in-One 4K Multi-Touch Desktops for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/beijings-olympic-frost-festivities-2022-edition/"><u>Beijing's Olympic Frost Festivities, 2022 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-translation-devices-to-subtitle-videos/"><u>Best Translation Devices to Subtitle Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/better-balance-drones-7-leading-gimbals/"><u>Better Balance  Drone's 7 Leading Gimbals</u></a></li>
+<li><a href="https://article-files.techidaily.com/boosting-your-windows-photos-feed-incorporating-audio-elements-for-2024/"><u>Boosting Your Windows Photos Feed  Incorporating Audio Elements for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/breaking-down-the-new-2023-samsung-bd-j5900-model/"><u>Breaking Down the New 2023 Samsung BD-J5900 Model</u></a></li>
+<li><a href="https://article-files.techidaily.com/breakthrough-the-top-8-web-based-photo-blender/"><u>Breakthrough  The Top 8 Web-Based Photo Blender</u></a></li>
+<li><a href="https://article-files.techidaily.com/capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>Capture Stunning Colors  Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://article-files.techidaily.com/chronology-on-camera-best-practices-for-date-insertion/"><u>Chronology on Camera  Best Practices for Date Insertion</u></a></li>
+<li><a href="https://article-files.techidaily.com/chuckle-cheat-sheet-perfectly-timed-memes-for-2024/"><u>Chuckle Cheat Sheet  Perfectly Timed Memes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>Cinematic Close-Ups  Elevating Your Work with Kinemaster</u></a></li>
+<li><a href="https://article-files.techidaily.com/comparing-magix-to-other-video-editors/"><u>Comparing Magix to Other Video Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-biomechanical-study-2023/"><u>Complete Biomechanical Study 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-control-over-clips-with-powerdirectors-latest-24-updates-for-2024/"><u>Complete Control Over Clips with PowerDirector's Latest '24 Updates for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensible-guide-to-azure-voice-to-text/"><u>Comprehensible Guide to Azure Voice to Text</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-list-of-free-video-intros-for-2024/"><u>Comprehensive List of Free Video Intros for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-13-mini-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 13 mini Activation Lock</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/15557339-how-to-see-your-subscribers-on-youtube/"><u>How to See Your Subscribers on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds  Spotlight on the Best Mixers for Podcasters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-implementing-youtube-video-automatic-start-on-facebook/"><u>In 2024, Implementing Youtube Video Automatic Start on Facebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+</ul></div>
