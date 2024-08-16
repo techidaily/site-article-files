@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Mac's Preview App  An In-Depth Tutorial for Users\""
-date: 2024-07-10T16:11:18.022Z
-updated: 2024-07-11T16:11:18.022Z
+date: 2024-08-15T07:32:34.976Z
+updated: 2024-08-16T07:32:34.976Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -80,6 +83,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -92,6 +98,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -124,6 +133,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -140,6 +152,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -185,6 +200,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Click **Choose** to convert all the images in a single go
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -212,3 +230,58 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-connect-movie-files-in-youtv-catalog/"><u>[New] 2024 Approved  Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-leaders-list-of-best-12-motion-recording-devices-location-aware/"><u>[New] 2024 Approved  Leader's List of Best 12 Motion Recording Devices  Location Aware</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-audience-captivation-through-crossfade-mastery-in-audacity-for-2024/"><u>[New] Audience Captivation Through Crossfade Mastery in Audacity for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-craft-your-first-short-film-with-windows-8-movie-maker-for-2024/"><u>[New] Craft Your First Short Film with Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enjoy-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>[New] Enjoy Pure Browsing  Our Selections of 7 Top Android AdBlockers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-full-feature-dissection-the-sony-fdr-x1000-videographer/"><u>[New] Full Feature Dissection - The Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-breaking-down-lgs-360-camera-updates-and-features/"><u>[New] In 2024, Breaking Down LG's 360 Camera Updates & Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-first-choice-top-15-videography-power-tools/"><u>[New] In 2024, First Choice  Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-full-rotational-scope-vr-device-insight/"><u>[New] In 2024, Full Rotational Scope VR Device Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-mixer-streams-on-macos-a-step-by-step-guide/"><u>[New] In 2024, Mastering Mixer Streams on macOS  A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>[New] In 2024, Rise Above the Noise  Nine Strategies for Instagram Prominence</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-streamlining-image-purity-via-photopea-methods/"><u>[New] In 2024, Streamlining Image Purity via Photopea Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovation-unleashed-leading-professionals-360cameras/"><u>[New] Innovation Unleashed  Leading Professionals’ 360°Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-inside-look-apples-m1-max-attachments-for-2024/"><u>[New] Inside Look  Apple's M1 Max Attachments for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-editors-edge-boost-your-tiktok-impact/"><u>[New] The Editor's Edge  Boost Your TikTok Impact</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-complete-manual-for-installing-microsofts-wm6/"><u>[Updated] 2024 Approved  Complete Manual for Installing Microsoft's WM6</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-10-miniature-portable-dvd-systems-unveiled/"><u>[Updated] 2024 Approved  Top 10 Miniature Portable DVD Systems Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[Updated] 2024 Approved  Unleash Your Inner Influencer  9 Essential Instagram Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-clearsnapzoom7-master-your-photographic-scaling/"><u>[Updated] ClearSnapZoom7  Master Your Photographic Scaling</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-harnessing-luts-for-precision-controlled-image-editing-for-2024/"><u>[Updated] Harnessing LUTs for Precision-Controlled Image Editing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-decades-best-anime-opening-songs-compiled/"><u>[Updated] In 2024, A Decade's Best  Anime Opening Songs Compiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-create-facebook-video-ads-with-free-video-creation-kit/"><u>[Updated] In 2024, How to Create Facebook Video Ads with FREE Video Creation Kit?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learn-quick-method-for-posting-youtube-shorts-from-pctablet/"><u>[Updated] Learn Quick Method for Posting YouTube Shorts From PC/Tablet</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits/"><u>[Updated] The Next Gen  Discover 8 Leading Tablets Pushing Beyond Filmora's Limits</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-lost-reddit-content-instant-access-techniques/"><u>[Updated] Unveiling Lost Reddit Content  Instant Access Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-wildlife-documentary-contenders-hero5-black-vs-sj7-for-2024/"><u>[Updated] Wildlife Documentary Contenders  Hero5 Black Vs SJ7 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-convert-fb-video-to-downloadable-mp3/"><u>2024 Approved  Convert FB Video to Downloadable MP3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-magix-pixel-mastery-review/"><u>2024 Approved  Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-animate-and-make-your-own-effects/"><u>2024 Approved  How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-decreasing-audio-intensity-in-logic-pro/"><u>2024 Approved  The Art of Decreasing Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveilingeaseinusingyourwebcamforrecord/"><u>2024 Approved  UnveilingEaseInUsingYourWebCamForRecord</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic5-ultimate-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic5 Ultimate? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-tools-for-crafting-a-competitive-business-plan-for-2024/"><u>Essential Tools for Crafting a Competitive Business Plan for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers/"><u>In 2024, Capturing Perfect Sounds  Our Top 6 Recommendations for Livestreamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-lolkit-design-memes-and-graphics-with-a-click/"><u>In 2024, LolKit  Design Memes & Graphics with a Click</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streamline-video-management-with-easy-to-follow-time-stamp-tutorials/"><u>In 2024, Streamline Video Management with Easy-to-Follow Time Stamp Tutorials</u></a></li>
+<li><a href="https://article-files.techidaily.com/jokejumper-generate-share-worthy-images-quickly-for-2024/"><u>JokeJumper  Generate Share-Worthy Images Quickly for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-chipset-raid-driver-updates-compatible-with-windows-operating-systems-11-10-8-and-7/"><u>Latest Intel Chipset RAID Driver Updates Compatible with Windows Operating Systems: 11, 10, 8, and 7</u></a></li>
+<li><a href="https://article-files.techidaily.com/picperfect-upgrade-mobile-photography-no-money-down-for-2024/"><u>PicPerfect  Upgrade Mobile Photography No Money Down for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/revisiting-gamings-hidden-gem-a-review-of-the-remastered-spyro-trilogys-greatest-offerings/"><u>Revisiting Gaming's Hidden Gem – A Review of the Remastered Spyro Trilogy's Greatest Offerings</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-giant-rolls-out-innovative-admin-control-tools/"><u>Social Media Giant Rolls Out Innovative Admin Control Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/transitioning-video-content-into-stills-with-windows-11/"><u>Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-jailbreaking-is-it-worth-the-risk/"><u>Understanding ChatGPT Jailbreaking: Is It Worth The Risk?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-must-have-specifications-in-mac-audio-editing-applications/"><u>Updated 2024 Approved Must-Have Specifications in Mac Audio Editing Applications</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-reviews-features-and-tutorial-of-lexis-audio-editor/"><u>Updated Reviews, Features and Tutorial of Lexis Audio Editor</u></a></li>
+<li><a href="https://article-files.techidaily.com/visionaries-choice-for-watching-vr-for-2024/"><u>Visionaries' Choice for Watching VR for 2024</u></a></li>
+</ul></div>

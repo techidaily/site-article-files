@@ -1,0 +1,171 @@
+---
+title: "\"[New] 2024 Approved  Mastering Panoramic Photography with a Fisheye Effect\""
+date: 2024-08-15T07:49:19.623Z
+updated: 2024-08-16T07:49:19.623Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] 2024 Approved: Mastering Panoramic Photography with a Fisheye Effect\""
+excerpt: "\"This Article Describes [New] 2024 Approved: Mastering Panoramic Photography with a Fisheye Effect\""
+keywords: "Panorama Fisheye Tips,Fisheye Panorama Mastery,Advanced Fisheye Techniques,Perfecting Panoramic Fisheeze,Fisheye in Photography,Learning Fisheye Panorama,Mastering Fisheye Imaging"
+thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0dbe084557e36eab0ab2db64.jpeg
+---
+
+## Mastering Panoramic Photography with a Fisheye Effect
+
+# How to Create 360 Degree Photos/Images with Fisheye Lens
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## Shooting 360 degrees panoramas with fisheye lens
+
+ The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+### 1. The equipment and setup
+
+ To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
+
+![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2. Leveling and rotating
+
+ Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
+
+![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3. The actual shooting
+
+ For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
+
+ But if you don’t mind the resolution, you are free to use 12mm fisheye on full frame or 8mm fisheye on a crop sensor for four shots round with the camera at five degrees up. With this method, there will be no need for a zenith shot and you can easily patch the tripod spot when editing in Photoshop.
+
+ This video will show you simple steps on shooting 360 degree images with fisheye lens
+
+ **Keep this in mind when shooting 360 degree panoramas with fisheye**
+
+ In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Stitching 360 degrees panoramas after shooting
+
+ To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
+
+ You might be also interested in:
+
+[How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+## What's fisheye lenses
+
+ Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
+
+ The term fisheye was started by American Physicist and inventor Robert Wood in 1906 and it was in reference to how a fish would have an ultra wide hemispherical view while swimming deep in the waters. The first practical use of these kinds of lenses was in 1920s in meteorology when they were used to study the formation of clouds up in the sky. The angles for these lenses are always very wide and can range from anywhere between 1000 and 1800, while their focal lengths depend on the format of the film as well as the intended applications.
+
+ The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
+
+![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+
+ Conclusion
+
+ Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-content-creators-revenue-gain-from-each-click/"><u>[New] 2024 Approved  Content Creators' Revenue  Gain From Each Click</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>[New] 2024 Approved  The Ultimate Free Resource Pack  High-Quality PP Samples</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>[New] Boost Your Meeting Management  Syncing Zoom with Gmail Emails</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-checking-top-5-web-based-or-extension-voice-changers-for-chromebook/"><u>[New] Checking Top 5 Web-Based or Extension Voice Changers for Chromebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-8-tips-to-prevent-htc-vive-motion-sickness/"><u>[New] In 2024, 8 Tips to Prevent HTC Vive Motion Sickness</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[New] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-the-art-of-system-enhancements/"><u>[New] In 2024, Mastering the Art of System Enhancements</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[New] In 2024, Step-by-Step Guide for iOS Users  JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-jokes-jamboree-mastering-memelore-made-simple-for-2024/"><u>[New] Jokes Jamboree  Mastering Memelore Made Simple for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-magix-photo-manager-review/"><u>[New] MAGIX Photo Manager Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-the-meme-craft-kinemasters-role-for-2024/"><u>[New] Mastering the Meme Craft  KineMaster's Role for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-level-entertainment-the-rise-of-vr-applications/"><u>[New] Next-Level Entertainment  The Rise of VR Applications</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-professional-tips-for-perfecting-your-srt-files/"><u>[New] Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-best-value-in-cloud-pricing-a-comprehensive-list-for-2024/"><u>[New] The Best Value in Cloud Pricing  A Comprehensive List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro-for-2024/"><u>[New] Underwater Cinematography  Avoiding Blur and Grain with a GoPro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-podcasts-peak-listening-times-for-2024/"><u>[New] Unveiling Podcasts  Peak Listening Times for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>[Updated] 2024 Approved  Excellence in Flight  Choosing Superior Drone Motor Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[Updated] 2024 Approved  Exploring the Depths  Top 10 Unknown Features in VLC Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-masterful-picture-arrangement-10-leading-tools/"><u>[Updated] 2024 Approved  Masterful Picture Arrangement  10 Leading Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-video-capture-systems-the-1-to-18-list/"><u>[Updated] 2024 Approved  Superior Video Capture Systems - The #1 to #18 List</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-synchronizing-sequential-images-for-impactful-storytelling/"><u>[Updated] 2024 Approved  Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-video-recording-gear-guide-for-2024/"><u>[Updated] Best Video Recording Gear Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-decoding-the-capabilities-of-samsung-photo-studio-for-2024/"><u>[Updated] Decoding the Capabilities of Samsung Photo Studio for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-experts-picks-the-best-10-photography-lenses-for-2024/"><u>[Updated] Expert's Picks  The Best 10 Photography Lenses for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-highest-achievers-in-the-realm-of-reddit-posts-for-2024/"><u>[Updated] Highest Achievers in the Realm of Reddit Posts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-optimize-your-presence-on-spotify-ads-for-2024/"><u>[Updated] How to Optimize Your Presence on Spotify Ads for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-breakthrough-practices-in-youtube-video-saving/"><u>[Updated] In 2024, Breakthrough Practices in YouTube Video Saving</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-optimizing-zoom-videos-essential-3-part-methodology/"><u>[Updated] Optimizing Zoom Videos  Essential 3-Part Methodology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sketchsphere-complete-evaluation-24-edition/"><u>[Updated] SketchSphere Complete Evaluation '24 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>[Updated] The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>[Updated] Unraveling the Mystery  Understanding & Using Slug Lines for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-on-demand-content-examination-summary/"><u>2024 Approved  On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unlock-image-potential-with-editors-essentials/"><u>2024 Approved  Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/5-best-live-streaming-software-for-mac-you-must-know/"><u>5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-channel-innovative-banner-templates-for-gamers/"><u>Brand Your Channel  Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-7-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-x7-ultra-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-phantom-v-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Phantom V Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instant-clearing-the-best-ios-apps-for-precise-image-editing/"><u>In 2024, Instant Clearing  The Best iOS Apps for Precise Image Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-strategies-for-sourcing-a-list-cinematography-experts/"><u>In 2024, Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>In 2024, The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>In 2024, Unleash Your Creativity in Full Rotation  Best Practices for VR Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/securing-photo-libraries-without-copyright-notices-for-2024/"><u>Securing Photo Libraries Without Copyright Notices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/swift-access-to-youtube-srt-files-three-key-points-for-2024/"><u>Swift Access to YouTube SRT Files  Three Key Points for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unseen-archive-of-your-silent-chatgpt-talks/"><u>The Unseen Archive of Your Silent ChatGPT Talks</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
+</ul></div>
