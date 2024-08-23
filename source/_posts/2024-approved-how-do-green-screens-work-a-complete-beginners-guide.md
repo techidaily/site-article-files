@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How Do Green Screens Work? [A Complete Beginner's Guide]\""
-date: 2024-07-10T15:55:43.708Z
-updated: 2024-07-11T15:55:43.708Z
+date: 2024-08-22T15:04:14.111Z
+updated: 2024-08-23T15:04:14.111Z
 tags: 
   - screen-recording
   - ai video
@@ -73,6 +73,13 @@ You can discard the background and all the unwanted people. What is left over is
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/how-do-green-screens-work.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 #### Green Screening Does Not Have to Include the Color Green
 
 You can green screen by adding a certain color into the scene. Make it a color that is not seen elsewhere in the scene. Typically, this color is added as a canvas behind the screen, but it doesn't have to work that way.
@@ -85,6 +92,9 @@ Once you have added your color to the scene, you must record the scene as normal
 
 Once you have used chromakeying make a certain part of the frame transparent, you can replace that transparency with another image. When building a background, the image is sometimes a piece of video footage or a still image. Other times a visual effect is used such as CGI to make something appear to be in the scene, but is actually not.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Set Up Your Green Screen Scene in 5 Steps?
 
 #### Step 1: Choose the right color
@@ -127,6 +137,9 @@ You also need to think about individual lighting and how it creates shadows. The
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/green-screen-ideas-movie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 5: Post-editing
 
 Step five is the editing process, and a large part involves thinking about how the green screen would interact with the other elements in the scene. Commonly forgotten elements in an indoor setting are shadows from clouds, the wind, and background noises like cars passing or dogs barking.
@@ -169,6 +182,9 @@ Just make sure you make correct and smart choices when you decide to add in extr
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/green-screen-ideas-masks.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 **Green Screen Ideas Need Not Exist Just in Videos**
 
 The best green screen ideas are ones that occur as natural solutions to your production problems. Sometimes the problems are as simple as budget constraints, and sometimes it is a more personal problem such as trying to edit out corporate logos or branded items that you do not have the authority to use. Green screen is even used by people who are trying to master Instagram. Take the example of people who are living an “Instagram Road Lifestyle.”
@@ -187,6 +203,10 @@ The tools that make green screening easy are often very expensive, but many of t
 
 Do not be fooled by article that claim they list free Chroma key or green screening tools. Firstly, the genuinely free tools, such as the open source tools like Blender, are very labor intensive. Secondly, such articles are claiming the green-screening tools are free, but they only have free trials, you will be required to pay if you want to use the tools over the long term.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The 3 Best Green Screen Video Editors
 
 In reality, the front-runner in the race for best green screen video editor is the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Adobe has some nice products that may interest some people, but the best is still Wondershare Filmora. Here are a few for green screen video editors for your consideration.
@@ -221,10 +241,25 @@ It's free to download. Have a try now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2. iMovie
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/iMovie-Interface.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The iMovie program is the cheap and tacky entry in the video editing world. It is only available on the iOS and Mac, and is mostly suited for people who do not want to spend a lot of money on their video editing software.
 
 \[+\] You are able to add background music
@@ -251,6 +286,9 @@ The iMovie program is the cheap and tacky entry in the video editing world. It i
 
 ![how do green screens work](https://images.wondershare.com/filmora/article-images/lightworks-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Despite having a few advanced tools, this is probably the best example of bad design and marketing ideas in the video editing world. The free version is so clunky and awful that nobody would agree to buy the premium version. Furthermore, the GUI is terrible and very unintuitive. It looks like a cheap update of a 1990s editor.
 
 \[+\] The free version is a nice touch
@@ -297,6 +335,9 @@ Let us know in the comments, and please share our content on social media so tha
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -323,3 +364,43 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>[New] 2024 Approved  Framing for Instagram  Techniques for Vertical Footage in FCPX</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-understanding-camera-shake-in-photographyvideo/"><u>[New] 2024 Approved  Understanding Camera Shake in Photography/Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-thorough-examination-of-hero5-video-content/"><u>[New] A Thorough Examination of Hero5 Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-quality-frames-at-low-motion-velocity-for-2024/"><u>[New] Best Quality Frames at Low Motion Velocity for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-your-video-quality-game-complete-guide-to-enhancer-22/"><u>[New] Elevate Your Video Quality Game  Complete Guide to Enhancer 2.2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-take-on-magix-video-pro-x/"><u>[New] Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-voice-over-advantage-elevating-video-quality/"><u>[New] The Voice-Over Advantage  Elevating Video Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>[Updated] 2024 Approved  A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expert-insights-on-powerdirector-24-review/"><u>[Updated] 2024 Approved  Expert Insights on PowerDirector '24 Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-examination-gopro-hero4-silver-version-for-2024/"><u>[Updated] Comprehensive Examination  GoPro HERO4 Silver Version for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-console-chronos-review/"><u>[Updated] Console Chronos Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-androids-video-reversion-secrets-unveiled/"><u>[Updated] In 2024, Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-spark-conversation-with-personalized-instagram-story-queries/"><u>[Updated] In 2024, Spark Conversation with Personalized Instagram Story Queries</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>[Updated] In 2024, The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>[Updated] In 2024, Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unraveling-the-secrets-to-auditory-harmony-crossfade/"><u>[Updated] In 2024, Unraveling the Secrets to Auditory Harmony (Crossfade)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-safe-methods-to-fast-forward-in-spotify-files/"><u>[Updated] Safe Methods to Fast-Forward in Spotify Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-invisible-dimensions-of-instagram-story-fans/"><u>[Updated] The Invisible Dimensions of Instagram Story Fans</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tips-and-tricks-for-professional-audio-in-audacity-for-2024/"><u>[Updated] Tips and Tricks for Professional Audio in Audacity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-virtual-reality-vr-bikes-to-check-out/"><u>[Updated] Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-an-individuals-3dr-experience/"><u>2024 Approved  A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>2024 Approved  Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-filmmaking-moves-with-kinemaster/"><u>2024 Approved  Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-shooter-showdown-our-best-picks/"><u>2024 Approved  Ultimate Shooter Showdown - Our Best Picks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c53-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-epson-workforce-ds-30-driver-compatible-with-windows-1087/"><u>Easy Installation Guide: Epson WorkForce DS-30 Driver Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://article-files.techidaily.com/extensive-evaluation-every-detail-of-the-bublcam-360-camera-for-2024/"><u>Extensive Evaluation  Every Detail of the Bublcam 360 Camera for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-system-ready-with-official-msi-sound-driver-downloads-for-pcs-and-laptops/"><u>Get Your System Ready with Official MSI Sound Driver Downloads for PCs and Laptops</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-novices-to-pros-the-journey-of-picking-fpv-drone-blades/"><u>In 2024, From Novices to Pros  The Journey of Picking FPV Drone Blades</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-upgrade-photographic-images-preserve-precision/"><u>In 2024, Upgrade Photographic Images, Preserve Precision</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-video-cam-gurus-top-picks/"><u>In 2024, Video Cam Gurus  Top Picks</u></a></li>
+<li><a href="https://article-files.techidaily.com/sneakily-bypass-online-learning-videos-without-breach-for-2024/"><u>Sneakily Bypass Online Learning Videos Without Breach for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success/"><u>The Art of Extracting YouTube' Written Captions  A Threefold Approach for Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now-for-2024/"><u>The Entrepreneur's Lifeline  Critical Items Every Startup Needs Right Now for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-non-udemy-online-education-sites-for-2024/"><u>Ultimate Guide to Non-Udemy Online Education Sites for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/what-do-podcast-producers-really-make/"><u>What Do Podcast Producers Really Make?</u></a></li>
+</ul></div>
