@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Discover New Cams to Beat Out Samsung's Gear 360\""
-date: 2024-07-10T15:44:40.237Z
-updated: 2024-07-11T15:44:40.237Z
+date: 2024-08-27T08:17:12.694Z
+updated: 2024-08-28T08:17:12.694Z
 tags: 
   - screen-recording
   - ai video
@@ -42,24 +42,36 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
  Check this video to watch the 360fly 4k unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Nikon Key Mission 360
 
  Due to be released in the fall, Nikon’s Key Mission 360 will be a contender at a similar price point to the 360fly; it’s expected to retail for $499\. This pocket sized device is meant to be rugged. It’s dustproof, shockproof, and waterproof to 100 ft. This camera will have two lenses to supply the 360-degree image and be used through a related app with a simple interface. Expectations are high for this offering, and it just might be worth waiting for if you need a camera that can take whatever you throw at it.
 
  See more details about Nikon Key Mission 360 camera from this video:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Bublcam
 
  The [Bublcam](https://tools.techidaily.com/wondershare/filmora/download/) uses 4 lenses to ensure a 360-degree view in every direction, with no blind spots. Retailing around $800, it’s one of the more expensive consumer grade VR cameras, but makes up for it by offering 1080p video and high quality photos. The spherical camera has some motion-activated stabilization, meant to keep shaky camera work from ruining your perfect shots. It has a microSD card slot, allowing you to add storage. Unfortunately, the microphone quality is not great, but if you’re relatively close to the camera, it should be pretty clear. Unlike the 360fly, the Bublcam is pretty small, fitting comfortably into the palm of your hand, or a jacket pocket. The camera also ships with a small tripod, which is extremely handy for taking good shots.
 
  Bublcam's unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 4\. Ricoh Theta S
 
  If that’s a little outside of your price range, and you want something more pocket-sized, consider the [Ricoh Theta S](https://tools.techidaily.com/wondershare/filmora/download/). Retailing at just $350, it’s one of the less expensive camera in our line-up. It has exactly one button for starting and stopping video or image capture, and two bubble eye lenses on opposite sides of the camera. It allows live streaming via mini-HDMI, and has an phone app that can be used to control the camera. The video quality is only average, but this is an excellent choice for the casual 360-degree camera user.
 
  Wanna know where to Ricoh Theta S, check this video below:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. LG360 cam
 
  The [LG360 cam](https://tools.techidaily.com/wondershare/filmora/download/) is a new offering in the bargain 360-degree cameras. Retailing at only $180, it is comparable in cost to a reasonably good digital camera. This camera is very compact, and connects to your phone with an app, available for both Android and iOS, that allows you to preview/review your shots and control the camera. It also allows you to shoot with only one lens at a time, for a 180-degree image.
@@ -68,12 +80,18 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
  Check a detailed review about LG360 Cam from this video
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  While the Samsung Gear 360 is a nice camera, it, like all of its 360-degree camera brethren, has its shortcomings. For many people, the most problematic is that it’s only compatible with Samsung phones. Fortunately, the above options are largely compatible with any phone, and offer a variety of prices, image quality, and functionality. Since professional grade 360-degree cameras still cost to the tune of $60000, I think I’ll be sticking to one of these inexpensive models, regardless of some of their flaws.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -100,3 +118,55 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-cut-to-zero-download-custom-ending-scenes-effortlessly/"><u>[New] 2024 Approved  Cut to Zero - Download Custom Ending Scenes Effortlessly</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-digital-photography-incorporating-accurate-dates/"><u>[New] 2024 Approved  Digital Photography  Incorporating Accurate Dates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-mov-saving-on-windows-10/"><u>[New] 2024 Approved  Essential Tips for MOV Saving on Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-get-free-picture-frame-videos/"><u>[New] 2024 Approved  How to Get Free Picture Frame Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-beyond-the-veil-unveiling-new-horizons-in-10-sci-fi-blockbusters-for-2024/"><u>[New] Beyond the Veil  Unveiling New Horizons in 10 Sci-Fi Blockbusters for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discovering-soft-amplification-techniques-in-garageband-for-2024/"><u>[New] Discovering Soft Amplification Techniques in Garageband for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-engaging-with-snapchats-trending-personalities/"><u>[New] Engaging with Snapchat's Trending Personalities</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expert-edits-for-an-uncluttered-tiktok-archive-for-2024/"><u>[New] Expert Edits for an Uncluttered TikTok Archive for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-level-recording-app-clean-and-clear-for-2024/"><u>[New] Expert-Level Recording App - Clean and Clear for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-foremost-equipment-in-round-the-clock-filming/"><u>[New] Foremost Equipment in Round-The-Clock Filming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe-for-2024/"><u>[New] How to Rip Audio From YouTube in 3 Ways [Free and Safe] for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-popcorn-projections-thorough-review-of-film-snack-recorder/"><u>[New] In 2024, Popcorn Projections  Thorough Review of Film Snack Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-smart-shopping-guide-to-best-5k-screens-8/"><u>[New] In 2024, Smart Shopping Guide to Best 5K Screens #8</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-action-review-sj7s-4k-star-video-capability-unveiled/"><u>[New] In 2024, The Ultimate Action Review  SJ7's 4K Star Video Capability Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-insiders-handbook-to-whatsapp-hidden-features-for-2024/"><u>[New] The Insider's Handbook to WhatsApp Hidden Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>[New] The Ocean’s Archive  Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>[New] Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-in-depth-comparison-can-inshot-outshine-competitors/"><u>[Updated] 2024 Approved  In-Depth Comparison  Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-meme-crafters-guide-to-kinemaster/"><u>[Updated] 2024 Approved  Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-android-movie-upturning/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-windows-10-key-skills-you-need/"><u>[Updated] 2024 Approved  Unlocking Windows 10  Key Skills You Need</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-amplify-your-content-speedy-instagram-fame-for-2024/"><u>[Updated] Amplify Your Content  Speedy Instagram Fame for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-6-social-media-platforms-for-business-for-2024/"><u>[Updated] Best 6 Social Media Platforms for Business for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom-for-2024/"><u>[Updated] Connecting Worlds  Mastering Video Chats on Xbox One with Zoom for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-radiant-qualities-of-hd-lighting/"><u>[Updated] Evaluating Radiant Qualities of HD Lighting</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-kinemaster-editors-roadmap-for-flawless-transitions/"><u>[Updated] In 2024, A Kinemaster Editor's Roadmap for Flawless Transitions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-super-camcorders-ranking-15-best-on-the-market/"><u>[Updated] In 2024, Super Camcorders Ranking  #15 Best on the Market</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>[Updated] In 2024, The Simple Guide  Making Your Window's Computer Speak Like a Fish</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-jolly-video-recorder-critique/"><u>[Updated] Jolly Video Recorder Critique</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-drone-footage-a-step-by-step-guide/"><u>[Updated] Mastering Drone Footage  A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photo-perfection-highest-rated-phone-tripods/"><u>[Updated] Photo Perfection  Highest Rated Phone Tripods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>[Updated] Revolutionize Your Photos  Pro-Level Pixlr Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-best-live-stream-tools-for-gamers-for-2024/"><u>[Updated] Unveiling Best Live-Stream Tools for Gamers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>Calculating Earnings  Ad Revenues in the World of YouTube, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources-for-2024/"><u>Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-efficient-image-hopping-android-to-iphone-process/"><u>In 2024, Efficient Image Hopping  Android to iPhone Process</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-future-in-your-hands-choosing-a-premium-360-camera-today/"><u>In 2024, Future in Your Hands  Choosing a Premium 360 Camera Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/live-stream-pioneers-top-10-sites-ranked-for-2024/"><u>Live Stream Pioneers  Top 10 Sites Ranked for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-time-lapse-android-tips-and-tricks/"><u>Mastering Time-Lapse  Android Tips & Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/notable-20-anime-series-theme-tracks/"><u>Notable 20 Anime Series Theme Tracks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-realme-11x-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Realme 11X 5G</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/practical-advice-for-documenting-online-conferencing-sessions-for-2024/"><u>Practical Advice for Documenting Online Conferencing Sessions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>Top Streamers Choice  Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-wont-my-phone-switch-between-portrait-and-landscape/"><u>Troubleshooting iPhone: Why Won't My Phone Switch Between Portrait and Landscape?</u></a></li>
+<li><a href="https://article-files.techidaily.com/unleashing-creativity-a-guide-to-innovative-gopro-video-editing/"><u>Unleashing Creativity  A Guide to Innovative GoPro Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-trust-chatgpt-with-confidential-information/"><u>Why You Shouldn't Trust ChatGPT With Confidential Information</u></a></li>
+</ul></div>
