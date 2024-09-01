@@ -1,0 +1,158 @@
+---
+title: "[Updated] In 2024, Hone Your iPhone Skills with Shortened & Customized Vids"
+date: 2024-08-31T13:24:51.340Z
+updated: 2024-09-01T13:24:51.340Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [Updated] In 2024, Hone Your iPhone Skills with Shortened & Customized Vids"
+excerpt: "This Article Describes [Updated] In 2024, Hone Your iPhone Skills with Shortened & Customized Vids"
+keywords: "IPhone Upskill Tips,Mobile Video Learning,IPhone Tutorials Shorter,IOS Skill Enhancement,Quick iPhone Courses,Custom iPhone Videos,Shorten iPhone Learning"
+thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76eca7c3b378cb3f9eeb4c0bbe.jpg
+---
+
+## Hone Your iPhone Skills with Shortened & Customized Vids
+
+# How to Shorten and Resize Video on iPhone
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Either for sharing or getting your message across, videos on iPhone need to be concise and short. Sizes will matter the most. You made a great video on your iPhone, and you simply want to extract out the best bit. For this purpose, you need to shorten or resize the videos on iPhone, making sharing much easy. Then, to have a manageable file size, iPhone built in editor is hard to ignore.
+
+## Part 1: How to shorten a video on iPhone
+
+#### 1. [The Built-in Video Editor](https://support.apple.com/en-gb/HT207587)
+
+ Yes, it does what is desired. And does it excellently. Photo application is not just a simple photo editing tool. But it is also a very good video size reducer. You can trim the video, change start and end, cut some parts or just keep a portion which you want to share and delete rest. It is easy. So for iPhone, iPad, or iPod touch follow the steps.
+
+* Open the Photo app
+* Click the video you want to edit
+* Video will be opened with play icon to preview
+* Click edit at the top
+* Video will be opened with a timeline in bottom
+* Move the starting and ending anchors to trim the video
+* Click play icon to preview
+* Click done, and choose either "Trim original" or "Save as new clip"
+
+![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
+
+#### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
+
+ iMovie is another simple application to use. Solid design, simple usage and intuitive multi-touch gesture makes this app an all time winner. Especially when you are answering " how to shorten a video on iPhone? Despite its editing capabilities, we will keep our focus on video resizing. It's a video size reducer, that can import file directly from iPhone. There are many options to trim, rotate, duplicate, split or delete clip. By default a photo in a timeline will be a clip for 6 to 12 seconds of onscreen time. Trimming photo will mean cutting the on-screen duration.
+
+* Open the project
+* Tap the video or photo in timeline to be shortened
+* Drag yellow trim handler to shorten the video or photo
+
+![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
+
+ But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
+
+## Part 2: How to resize a video on iPhone
+
+#### 1. [Desqueeze](https://itunes.apple.com/us/app/desqueeze-batch-resizer/id1046809993?mt=8)
+
+ It can resize photos and videos to any size up to 8192 px and 4k respectively on iPhone. It can make file size smaller and that too with precision. Another utility is that, compression and editing will be applied to the batch (all photos and videos selected).
+
+* Launch app and open the photos/videos in camera roll which need to be resized
+* Select scaling ratio to be used
+* After choosing all the files, tap edit button at bottom left
+* Tap on dimension box to input customised scaling options
+* Input width and height
+* Press ok. After saving dimensional setting, click Paw shape icon at bottom to initiate changes
+
+![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
+
+#### 2. Video Compressor
+
+ Video Compressor can also be used to shrink down the file size on iPhone. Especially when you want to share something right from your iDevice. The steps to follow include
+
+* Launch the application, and tap on the video which need to be compressed
+* Select "choose" from video preview screen to open in Video Compressor
+* Now use sliders at the bottom to adjust video compression.
+* After target compression percentage and file size is finalised, select save in upper right corner
+* The compression will start on the targeted video file.
+* The compressed video will be saved in Camera roll
+
+![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+ Being an iphone, iPod or iPad user, you can enjoy making high quality photos and videos, including 4K,1080p and 720 resolutions. But the downside is the large file size which makes them hard to retain. There are options to shorten or resize the iPhone videos and photos, by using any of above applications. Get a snippet or make size manageable, depending on "what you want". Just keep sharing the fun!
+
+ Images come from the Internet
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-estimating-film-budget-the-cost-of-capturing-melodies-visually/"><u>[New] 2024 Approved  Estimating Film Budget  The Cost of Capturing Melodies Visually</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-your-hd-vids-on-android-with-these-10-players/"><u>[New] 2024 Approved  Perfect Your HD Vids on Android With These 10 Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-vlc-use-manual-for-mac-users-for-2024/"><u>[New] Comprehensive VLC Use Manual for Mac Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expand-your-viewing-realm-on-youtube-platforms/"><u>[New] Expand Your Viewing Realm on YouTube Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-tight-scenes-minecraft-edition/"><u>[New] In 2024, Navigating Tight Scenes  Minecraft Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-quick-and-easy-method-for-clearing-image-backdrops/"><u>[New] In 2024, Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-new-era-for-mobile-photography-iphone-x-explored/"><u>[New] New Era for Mobile Photography  IPhone X Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-list-premier-iphone-tone-producers-for-2024/"><u>[New] Ultimate List  Premier iPhone Tone Producers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[Updated] 2024 Approved  Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-basic-understanding-of-e-story-crafting/"><u>[Updated] Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-effective-strategies-for-utilizing-telegram-desktop-features-for-2024/"><u>[Updated] Effective Strategies for Utilizing Telegram Desktop Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elite-ios-gif-sources-reviewed-and-ranked-for-2024/"><u>[Updated] Elite iOS GIF Sources Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-giggles-and-grins-topical-humor-guides-for-everyone/"><u>[Updated] Giggles and Grins  Topical Humor Guides for Everyone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-add-a-timestamp-to-youtube-video/"><u>[Updated] In 2024, How to Add a Timestamp to YouTube Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition/"><u>[Updated] In 2024, Ice Racers Unite  Celebrating Snowboard Cross Victories, Winter Olympics Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photopea-guide-to-clean-image-canvases-for-2024/"><u>[Updated] Photopea Guide to Clean Image Canvases for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photoshop-alternatives-on-android/"><u>[Updated] Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleash-creativity-in-videos-with-quick-trims-on-windows-11-for-2024/"><u>[Updated] Unleash Creativity in Videos with Quick Trims on Windows 11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-heavens-a-mobile-panorama-journey/"><u>2024 Approved  From Ground to Heavens  A Mobile Panorama Journey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-vectors-explained-an-entry-level-guide-to-forms-and-applications/"><u>2024 Approved  Vectors Explained  An Entry-Level Guide to Forms and Applications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/groundbreaking-no-cost-image-editors-unveiled/"><u>Groundbreaking No-Cost Image Editors Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hone-your-prompt-mastery-the-quintessential-approach-to-perfecting-chatgpt-conversations/"><u>Hone Your Prompt Mastery: The Quintessential Approach to Perfecting ChatGPT Conversations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-x-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone X to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-best-8-online-locations-for-3d-text-psd-downloads/"><u>In 2024, Best 8 Online Locations for 3D Text PSD Downloads</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Phone without Any Data Loss</u></a></li>
+<li><a href="https://article-files.techidaily.com/projected-expenses-for-bringing-songs-to-life-on-screen-for-2024/"><u>Projected Expenses for Bringing Songs to Life on Screen for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-erratic-dell-touch-screen-driver/"><u>Resolve Erratic Dell Touch Screen Driver</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-essential-price-matrix-top-cloud-storage-firms-for-2024/"><u>The Essential Price Matrix  Top Cloud Storage Firms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-comprehensive-guide-by-tom/"><u>Unlocking Technology Secrets: The Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Discover the World From Above - Xiaomi's 4K Flight Diary\""
-date: 2024-07-10T15:35:56.649Z
-updated: 2024-07-11T15:35:56.649Z
+date: 2024-08-31T13:05:20.265Z
+updated: 2024-09-01T13:05:20.265Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,16 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Design
 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Battery Life
 
 As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you. As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you.
@@ -62,20 +68,32 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Camera
 
 Xiaomi Mi Drone unit comes with two different variants where the professional one carries 4K camera unit with it and another variant is able to handle 1080P resolution level. Note that the 4K camera comes with 12.4MP sensor from Sony and it works with the Ambarella image processor. You can set its frame rate up to 30fps. Another option is 1080p resolution setting that comes with 16.4 megapixel sensor from Sony along with Ambarella Image Processor. In this case frame rate can go as high as up to 60 fps. The 2.4GHz transmitter further ensures interference free recording in air.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 4K camera facility you need to pay $460 when ordered from China. All the advanced features of this drone unit make it suitable for professional users. It can beat several high-end competitors with its all-new specifications. Prefer to carry an additional battery for your long-distance tours so that you can enjoy all-time flights without worrying about battery backup.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -102,3 +120,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] 2024 Approved  Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-huntings-top-5-high-quality-video-recorders/"><u>[New] 2024 Approved  Hunting's Top 5 High-Quality Video Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pinnacle-story-planning-website/"><u>[New] 2024 Approved  Pinnacle Story Planning Website</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlined-ppt-delivery-techniques-for-mobile-and-laptops-in-gmeet/"><u>[New] 2024 Approved  Streamlined PPT Delivery Techniques for Mobile & Laptops in GMeet</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[New] 2024 Approved  UAV Technology Unveiled  The Yuneec 4K Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>[New] Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-image-hunting-on-pexelscom/"><u>[New] In 2024, The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-video-quality-clash-hero-black-vs-nikkor-km-170/"><u>[New] In 2024, Video Quality Clash  HERO Black vs Nikkor KM-170</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-metaverse-vs-multiverse-understanding-the-distinctions-for-2024/"><u>[New] Metaverse Vs. Multiverse  Understanding the Distinctions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-the-complexities-of-color-correction-using-luts-for-2024/"><u>[New] Navigating the Complexities of Color Correction Using LUTs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-setup-for-flawless-time-lapses-on-ipad-for-2024/"><u>[New] Quick Setup for Flawless Time-Lapses on iPad for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sculpted-sentences-turning-text-into-3d-art-for-2024/"><u>[New] Sculpted Sentences  Turning Text Into 3D Art for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-spark-to-the-future-djis-next-gen-challenge-from-mavic-air/"><u>[New] Spark to the Future  DJI's Next-Gen Challenge From Mavic Air</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-6-comprehensive-metaverse-scenarios/"><u>[New] Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-10-best-web-based-tools-for-clearing-up-fuzzy-images-for-2024/"><u>[Updated] 10 Best Web-Based Tools for Clearing Up Fuzzy Images for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-activatingdeactivating-picture-in-picture-feature/"><u>[Updated] 2024 Approved  Activating/Deactivating Picture-in-Picture Feature</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[Updated] 2024 Approved  Frosty Slopes Showdown  Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-highest-rated-20-public-domain-pubg-combos/"><u>[Updated] 2024 Approved  Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-is-av1-the-new-video-codec-front-runner/"><u>[Updated] 2024 Approved  Is AV1 The New Video Codec Front-Runner?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-awaken-your-inner-warrior-with-these-films/"><u>[Updated] Awaken Your Inner Warrior with These Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-bypassing-education-tips-on-skipping-edgenuity-online-video-lessons/"><u>[Updated] Bypassing Education  Tips on Skipping Edgenuity Online Video Lessons</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-converging-music-and-imagery-online/"><u>[Updated] Converging Music and Imagery Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-novice-to-money-maker-on-youtube-for-2024/"><u>[Updated] From Novice to Money-Maker on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-recording-software-outshining-fbx-methods/"><u>[Updated] In 2024, Advanced Recording Software Outshining FBX Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-determining-better-macbook-air-vs-pro-m1-edition/"><u>[Updated] In 2024, Determining Better  MacBook Air Vs. Pro M1 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-omega-series-high-definition-full-touch-workstations/"><u>[Updated] In 2024, Omega Series  High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-trending-images-tales-behind-the-graphics/"><u>[Updated] In 2024, Top Trending Images  Tales Behind the Graphics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-natural-beauty-video-suggestions-for-2024/"><u>[Updated] Natural Beauty Video Suggestions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>[Updated] The Influencer's Playbook  5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[Updated] The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-video-for-bedtime-stories-elements-and-reviews/"><u>[Updated] Video for Bedtime Stories  Elements and Reviews</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-techniques-sending-subtitles-to-instagram-linkedin-for-2024/"><u>Advanced Techniques  Sending Subtitles to Instagram, LinkedIn for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-top-10-immersive-vr-gear/"><u>Beyond The Screen  Top 10 Immersive VR Gear</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chirp-with-charisma-producing-text-memes-now/"><u>In 2024, Chirp with Charisma  Producing Text Memes Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-convert-srt-with-ease-the-finest-free-converters-ranked/"><u>In 2024, Convert SRT with Ease - The Finest FREE Converters Ranked</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-gt-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme GT 5 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-12r-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus 12R</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>Mastering Google's Text Conversion Service  A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-relying-on-text-ai-bots/"><u>The Hidden Dangers of Relying on Text AI Bots</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions/"><u>The Role of B2B Relationships in Informed Market Decisions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>Undead Uprising  Your Essential Compilation of Zombie Gaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/understanding-the-underrated-downsides-of-vr/"><u>Understanding the Underrated Downsides of VR</u></a></li>
+</ul></div>
