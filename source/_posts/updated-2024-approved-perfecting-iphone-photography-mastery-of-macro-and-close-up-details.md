@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Perfecting iPhone Photography  Mastery of Macro and Close-Up Details\""
-date: 2024-08-31T13:20:51.626Z
-updated: 2024-09-01T13:20:51.626Z
+date: 2024-09-04T17:48:01.699Z
+updated: 2024-09-05T17:48:01.699Z
 tags: 
   - screen-recording
   - ai video
@@ -222,5 +222,8 @@ Follow @Ollie Mattison
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
