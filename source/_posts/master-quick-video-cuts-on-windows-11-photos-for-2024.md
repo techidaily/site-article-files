@@ -1,7 +1,7 @@
 ---
 title: "Master Quick Video Cuts on Windows 11 Photos for 2024"
-date: 2024-07-10T15:21:21.547Z
-updated: 2024-07-11T15:21:21.547Z
+date: 2024-09-09T06:27:10.288Z
+updated: 2024-09-10T06:27:10.288Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,30 @@ keywords: "Win11 Photo Editing,Quick Video Trimming,Photo Cutting Software,Windo
 thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b901791e5cc9453b472a1e6024dd2.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Master Quick Video Cuts on Windows 11 Photos
 
 # How to Trim Video in Windows 10 Photos Easily
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -33,6 +51,12 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -45,10 +69,22 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -69,6 +105,12 @@ Here comes the step by step guide to trim video in VLC –
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -103,3 +145,46 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-asmr-viewers-essentials-explained/"><u>[New] 2024 Approved ASMR Viewers' Essentials Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevating-your-live-broadcast-with-mixer-on-macos/"><u>[New] 2024 Approved Elevating Your Live Broadcast with Mixer on macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-photo-editing-the-eraser-guide-in-psx/"><u>[New] 2024 Approved Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>[New] 2024 Approved Understanding and Applying Auto HDR A Windows 11 Tutorial</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boosting-bank-balance-crafting-commercial-video-content/"><u>[New] Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-for-2024/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-seamless-image-transfers-across-operating-systems/"><u>[New] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-snapseed-a-simple-guide-for-new-users/"><u>[New] Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-flipping-the-script-on-instagrams-video-content/"><u>[New] In 2024, Flipping the Script on Instagram's Video Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unseen-smiles-hidden-glances-in-photos/"><u>[New] Unseen Smiles, Hidden Glances in Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-winning-insta-followers-with-irresistible-unboxing-clips/"><u>[New] Winning Insta Followers with Irresistible Unboxing Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-advanced-tips-for-crafting-vhs-images-on-computers/"><u>[Updated] 2024 Approved Advanced Tips for Crafting VHS Images on Computers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-a-beginners-pathway-to-iphone-audio-memos/"><u>[Updated] A Beginner's Pathway to iPhone Audio Memos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-core-principles-of-internet-storytelling/"><u>[Updated] Core Principles of Internet Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevating-film-colors-using-luts-methods-for-2024/"><u>[Updated] Elevating Film Colors Using Luts Methods for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elite-eyewear-selection-best-5-vr-goggles-for-flight-for-2024/"><u>[Updated] Elite Eyewear Selection Best 5 VR Goggles for Flight for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>[Updated] In 2024, For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-typographic-animations-compiled/"><u>[Updated] In 2024, Optimal Typographic Animations Compiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-portable-gear-for-travel-cinematography/"><u>[Updated] In 2024, Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-360-degree-edits-in-adobe-premiere-pro-for-2024/"><u>[Updated] Mastering 360-Degree Edits in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>[Updated] Mastering SRT Creation A Comprehensive Manual & Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-harmony-enhancer/"><u>[Updated] Visual Harmony Enhancer</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-vr-advantages-and-disadvantages-for-2024/"><u>[Updated] VR Advantages & Disadvantages for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-aural-and-visual-summary-synthesizer/"><u>2024 Approved Aural and Visual Summary Synthesizer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-transform-your-channel-with-effective-youtube-link-protocols/"><u>2024 Approved Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-90-gt-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor 90 GT to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862871446-elevate-your-gaming-experience-with-longsheng-cpus-us-shipping-begins-now-entry-level-motherboards-and-systems-from-just-373/"><u>Elevate Your Gaming Experience with Longsheng CPUs - US Shipping Begins Now! Entry-Level Motherboards and Systems From Just $373</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-mending-corrupt-jpeg-files-a-comprehensive-review-of-image-restoration-tools/"><u>Expert Tips on Mending Corrupt JPEG Files: A Comprehensive Review of Image Restoration Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-hp-deskjet-ink-advantage-3830e-free-download/"><u>Get the Newest Drivers for Your HP Deskjet Ink Advantage 3830E - Free Download</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-fbx-gametime-tracking-solutions-for-2024/"><u>Innovative FBX Gametime Tracking Solutions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/integrating-yt-music-into-video-editing-suites/"><u>Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/launch-and-lay-the-foundations-of-xps-video-craft-for-2024/"><u>Launch & Lay the Foundations of XP's Video Craft for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-social-media-connections-instagram-and-tiktok/"><u>Mastering Social Media Connections Instagram & TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfecting-your-green-screen-workflow-with-kinemaster-for-2024/"><u>Perfecting Your Green Screen Workflow with KineMaster for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mac-compatibility-download-vllo-and-explore-alternative-apps/"><u>Updated In 2024, Mac Compatibility Download VLLO and Explore Alternative Apps</u></a></li>
+</ul></div>
