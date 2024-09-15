@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Use Preview App on Mac\""
-date: 2024-07-10T15:16:48.272Z
-updated: 2024-07-11T15:16:48.272Z
+date: 2024-09-10T08:00:05.724Z
+updated: 2024-09-14T20:22:02.731Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,19 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -108,6 +121,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -151,6 +171,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -209,6 +236,16 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unpacking-the-dji-phantom-3-standard-features/"><u>[New] 2024 Approved Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ice-warriors-top-performances-at-2022-olympics-for-2024/"><u>[New] Ice Warriors Top Performances at 2022 Olympics for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-magic-meets-technology-the-future-of-home-studio-production/"><u>[New] In 2024, Magic Meets Technology The Future of Home Studio Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-dissecting-the-importance-of-using-itop-for-capture-for-2024/"><u>[Updated] Dissecting the Importance of Using ITop for Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-artistry-behind-capturing-evening-light-and-people-for-2024/"><u>[Updated] The Artistry Behind Capturing Evening Light and People for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010201364-fixing-continuous-crashes-in-resident-evil-village-on-your-pc-solutions-inside/"><u>Fixing Continuous Crashes in Resident Evil Village on Your PC - Solutions Inside</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/silence-the-noise-in-online-discussions-with-voicemod-tricks-for-2024/"><u>Silence the Noise in Online Discussions with VoiceMod Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-complete-iphone-podcast-download-manual/"><u>Your Complete iPhone Podcast Download Manual</u></a></li>
+</ul></div>
 

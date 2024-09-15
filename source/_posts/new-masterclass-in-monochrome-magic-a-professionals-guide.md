@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass in Monochrome Magic  A Professional's Guide\""
-date: 2024-07-10T15:15:07.261Z
-updated: 2024-07-11T15:15:07.261Z
+date: 2024-09-09T00:18:33.470Z
+updated: 2024-09-15T11:50:01.227Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
@@ -62,11 +69,31 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
@@ -91,6 +118,26 @@ This method only hides color based on their luminance values; however, this load
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
@@ -130,6 +177,19 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-copyright-quest-for-content-creators-tiktok-edition/"><u>[New] 2024 Approved Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enhance-and-elevate-free-mobile-image-enhancer/"><u>[New] 2024 Approved Enhance & Elevate Free Mobile Image Enhancer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enrich-your-videos-expert-recommended-players-guide/"><u>[New] 2024 Approved Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-discover-overlooked-free-mac-speech-transcription-apps/"><u>[Updated] 2024 Approved Discover Overlooked Free Mac Speech Transcription Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughter-in-every-note-essential-ringtones-for-2024/"><u>[Updated] Laughter in Every Note Essential Ringtones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-melodic-mute-mode-operating-system-steps/"><u>[Updated] Melodic Mute Mode Operating System Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audacity-workshop-eloquent-silent-transitions/"><u>2024 Approved Audacity Workshop Eloquent Silent Transitions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-google-pixel-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Google Pixel 8 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-start-your-journey-as-a-prompt-engineer/"><u>Steps to Start Your Journey as a Prompt Engineer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807923932-struggling-with-your-gmail-passcode-discover-effective-solutions-here/"><u>Struggling with Your Gmail Passcode? Discover Effective Solutions Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-8-tips-for-a-smooth-windows-11-transition/"><u>The Top 8 Tips for a Smooth Windows 11 Transition</u></a></li>
+</ul></div>
 

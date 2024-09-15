@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Wisdom  Essential Color Theory Explained\""
-date: 2024-07-10T15:12:19.087Z
-updated: 2024-07-11T15:12:19.087Z
+date: 2024-09-14T11:13:29.022Z
+updated: 2024-09-14T19:40:49.269Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -61,6 +68,13 @@ In this scene the director decided that the backdrop should complement the top t
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
@@ -96,6 +110,18 @@ By including this into your thought process when creating videos with [Filmora](
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-sprout-ultimate-guide-to-capturing-your-desktop/"><u>[New] 2024 Approved Sprout Ultimate Guide to Capturing Your Desktop</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-design-complimentary-cutting-edge-psd-texts/"><u>[New] Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>[Updated] Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-drone-balance-the-top-7-gimbals/"><u>[Updated] In 2024, Drone Balance The Top 7 Gimbals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-zoom-hd-quality-step-by-step-guide-for-2024/"><u>Boosting Zoom HD Quality Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-to-stop-windows-11-from-constantly-rebooting/"><u>Effortless Steps to Stop Windows 11 From Constantly Rebooting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-pick-an-iphone-that-boosts-your-gaming-experience/"><u>How to Pick an iPhone that Boosts Your Gaming Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-15-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 15 Pro and iPad?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-best-cameras-for-quality-youtube-content/"><u>In 2024, Best Cameras for Quality YouTube Content</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-8-plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 8 Plus Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/securely-logging-live-radio-over-the-web-an-instructional-guide-for-2024/"><u>Securely Logging Live Radio Over the Web An Instructional Guide for 2024</u></a></li>
+</ul></div>
 

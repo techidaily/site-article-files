@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlock Creativity  Essential Green Screen Techniques\""
-date: 2024-09-09T06:46:23.046Z
-updated: 2024-09-10T06:46:23.046Z
+date: 2024-09-09T05:16:17.795Z
+updated: 2024-09-15T11:45:29.307Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "GreenScreenCreativity,CreativeGScreenTech,GScreenArtistry,ArtisticGre
 thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlock Creativity: Essential Green Screen Techniques
 
 # How to Shoot a Green Screen Video
@@ -50,12 +44,6 @@ We’ve figured out some useful green screen tricks, have fun and hope you’ll 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
 
 #### 1 Lighting tips in shooting a Green Screen Video
@@ -66,30 +54,12 @@ Don’t throw too much light onto the green background. That will create hotspot
 
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
 Also choose carefully the camera as some cameras are better to shoot green screen video, especially if you are shooting something with a bit of movement. Then shoot your video as HD quality video (720p or higher) and save in a format your green screen software can import.
@@ -102,12 +72,6 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
@@ -130,12 +94,6 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -163,38 +121,25 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-advancing-beyond-vp9-a-look-at-av1/"><u>[New] 2024 Approved Advancing Beyond VP9 A Look at AV1</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-pivot-producer-system/"><u>[New] 2024 Approved Pivot Producer System</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tailor-your-media-auto-scaling-videos-for-instagram-via-macos/"><u>[New] 2024 Approved Tailor Your Media Auto-Scaling Videos for Instagram via MacOS</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom-for-2024/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-download-free-slide-show-patterns-today/"><u>[New] Find Your Favorite, Download-Free Slide Show Patterns Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-essential-manual-on-motion-detection-techniques/"><u>[New] The Essential Manual on Motion Detection Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-6-eco-friendly-affordable-4k-home-theaters/"><u>[New] Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[New] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-5-best-toy-drones/"><u>[Updated] 2024 Approved 5 Best Toy Drones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-alternatives-to-xsplit-for-efficient-media-management/"><u>[Updated] 2024 Approved Alternatives to Xsplit for Efficient Media Management</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-affordable-flying-tech-today/"><u>[Updated] 2024 Approved Best Affordable Flying Tech Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-shaping-letters-in-visual-content/"><u>[Updated] 2024 Approved Shaping Letters in Visual Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-building-a-solid-foundation-for-great-interviews-for-2024/"><u>[Updated] Building A Solid Foundation For Great Interviews for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[Updated] In 2024, Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-chorus-of-creativity-merging-melodies-and-visuals-in-reels/"><u>[Updated] In 2024, Chorus of Creativity Merging Melodies & Visuals in Reels</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>[Updated] In 2024, Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-precision-and-perfection-a-guide-to-youtube-studio-video-edits/"><u>[Updated] Precision and Perfection A Guide to YouTube Studio Video Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-step-by-step-kinemaster-greenscreen-techniques/"><u>[Updated] Step-by-Step KineMaster Greenscreen Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-smartphones-for-seamless-gear-vr-experience-for-2024/"><u>[Updated] Top Smartphones for Seamless Gear VR Experience for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-settings-adjustment-in-windows-10/"><u>Display Settings Adjustment in Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/dji-drone-tiers-basic-package-enhanced-series-proficiency-edition-uhd/"><u>DJI Drone Tiers Basic Package, Enhanced Series, Proficiency Edition UHD</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-printer-performance-installation-of-hp-projector-8710-software-windows/"><u>Enhance Printer Performance - Installation of HP Projector 8710 Software (Windows)</u></a></li>
-<li><a href="https://article-files.techidaily.com/expert-guide-choosing-best-bdr-players-on-windowsmacos-for-2024/"><u>Expert Guide Choosing Best BDR Players on Windows/macOS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-elon-musks-latest-vision-the-anticipated-release-and-specs-of-teslas-autonomous-taxi-service/"><u>Explore Elon Musk’s Latest Vision: The Anticipated Release and Specs of Tesla's Autonomous Taxi Service</u></a></li>
-<li><a href="https://article-files.techidaily.com/extensive-overview-the-comprehensive-guide-to-bublcams-panoramic-vision/"><u>Extensive Overview The Comprehensive Guide to Bublcam's Panoramic Vision</u></a></li>
-<li><a href="https://article-files.techidaily.com/hero5-black-or-yi-comparing-top-actions-cameras/"><u>Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-incrementally-lower-decibels-in-logic-pro-for-2024/"><u>How to Incrementally Lower Decibels in Logic Pro for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s23plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S23+ Activity | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-explore-best-speech-recognition-software-on-your-mac/"><u>In 2024, Explore Best Speech Recognition Software on Your Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/orbitmaster-high-definition-full-touch-desktops-for-2024/"><u>OrbitMaster High Definition Full Touch Desktops for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-lenovo-m10-hd-tablet-perfect-blend-of-cost-efficiency-web-surfing-and-media-entertainment/"><u>Review of Lenovo M10 HD Tablet: Perfect Blend of Cost-Efficiency, Web Surfing & Media Entertainment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-windows-11-comprehensive-solutions-for-fixing-audio-problems/"><u>Reviving the Soundscape of Windows 11: Comprehensive Solutions for Fixing Audio Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x7-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://article-files.techidaily.com/unleash-your-creative-potential-with-zooms-step-by-step-filter-guide-for-2024/"><u>Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-script-to-sound-crafting-captivating-podcast-episodes-for-2024/"><u>[New] From Script to Sound Crafting Captivating Podcast Episodes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-show-entry-on-apple-media/"><u>[New] Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-xmlssattml-to-srt-actionable-insights-for-media-professionals-for-2024/"><u>[New] XML/SSA/TTML-to-SRT Actionable Insights for Media Professionals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-auroras-role-in-enhancing-image-contrast-for-2024/"><u>[Updated] Aurora's Role in Enhancing Image Contrast for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-interactive-therapy-in-the-virtual-world/"><u>[Updated] In 2024, Interactive Therapy in the Virtual World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-digital-landscape-twitch-livestream-to-youtube-channel/"><u>[Updated] Navigating the Digital Landscape Twitch Livestream to YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-mobile-apps-for-enhancing-youtube-shorts-videos/"><u>[Updated] Top 10 Mobile Apps for Enhancing YouTube Shorts Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>2024 Approved Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c110-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C110 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-regular-are-youtube-monetization-payments-for-2024/"><u>How Regular Are YouTube Monetization Payments for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>In 2024, Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-conquer-iphone-audiophiles-playlist-tips/"><u>In 2024, Conquer iPhone Audiophile's Playlist Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme GT 5? | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
