@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-09-14T13:49:53.596Z
-updated: 2024-09-15T10:20:06.478Z
+date: 2024-09-13T16:12:52.732Z
+updated: 2024-09-20T17:07:32.043Z
 tags: 
   - screen-recording
   - ai video
@@ -49,13 +49,6 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -69,10 +62,10 @@ Including archival material in your video allows your audience to experience a p
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -92,15 +85,28 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,16 +142,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>[New] Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-temporal-and-spatial-shifts-in-filmmaking-for-2024/"><u>[New] Mastering Temporal & Spatial Shifts in Filmmaking for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transform-photos-with-ease-using-basic-adobe-tools-for-2024/"><u>[New] Transform Photos with Ease Using Basic Adobe Tools for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[Updated] 2024 Approved The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-glassify-privacy-webcam-panel-for-2024/"><u>[Updated] Glassify Privacy Webcam Panel for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-variants-of-moviemaker-pro-on-windows-for-2024/"><u>[Updated] Variants of MovieMaker Pro on WIndows for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captureone-expert-tutorial-series/"><u>CaptureOne Expert Tutorial Series</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-xcover-7-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy XCover 7 on Mac?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-rediscover-the-past-watching-youtubes-lost-footage/"><u>In 2024, How to Rediscover the Past Watching Youtube's Lost Footage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/robust-and-versatile-heres-what-you-need-to-know-about-the-fujitsu-scansnap-ix1600/"><u>Robust and Versatile, Here's What You Need to Know About the Fujitsu ScanSnap iX1600</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tips-and-tricks-for-efficient-use-of-steams-switch-controllers/"><u>Tips & Tricks for Efficient Use of Steam’s Switch Controllers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>[New] 2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success-for-2024/"><u>[New] Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-invisible-riches-the-online-auction-exclusive-to-the-elusive-2023-edition/"><u>[Updated] 2024 Approved Invisible Riches The Online Auction Exclusive to the Elusive, 2023 Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide/"><u>[Updated] 2024 Approved Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-culinary-carousel-swirling-up-top-food-network-names-for-2024/"><u>[Updated] Culinary Carousel Swirling Up Top Food Network Names for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-effective-tactics-for-customizing-song-tempo-in-spotify/"><u>[Updated] Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/"><u>[Updated] In 2024, A Picture's Worth Top 12 Websites for Exquisite Stock Photography Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-spectacular-scenes-from-snowspeedcross-22/"><u>[Updated] Spectacular Scenes From Snowspeedcross '22</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bings-ai-chatbot-10-key-differences/"><u>ChatGPT Vs. Bing's AI Chatbot: 10 Key Differences</u></a></li>
+<li><a href="https://article-files.techidaily.com/focusing-on-fine-details-a-minecraft-journey/"><u>Focusing on Fine Details A Minecraft Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-s18e-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo S18e ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-dell-g5-5090-assessment-the-ultimate-affordable-gaming-machine-with-extensive-choices/"><u>In-Depth Dell G5 5090 Assessment: The Ultimate Affordable Gaming Machine with Extensive Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastery-start-essence-of-storyline-development-for-2024/"><u>Mastery Start Essence of Storyline Development for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/shuttered-by-darkness-iphone-tips-and-tricks/"><u>Shuttered by Darkness IPhone Tips & Tricks</u></a></li>
 </ul></div>
 

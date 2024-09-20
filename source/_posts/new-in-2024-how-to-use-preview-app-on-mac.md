@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Use Preview App on Mac"
-date: 2024-09-10T19:44:21.615Z
-updated: 2024-09-15T11:37:35.551Z
+date: 2024-09-13T16:35:58.795Z
+updated: 2024-09-20T16:39:42.037Z
 tags: 
   - screen-recording
   - ai video
@@ -86,10 +86,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -103,6 +103,19 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -135,13 +148,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -206,16 +212,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -243,18 +243,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-imprint-clipart-with-inner-circle-light-defocus-method-ps-for-2024/"><u>[New] Imprint Clipart with Inner Circle Light Defocus Method PS for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-songcutter-pro-turning-tamil-tracks-into-call-alerts/"><u>[New] SongCutter Pro Turning Tamil Tracks Into Call Alerts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-title-tag-and-description-mastery-for-youtube-success/"><u>[New] Title, Tag & Description Mastery for YouTube Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transform-your-digital-portfolio-with-onscreen-cropping-for-2024/"><u>[New] Transform Your Digital Portfolio with Onscreen Cropping for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>[Updated] In 2024, Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-naming-your-podcast-to-perfection-stepwise-guidance-plus-top-ideas-list/"><u>[Updated] In 2024, Naming Your Podcast to Perfection Stepwise Guidance + Top Ideas List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/adding-descriptive-tags-to-your-images-on-pcs-and-macs-for-2024/"><u>Adding Descriptive Tags to Your Images on PCs and Macs for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-best-tools-for-transforming-your-spotify-mixes-into-youtube-channels/"><u>In 2024, Best Tools for Transforming Your Spotify Mixes Into YouTube Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-speaker-change-devices-for-youtube-gurus/"><u>In 2024, Expert Speaker Change Devices for YouTube Gurus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-8-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel 8 Lock Screen Password?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/movavi-plus-unveiled-the-latest-edition/"><u>Movavi Plus Unveiled – The Latest Edition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-utilizing-picture-in-picture-feature-across-all-chrome-devices/"><u>[New] Utilizing Picture In Picture Feature Across All Chrome Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-samsungs-opponent-the-finest-non-gear-360-cameras/"><u>[Updated] In 2024, Samsung's Opponent The Finest Non-Gear 360 Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-the-art-of-social-media-analytics-understanding-ig-data/"><u>2024 Approved Master the Art of Social Media Analytics Understanding IG Data</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-compelling-content-with-powerful-youtube-titles/"><u>Creating Compelling Content with Powerful YouTube Titles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-devise-droll-visuals-giphys-domain/"><u>In 2024, Devise Droll Visuals Giphy's Domain</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-magic-box-how-does-vr-function/"><u>Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-take-on-the-lg-bp350-monitors-connectivity-features/"><u>Professional Take on the LG BP350 Monitor's Connectivity Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-insiders-look-at-mac-preview-software-for-2024/"><u>The Insider's Look at Mac Preview Software for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-youtube-on-facebook-feeds-for-2024/"><u>Unlocking YouTube on Facebook Feeds for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adding Depth with 3D Text in Photoshop Workflows"
-date: 2024-09-11T01:35:21.270Z
-updated: 2024-09-15T02:13:43.725Z
+date: 2024-09-17T16:05:43.478Z
+updated: 2024-09-20T17:08:22.749Z
 tags: 
   - screen-recording
   - ai video
@@ -113,6 +113,13 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -122,10 +129,10 @@ Step1 First, you should download Filmora and install the program on your compute
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -136,25 +143,18 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -184,18 +184,15 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-embark-on-a-journey-through-augmented-space/"><u>[New] 2024 Approved Embark on a Journey Through Augmented Space</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-how-to-add-motion-blur-to-face-with-picsart/"><u>[New] 2024 Approved How to Add Motion Blur to Face with Picsart</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-screens-on-windows-with-best-no-cost-recorder-tools/"><u>[New] 2024 Approved Mastering Screens on Windows with Best No-Cost Recorder Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-10-superior-soundspeed-apps-for-devices/"><u>[New] In 2024, 10 Superior Soundspeed Apps for Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-using-luts-in-spark-ar-and-download-free-luts/"><u>[New] In 2024, Using LUTs in Spark AR & Download Free LUTs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-and-build-a-youtube-channel-today/"><u>[Updated] 2024 Approved How to Create and Build A YouTube Channel Today</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expedite-your-social-media-presence-streamlined-video-upload-methods-for-instagram-desktop/"><u>[Updated] Expedite Your Social Media Presence Streamlined Video Upload Methods for Instagram Desktop</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-editing-to-boost-youtube-profile-impact/"><u>2024 Approved Leverage Editing to Boost YouTube Profile Impact</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-5-cutting-edge-hmds-for-drone-masters/"><u>2024 Approved Unveiling 5 Cutting-Edge HMDs for Drone Masters</u></a></li>
-<li><a href="https://facebook.techidaily.com/evasion-techniques-for-common-marketplace-cons-in-facebook-trade/"><u>Evasion Techniques for Common Marketplace Cons in Facebook Trade</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-10c-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark 10C Easily?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-beginner-friendly-guide-to-iphone-screen-recordings/"><u>In 2024, Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-guide-pcmobile-save-meetings/"><u>In 2024, Step-by-Step Guide PC/Mobile Save Meetings</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>[New] A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] In 2024, Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>[New] Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-equipment-for-cutting-edge-livestreams/"><u>[Updated] Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-path-to-proficiency-with-streamlabs-obs-mastery/"><u>[Updated] The Path to Proficiency with Streamlabs OBS Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-large-language-models-understanding-their-design-and-operation/"><u>Demystifying Large Language Models: Understanding Their Design & Operation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>In 2024, Chorus Climaxes Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-ace-2-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Ace 2 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-14-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 14 Plus is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Elite Scripting Plugins for AE"
-date: 2024-09-14T10:51:22.853Z
-updated: 2024-09-15T12:02:19.263Z
+date: 2024-09-15T16:36:15.318Z
+updated: 2024-09-20T16:22:11.400Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,13 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -74,10 +81,10 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shadow Studio
@@ -87,23 +94,10 @@ If you are looking for shadow styles that will go very well with your project, S
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Texts Animation Bundle
@@ -114,6 +108,19 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -121,13 +128,6 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -138,10 +138,10 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,17 +178,19 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-subtitling-and-cc-addition-techniques-for-youtube-users-for-2024/"><u>[New] Effortless Subtitling & CC Addition Techniques for YouTube Users for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-flavors-unfolded-influencers-making-food-pop-for-2024/"><u>[New] Flavors Unfolded Influencers Making Food Pop for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] In 2024, The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/androids-best-youtube-video-downloaders-reviewed/"><u>Android's Best YouTube Video Downloaders Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-installation-for-samsung-mzmpf256hafu-nvme-ssd-on-windows-systems-a-complete-walkthrough/"><u>Easy Driver Installation for Samsung MZMPF256HAFU NVMe SSD on Windows Systems - A Complete Walkthrough</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortless-ways-to-switch-from-stereo-to-mono-sound-with-these-top-3-tips/"><u>Effortless Ways to Switch From Stereo to Mono Sound with These Top 3 Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-master-communication-in-todays-world-leveraging-facebook-twitter-instagram-and-youtube/"><u>How to Master Communication in Today's World: Leveraging Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-elite-fleet-10-aerial-visionaries-dream-choices/"><u>In 2024, Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>In 2024, Excellence in Detail A Curated List of 8K Cameras</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-g2-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo G2 Easily?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-desktop-and-mobile-video-call-platforms-zoom-replacements-for-2024/"><u>Premium Desktop & Mobile Video Call Platforms (Zoom Replacements) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/securely-save-your-windows-8-screenshots-for-2024/"><u>Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[New] 2024 Approved Curated Cinematic Journeys The Best YT Film Selections</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems-for-2024/"><u>[New] A Compreenasional Approach to Earning Through Vimeo's Revenue Systems for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-captivating-chronicles-youtube-stories-to-follow/"><u>[New] Captivating Chronicles YouTube Stories to Follow</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide-for-2024/"><u>[New] How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-performers-webcasts/"><u>[New] In 2024, Exclusive Performers' Webcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionize-live-streaming-top-4-approaches-to-record-on-fb-for-2024/"><u>[New] Revolutionize Live Streaming Top 4 Approaches to Record on FB for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-techniques-to-rectify-iphone-photo-out-of-focus-for-2024/"><u>[New] Techniques to Rectify iPhone Photo Out-of-Focus for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capture-your-social-face-video/"><u>[Updated] 2024 Approved Capture Your Social Face Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-assortment-of-video-capturing-technology/"><u>[Updated] In 2024, Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-resizing-imagery-on-iphone-without-hassle/"><u>[Updated] In 2024, Resizing Imagery on iPhone Without Hassle</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-camon-20-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Camon 20 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/strategies-to-exclude-recommended-podcasts-in-spotify/"><u>Strategies to Exclude Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unresponsive-pebble-sound-systems/"><u>Troubleshooting Unresponsive Pebble Sound Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-disc-to-digital-how-to-transfer-your-dvd-collection-to-computer-or-mobile/"><u>Updated In 2024, From Disc to Digital How to Transfer Your DVD Collection to Computer or Mobile</u></a></li>
 </ul></div>
 
