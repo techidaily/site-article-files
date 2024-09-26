@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-09-15T16:54:21.856Z
-updated: 2024-09-20T16:19:59.809Z
+date: 2024-09-25T16:33:02.833Z
+updated: 2024-09-26T19:44:51.245Z
 tags: 
   - screen-recording
   - ai video
@@ -69,13 +69,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -91,6 +84,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -121,10 +121,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -143,6 +143,13 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -159,6 +166,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -170,13 +184,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -235,5 +242,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-envision-vr-today-a-practical-guide-for-smartphone-users/"><u>[New] In 2024, Envision VR Today A Practical Guide for Smartphone Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-deciding-on-a-top-gopro-camera-max-or-hero-11/"><u>2024 Approved Deciding on a Top GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-digital-sculptors-playground-essential-tools-for-every-animator/"><u>2024 Approved Digital Sculptors’ Playground Essential Tools for Every Animator</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>2024 Approved Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-find-your-photo-oasis-a-guide-to-pexels/"><u>2024 Approved Find Your Photo Oasis A Guide to Pexels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-see-upgrades-in-vr-armor/"><u>2024 Approved Must-See Upgrades in VR Armor</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>2024 Approved Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-gaming-experience-samsung-ue590-freesync-screen/"><u>2024 Approved Ultimate Gaming Experience Samsung UE590 FreeSync Screen</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>2024 Approved Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-handling-ftd2xxdll-error-messages-on-windows/"><u>Comprehensive Tips for Handling 'Ftd2xx.dll' Error Messages on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/high-fidelity-hearing-sony-bluetooth-review/"><u>High-Fidelity Hearing - Sony Bluetooth Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-motorola-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/longer-reach-stronger-connection-optimizing-your-bluetooth-experience-in-windows-environments/"><u>Longer Reach, Stronger Connection: Optimizing Your Bluetooth Experience in Windows Environments</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-download-adobe-premiere-pro-cs6-for-mac-os/"><u>New Free Download Adobe Premiere Pro CS6 for Mac OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unplanned-restarts-in-windows-11-fixing-the-auto-boot-issue/"><u>Troubleshooting: Unplanned Restarts in Windows 11 - Fixing the Auto-Boot Issue</u></a></li>
+</ul></div>
 

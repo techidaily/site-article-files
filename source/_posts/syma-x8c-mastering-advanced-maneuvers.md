@@ -1,7 +1,7 @@
 ---
 title: "\"Syma X8C  Mastering Advanced Maneuvers\""
-date: 2024-09-17T16:09:09.016Z
-updated: 2024-09-20T16:17:22.072Z
+date: 2024-09-25T17:22:57.984Z
+updated: 2024-09-26T19:15:29.085Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -77,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 #### 2\.  Design
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
@@ -100,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 ## Conclusion
@@ -107,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -131,18 +159,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-a-full-assessment-of-the-android-based-photo-editor-lightroom-for-2024/"><u>[New] A Full Assessment of the Android-Based Photo Editor, Lightroom for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>[Updated] 2024 Approved Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-ranked-action-cameras-for-extreme-sports/"><u>[Updated] In 2024, Top-Ranked Action Cameras for Extreme Sports</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-witness-the-magic-top-14-text-animation-pieces/"><u>[Updated] In 2024, Witness the Magic Top 14 Text Animation Pieces</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-manual-how-to-turn-off-igtv/"><u>[Updated] Manual How to Turn Off IGTV</u></a></li>
+<li><a href="https://article-files.techidaily.com/animepic-full-review-year-2024-edition/"><u>AnimEpic Full Review - Year 2024 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/capturing-life-with-iphones-dual-function-capability-for-2024/"><u>Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-on-iphone-frozen-or-crashing-discover-these-t8-quick-solutions/"><u>ChatGPT on iPhone Frozen or Crashing? Discover These T8 Quick Solutions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-in-focus-review-of-modular-board-mod007b/"><u>Hall Effect Keys in Focus - Review of Modular Board MOD007B</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-complementing-visuals-embedding-text-into-windowsmac-pictures/"><u>In 2024, Complementing Visuals Embedding Text Into Windows/Mac Pictures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-reno-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Reno 11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/integrating-snaps-smoothly-into-your-zoom-schedule-for-2024/"><u>Integrating Snaps Smoothly Into Your Zoom Schedule for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precisioncapture-w10-pro-for-2024/"><u>PrecisionCapture W10 Pro for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v27e-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo V27e Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dichotomy-of-digital-companions-in-therapy-and-care/"><u>The Dichotomy of Digital Companions in Therapy and Care</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
+</ul></div>
 

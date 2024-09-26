@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Audio Alchemist's Handbook  Creating Custom Auditory Alerts on Android Phones\""
-date: 2024-09-19T17:42:51.847Z
-updated: 2024-09-20T17:03:04.296Z
+date: 2024-09-21T20:03:02.203Z
+updated: 2024-09-26T16:52:09.695Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,13 @@ Here is why Wondershare Filmora is an excellent option for trimming MP3 files in
 
 If you want to know more about Filmora’s new features, you can watch the video below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to use Wondershare Filmora?
 
 To use Wondershare Filmora to trim your audio files, perform the following steps:
@@ -65,6 +72,13 @@ Step2 Click on the **"Import"** option to add an MP3 file.
 Step3 Drag the MP3 file and drop it into the **"Timeline Panel"** present at the bottom.
 
 ![adding an mp3 file to the timeline](https://images.wondershare.com/filmora/article-images/2023/03/adding-an-mp3-file-to-the-timeline.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Click the MP3 file, and a double arrow will appear. Drag the double arrow on the MP3 file to select a part that you want to trim. Now, click the **"Split"** option to delete the selected part.
 
@@ -82,16 +96,16 @@ Step1 Transfer the trimmed MP3 file from your PC to your Android phone's **"File
 
 ![transfer the trimmed mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/transfer-the-trimmed-mp3-file.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Open **"Settings"** on your Android phone. Scroll below and tap the **"Sound"** option.
 
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Scroll below and tap the **"Phone Ringtone"** option.
 
@@ -113,13 +127,6 @@ Step1 Launch **"Settings"** on your phone and tap the **"Sound"** option.
 
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now scroll below and tap the **"Notification Sound"** option.
 
 ![tap notification sound option](https://images.wondershare.com/filmora/article-images/2023/03/tap-notification-sound-option.PNG)
@@ -131,6 +138,13 @@ Step3 A list of default notification sounds will open up. To select the trimmed 
 Step4 Select the customized sound and tap **"Save."** Now you have successfully set a customized MP3 file as a notification sound.
 
 ![select customized sound and tap save](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-sound-and-tap-save.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set MP3 Ringtones for Specific Contacts?
 
@@ -199,19 +213,6 @@ Step4 Click the MP3 file, and a double arrow will appear. Drag the double arrow 
 
 ![select and trim the mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/select-and-trim-the-mp3-file.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Click the **"Export"** option and export the newly created MP3 file in MP3 format.
 
 ![export the mp3 file in mp3 format](https://images.wondershare.com/filmora/article-images/2023/03/export-the-mp3-file-in-mp3-format.png)
@@ -228,6 +229,13 @@ Step2 Open **"Settings"** on your Android phone. Scroll below and tap the **"Sou
 
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Scroll below and tap the **"Phone Ringtone"** option.
 
 ![tap phone ringtone option](https://images.wondershare.com/filmora/article-images/2023/03/tap-button-to-add-trimmed-mp3-file.PNG)
@@ -241,10 +249,16 @@ Step5 Select the customized ringtone from **"Sound Picker"** and tap **"Done,"**
 ![select customized mp3 file from sound pickerr](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-mp3-file-from-sound-pickerr.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set an MP3 File as a Notification Sound?
@@ -254,6 +268,13 @@ Apart from setting ringtone, you are also supported to set customized notificati
 Step1 Launch **"Settings"** on your phone and tap the **"Sound"** option.
 
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Now scroll below and tap the **"Notification Sound"** option.
 
@@ -287,18 +308,18 @@ Step4 A list of default ringtones will appear. If you want to add a customized r
 
 ![tap + button to add trimmed mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/tap-button-to-add-trimmed-mp3-fille.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Select the customized MP3 file from **"Sound Picker,"** and you are done.
 
 Repeat the above steps to set MP3 ringtones for other contacts on your Android phone.
 
 ![select customized mp3 file from sound picker](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-mp3-file-from-sound-picker.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -330,5 +351,22 @@ Hopefully, you will find our article helpful, and you can now add customized rin
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-leading-alternatives-to-twitter-ranked-best-for-2024/"><u>[New] Leading Alternatives to Twitter, Ranked Best for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pioneering-photography-with-advanced-software/"><u>[Updated] 2024 Approved Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/"><u>[Updated] From Chats to Files The Methodical Approach to Downloading FB Video for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-harmonizing-hues-audio-fade-techniques-in-logic-pro-for-2024/"><u>[Updated] Harmonizing Hues Audio Fade Techniques in Logic Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons/"><u>[Updated] In 2024, Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-best-soundtracks-at-your-fingertips-for-online-creators/"><u>[Updated] In 2024, The Best Soundtracks at Your Fingertips for Online Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-guide-to-flawless-audio-segmentation/"><u>[Updated] Step-by-Step Guide to Flawless Audio Segmentation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-c53-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme C53 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/amazon-prime-and-tweet-fandom-most-appreciated-videos-2023-for-2024/"><u>Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/diy-360-videos-using-your-smartphone-for-2024/"><u>DIY 360 Videos Using Your Smartphone for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-integrating-technology-effective-school-vid-eds/"><u>In 2024, Integrating Technology Effective School Vid Eds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-network-an-expert-review-of-the-linksys-wrt1900acs-routers-performance-and-capabilities/"><u>Navigating Through Network: An Expert Review of the Linksys WRT1900ACS Routers' Performance and Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-network-errors-in-multiplayer-civ-5/"><u>Removing Network Errors in Multiplayer CIV 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-the-ultimate-streaming-gear/"><u>Rode Streamer Pro X: Is It the Ultimate Streaming Gear?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ipad-sms-tutorial-send-and-receive-effortlessly/"><u>The Ultimate iPad SMS Tutorial: Send and Receive Effortlessly</u></a></li>
+</ul></div>
 

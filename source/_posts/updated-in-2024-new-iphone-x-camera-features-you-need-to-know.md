@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, New iPhone X Camera Features You Need to Know"
-date: 2024-09-13T16:13:24.588Z
-updated: 2024-09-20T18:16:11.501Z
+date: 2024-09-20T20:28:29.637Z
+updated: 2024-09-26T19:35:00.942Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -66,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -73,19 +93,19 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,5 +139,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-cross-platform-media-engines-a-buyers-guide/"><u>[New] 2024 Approved Mastering Cross-Platform Media Engines A Buyer's Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-10-best-drones-with-camera-for-filming-and-photography/"><u>[New] 2024 Approved Top 10 Best Drones with Camera for Filming and Photography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-capturing-tomorrow-today-leading-video-cams/"><u>[New] Capturing Tomorrow Today – Leading Video Cams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-decoding-the-magic-behind-seamless-musical-segments-for-2024/"><u>[New] Decoding the Magic Behind Seamless Musical Segments for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>[Updated] 2024 Approved Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>[Updated] 2024 Approved Unmatched Mounting Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-breaking-barriers-in-photography-mastering-gopro-time-lapse/"><u>[Updated] In 2024, Breaking Barriers in Photography Mastering GoPro Time-Lapse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choosing-and-transforming-video-types-for-enhanced-web-presentation-a-comprehensive-guide/"><u>Choosing and Transforming Video Types for Enhanced Web Presentation: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-80-pro-straight-screen-edition-lock-screen-password-by-drfone-android/"><u>How To Change Honor 80 Pro Straight Screen Edition Lock Screen Password?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-15-free-web-based-image-enhancers-2023/"><u>In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>In 2024, Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keeping-cameras-steady-in-motion-landscapes-for-2024/"><u>Keeping Cameras Steady in Motion Landscapes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop-for-2024/"><u>Mastering HDR Photos Advanced Techniques in Photoshop for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-cinematic-storytelling-using-ken-burns-effect-in-final-cut-pro-for-2024/"><u>New Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guide-to-computer-components/"><u>Tom's Tech Insights: Expert Guide to Computer Components</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-guide-top-8-tripods-for-4k-video-enthusiasts/"><u>Ultimate Guide Top 8 Tripods for 4K Video Enthusiasts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199690822-windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today</u></a></li>
+</ul></div>
 

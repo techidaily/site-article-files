@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Snapshots From Videos Within Windows 11 Photos App"
-date: 2024-09-14T17:05:16.887Z
-updated: 2024-09-20T17:57:13.891Z
+date: 2024-09-21T21:57:04.880Z
+updated: 2024-09-26T17:36:30.035Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
@@ -73,22 +80,16 @@ We are explaining the solutions here –
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -106,10 +107,10 @@ Here comes the guide –
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -117,6 +118,13 @@ Here comes the guide –
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -141,5 +149,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-your-storyline-three-ways-to-border-instagram-videos-for-2024/"><u>[New] Craft Your Storyline Three Ways to Border Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-screen-with-ezvid-video-maker-for-2024/"><u>[New] How to Record Screen with Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-pitch-to-peak-steps-for-effective-adobe-audition-fades/"><u>[Updated] In 2024, From Pitch to Peak Steps for Effective Adobe Audition Fades</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/9gag-the-ultimate-resource-for-memetic-innovation-for-2024/"><u>9GAG The Ultimate Resource for Memetic Innovation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/apple-music-add-on-for-smooth-video-playback/"><u>Apple Music Add-On for Smooth Video Playback</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list-for-2024/"><u>Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/captivating-visual-transformation-software-for-pc-mac-linux/"><u>Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-ppt-techniques-for-s2t-integration-advocates/"><u>Cutting-Edge PPT Techniques for S2T Integration Advocates</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-tempo-detection-top-free-tools-unveiled-for-2024/"><u>Cutting-Edge Tempo Detection Top Free Tools Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/deciphering-the-power-of-apples-new-m1-laptops/"><u>Deciphering the Power of Apple’s New M1 Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-itel-p55t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Itel P55T Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-picks-for-commercial-cloud-space/"><u>Master Picks for Commercial Cloud Space</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/promising-future-with-us-policy-changes-expert-analysis-on-abbyys-platform/"><u>Promising Future with US Policy Changes | Expert Analysis on ABBYY's Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-100-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-checklist-12-must-have-cameras-for-vlogging-professionals/"><u>The Ultimate Checklist 12 Must-Have Cameras for Vlogging Professionals</u></a></li>
+</ul></div>
 
