@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Global VR Landscape  Recent Developments for 2024\""
-date: 2024-09-16T18:17:55.958Z
-updated: 2024-09-20T16:30:24.452Z
+date: 2024-09-24T17:49:49.937Z
+updated: 2024-10-01T19:31:12.122Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
  However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About the European VR game makers and their funding
 
@@ -56,11 +70,25 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 ![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -85,12 +113,26 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[New] 2024 Approved Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-blueprint-to-acquire-clean-images/"><u>[New] 2024 Approved The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-your-viewing-unlocking-the-potential-of-netflixs-pip-for-2024/"><u>[New] Elevate Your Viewing Unlocking the Potential of Netflix’s PIP for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-extraordinary-assessment-and-alternative-choices/"><u>[New] In 2024, Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-easy-downloads-of-youtube-srt-subtitles-explained/"><u>[Updated] 2024 Approved Easy Downloads of YouTube SRT Subtitles Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-leading-3d-modeling-applications-for-animators/"><u>[Updated] 2024 Approved Leading 3D Modeling Applications for Animators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-account-alert-regaining-lost-access-on-facebook-for-2024/"><u>[Updated] Account Alert! Regaining Lost Access on Facebook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-champion-avc-player-for-seamless-viewing/"><u>[Updated] Champion AVC Player for Seamless Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-pick-prime-drone-gimbals/"><u>[Updated] Expert Pick Prime Drone Gimbals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-discover-5-best-webcams-featuring-crystal-clear-mics/"><u>2024 Approved Discover 5 Best Webcams Featuring Crystal Clear Mics</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/analyzing-the-factors-that-contributed-to-the-triumphant-rise-of-the-wii-u-console/"><u>Analyzing the Factors That Contributed to the Triumphant Rise of the Wii U Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlesmooth-quick-fix-for-league-of-legends-stability-problems/"><u>BattleSmooth: Quick Fix for League of Legends Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-new-realms-best-iphoneandroid-vr-games/"><u>Explore New Realms Best iPhone/Android VR Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-role-of-swot-analysis-in-shaping-a-robust-business-model-for-2024/"><u>The Role of SWOT Analysis in Shaping a Robust Business Model for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/tips-for-harnessing-free-visual-content-creatively-for-2024/"><u>Tips for Harnessing Free Visual Content Creatively for 2024</u></a></li>
+</ul></div>
 

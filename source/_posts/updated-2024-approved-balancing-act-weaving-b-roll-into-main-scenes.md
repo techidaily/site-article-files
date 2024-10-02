@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Balancing Act  Weaving B Roll Into Main Scenes\""
-date: 2024-09-23T18:51:58.970Z
-updated: 2024-09-26T20:49:04.480Z
+date: 2024-09-29T00:29:09.177Z
+updated: 2024-10-02T00:03:54.283Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,13 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -58,10 +65,16 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -69,10 +82,10 @@ Including archival material in your video allows your audience to experience a p
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -91,22 +104,15 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,24 +149,17 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-rhythmic-resonance-in-static-images/"><u>[New] 2024 Approved Rhythmic Resonance in Static Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-ultimate-t5-eye-cutting-edge-action-video-capture/"><u>[New] In 2024, Ultimate T5 Eye Cutting-Edge Action Video Capture</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-perfecting-your-projects-proportions-with-aspect-ratio/"><u>[New] Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-future-shaped-by-quantum-hdr-tech/"><u>[New] The Future Shaped by Quantum HDR Tech</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-illustration-revolution-adding-depth-to-text-with-3d/"><u>[Updated] 2024 Approved Illustration Revolution Adding Depth to Text with 3D</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-decreasing-mix-intensity-step-by-step-for-2024/"><u>[Updated] Decreasing Mix Intensity Step by Step for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>[Updated] In 2024, Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>[Updated] Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-maximizing-views-on-tiktok-unboxing-content/"><u>2024 Approved Maximizing Views on TikTok Unboxing Content</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-c65-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco C65</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chevrolet-unveils-new-ev-the-all-electric-gm-blazer/"><u>Chevrolet Unveils New EV: The All-Electric GM Blazer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-methods-generate-unique-dandd-avatars-using-ai-tools-like-gpt-and-dall-e/"><u>Innovative Methods: Generate Unique D&D Avatars Using AI Tools Like GPT and DALL-E</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>Navigating Instagram Live Anonymously A Step-by-Step Approach</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/quick-guide-to-starting-an-instagram-live-show/"><u>Quick Guide to Starting an Instagram Live Show</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-visionarys-toolkit-for-personalized-animation-techniques/"><u>The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-success-with-effective-video-praise-techniques/"><u>Unlocking Success with Effective Video Praise Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/visionboost-converter-windows-mac-online-version-for-2024/"><u>VisionBoost Converter – Windows, Mac, Online Version for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/z-edges-cost-effective-z3plus-cam-in-depth-performance-insights/"><u>Z-Edge's Cost-Effective Z3+ Cam: In-Depth Performance Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-secrets-to-surpassing-the-top-in-youtube-fame/"><u>[Updated] Secrets to Surpassing the Top in YouTube Fame</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-kid-approved-drones-for-beginning-pilots/"><u>2024 Approved Best Kid-Approved Drones for Beginning Pilots</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-new-horizinas-in-the-world-of-srt/"><u>2024 Approved Navigating New Horizinas in the World of SRT</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quick-fixes-for-professional-looking-indie-films/"><u>2024 Approved Quick Fixes for Professional-Looking Indie Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sjcam-sj6-legend-vs-xiaomi-yi-4k/"><u>2024 Approved SJCam SJ6 Legend VS Xiaomi Yi 4K</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-tunes-palette-for-video-storytelling/"><u>2024 Approved Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streammasters-obs-edition/"><u>In 2024, StreamMasters OBS Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-your-social-media-links-organize-facebook-linkedin-and-youtube-in-one-place/"><u>Master Your Social Media Links: Organize Facebook, LinkedIn & YouTube in One Place</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-converting-dall-e-nputs-from-webp-format-to-jpegpng/"><u>Simple Guide: Converting DALL-E Nputs From WebP Format to JPEG/PNG</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/"><u>Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-v-purse-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor V Purse Device</u></a></li>
 </ul></div>
 

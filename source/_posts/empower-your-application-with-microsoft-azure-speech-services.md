@@ -1,7 +1,7 @@
 ---
 title: "Empower Your Application with Microsoft Azure Speech Services"
-date: 2024-09-07T23:36:01.683Z
-updated: 2024-09-14T19:32:34.011Z
+date: 2024-09-29T22:00:09.706Z
+updated: 2024-10-02T00:53:15.261Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Step3The program will take a while to deploy an instance. Now tap Keys and endpo
 
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
 
 Step5Now enter the Azure regional identifier and subscription key on Windows Terminal or PowerShell. To configure the region and key, run these commands; “**spx config @key --set SUBSCRIPTION-KEY** and **spx config @region --set REGION.**”
@@ -89,13 +96,6 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Filmora To Make STT videos
 
 ##### Step 1
@@ -105,10 +105,10 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -117,22 +117,15 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Google Docs - Free
 
 ![micrsoft azure speech to text alternative google docs](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you're looking for free voice typing software, you're better off with Google Docs. Most of you may not be aware that Google Docs can accurately convert speech to text. This makes it a handy tool if you find speaking easier than writing. As expected, this voice transcription tool recognizes hundreds of languages, like English, French, Italian, Hindi, etc.
@@ -150,6 +143,13 @@ Step3Click the Microphone icon to start dictating texts on Google Docs. After di
 ### 3.[Audtext](https://audext.com/) \- $60 one-time fee
 
 ![micrsoft azure speech to text alternative audtext](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If Google's voice recognition service is too slow for your liking, consider Audtext. It's a highly rated online program that uses cutting-edge machine learning technology to transcribe audio to text in 60+ languages. You can easily train this program to identify the speaker in your interview or podcast file.
 
@@ -178,6 +178,14 @@ In that case, use a more straightforward option like Google Docs to dictate text
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -194,5 +202,24 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-sell-more-grow-faster-discover-how-these-15-facebook-apps-can-help/"><u>[New] 2024 Approved Sell More, Grow Faster Discover How These 15 Facebook Apps Can Help</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-propel-your-video-writes-the-ai-way/"><u>[New] In 2024, Propel Your Video' Writes The AI Way</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-the-potentials-of-windows-11-movie-maker/"><u>[New] In 2024, Unlocking the Potentials of Windows 11 Movie Maker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-sj4000-stylish-essentials-a-comprehensive-list/"><u>[Updated] 2024 Approved SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[Updated] In 2024, Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-dji-phantom-4-extension-pack-for-2024/"><u>[Updated] The Ultimate DJI Phantom 4 Extension Pack for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[Updated] The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-warping-letters-in-photographyvideo/"><u>[Updated] Warping Letters in Photography/Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cost-cutting-camera-options-discover-top-6-cheap-action-cams/"><u>2024 Approved Cost-Cutting Camera Options Discover Top 6 Cheap ACTION Cams</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>2024 Approved Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>2024 Approved Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-up-to-date-amd-smbus-drivers-for-your-system/"><u>Easy Access to Up-to-Date AMD SMBus Drivers for Your System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-k11-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo K11 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-your-windows-10-system-solution-inside/"><u>How to Restore Vanished Desktop Icons in Your Windows 10 System - SOLUTION Inside!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-attracting-watchers-discover-the-top-6-video-types/"><u>In 2024, Attracting Watchers Discover the Top 6 Video Types</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-razr-40-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Razr 40 Ultra FRP Bypass</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"LUTs Uncovered  Elevating the Quality of Digital Imagery\""
-date: 2024-09-17T16:18:42.714Z
-updated: 2024-09-20T18:08:10.964Z
+date: 2024-09-28T23:07:51.259Z
+updated: 2024-10-01T22:49:30.463Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -70,6 +77,13 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -85,6 +99,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -103,10 +124,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -118,13 +139,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -154,5 +168,18 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-curated-list-of-best-mac-screen-recorders/"><u>[New] 2024 Approved Curated List of Best Mac Screen Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-5-proven-principles-to-skyrocket-your-online-presence-novice-style/"><u>[New] 5 Proven Principles to Skyrocket Your Online Presence, Novice Style</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>[New] A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-leaders-shaping-the-marvel-online-experience/"><u>[New] In 2024, Leaders Shaping the Marvel Online Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In-Depth Look Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-transform-your-iphone-snaps-into-stunning-hdr-photos-for-2024/"><u>[Updated] Transform Your iPhone Snaps Into Stunning HDR Photos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-media-visionaries-comprehensive-top-5-directory/"><u>Digital Media Visionaries Comprehensive Top 5 Directory</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-persistent-freezing-in-fifa-22-while-playing-on-pc-systems/"><u>Fixing the Persistent Freezing in FIFA 22 While Playing on PC Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/highlighting-key-developments-in-windows-movie-maker-releases-for-2024/"><u>Highlighting Key Developments in Windows Movie Maker Releases for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-yourself-from-frustration-resolving-sound-issues-during-pc-based-zoom-sessions/"><u>Unmute Yourself From Frustration: Resolving Sound Issues During PC-Based Zoom Sessions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-watermark-free-video-editing-top-14-free-tools/"><u>Updated Watermark-Free Video Editing Top 14 Free Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Focus on Details  Masterful Close-Up Techniques for Gaming\""
-date: 2024-09-18T17:10:18.867Z
-updated: 2024-09-20T18:20:25.675Z
+date: 2024-09-27T19:18:48.372Z
+updated: 2024-10-01T20:24:27.689Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ Step3 To change the alteration key, click on the arrow that is pointing down and
 
 Step4 After choosing the modifier key, open the Minecraft window and drag it to the higher or lower side of the screen to zoom in or out. Now that you know how to zoom in on Minecraft on Mac OS, all you need to do is hit and hold the modifier key of your choice while scrolling up with the mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 3\. Using OptiFine Mod (Java)
 
 You may customize the zoom in and out of your Minecraft environment by using the OptiFine plugin. On your computer, you must install the necessary applications. A visual mod for Minecraft called OptiFine allows for zooming. There are other features as well, such as enhanced visuals, high-definition textures, dynamic lighting, and realistic water. This mod only works with Java Edition on operating systems including Windows, macOS, and Linux. For Minecraft: Windows 10 Edition, Minecraft for mobile devices, and Minecraft for gaming consoles, this mod is not accessible.
@@ -93,6 +100,13 @@ Step4 Verify that OptiFine Mod is loaded into the program by checking this box. 
 
 ![optifine controls zoom](https://images.wondershare.com/filmora/article-images/2022/07/optifine-controls-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
@@ -113,16 +127,16 @@ Step3 However, you will always zoom in to 10% of your current Field of View whil
 
 ![spyglass settings](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 5\. Use Zoomed-Out Maps
 
@@ -131,6 +145,13 @@ You might think about making a zoomed-out map of your planet in addition to prov
 Step1 Gather the materials needed to make a map in the first step. These include a compass, a crafts table, and sugar cane (used to make paper).
 
 ![use zoom out maps](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-out-maps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
@@ -154,13 +175,6 @@ Step2 Double-click the downloaded OptiFine file to open it and finish the instal
 
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
 
 ![start launcher in minecraft](https://images.wondershare.com/filmora/article-images/2022/07/start-launcher-in-minecraft.jpg)
@@ -172,6 +186,13 @@ Step4 Verify that OptiFine Mod is loaded into the program by checking this box. 
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 4\. Using a Spyglass
 
@@ -185,19 +206,6 @@ Step2 After that, put the Spyglass you just created in your menu bar and take a 
 
 ![spyglass options panel](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-options-panel.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
 
 ![spyglass settings](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-settings.jpg)
@@ -205,13 +213,6 @@ Step3 However, you will always zoom in to 10% of your current Field of View whil
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 5\. Use Zoomed-Out Maps
 
@@ -221,9 +222,23 @@ Step1 Gather the materials needed to make a map in the first step. These include
 
 ![use zoom out maps](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-out-maps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
 
@@ -232,10 +247,10 @@ Step4 In order to utilize the map, choose it from the Equip bar at the bottom of
 ![utilize the map](https://images.wondershare.com/filmora/article-images/2022/07/utilize-the-map.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -268,5 +283,20 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-chuckle-composer-app/"><u>[Updated] Chuckle Composer App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-flickering-fonts-2-innovative-text-techniques/"><u>[Updated] In 2024, Flickering Fonts 2 Innovative Text Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-must-have-devices-for-exploration-videos/"><u>[Updated] In 2024, Must-Have Devices for Exploration Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-process-for-formulating-perfect-podcast-names/"><u>[Updated] Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-competition-unveiled-twitchs-clash-with-youtube-for-2024/"><u>[Updated] The Competition Unveiled Twitch's Clash with YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-magic-in-haul-video-creation/"><u>[Updated] Unveiling the Magic in Haul Video Creation</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-best-free-hd-movie-downloader-websites-stream-top-quality-films-in-1080p-and-720p/"><u>1. Best Free HD Movie Downloader Websites: Stream Top-Quality Films in 1080P and 720P</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-secure-quick-and-free-screen-captures-on-windows-8/"><u>2024 Approved Secure, Quick, & Free Screen Captures on Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide-for-2024/"><u>Exploring the Seven Superior Water-Tough Cams Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-perform-an-arduino-board-update-via-usb-on-your-pc-with-windows/"><u>How to Perform an Arduino Board Update via USB on Your PC with Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-speed-removing-ssgnatures-immediately/"><u>In 2024, Mastering Speed Removing Ssgnatures Immediately</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-monitor-workstations-connect-and-use-your-laptop-as-a-second-screen/"><u>Mastering Multi-Monitor Workstations - Connect and Use Your Laptop as a Second Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vectors-unveiled-a-novices-path-through-types-and-apps-for-2024/"><u>Vectors Unveiled A Novice’s Path Through Types and Apps for 2024</u></a></li>
+</ul></div>
 

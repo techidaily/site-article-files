@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cinema Crafting Excellence  Top 5 Camera Skills to Hone\""
-date: 2024-09-13T17:44:06.634Z
-updated: 2024-09-20T17:24:14.831Z
+date: 2024-09-28T17:32:13.615Z
+updated: 2024-10-01T16:07:25.522Z
 tags: 
   - screen-recording
   - ai video
@@ -41,9 +41,29 @@ Step 1 Attach your phone to the side of a door using duct tape or any strong tap
 
 Step 2 Now open and close the door to get smooth camera movement.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DIY LED Panel
 
@@ -62,6 +82,13 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -104,10 +131,10 @@ Here is a GIF attached for a better understanding of the steps.
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### DIY Light Reflector
@@ -127,13 +154,6 @@ Step 3 Use the reflector to redirect light to your object.
 There is a GIF attached below to understand the steps visually.
 
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
 
@@ -161,13 +181,6 @@ For a better understanding of the steps, watch the GIF attached below.
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -186,6 +199,13 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -203,6 +223,20 @@ Step 3 Move slowly to the other side of the subject while recording.
 A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tip 5\. Create a Barrel Roll Shot
 
@@ -223,20 +257,6 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 The video attached below will help you to understand these steps.
 
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -272,5 +292,24 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-best-virtual-reality-finger-guards-unveiled-for-2024/"><u>[New] Best Virtual Reality Finger Guards Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-revolutionizing-reality-top-vr-peripherals/"><u>[New] In 2024, Revolutionizing Reality Top VR Peripherals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-explore-essential-web-portals-delivering-impeccable-text-effects/"><u>[Updated] Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-legal-chants-for-clarity-top-10-downloads-guide/"><u>2024 Approved Legal Chants for Clarity Top 10 Downloads Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-casual-to-pro-unpacking-kinemaster-for-android-gamers-for-2024/"><u>From Casual to Pro Unpacking KineMaster for Android Gamers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-fix-login-errors-caused-by-a-faulty-user-profile-service-on-windows/"><u>How to Correctly Fix Login Errors Caused by a Faulty User Profile Service on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-evaluating-sns-hdr-pros-value-and-comparisons/"><u>In 2024, Evaluating SNS HDR Pro's Value & Comparisons</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>In 2024, The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>In 2024, The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution/"><u>New Ezvid for Mac The Ultimate Slideshow and Video Making Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roller-champs-multiplayer-mastery-2024-pc-adventure-top-tactics-and-insider-secrets-revealed/"><u>Roller Champs Multiplayer Mastery: 2024 PC Adventure - Top Tactics and Insider Secrets Revealed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
+</ul></div>
 

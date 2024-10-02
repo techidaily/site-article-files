@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Beginner’s Blueprint  Progressive Sound Intensity Rise for 2024\""
-date: 2024-09-08T11:04:58.642Z
-updated: 2024-09-14T22:38:07.654Z
+date: 2024-09-29T18:56:45.430Z
+updated: 2024-10-01T22:29:40.759Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -84,16 +91,10 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 ## Part 3\. Related FAQs
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How do you fade in multitrack in Audition?
@@ -104,15 +105,22 @@ If you want to fade in and fade out two clips at the same time, then controlling
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -132,29 +140,22 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -194,5 +195,26 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-luminous-transitions-crafting-dynamic-colors/"><u>[New] 2024 Approved Luminous Transitions Crafting Dynamic Colors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>[New] A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-channel-cash-flow-management-for-youtubers-for-2024/"><u>[New] Channel Cash Flow Management for YouTubers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-powerful-strategies-for-optimizing-gratuitous-timer-use-for-2024/"><u>[New] Powerful Strategies for Optimizing Gratuitous Timer Use for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-inside-the-action-camera-revolution-a-yi-4k-journey/"><u>[Updated] 2024 Approved Inside the Action Camera Revolution A Yi 4K Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-small-companys-guide-to-the-safest-online-chat-services/"><u>[Updated] 2024 Approved Small Company's Guide to the Safest Online Chat Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-gear-for-virtual-reality-players/"><u>[Updated] Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-total-360-giroptic-vr-capture-examination/"><u>[Updated] In 2024, Total 360 Giroptic VR Capture Examination</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photo-and-video-flair-the-art-of-distorted-messages-for-2024/"><u>[Updated] Photo & Video Flair The Art of Distorted Messages for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-guide-to-securing-photographic-backdrops/"><u>[Updated] Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-effortless-estimation-of-digital-gains/"><u>2024 Approved Effortless Estimation of Digital Gains</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-learning-to-utilize-burst-mode-for-high-speed-photography/"><u>2024 Approved Learning to Utilize Burst Mode for High-Speed Photography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-12-motion-activated-cameras-featuring-location-tracking/"><u>Best 12 Motion-Activated Cameras Featuring Location Tracking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12r-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12R Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-the-art-of-iphoneipad-video-logging/"><u>Mastering the Art of iPhone/iPad Video Logging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-list-of-engaging-moba-titles-on-android/"><u>The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/thrifty-shopping-for-cameras-the-most-economical-lists-under-100-for-2024/"><u>Thrifty Shopping for Cameras The Most Economical Lists Under $100 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-winter-scenes-to-enhance-your-video-warmth-for-2024/"><u>Top 5 Winter Scenes to Enhance Your Video Warmth for 2024</u></a></li>
+</ul></div>
 

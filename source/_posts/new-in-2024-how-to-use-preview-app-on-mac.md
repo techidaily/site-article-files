@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Use Preview App on Mac"
-date: 2024-09-13T16:35:58.795Z
-updated: 2024-09-20T16:39:42.037Z
+date: 2024-09-27T23:13:35.327Z
+updated: 2024-10-01T23:31:51.460Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -68,6 +75,13 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -85,13 +99,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -103,19 +110,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -148,6 +142,13 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -212,10 +213,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -241,5 +242,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-transitioning-shadows-a-minute-later/"><u>[New] 2024 Approved Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-high-impact-spotify-marketing-plans/"><u>[New] Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-applications-of-virtual-reality/"><u>[New] In 2024, Applications of Virtual Reality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-spectrum-surge-tools-for-sharper-web-videos/"><u>[New] In 2024, Spectrum Surge Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music-for-2024/"><u>[New] The Complete Process for Crafting Your Own Ringtone From TikTok Music for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-flight-gear-to-upgrade-your-phantom-4-drone-for-2024/"><u>[Updated] Essential Flight Gear to Upgrade Your Phantom 4 Drone for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-zero-to-hero-achieving-1k-insta-buddies-in-30-days/"><u>[Updated] From Zero to Hero Achieving 1K Insta Buddies in 30 Days</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>[Updated] In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-tier-videography-choose-from-15-camcorders/"><u>[Updated] In 2024, Top-Tier Videography Choose From 15 Camcorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovating-human-interface-a-guide-to-hand-perception/"><u>[Updated] Innovating Human Interface A Guide to Hand Perception</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronized-intro-editing-across-all-your-devices-this-year/"><u>2024 Approved Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-asmr-can-boost-your-health-and-happiness-for-2024/"><u>How ASMR Can Boost Your Health & Happiness for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-tips-how-to-avoid-the-8-deadliest-youtube-dos-and-donts-for-newbies/"><u>In 2024, Top Tips How to Avoid the 8 Deadliest YouTube Dos and Don'ts for Newbies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-now-csr-bluetooth-interface-drivers-available-for-download/"><u>Install Now: CSR Bluetooth Interface Drivers Available for Download</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-tecno-pova-5-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-solutions-get-microsoft-teams-webcam-functionality-back-on-windows-computers/"><u>Step-by-Step Solutions: Get Microsoft Teams Webcam Functionality Back on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-president-has-the-power-to-veto-legislation-which-can-be-overridden-only-by-a-two-thirds-majority-in-both-houses/"><u>The President Has the Power to Veto Legislation, Which Can Be Overridden only by a Two-Thirds Majority in Both Houses.</u></a></li>
+</ul></div>
 

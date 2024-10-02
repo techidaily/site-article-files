@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified\""
-date: 2024-09-13T04:20:15.468Z
-updated: 2024-09-15T02:53:35.737Z
+date: 2024-10-01T01:05:01.642Z
+updated: 2024-10-01T20:37:53.256Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,13 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -73,6 +80,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -88,15 +102,22 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -106,19 +127,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -143,5 +151,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-checking-top-5-web-based-or-extension-voice-changers-for-chromebook/"><u>[New] Checking Top 5 Web-Based or Extension Voice Changers for Chromebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[New] In 2024, Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-professional-tips-for-perfecting-your-srt-files/"><u>[New] Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro-for-2024/"><u>[New] Underwater Cinematography Avoiding Blur and Grain with a GoPro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-highest-achievers-in-the-realm-of-reddit-posts-for-2024/"><u>[Updated] Highest Achievers in the Realm of Reddit Posts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-learn-audio-recording-in-audacity-with-your-mac/"><u>[Updated] In 2024, Learn Audio Recording in Audacity with Your Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>[Updated] In 2024, Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>[Updated] Unraveling the Mystery Understanding & Using Slug Lines for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-tower-of-fantasy-game-crash-issues-on-windows-pc/"><u>Fixing the 'Tower of Fantasy' Game Crash Issues on Windows PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-mini-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Phone without PIN</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/platform-prowess-at-play-twitch-vs-youtube-clash-for-2024/"><u>Platform Prowess at Play Twitch vs YouTube Clash for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/securing-photo-libraries-without-copyright-notices-for-2024/"><u>Securing Photo Libraries Without Copyright Notices for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-free-mov-video-rotation-software-for-2024/"><u>Updated Top Free MOV Video Rotation Software for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Drone Flying with the Syma X5C Review for Starters"
-date: 2024-09-19T16:01:37.774Z
-updated: 2024-09-20T16:38:56.702Z
+date: 2024-09-26T23:02:37.661Z
+updated: 2024-10-01T16:13:47.657Z
 tags: 
   - screen-recording
   - ai video
@@ -96,19 +96,53 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -133,12 +167,19 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>[New] 2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unmasking-invisible-audiences-interactions/"><u>[New] 2024 Approved Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/trategies-for-earnings-on-youtube-revealing-minimum-view-targets/"><u>[New] Strategies for Earnings on YouTube Revealing Minimum View Targets</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-updated-insights-sonys-s3700-blu-ray-box-player/"><u>[New] Updated Insights Sony's S3700 Blu-Ray Box Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-chromatic-confluence-music-and-photography-online/"><u>[Updated] 2024 Approved Chromatic Confluence Music & Photography Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-online-echo-chambers-for-2024/"><u>[Updated] Best Online Echo Chambers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[Updated] Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-enhancing-skype-with-zooms-features-for-2024/"><u>Bridging the Gap Enhancing Skype with Zoom's Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/easy-methods-for-windows-fish-voice-alteration-for-2024/"><u>Easy Methods for Windows Fish Voice Alteration for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-navigating-telegram-web-applications/"><u>In 2024, Mastering the Art of Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-editing-software-for-professional-dji-videos/"><u>In 2024, The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/photography-refinement-removing-backgrounds-and-blurring-effectively-for-2024/"><u>Photography Refinement Removing Backgrounds & Blurring Effectively for 2024</u></a></li>
+</ul></div>
 

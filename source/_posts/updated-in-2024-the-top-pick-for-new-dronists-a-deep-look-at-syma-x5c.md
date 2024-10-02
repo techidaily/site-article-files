@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Top Pick for New Dronists – A Deep Look at Syma X5C"
-date: 2024-09-24T20:29:32.531Z
-updated: 2024-09-26T19:38:37.969Z
+date: 2024-09-26T18:35:41.679Z
+updated: 2024-10-01T22:23:43.693Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
@@ -103,26 +103,26 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -132,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,14 +163,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-expedited-transformation-top-5-free-online-gif-to-video-apps-for-2024/"><u>[New] Expedited Transformation Top 5 Free Online GIF to Video Apps for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-symphony-for-statuses-whatsapps-melodic-feature/"><u>[New] Symphony for Statuses WhatsApp's Melodic Feature</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-av1-vs-vp9-a-detailed-comparison/"><u>[Updated] AV1 Vs. VP9 A Detailed Comparison</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>[Updated] In 2024, Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-online-potential-top-5-strategic-approaches-to-youtube-marketing/"><u>[Updated] Unlocking Online Potential - Top 5 Strategic Approaches to YouTube Marketing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-the-art-of-old-facebook-features-step-by-step/"><u>Mastering the Art of Old Facebook Features Step-by-Step</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-artists-pathway-journeying-from-hobbyist-to-professional-for-2024/"><u>The Artist's Pathway Journeying From Hobbyist to Professional for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-photographers-guide-to-online-image-editing-and-cropping-for-2024/"><u>The Photographer's Guide to Online Image Editing and Cropping for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[New] The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-speech-clarity-mastering-googles-translation-technology/"><u>[Updated] Speech Clarity Mastering Google’s Translation Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-allocating-budget-for-youtube-video-success/"><u>2024 Approved Allocating Budget for YouTube Video Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-creative-boost-top-quality-complimentary-premiere-pro/"><u>2024 Approved Creative Boost Top-Quality, Complimentary Premiere Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>2024 Approved Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-meme-mastery-top-resources-for-creative-folks/"><u>2024 Approved Free Meme Mastery Top Resources for Creative Folks</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-hustle-free-download-free-gif-conversion-tools-ranked/"><u>2024 Approved Hustle-Free, Download-Free GIF Conversion Tools Ranked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lullaby-movies-assessment-and-overview/"><u>2024 Approved Lullaby Movies Assessment & Overview</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-simplifying-the-complexity-of-digital-enhancements/"><u>2024 Approved Simplifying the Complexity of Digital Enhancements</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-skyward-file-fortresses-identifying-top-cloud-titans/"><u>2024 Approved Skyward File Fortresses Identifying Top Cloud Titans</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>2024 Approved The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-9-drone-video-editing-software-for-different-level/"><u>2024 Approved Top 9 Drone Video Editing Software for Different Level</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/playlist-power-instagrams-musical-edge-for-2024/"><u>Playlist Power Instagram's Musical Edge for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstations-ultimate-makeover-the-best-9-upgrade-proposals/"><u>PlayStation's Ultimate Makeover: The Best 9 Upgrade Proposals</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/the-ultimate-guide-to-leveraging-copilot-pro-for-enhanced-word-processing-and-analysis/"><u>The Ultimate Guide to Leveraging Copilot Pro for Enhanced Word Processing and Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-asus-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Asus Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-step-by-step-guide-to-resolve-error-0x80fixed-in-the-minecraft-launcher-on-windows-1110/"><u>Troubleshooting Step-by-Step Guide to Resolve Error 0X80([fixed]) in the Minecraft Launcher on Windows 11/10</u></a></li>
 </ul></div>
 
