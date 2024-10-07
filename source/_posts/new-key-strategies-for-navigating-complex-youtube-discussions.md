@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Strategies for Navigating Complex YouTube Discussions"
-date: 2024-09-14T11:45:57.020Z
-updated: 2024-09-15T00:53:11.932Z
+date: 2024-10-04T20:08:25.442Z
+updated: 2024-10-07T07:05:54.389Z
 tags: 
   - screen-recording
   - ai video
@@ -83,11 +83,37 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -102,16 +128,10 @@ For example, you might click on a notification, and YouTube takes you to a parti
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
@@ -133,10 +153,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -173,5 +193,22 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-direct-live-broadcasting-obs-to-instagram/"><u>[New] In 2024, Direct Live Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-master-iphones-artistic-capabilities-capturing-movement-blur-for-2024/"><u>[New] Master iPhone's Artistic Capabilities Capturing Movement Blur for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-steps-to-create-a-compelling-community-giving-event-post/"><u>[New] Steps to Create a Compelling Community Giving Event Post</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies-for-2024/"><u>[New] The Key to Combining Linktree and TikTok Biographies for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-vidvault-capture-fb-videos-for-2024/"><u>[New] VidVault Capture FB Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-start-streaming-on-youtube-with-an-introductory-obs-course/"><u>[Updated] 2024 Approved Start Streaming on Youtube with an Introductory OBS Course</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>[Updated] 2024 Approved The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-audio-magic-a-windows-10-sound-journey/"><u>[Updated] Crafting Audio Magic A Windows 10 Sound Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-creating-thriving-giveaways-a-facebook-marketers-blueprint-for-2024/"><u>[Updated] Creating Thriving Giveaways A Facebook Marketer's Blueprint for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pushing-photography-to-new-heights-with-lightrooms-hdr/"><u>[Updated] Pushing Photography to New Heights with Lightroom's HDR</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-a60-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel A60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-why-are-my-instagram-videos-playing-sideways-seeking-answers/"><u>In 2024, Why Are My Instagram Videos Playing Sideways - Seeking Answers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-and-ratings-by-toms-hardware-specialists/"><u>In-Depth Analysis & Ratings by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/macs-best-capture-exploring-leading-screen-recording-software/"><u>Mac's Best Capture Exploring Leading Screen Recording Software</u></a></li>
+</ul></div>
 

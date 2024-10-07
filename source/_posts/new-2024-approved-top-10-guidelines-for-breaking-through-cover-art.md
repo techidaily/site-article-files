@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top 10 Guidelines for Breaking Through Cover Art\""
-date: 2024-09-09T10:46:54.196Z
-updated: 2024-09-15T05:19:26.261Z
+date: 2024-10-02T17:26:11.864Z
+updated: 2024-10-07T00:54:36.170Z
 tags: 
   - screen-recording
   - ai video
@@ -94,20 +94,27 @@ Not to mention, using explicit languages is also restricted by podcast directori
 
 ![podcast explicit covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The recent policies of podcast directories like Apple Podcast have changed drastically. For instance, you could have gotten away with using asterisk marks in some words (like sh\*t); however, it is not the case today. Your podcast will receive multiple notifications from the platform managers to remove the banner, and in some cases, the directories can also ban you from the platform. So, it is best to play it safe and use professional language, at least in the podcast cover photos.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Color Matters
 
 There are trends in book cover design and movie cover design, and then comes the trends in podcast cover design. You will be surprised to know the amount of time each podcaster spent on deciding the right color for the cover art.
 
 ![podcast colors covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Color is something that not many businesses pay attention to, but it has a profound effect on users. To just give you an example of how deep businesses think about the color of their business, there is a separate domain after colors: color branding.
 
@@ -131,6 +138,13 @@ There are numerous other examples like this. For instance, even black ink on a g
 
 It is important to retain that color psychology is not about tricking people. Instead, it is about learning the effects of color on people mind’s and using one that best describes your episodes. So, research this in-depth and choose a color that resonates with your content and also impresses users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Typography will help
 
 A debate that long started at the advent of the internet and is still continuing is the effects of fonts on readability. Some recent [studies from Canva have revealed that fonts have a lot](https://www.canva.com/learn/serif-vs-sans-serif-fonts/) to do with readability. But most important of all, fonts have a huge effect on people’s emotions.
@@ -140,10 +154,10 @@ For instance, serif fonts have long been used in newspapers, magazines, and even
 ![podcast typography covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sans serif is the new thing. It is all about throwing the tradition of using Serif fonts out of the window and using a fun and exciting and allowing users to read conveniently on the web-pages.
@@ -166,19 +180,6 @@ Of course, A/B testing in the initial phases is necessary to test the design of 
 
 Brands like Coca-Cola, Nike, and Apple use consistency in their images and logos and ensure that all platforms have a similar brand image. This allows the users to recognize the brand, and the picture sits in the user’s mind. So, ensure consistency across all platforms and use the same cover images on all podcast directories.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Image compression
 
 Almost all podcast directories will recommend you compress the podcast cover image, and for good reasons. Firstly, a small image loads faster on the pages and allows users to interact with your podcast at first sight. Second, mobile apps and web pages are very different in nature from web platforms. And a lot of users listen to the podcast via their smart phones, so it is best to use compressed images.
@@ -190,6 +191,13 @@ Some podcast platforms, like Buzzsprout, do the image compression on their end. 
 ### 9\. Design for a variety of sizes and re-purpose your art
 
 When you design the podcast cover, it is best to take different aspect ratios and dimensions and sketch your plan. This will allow you to be more creative, and of course, you can easily resize the banner for respective podcast directories.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Make an Attractive Podcast Cover Easily with Filmora
 
@@ -216,6 +224,13 @@ Above all, Filmora is a self-explanatory tool with a clean and modern interface 
 * Color correct the image.
 * Export in any resolution, format, and custom dimension (dedicated options available).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to make a podcast cover with Filmora?
 
 As indicated, Filmora is really simple to use. Regardless of whether you’ve used a podcast cover-making tool before or not, Filmora will feel easy and quick. Here’s how to make a podcast cover with Filmora:
@@ -234,13 +249,6 @@ Step4 Navigate to the top of the timeline and click the Text icon. Then, select 
 
 ![create podcast cover photo filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 A pop-up window should appear on your screen. Click Title > Basic > then enter the title of your podcast show in the relevant area. After that, adjust the font, font size, and text color. You can also make the text animated by clicking Animation at the top of the pop-up.
 
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
@@ -248,6 +256,13 @@ Step5 A pop-up window should appear on your screen. Click Title > Basic > then e
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summing Up
 
@@ -280,6 +295,13 @@ Step2 Launch the installed app and click Create a New Project. Then, click Stock
 
 ![create podcast cover photo filmora 1](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 You should see a list of the royalty-free image platforms that are supported on Filmora on the left side of the screen. Click a preferred platform (We used Unsplash for this stepwise guide.) and type Podcast in the search bar. Then, drag-n-drop a preferred photo that you wish to use for your podcast cover photo to the Timeline.
 
 ![create podcast cover photo filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-13.jpg)
@@ -295,13 +317,6 @@ Step5 A pop-up window should appear on your screen. Click Title > Basic > then e
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summing Up
 
@@ -331,5 +346,17 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>[New] 2024 Approved Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-maximize-reach-in-telegram-a-marketers-playbook/"><u>[New] 2024 Approved Maximize Reach in Telegram A Marketer's Playbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-underground-sources-for-smart-fb-memes-for-2024/"><u>[New] Top Underground Sources for Smart FB Memes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-understanding-syma-x8c-sensor-technology/"><u>[New] Understanding Syma X8C Sensor Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-explore-the-past-reverse-video-on-ios-devices/"><u>[Updated] In 2024, Explore the Past Reverse Video on iOS Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screen-capture-simplified-top-choices-for-easy-video-making-for-2024/"><u>[Updated] Screen Capture Simplified Top Choices for Easy Video Making for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-time-lapse-tools-the-finest-screen-recorders/"><u>[Updated] TOP Time-Lapse Tools - The Finest Screen Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/discover-the-13-essential-earning-tactics-for-novices-on-reddit-for-2024/"><u>Discover the 13 Essential Earning Tactics for Novices on Reddit for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-tips-for-audio-crossfades-in-premiere-pro/"><u>In 2024, Essential Tips for Audio Crossfades in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/overcoming-deformed-video-playback-online-for-2024/"><u>Overcoming Deformed Video Playback Online for 2024</u></a></li>
+</ul></div>
 

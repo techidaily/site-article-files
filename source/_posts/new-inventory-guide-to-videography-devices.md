@@ -1,7 +1,7 @@
 ---
 title: "[New] Inventory Guide to Videography Devices"
-date: 2024-09-12T12:29:22.836Z
-updated: 2024-09-15T04:07:46.938Z
+date: 2024-09-29T22:58:02.504Z
+updated: 2024-10-06T17:48:04.963Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 
  The other characteristic of consumer cameras is that they are smaller and simpler to operate, with most of them being fully automatic. But users still have the versatility to manually adjust other settings such as exposure audio level, focus and white balance amongst others. Unlike their professional counterparts, consumer cameras don’t have extensions to allow for extra audio inputs for professional sound equipment and all of them have fixed lenses with outdated digital revolution.
@@ -56,15 +63,36 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
 
  Pro consumer video cameras are also fairly expensive and the decent ones range between $1500 and $10,000 – almost a third of what you could spend for fully professional cameras like those used for big budget television works. Despite the high price range and the kind of technology utilized in the manufacture of these cameras, they still come with manual image and audio controls and most of them have external audio inputs.
 
  The other admirable thing about these cameras is that they offer bigger imaging chips, interchangeable lenses, as well as the versatility to be time code in and out in instances of multi-camera reporting. With all the features and capabilities of these cameras, it becomes really difficult to distinguish them as either pro consumer cameras or professional cameras. Perhaps the most glaring difference between the two sets of cameras is the price. For professional video cameras, you can expect to spend anywhere from $8,000 well up to the regions of $50,000 and sometimes beyond.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Super Chip Cameras
 
 ![Super chip video cameras](https://images.wondershare.com/filmora/article-images/super-chip-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Yet again, there is a set of cameras in between the pro consumer cameras and the professional cameras and we prefer to call them super chip cameras. These cameras are characterized by three distinct factors below:
 
@@ -75,13 +103,6 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
  Super chip cameras are primarily packed with big chips and professional features and they are also relatively affordable than the professional cameras. The cost of super chip cameras could be anywhere between **$6,000** and **$20,000**. Some examples of the super chip cameras include some brands of Sony, Cannons Compact and the powerful Panasonic F100 video camera.
 
  These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5. DSLR Video Cameras
 
@@ -100,13 +121,6 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
  Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -131,5 +145,16 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>[New] In 2024, Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-list-of-drones-working-with-gopro-hero-series/"><u>[Updated] 2024 Approved Ultimate List of Drones Working with GoPro Hero Series</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-excellent-easytime-timer-services/"><u>[Updated] In 2024, Excellent EasyTime Timer Services</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-laugh-and-cry-on-instagram-best-meme-accounts-of-the-year-for-2024/"><u>[Updated] Laugh and Cry on Instagram Best Meme Accounts of the Year for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-video-free-transcription-techniques/"><u>[Updated] Mastering YouTube Video Free Transcription Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-capturing-attention-top-6-videos-to-watch-for-2024/"><u>[Updated] The Art of Capturing Attention Top 6 Videos to Watch for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-techniques-from-avi-to-m4v-files-a-comprehensive-tutorial/"><u>Easy Conversion Techniques From AVI to M4V Files - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fusion-of-performance-and-precision-in-basilisk-v3/"><u>The Ultimate Fusion of Performance & Precision in Basilisk V3</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Techniques to Rectify iPhone Photo Out-of-Focus for 2024\""
-date: 2024-09-10T10:15:21.633Z
-updated: 2024-09-15T08:02:50.448Z
+date: 2024-10-02T04:37:25.685Z
+updated: 2024-10-06T17:20:19.379Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 
 ![auto focus](https://images.wondershare.com/filmora/auto-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: Lock AE/AF
 
  As in the above tip, we explained to tap on the srceen where you wish to set the focus. However, sometimes, single tapping on the srceen isn’t sufficient. This is because if any kind of movement happens in the scene or if you move, the camera will start re-adjusting its focus which obviously you don’t want. If you seriously want to take a better picture, make sure to lock the focus on the subject in the scene. This can be done by enabling AE/AF feature and doing this will keep the focus on the subject even if anything moves in the scene. To do this, just tap and hold on the subject for a few seconds until you get to see a yellow box at the top of the srceen saying “AE/AF LOCK”. Once you notice, you can release your fingers and start having fun with picture capturing moment.
@@ -64,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 ![upgrade ios](https://images.wondershare.com/filmora/upgrade-ios.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part5: Turn off your iPhone
@@ -83,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 ![turn off iphone](https://images.wondershare.com/filmora/turn-off-iphone-ios.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Verdict
@@ -102,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
  Images come from the Internet
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,5 +128,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-innovative-ideas-the-best-12-websites-to-access-no-cost-photographic-treasures/"><u>[New] 2024 Approved Innovative Ideas The Best 12 Websites to Access No-Cost Photographic Treasures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-screen-changes-made-simple/"><u>[New] Effortless Screen Changes Made Simple</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-netflixs-innovative-multi-stream-feature/"><u>[New] Exploring Netflix's Innovative Multi-Stream Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unleashing-the-full-power-of-apple-podcasts-downloads/"><u>[New] In 2024, Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>[New] Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-essential-toolkit-choosing-the-best-lens-technology-in-4k/"><u>[New] The Essential Toolkit Choosing the Best Lens Technology in 4K</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-price-guide-for-cloud-storage-services-for-2024/"><u>[New] Ultimate Price Guide for Cloud Storage Services for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elevate-your-video-recordings-tips-for-mov-files-on-windows-10/"><u>[Updated] Elevate Your Video Recordings Tips for MoV Files on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-with-the-latest-epson-stylus-nx420-drivers-windows-supported/"><u>Ensure Smooth Printing with the Latest Epson Stylus NX420 Drivers (Windows Supported)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-podcast-remotely-for-2024/"><u>How to Record Podcast Remotely for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a05s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A05s to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online/"><u>Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+</ul></div>
 

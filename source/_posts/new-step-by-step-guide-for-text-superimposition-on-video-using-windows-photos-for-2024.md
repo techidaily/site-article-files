@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos for 2024\""
-date: 2024-09-14T13:21:47.552Z
-updated: 2024-09-15T04:57:31.543Z
+date: 2024-10-05T02:15:56.650Z
+updated: 2024-10-07T07:02:18.220Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -67,15 +74,36 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
@@ -108,12 +136,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-saving-face-to-face-with-hangouts/"><u>[New] In 2024, Saving Face-to-Face with Hangouts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>[New] In 2024, Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-capturing-brilliance-with-the-q500-drone/"><u>[Updated] 2024 Approved Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-color-grading-movies-with-efficient-luts-usage/"><u>[Updated] 2024 Approved Color Grading Movies with Efficient Luts Usage</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-hydro-durable-cams-of-the-week-7-edition-revealed/"><u>[Updated] 2024 Approved Hydro-Durable Cams of the Week – #7 Edition Revealed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-does-immediate-subscribing-affect-content-recommendations-for-2024/"><u>[Updated] Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-history-buffs-favorite-youtube-history-channels-for-2024/"><u>[Updated] History Buffs' Favorite YouTube History Channels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-approaches-to-record-phone-usage/"><u>[Updated] Superior Approaches to Record Phone Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-gpodcs-most-popular-shows/"><u>2024 Approved Ace GPodC's Most Popular Shows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-e-learning-platforms-beyond-udemy-explored/"><u>Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/episode-unveiling-optimized-by-day-and-time/"><u>Episode Unveiling Optimized by Day & Time</u></a></li>
+<li><a href="https://article-files.techidaily.com/expert-analysis-of-srt-unpacking-its-significance-for-2024/"><u>Expert Analysis of SRT Unpacking Its Significance for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-prime-7-multimedia-players-for-macos/"><u>In 2024, Prime 7 Multimedia Players for MacOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-storytelling-with-vsco-a-complete-guide/"><u>Visual Storytelling with VSCO A Complete Guide</u></a></li>
+</ul></div>
 

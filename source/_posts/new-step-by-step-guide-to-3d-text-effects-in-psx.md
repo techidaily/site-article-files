@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to 3D Text Effects in PSX\""
-date: 2024-09-11T21:19:33.173Z
-updated: 2024-09-15T06:48:42.730Z
+date: 2024-10-03T20:06:04.164Z
+updated: 2024-10-06T19:39:25.235Z
 tags: 
   - screen-recording
   - ai video
@@ -83,6 +83,13 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -95,22 +102,35 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -120,6 +140,13 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -132,29 +159,22 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -182,5 +202,26 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-10-superior-approaches-to-live-cricket-broadcasting/"><u>[New] 2024 Approved 10 Superior Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-echo-chamber-best-online-spots-for-free-skype-music/"><u>[New] Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>[New] In 2024, Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-tech-choices-for-virtual-meetings-for-2024/"><u>[New] Leading Tech Choices for Virtual Meetings for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-prolonged-sky-journeys-the-ultimate-drone-lineup/"><u>[New] Prolonged Sky Journeys The Ultimate Drone Lineup</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-vs-augmented-unraveling-ar-mr-and-vr-distinctions-for-2024/"><u>[Updated] Virtual Vs. Augmented Unraveling AR, MR & VR Distinctions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-editions-unbiased-blu-ray-player-titles-for-pcmac/"><u>Elite Editions Unbiased Blu-Ray Player Titles for PC/Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-zoom-cam-a-step-by-step-guide/"><u>Fixing Your Zoom Cam - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m14-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M14 5G Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Tecno Camon 20 Pro 5G.</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-30-probing-into-the-metaverse-key-ventures-deciphered/"><u>In 2024, 30 Probing Into the Metaverse Key Ventures Deciphered</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-cutting-edge-video-playback-on-windows-mobile/"><u>In 2024, Cutting-Edge Video Playback on Windows Mobile</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c32-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C32 Phone Pattern Lock</u></a></li>
+<li><a href="https://article-files.techidaily.com/peak-performance-sd-card-for-sony-a7s-series/"><u>Peak Performance SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-sonic-connector-a-casters-companion-for-2024/"><u>Seamless Sonic Connector A Caster's Companion for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-11dvd-shrink-dvd/"><u>Windows 10 或 11不支持DVD Shrink?發現功能強大的 DVD 克隆工具</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
+</ul></div>
 

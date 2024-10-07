@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Tackling Windows Files Swiftly and Smartly"
-date: 2024-09-26T21:43:04.802Z
-updated: 2024-10-01T22:45:01.257Z
+date: 2024-10-04T23:35:01.763Z
+updated: 2024-10-06T17:42:18.745Z
 tags: 
   - screen-recording
   - ai video
@@ -55,30 +55,37 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
@@ -88,19 +95,6 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -117,10 +111,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -157,18 +151,18 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-filters-a-comprehensive-guide/"><u>[New] In 2024, Instagram Filters A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-smart-buying-top-value-action-cam-models/"><u>[New] In 2024, Smart Buying Top Value Action Cam Models</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[New] In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-election-excitement-5-best-voting-simulators/"><u>[Updated] 2024 Approved Election Excitement 5 Best Voting Simulators</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>[Updated] 2024 Approved Perfect Your Pics Ideal Apps List for iPhones/Androids</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-advanced-features-of-discords-live-stream-functionality/"><u>[Updated] Exploring Advanced Features of Discord's Live Stream Functionality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-dji-phantom-4-extension-kit-list/"><u>[Updated] In 2024, The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-ranked-text-enhancers-for-after-effects/"><u>[Updated] Top-Ranked Text Enhancers for After Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>2024 Approved Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://fox-access.techidaily.com/explore-visionary-typography-the-ultimate-list-of-9-websites-offering-intricate-3d-letters-for-2024/"><u>Explore Visionary Typography The Ultimate List of 9 Websites Offering Intricate 3D Letters for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>Innovative iPhone & iPad Video Players The 10 Best Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-accessories-to-upgrade-and-improve-your-phantom-4/"><u>Top Accessories to Upgrade and Improve Your Phantom 4</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-picks-online-tools-for-integrating-photo-frames/"><u>Top Picks Online Tools for Integrating Photo Frames</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimized-procedures-for-integrating-subtitles-into-live-streams-on-facebook-for-2024/"><u>[New] Optimized Procedures for Integrating Subtitles Into Live Streams on Facebook for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-prime-time-camera-selection-apexs-top-18-4k-camcorders-for-2024/"><u>[New] Prime-Time Camera Selection Apex's Top 18 4K Camcorders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comprehensive-review-of-powerdirector-pro-suite-for-2024/"><u>[Updated] Comprehensive Review of PowerDirector Pro Suite for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-the-ultimate-4-methods-for-gameplay-screens-for-2024/"><u>[Updated] Step-By-Step The Ultimate 4 Methods for Gameplay Screens for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285594133-dvd10/"><u>「動画・音声・DVD再生手順集紐解けましょう！10の重要ポイント」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-savvy-shooters-top-5-under-200-cameras/"><u>Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-f5-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco F5 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>In 2024, Perfect Pairing of Podcast Apps & Android Top 6 Recommendations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-screenflow-for-mac-full-review/"><u>In 2024, ScreenFlow for Mac Full Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-3-ways-to-use-zoom-video-converter/"><u>In 2024, Top 3 Ways to Use Zoom Video Converter</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-essential-ytp2024-joining-and-earning-on-youtube/"><u>The Essential YTP2024 Joining and Earning on YouTube</u></a></li>
 </ul></div>
 

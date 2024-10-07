@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Easy Way to Progressively Reduce Sound Levels in Lumafusion for 2024"
-date: 2024-09-25T17:59:45.629Z
-updated: 2024-10-01T17:19:54.645Z
+date: 2024-10-04T06:12:52.250Z
+updated: 2024-10-06T20:41:40.441Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transit
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
@@ -81,10 +81,10 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Share and export
@@ -94,6 +94,13 @@ After finishing the method for editing audio in Filmora, click the Export button
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
@@ -122,16 +129,10 @@ Drag and drop your sound recordings from the media library to the timeline at th
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Apply Fade Effects
@@ -139,13 +140,6 @@ Drag and drop your sound recordings from the media library to the timeline at th
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -155,16 +149,16 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -198,18 +192,21 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] In 2024, Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>[New] In 2024, Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-ios-and-androids-finest-the-creme-de-la-creme-of-snapchat-edits-for-2024/"><u>[New] IOS & Android's Finest The Crème De La Créme of Snapchat Edits for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-essential-manual-on-motion-detection-techniques/"><u>[New] The Essential Manual on Motion Detection Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-shaping-letters-in-visual-content/"><u>[Updated] 2024 Approved Shaping Letters in Visual Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>[Updated] In 2024, Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sonic-update-for-whatsapp-statues/"><u>[Updated] Sonic Update for WhatsApp Statues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/analyzing-the-five-primary-drivers-behind-corporate-bans-on-chatgpt/"><u>Analyzing the Five Primary Drivers Behind Corporate Bans on ChatGPT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved</u></a></li>
-<li><a href="https://article-files.techidaily.com/extensive-overview-the-comprehensive-guide-to-bublcams-panoramic-vision/"><u>Extensive Overview The Comprehensive Guide to Bublcam's Panoramic Vision</u></a></li>
-<li><a href="https://article-files.techidaily.com/hero5-black-or-yi-comparing-top-actions-cameras/"><u>Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-incrementally-lower-decibels-in-logic-pro-for-2024/"><u>How to Incrementally Lower Decibels in Logic Pro for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] In 2024, How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-investment-returns-on-youtuber-promotions-for-2024/"><u>[New] Investment Returns on Youtuber Promotions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-excellence-in-image-making-via-premium-grid-makers/"><u>[Updated] Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-different-footage-sources-on-ios-device/"><u>[Updated] Harmonizing Different Footage Sources on iOS Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>[Updated] In 2024, Top-Ranked Cloud Stores Analysis & Pricing Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[Updated] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-moto-z2-play-smartphone-review/"><u>2024 Approved MOTO Z2 Play Smartphone Review</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1725290121453-windows-10dvd/"><u>簡単な方法：Windows 10マシンでDVDへのビデオエクスポート</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/how-to-use-story-remix-to-edit-a-video-in-windows-10-photos-for-2024/"><u>How to Use Story Remix to Edit a Video in Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-sony-xperia-5-v-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Sony Xperia 5 V Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-yuva-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Yuva 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://article-files.techidaily.com/playing-halted-a6400-video-viewing-woes-for-2024/"><u>Playing Halted A6400 Video Viewing Woes for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spectral-perfection-program/"><u>Spectral Perfection Program</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-quick-guide-to-innovative-voice-personalization-techniques/"><u>The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
 </ul></div>
 

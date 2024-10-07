@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos\""
-date: 2024-09-11T01:45:12.017Z
-updated: 2024-09-15T10:54:04.014Z
+date: 2024-09-30T22:27:57.546Z
+updated: 2024-10-06T20:27:33.643Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -73,11 +80,32 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -108,18 +136,17 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>[New] 2024 Approved 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perfecting-hp-screen-capture-top-4-methods-unveiled-for-2024/"><u>[New] Perfecting HP Screen Capture Top 4 Methods Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transforming-film-aesthetics-using-luts/"><u>[New] Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-start-a-channel-a-beginners-guide-to-reviewing-books-and-ebooks-for-2024/"><u>[Updated] How To Start a Channel A Beginner's Guide to Reviewing Books & Ebooks for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726220401194-3gpmp3-movavi/"><u>3GP到MP3自由下載 - 利用Movavi轉頻器進行快速轉換</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-t2-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo T2 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-10-picture-frames-and-organizers/"><u>In 2024, Top 10 Picture Frames & Organizers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ordering-your-transformers-movie-marathon-for-the-perfect-experience/"><u>Ordering Your Transformers Movie Marathon for the Perfect Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/ray-bans-unveiled-on-facebook-features-and-pricing/"><u>Ray-Bans Unveiled on Facebook: Features & Pricing</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x7-ultra-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X7 Ultra</u></a></li>
+</ul></div>
 

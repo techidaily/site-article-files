@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts for 2024\""
-date: 2024-09-26T23:13:12.566Z
-updated: 2024-10-01T17:42:11.795Z
+date: 2024-10-01T20:47:10.388Z
+updated: 2024-10-06T17:09:40.385Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ Let’s get started with our article!
 
 If you want to **download WhatsApp ringtones** on your device, here are the three best websites:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Zedge](https://www.zedge.net/find/ringtones/whatsapp)
 
 Zedge has[30 million active users](https://www.zedge.net/), and more than 436 million app installs because of the free resources such as **WhatsApp ringtones** library**.**
@@ -83,13 +90,6 @@ The site has a massive library of free **WhatsApp ringtones** that ranges from p
 * Funny
 * Classic
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [MP3 Ringtone](https://mp3-ringtone.com/genre/Whatsapp-Ringtones)
 
 MP3 Ringtone is a renowned site for **downloading WhatsApp ringtones** for free**.** You can also directly download a ringtone on your phone by visiting the site and tapping the download button.
@@ -122,6 +122,13 @@ Step2 Drag the keen video songs to the **“Timeline Panel”** at the bottom. N
 
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 In this step, right-click only the audio file whose silent parts you want to eliminate and select **“Silence Detection.”** Now, a window will open up showing three parameters; **“Threshold,” “Minimum Silence,” and “Buffer,”** which you can adjust using the slider.
 
 Moreover, you can also click **“Start”** to roll automatic silence detection, eliminating all the silent parts of the selected file.
@@ -133,10 +140,10 @@ Step4 Next up, emphasize one Keen WhatsApp song over the other. For this, right-
 ![audio ducking filmora](https://images.wondershare.com/filmora/article-images/2023/03/audio-ducking-filmora.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 Now reduce the length of the file by trimming it. To do this, click on the file, and a double arrow will appear. Drag the double arrow to select a part that you want to delete. Next, click **“Split”** to delete that part.
@@ -144,13 +151,6 @@ Step5 Now reduce the length of the file by trimming it. To do this, click on the
 Step6 In the final step, click **“Create”** and hit the **“Export”** button to save the customized Keen WhatsApp ringtone on your PC. Finally, transfer the file to your phone using a USB cable or sync the file directly on your phone with Google Drive or any other cloud service.
 
 ![export whatsapp ringtone filmora](https://images.wondershare.com/filmora/article-images/2023/03/export-whatsapp-ringtone-filmora.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to learn more about Filmora’s features, you can watch the video below and see what Filmora can bring to you!
 
@@ -182,16 +182,16 @@ Step1 Head to WhatsApp from the home screen of your Android phone and tap the th
 
 ![settings whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/settings-whatsapp-ringtones.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Next, tap **“Notifications,”** scroll down and tap **“Ringtone.”**
 
 ![notification whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/notification-whatsapp-ringtones.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Select any ringtone from the list, and you’re done!
 
@@ -205,16 +205,16 @@ Step1 Tap the **“WhatsApp”** icon on the iPhone home screen and tap **“Set
 
 ![iphone settings whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/iphone-settings-whatsapp-ringtones.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now, tap **“Notifications”** and access the **“Sound”** option.
 
 ![iphone notifications sounds whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/iphone-notifications-sounds-whatsapp-ringtones.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Finally, select any custom WhatsApp tone, tap **“Save,”** and you’re done!
 
@@ -240,6 +240,13 @@ There’s also an option to apply filters to find specific WhatsApp content on t
 
 ![zedge whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/zedge-whatsapp-ringtones.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Richness & Access**
 
 The site is easy to explore, ad-free, and rich in **WhatsApp ringtones**. The downloading and browsing experience is superb. In addition, popular celebrities like Nicki Minaj and G-Eazy upload their custom content on Zedge, which adds value to the site.
@@ -307,13 +314,6 @@ Step2 Drag the keen video songs to the **“Timeline Panel”** at the bottom. N
 
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 In this step, right-click only the audio file whose silent parts you want to eliminate and select **“Silence Detection.”** Now, a window will open up showing three parameters; **“Threshold,” “Minimum Silence,” and “Buffer,”** which you can adjust using the slider.
 
 Moreover, you can also click **“Start”** to roll automatic silence detection, eliminating all the silent parts of the selected file.
@@ -336,13 +336,6 @@ If you want to learn more about Filmora’s features, you can watch the video be
 
 After knowing how to get your keen audio, you may also want to know about how to customize your WhatsApp ringtone? If yes, please follow the below-mentioned steps:
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. On Android
 
 **How to Customize Whatsapp Ringtone on Android – From Phone’s Setting Options**
@@ -355,9 +348,29 @@ Step2 Next, scroll down to the WhatsApp option, tap to open it, and select the *
 
 ![android notifications whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/android-notifications-whatsapp-ringtone.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 In the next step, scroll down and select **“Call Notifications.”** Then, tap on **“Sound”** and select a custom-made **WhatsApp ringtone**. And that’s it!
 
 ![select custom whatsapp ringtone](https://images.wondershare.com/filmora/article-images/2023/03/select-custom-whatsapp-ringtone.PNG)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **How to Customize Whatsapp Ringtone on Android – Directly From Whatsapp**
 
@@ -382,13 +395,6 @@ Here’s how you can customize **WhatsApp ringtones** on iPhone:
 Step1 Tap the **“WhatsApp”** icon on the iPhone home screen and tap **“Settings,”** available at the bottom-right corner.
 
 ![iphone settings whatsapp ringtones](https://images.wondershare.com/filmora/article-images/2023/03/iphone-settings-whatsapp-ringtones.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Now, tap **“Notifications”** and access the **“Sound”** option.
 
@@ -430,22 +436,24 @@ Hopefully, you got enlightened reading our article and can easily do WhatsApp ri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mobile-editing-hacks-writing-on-photos/"><u>[New] 2024 Approved Mobile Editing Hacks Writing on Photos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-techniques-to-effortlessly-attain-professional-graphic-content/"><u>[New] 2024 Approved Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/onquering-viewersphere-channels-that-rule-the-net-for-2024/"><u>[New] Conquering Viewersphere Channels that Rule the Net for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-craft-a-captivating-story-integrating-images-on-instagram-for-2024/"><u>[New] Craft a Captivating Story Integrating Images on Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-nba-experience-with-these-15-tips/"><u>[New] Elevate Your NBA Experience with These 15 Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[Updated] Capture Your Best Side Tips for Effective Talking-Head Shots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-effortlessly-spread-youtube-videos-on-fb-for-2024/"><u>[Updated] Effortlessly Spread YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hdr-brilliance-justified-choice-or-overkill/"><u>[Updated] HDR Brilliance Justified Choice or Overkill?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[Updated] In 2024, Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-try-these-free-online-tempo-trackers-today-for-2024/"><u>[Updated] Try These FREE Online Tempo Trackers Today for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-avoid-payment-secure-your-free-fcp-copy/"><u>2024 Approved Avoid Payment Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-film-viewing-with-iphone-tricks/"><u>2024 Approved Innovating Film Viewing with iPhone Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-dynamic-typographic-options-for-2024/"><u>Advanced Dynamic Typographic Options for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 15 without Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Plus Prevention & Solution</u></a></li>
-<li><a href="https://article-files.techidaily.com/smart-strategies-for-buying-economical-gopros/"><u>Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://article-files.techidaily.com/1718144126937-new-2024-approved-how-many-seconds-is-a-20mb-video/"><u>[New] 2024 Approved How Many Seconds Is a 20Mb Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-audio-choice-the-ultimate-10-spotify-tools/"><u>[New] In 2024, Professional Audio Choice The Ultimate 10 Spotify Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ultimate-seo-guide-elevating-your-video-rankings-in-a-digital-age/"><u>[Updated] In 2024, Ultimate SEO Guide Elevating Your Video Rankings in a Digital Age</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-gopro-hero5-footage-analysis/"><u>2024 Approved GoPro Hero5 Footage Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leading-camera-innovations-revealed-future-edition/"><u>2024 Approved Leading Camera Innovations Revealed - Future Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-automotive-traffic-cam-exploration/"><u>2024 Approved Premium Automotive Traffic Cam Exploration</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-proven-strategies-for-professional-green-screen-filming/"><u>2024 Approved Proven Strategies for Professional Green Screen Filming</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-scrutinizing-googles-ar-embellishments-and-others/"><u>2024 Approved Scrutinizing Google's AR Embellishments & Others</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-seamless-merge-apple-music-and-videos-together/"><u>2024 Approved Seamless Merge Apple Music & Videos Together</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sourcing-free-frame-videos-without-a-dollar-drop/"><u>2024 Approved Sourcing Free Frame Videos Without a Dollar Drop</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-superior-app-dev-editors-top-15-selection/"><u>2024 Approved Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-bluetooth-driver-up-and-running-on-windows-10/"><u>How to Get Your Qualcomm Atheros Bluetooth Driver Up and Running on Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-moto-g04-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Moto G04 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-12plus-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme 12+ 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco M6 Pro 4G Phone Without Password?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/maximizing-yandex-translate-in-video-translation-and-beyond/"><u>Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps5-tutorial-steps-to-stream-gameplay-live-and-share-with-others/"><u>PS5 Tutorial: Steps to Stream Gameplay Live and Share with Others</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/slow-it-down-techniques-to-improve-your-slow-motion-photography-skills-for-instagram-for-2024/"><u>Slow It Down Techniques to Improve Your Slow Motion Photography Skills for Instagram for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-online-bazaars-how-to-buy-your-favorite-youtube-ringtone/"><u>Top Online Bazaars How to Buy Your Favorite YouTube Ringtone</u></a></li>
 </ul></div>
 
