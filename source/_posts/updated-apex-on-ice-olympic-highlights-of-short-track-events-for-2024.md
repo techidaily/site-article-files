@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events for 2024\""
-date: 2024-10-01T00:29:42.150Z
-updated: 2024-10-07T03:37:29.228Z
+date: 2024-10-05T17:13:17.605Z
+updated: 2024-10-12T19:17:35.481Z
 tags: 
   - screen-recording
   - ai video
@@ -38,37 +38,37 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -82,23 +82,9 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -113,6 +99,13 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -131,6 +124,13 @@ For macOS 10.12 or later
 Step 1: Download and install Filmora on your computer. Launch the application and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
@@ -165,24 +165,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-dive-into-vector-artistry-essentials-types-and-software-choices/"><u>[New] 2024 Approved Dive Into Vector Artistry Essentials, Types & Software Choices</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-financial-incentives-behind-vlogger-rating-videos/"><u>[New] In 2024, Financial Incentives Behind Vlogger Rating Videos?</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>[New] In 2024, The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>[New] The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes/"><u>[Updated] 2024 Approved Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-key-strategies-for-harvesting-free-photo-frames-for-2024/"><u>[Updated] Key Strategies for Harvesting Free Photo Frames for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-6-cheapest-action-cameras-to-buy-under-100/"><u>[Updated] Top 6 Cheapest Action Cameras to Buy Under $100</u></a></li>
-<li><a href="https://common-error.techidaily.com/disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/first-steps-in-mastering-av1-coders/"><u>First Steps in Mastering AV1 Coders</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-discovering-the-benefits-of-personalized-asmr-sounds/"><u>In 2024, Discovering the Benefits of Personalized ASMR Sounds</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/is-it-possible-to-transfer-epub-books-to-your-kindle-using-the-send-to-kindle-feature/"><u>Is It Possible to Transfer EPUB Books to Your Kindle Using the Send to Kindle Feature?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-path-of-exiles-inability-to-connect-a-step-by-step-fix/"><u>Resolving Path of Exile's Inability to Connect : A Step-by-Step Fix</u></a></li>
-<li><a href="https://article-files.techidaily.com/rhythm-route-redistribution-your-playlist-anywhere/"><u>Rhythm Route Redistribution Your Playlist, Anywhere</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rising-stars-guide-essential-hashtags-to-increase-your-insta-presence/"><u>Rising Stars Guide Essential Hashtags to Increase Your Insta Presence</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/seeking-the-best-next-linguistic-endeavor/"><u>Seeking the Best Next Linguistic Endeavor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-fps-hiccups-in-modern-warfare-cuperwiz10-fixed-modern-warfare-2-windows-performance-enhancement-tips/"><u>Troubleshooting and Fixing FPS Hiccups in Modern Warfare Cuperwiz10- [Fixed] 'Modern Warfare 2' - Windows Performance Enhancement Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/valheim-optimization-guide-for-enhanced-frame-rates-fix-low-fps-insights-from-2024/"><u>Valheim Optimization Guide for Enhanced Frame Rates (Fix Low FPS) - Insights From 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-laughter-legends-reviewing-goofy-in-the-vhs-era-for-2024/"><u>[New] 'Laughter Legends' Reviewing Goofy in the VHS Era for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-complete-insight-into-sierras-icloud-file-management/"><u>[New] 2024 Approved Complete Insight Into Sierra’s iCloud File Management</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>[New] 2024 Approved Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-comprehensive-guide-the-features-of-google-podcasts-app/"><u>[New] In 2024, Comprehensive Guide The Features of Google Podcasts App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-your-step-by-step-kinemaster-meme-creation/"><u>[New] In 2024, Your Step-by-Step KineMaster Meme Creation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ise-to-fame-comprehensive-youtube-creators-series-for-2024/"><u>[New] Rise to Fame Comprehensive YouTube Creator's Series for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-zoom-meetings-on-chromebooks/"><u>[Updated] 2024 Approved Mastering Zoom Meetings on Chromebooks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-maximize-mobile-shots-the-top-iphone-photography-apps-7plus/"><u>[Updated] 2024 Approved Maximize Mobile Shots The Top iPhone Photography Apps (7+)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-content-makers-conference/"><u>[Updated] In 2024, Global Content Makers' Conference</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-6-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 6 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-a05s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy A05s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adventure-videography-supplies-for-travelers/"><u>In 2024, Adventure Videography Supplies for Travelers</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-approaches-to-healthcare-marketing-on-facebook/"><u>In 2024, Innovative Approaches to Healthcare Marketing on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/panasonic-hx-a1-wearable-camera-explored-for-2024/"><u>Panasonic HX-A1 Wearable Camera Explored for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-4k-laptop-choices-for-gamers-for-2024/"><u>Premier 4K Laptop Choices for Gamers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-dialer-interface-effortlessly/"><u>Unlock Windows 11 Dialer Interface Effortlessly</u></a></li>
 </ul></div>
 

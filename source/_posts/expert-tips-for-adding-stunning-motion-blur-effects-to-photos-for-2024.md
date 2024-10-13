@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Adding Stunning Motion Blur Effects to Photos for 2024"
-date: 2024-09-30T16:07:42.460Z
-updated: 2024-10-06T22:29:24.206Z
+date: 2024-10-09T01:42:37.584Z
+updated: 2024-10-12T16:51:21.769Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Do you know how to motion blur in Photoshop? Creating a motion blur effect while
 
 The latest version of Photoshop comprises tons of advanced editing features that can add a new dimension to the pictures. It offers AI-supported neural filters and photo correction tools. Along with a sky replacement feature, it also provides drawing and typography tools. You can also execute layer editing on this tool. Moreover, you can also add a perfect motion blur effect in Photoshop with a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Create a Motion Blur Effect in Photoshop
 
 Are you excited to generate a motion blur effect through Photoshop? Read this section to find out the easy and simple instructions to add a motion blur in Photoshop:
@@ -49,23 +56,9 @@ Step1 First, download and install the Photoshop tool on your PC. Upload your pic
 
 ![duplicate the layer](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now head to the "Filter" section and locate the option called "Blur." From the drop-down menu, select "Radial Blur." From the new window, adjust the amount to 10 and choose "Spin" in the "Blur Method" section.
 
 ![adjust the radial blur settings](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Under the "Quality" section, select "Best." Once done, click on the "OK" button. Wait for some time until the changes get saved. Now head back to the Layer section and tap on the "Vector Mask" option given below. Afterward, select the "Brush" tool from the left side.
 
@@ -75,27 +68,20 @@ Step4 Now head to the "Flow" option displayed above and decrease the flow percen
 
 ![adjust the flow percentage to 50](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Head back to the layer section and select the bottom layer. Now copy the layer for the second time by either pressing Ctrl + J or Command + J. Afterward, head to the "Filter" tab and locate the option called "Blur." From the drop-down menu, tap on "Motion Blur."
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 Now set the angle on the displayed window and adjust the distance to 200 pixels. Once done, press the "OK "button. For this layer, add a mask and execute the dabbing process on the face as we did before. For more modifications, you can add a high-contrast black-and-white effect to your photo.
 
 ![adjust motion blur distance](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Motion Blur Effect
 
@@ -107,6 +93,13 @@ Do you want to simplify the whole process of adding motion blur to photos? The b
 
 To perform advanced editing, it offers features like Green Screen and AI Portrait. Using Filmora, you can also add a motion blur effect to your photos in its intuitive interface. After editing, you can instantly render your clip on this tool. Moreover, you can choose a desired output file format and resolution while exporting your file. Hence, it's a complete platform to modify and enhance photos in a friendly user interface.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Add Motion Blur on Wondershare Filmora
 
 Filmora is an efficient and cost-effective tool for video and photo editing. To create a motion blur effect on your photos without seeking any professional help, check the following instructions:
@@ -116,13 +109,6 @@ Filmora is an efficient and cost-effective tool for video and photo editing. To 
 Start by launching Wondershare Filmora on your Windows or macOS device. Next, click on the "Create New Project" option and hit the "Arrow" icon on its main interface. By doing so, you can import the photo from your system.
 
 ![import your picture](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2 Split the Clip
 
@@ -143,10 +129,10 @@ Now play your clip to see the results on your screen. You can adjust its paramet
 ![choose the dissolve transition](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 5 Export the Blurred Photo File
@@ -174,10 +160,10 @@ Start by launching Wondershare Filmora on your Windows or macOS device. Next, cl
 ![import your picture](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 2 Split the Clip
@@ -192,30 +178,38 @@ Navigate to the "Effects" section and locate the "Background Blur" option. After
 
 ![access the background blurs](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4 Adjust the Parameters
 
 Now play your clip to see the results on your screen. You can adjust its parameters by proceeding to the "Transitions" tab. Here, select the "Dissolve" option. By applying this transition effect, you can quickly make your clip look smooth. For more modifications, you can also adjust the phase increment and zoom rate.
 
 ![choose the dissolve transition](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 5 Export the Blurred Photo File
 
 Once you are done with editing, access the "Export" setting of Filmora. Choose your preferred resolution and output file format from the given options to conclude.
 
 ![export the blurred media file](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -245,24 +239,17 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-enhance-and-elevate-free-mobile-image-enhancer/"><u>[New] 2024 Approved Enhance & Elevate Free Mobile Image Enhancer</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-enrich-your-videos-expert-recommended-players-guide/"><u>[New] 2024 Approved Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-premium-online-platforms-for-effective-discord-recordings/"><u>[New] Premium Online Platforms for Effective Discord Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-shadowless-shots-overcoming-challenges-with-light-techniques-for-2024/"><u>[New] Shadowless Shots Overcoming Challenges with Light Techniques for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-thrifty-shoppers-best-bargains-in-cams/"><u>[New] Thrifty Shopper's Best Bargains in Cams</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tomtoms-actioncam-series-a-new-chapter/"><u>[New] TomTom's ActionCam Series - A New Chapter</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-discover-overlooked-free-mac-speech-transcription-apps/"><u>[Updated] 2024 Approved Discover Overlooked Free Mac Speech Transcription Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-5-best-webcams-for-gaming/"><u>[Updated] In 2024, 5 Best Webcams for Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] In 2024, Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-laughter-in-every-note-essential-ringtones-for-2024/"><u>[Updated] Laughter in Every Note Essential Ringtones for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-melodic-mute-mode-operating-system-steps/"><u>[Updated] Melodic Mute Mode Operating System Steps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tonal-transition-triumphs-for-creative-virtuosos/"><u>[Updated] Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs/"><u>2024 Approved Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-look-at-podcaster-income-for-2024/"><u>Behind-the-Scenes Look at Podcaster Income for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-split-screen-tutorial-on-windows-movie-maker-a-comprehensive-walkthrough/"><u>DIY Split Screen Tutorial on Windows Movie Maker: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-successfully-getting-cod-black-ops-cold-war-running-on-your-pc-despite-previous-launch-concerns/"><u>Expert Advice: Successfully Getting Cod: Black Ops Cold War Running on Your PC Despite Previous Launch Concerns</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/secrets-to-finding-excellent-economic-pictures-online/"><u>Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unintended-tiktok-update-how-to-recover-for-2024/"><u>Unintended TikTok Update – How to Recover for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[New] In 2024, From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2-ways-to-fade-audio-in-ableton-for-2024/"><u>[Updated] 2 Ways to Fade Audio in Ableton for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ice-artistry-at-the-2022-winter-games/"><u>[Updated] 2024 Approved Ice Artistry at the 2022 Winter Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs-for-2024/"><u>[Updated] Achieving Broadcast Excellence From Recordings to Livestreams on OBS for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>[Updated] Expert Guide Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint-for-2024/"><u>[Updated] The Ultimate Guide to Speaking & Visualizing in PowerPoint for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-instagrams-reels-culture-and-techniques/"><u>2024 Approved Decoding Instagram's Reels Culture and Techniques</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/wmv3gppmovavi/"><u>最新無料オンラインWMVファイルを3GPPに簡単変換:Movaviの解説</u></a></li>
+<li><a href="https://article-files.techidaily.com/dreaming-shutterbugs-guide-top-6-4k-dslr-cameras/"><u>Dreaming Shutterbugs Guide Top 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-critical-top-5-minute-tight-video-capturers-guide/"><u>In 2024, Critical Top 5 Minute-Tight Video Capturers Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ultimate-mini-drone-compilation-for-buyers/"><u>In 2024, Ultimate Mini-Drone Compilation for Buyers</u></a></li>
 </ul></div>
 

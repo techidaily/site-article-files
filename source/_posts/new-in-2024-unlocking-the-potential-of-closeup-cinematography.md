@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unlocking the Potential of Closeup Cinematography"
-date: 2024-09-09T06:39:49.716Z
-updated: 2024-09-10T06:39:49.716Z
+date: 2024-10-12T01:52:54.760Z
+updated: 2024-10-12T21:23:58.311Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "\"Close-Up Film Techniques,Cinematic Closer Insights,Visual Storytell
 thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a75414c6458bd1e077bee973ffa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking the Potential of Closeup Cinematography
 
 # Videography: 6 Tips for Making Macro Video
@@ -38,18 +32,6 @@ Shooting macro video is an art form because it requires balancing the technicali
 
 Any person having a photography background can learn the nuances of the macro video quickly as macro photohgraphy is usually a part of their subject and macro video is an extension of the same.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Tips For Making Macro Video
 
 The difference between the macro video and the macro photo mainly depends on the light acquisition.
@@ -88,18 +70,6 @@ The background of your macro video always remains blurred as you shoot it closel
 
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4\. DSLR Cameras
 
 For capturing the macro video, you can consider digital SLR camera. The macro lens of the digital SLR camera is a great option for capturing.
@@ -110,12 +80,6 @@ You may also add an extension tube which basically splits the focal distance in 
 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 5\. Depth of Field
 
 The lens has certain limitation to capture and focus the subject closely. The camera’s aperture can be adjusted to control the depth of your field.
@@ -126,18 +90,6 @@ But, you must remember that when the opening of the lens is small, the light req
 
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 6\. Composition
 
 When you have low lights, ensuring a correct perspective on the subject with maximum focus area is quite difficult. You must have the right composition for your macro video.
@@ -146,6 +98,13 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
@@ -153,11 +112,12 @@ Once you can master the above tips for making the macro video, you can easily sh
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -181,4 +141,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-capture-coastlines-best-surfer-cams/"><u>[New] 2024 Approved Capture Coastlines Best Surfer Cams</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-journey-through-simulated-realities-vr-basics/"><u>[New] 2024 Approved Journey Through Simulated Realities VR Basics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audiovid-producers-digital-space/"><u>[New] AudioVid Producers' Digital Space</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>[Updated] 2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-srt-from-a-securely-packed-zip-file/"><u>[Updated] 2024 Approved Unlocking SRT From a Securely Packed Zip File</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hdr-mastery-for-home-and-professional-pcs-for-2024/"><u>[Updated] HDR Mastery for Home and Professional PCs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>[Updated] In 2024, Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>[Updated] In 2024, Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-tips-for-gaining-attention-via-snapchat-star/"><u>[Updated] In 2024, Tips for Gaining Attention via Snapchat Star</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>2024 Approved Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722081567492-chatgpt-for-fun-check-out-the-6-best-games-you-can-play/"><u>ChatGPT for Fun? Check Out the 6 Best Games You Can Play!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-explore-greatest-vr-handhelds-listed/"><u>In 2024, Explore Greatest VR Handhelds Listed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-using-ping-tools-for-quick-web-server-response-time-analysis/"><u>The Ultimate Tutorial on Using Ping Tools for Quick Web Server Response Time Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro/"><u>Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-video-wmv-in-mpeg-senza-costi-con-la-soluzione-online-di-convertire-gratis-metodo-rapido-e-facile-di-movavi/"><u>Trasforma I Tuoi Video WMV in MPEG Senza Costi Con La Soluzione Online Di Convertire Gratis - Metodo Rapido E Facile Di Movavi</u></a></li>
+</ul></div>
 

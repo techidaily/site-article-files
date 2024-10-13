@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Power of Yi's 4K Video and Motion Controls"
-date: 2024-09-29T22:53:31.790Z
-updated: 2024-10-07T03:10:30.881Z
+date: 2024-10-11T01:21:19.618Z
+updated: 2024-10-13T00:00:41.106Z
 tags: 
   - screen-recording
   - ai video
@@ -145,29 +145,30 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-dive-into-samsung-ue590-high-res-freesync-tv/"><u>[New] Dive Into Samsung UE590 High-Res, FreeSync TV</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elite-story-creation-centers-avoiding-the-ordinary-top-8-for-2024/"><u>[New] Elite Story Creation Centers – Avoiding the Ordinary (Top 8) for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-illuminating-your-android-videos/"><u>[New] Illuminating Your Android Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-bellylaugh-beats-top-choices-for-laughable-ringtone-downloads/"><u>[Updated] BellyLaugh Beats Top Choices for Laughable Ringtone Downloads</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-premier-8k-capture-the-ultimate-camera-guide/"><u>[Updated] Premier 8K Capture The Ultimate Camera Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-path-to-an-irresistible-cover-video/"><u>[Updated] The Path to an Irresistible Cover Video</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-vibrant-colors-with-the-philips-evonia-49m2c8900-qd-oled-monitor-ultimate-gamers-guide-and-testing/"><u>Experience Vibrant Colors with the Philips Evonia 49M2C8900 QD-OLED Monitor: Ultimate Gamers' Guide and Testing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/xbox-not-launching-fix-it-with-these-tips/"><u>Xbox Not Launching? Fix It with These Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[New] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pinnacle-portals-select-laptops-for-uhd-content-creation/"><u>[New] Pinnacle Portals Select Laptops for UHD Content Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premium-slide-show-software-xi-to-xrxs-max-edition-for-2024/"><u>[New] Premium Slide Show Software XI to Xr/Xs Max Edition for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tricks-to-clear-up-screenshots-of-fuzzy-fb-videos-for-2024/"><u>[New] Tricks to Clear Up Screenshots of Fuzzy FB Videos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-uncloak-from-tiktoks-undetectable-ban/"><u>[Updated] 2024 Approved How to Uncloak From TikTok’s Undetectable Ban</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-platforms-where-gif-becomes-professional-video/"><u>[Updated] Cutting-Edge Platforms Where GIF Becomes Professional Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-new-iphone-x-camera-features-you-need-to-know/"><u>[Updated] In 2024, New iPhone X Camera Features You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/automatisierte-datensicherung-auf-externes-laufwerk-gratis-mit-windows-11-10-8-7/"><u>Automatisierte Datensicherung Auf Externes Laufwerk - Gratis Mit Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harvards-unsettling-tentacle-equipped-automaton-the-ultimate-solution-for-delicate-item-handling/"><u>Harvard's Unsettling Tentacle-Equipped Automaton: The Ultimate Solution for Delicate Item Handling</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-11x-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 11X 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-command-line-expertise-the-top-20-must-know-commands/"><u>Windows Command Line Expertise: The Top 20 Must-Know Commands</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Urban and Rural Carry Capabilities  Top 10 Drones for 2024\""
-date: 2024-09-30T22:22:04.917Z
-updated: 2024-10-07T05:15:34.904Z
+date: 2024-10-08T22:51:47.500Z
+updated: 2024-10-13T00:39:35.931Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,10 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Heavy lifting Drones: Under-10kg payload
@@ -67,6 +67,13 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 #### 1\. Tarot T-18 Ready To Fly Drone
 
 ![tarot t-18 ready to fly drone](https://images.wondershare.com/filmora/article-images/tarot-t-18-ready-to-fly-drone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
@@ -102,6 +109,13 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
@@ -113,6 +127,13 @@ The Airlift series is one of Vulcan's heaviest lifting drones to date. With the 
 #### 2\. AZ 4K UHD Camera Drone Green Bee 1200
 
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
 
@@ -134,32 +155,11 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -186,20 +186,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-precision-video-capturing-on-mac-for-snapshares/"><u>[New] 2024 Approved Precision Video Capturing on Mac for Snapshares</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[New] In 2024, The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-depth-analysis-the-essence-of-the-google-podcast-application-for-2024/"><u>[New] In-Depth Analysis The Essence of the Google Podcast Application for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-examination-of-samsung-photo-editor-features/"><u>[New] The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] 2024 Approved Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-luts-utilization-in-movie-color-grading/"><u>[Updated] Luts Utilization in Movie Color Grading</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-complete-guide-to-adding-powerful-narrations-for-2024/"><u>[Updated] The Complete Guide to Adding Powerful Narrations for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/duel-of-the-decade-gopro-hero5-black-takes-on-hero4-silver-for-2024/"><u>Duel of the Decade GoPro Hero5 Black Takes on Hero4 Silver for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guaranteed-techniques-flawlessly-importing-mp4-files-into-your-itunes-library/"><u>Guaranteed Techniques: Flawlessly Importing MP4 Files Into Your iTunes Library</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-poco-c51-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Poco C51</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-gionee-f3-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Gionee F3 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-14-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 14 Pro Max Smoothly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-macvideoeditor-for-2024/"><u>New MacVideoEditor for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing/"><u>The Role of Authenticity in Client-Generated Marketing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updating-the-arduino-firmware-using-a-windows-computer-and-usb-connection/"><u>Updating the Arduino Firmware Using a Windows Computer and USB Connection</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>[New] 2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-addressing-the-myself-glitch-on-social-media-platforms-for-2024/"><u>[New] Addressing the 'Myself' Glitch on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-easy-guide-to-iphones-how-to-seamlessly-download-podcasts/"><u>[New] In 2024, Easy Guide to iPhones - How to Seamlessly Download Podcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-balancing-act-weaving-b-roll-into-main-scenes/"><u>[Updated] 2024 Approved Balancing Act Weaving B Roll Into Main Scenes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sharpen-your-scopes-a-comprehensive-guide-to-close-up-roblox/"><u>[Updated] 2024 Approved Sharpen Your Scopes A Comprehensive Guide to Close-Up Roblox</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-reanimated-warfare-gameplay-excellence-in-the-undead-genre/"><u>[Updated] In 2024, Reanimated Warfare Gameplay Excellence in the Undead Genre</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-present-state-of-drones-and-their-future-expansion/"><u>[Updated] In 2024, The Present State of Drones and Their Future Expansion</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-intellect-in-your-hand-the-moto-z2-breakdown-for-2024/"><u>[Updated] Intellect in Your Hand The Moto Z2 Breakdown for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>[Updated] Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-complete-guide-to-registering-with-youtube/"><u>A Complete Guide to Registering with YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-your-usb-problems-in-windows-11-step-by-step-solution/"><u>Fixing Your USB Problems in Windows 11 - Step-by-Step Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-100-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 100 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/image-interpretation-illumination-ideal-photo-to-cartoony-tools-for-2024/"><u>Image Interpretation Illumination Ideal Photo-to-Cartoony Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps/"><u>In 2024, Chromebook's Voice Alteration Guide The Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-color-contrast-reimagined-choosing-hdr-for-better-videos/"><u>In 2024, Color Contrast Reimagined Choosing HDR for Better Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>In 2024, The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-extractor-how-to-extract-audio-from-video/"><u>Updated In 2024, Audio Extractor How to Extract Audio From Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/youtubes-role-in-shaping-brands-and-collaborations/"><u>YouTube's Role in Shaping Brands & Collaborations</u></a></li>
 </ul></div>
 

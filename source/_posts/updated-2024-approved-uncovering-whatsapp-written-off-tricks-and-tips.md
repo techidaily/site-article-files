@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Uncovering WhatsApp' Written Off Tricks and Tips\""
-date: 2024-09-08T19:48:27.813Z
-updated: 2024-09-14T20:51:22.715Z
+date: 2024-10-05T18:13:21.876Z
+updated: 2024-10-12T23:15:09.251Z
 tags: 
   - screen-recording
   - ai video
@@ -98,6 +98,13 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -123,6 +130,19 @@ If there is confusion with a location, where sharing addresses is not an option,
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5.Restore Your Chat History, and Deleted Chats
 
@@ -156,7 +176,21 @@ Manage how you are notified of messages from specific contacts and groups. Go to
 
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Source: beebom.com
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit WhatsApp Videos with Ease
 
@@ -176,19 +210,6 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 When it comes to WhatsApp Tricks and Trades, you always have to look forward to every update. Keep a tab on the updates and find a new WhatsApp Hidden Feature now and then.
@@ -196,13 +217,6 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -227,5 +241,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop/"><u>[New] 2024 Approved Expert Strategies for Perfectly Shared Screens on Mobile/Desktop</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gratitude-unboxed-free-and-paid-creative-otus/"><u>[New] 2024 Approved Gratitude Unboxed Free & Paid Creative OTUs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-immersive-commerce-environments-design/"><u>[New] 2024 Approved Immersive Commerce Environments Design</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-thinkers-arena-premier-gk-quiz-vids/"><u>[New] 2024 Approved Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unleashing-iphones-potential-for-dynamic-shots/"><u>[New] 2024 Approved Unleashing iPhone’s Potential for Dynamic Shots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rief-basslines-video-music-mosaics/"><u>[New] Brief Basslines Video Music Mosaics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-echo-of-you-customizing-your-speak-on-reels-and-stories/"><u>[New] The Echo of You Customizing Your Speak on Reels & Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exclusive-guide-365-days-of-no-cost-text-files/"><u>[Updated] 2024 Approved Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-calculating-total-vids-for-high-capacity-hardware-64128gb-for-2024/"><u>[Updated] Calculating Total Vids for High-Capacity Hardware (64/128GB) for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-leaders-list-of-8-online-havens-for-golden-3d-and-text/"><u>[Updated] In 2024, A Leader's List of 8 Online Havens for Golden 3D & Text</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximizing-reach-sharing-igtv-to-fb-4-methods/"><u>[Updated] Maximizing Reach Sharing IGTV to FB (4 Methods)</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859926214-in-2024-odins-revenge-ragnarok-coming-soon/"><u>In 2024, Odin's Revenge Ragnarök - Coming Soon!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-pathfinder-wrath-of-the-righteous-solutions-for-recurrent-game-crashes/"><u>Mastering Pathfinder: Wrath of the Righteous - Solutions for Recurrent Game Crashes</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-social-media-success-a-comprehensive-10-step-plan/"><u>Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-dilemma-a-comparative-analysis-of-iphone-16-pro-and-iphone-14-pro-by-tech-experts-at-zdnet/"><u>Upgrade Dilemma: A Comparative Analysis of iPhone 16 Pro and iPhone 14 Pro by Tech Experts at ZDNET</u></a></li>
+</ul></div>
 

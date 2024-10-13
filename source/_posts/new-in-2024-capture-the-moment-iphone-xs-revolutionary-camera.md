@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capture the Moment  IPhone X's Revolutionary Camera\""
-date: 2024-10-01T16:51:54.314Z
-updated: 2024-10-06T19:31:33.252Z
+date: 2024-10-09T00:38:38.191Z
+updated: 2024-10-12T16:16:15.505Z
 tags: 
   - screen-recording
   - ai video
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -74,17 +74,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -93,13 +86,20 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,19 +135,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-leading-cloud-services-for-android/"><u>[New] In 2024, Leading Cloud Services for Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-social-media-savvy-creating-share-worthy-ig-content/"><u>[New] In 2024, Social Media Savvy Creating Share-Worthy IG Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-creativity-incorinasive-use-of-luts-in-video-editing-for-2024/"><u>[New] Unlocking Creativity Incorinasive Use of LUTs in Video Editing for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-storytelling-the-best-practices-for-instagram-loops/"><u>[Updated] Elevate Your Storytelling The Best Practices for Instagram Loops</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhancing-learning-through-educational-videos/"><u>[Updated] Enhancing Learning Through Educational Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-essential-guide-to-8-premium-free-software-apps-windowsmac-for-2024/"><u>[Updated] Essential Guide to 8 Premium Free Software Apps (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-soundtrack-strategists-guide-to-youtube-playlists-for-2024/"><u>[Updated] The Soundtrack Strategist's Guide to YouTube Playlists for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Lava Blaze Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy M14 4G Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-earthy-edits-discover-downloadable-templates-to-amplify-filmmaking/"><u>In 2024, Earthy Edits Discover Downloadable Templates to Amplify Filmmaking</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/investigating-the-underreported-drawbacks-of-vr/"><u>Investigating the Underreported Drawbacks of VR</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-simplified-soundscape-a-modern-approach-to-adding-sound-effects-in-videos/"><u>New Simplified Soundscape A Modern Approach to Adding Sound Effects in Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/scrutinizing-the-new-parrot-ar-drone-edition/"><u>Scrutinizing the New Parrot AR Drone Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>[New] 2024 Approved Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-reviving-a-dying-twitch-stream-in-seconds/"><u>[New] 2024 Approved Reviving a Dying Twitch Stream in Seconds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-archive-slideshow-in-high-quality-video/"><u>[New] In 2024, Archive Slideshow in High-Quality Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-supreme-suggestions-elite-ios-tone-craftsmen/"><u>[New] In 2024, Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-value-capture-budget-cam-essentials/"><u>[New] In 2024, Value Capture Budget Cam Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-index-of-videography-gadgets-by-type/"><u>[New] Index of Videography Gadgets by Type</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-reimagining-art-top-6-influencers-shaping-nft-culture-for-2024/"><u>[New] Reimagining Art Top 6 Influencers Shaping NFT Culture for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-download-and-use-movie-maker-on-windows-11/"><u>[Updated] 2024 Approved Download and Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/breaking-barriers-in-social-media-the-top-20-innovative-tiktok-captions/"><u>Breaking Barriers in Social Media The Top 20 Innovative TikTok Captions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>In 2024, Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-quickest-online-platforms-transforming-gif-into-video/"><u>In 2024, Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-conversion-simplified-subtitles-transformation/"><u>In 2024, SRT Conversion Simplified Subtitles Transformation</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/most-effective-free-versioning-backup-applications-for-optimal-data-management/"><u>Most Effective FREE Versioning Backup Applications for Optimal Data Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-typographical-troubles-resetting-spellcheck-on-microsoft-outlook/"><u>Overcoming Typographical Troubles: Resetting Spellcheck on Microsoft Outlook</u></a></li>
+<li><a href="https://facebook.techidaily.com/subtle-speech-within-online-communities/"><u>Subtle Speech Within Online Communities</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery-for-2024/"><u>The Ultimate List for Seeking No-Cost High-Quality Vector Imagery for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-leading-gratis-converters-srt-edition/"><u>Unveiling the Leading Gratis Converters SRT Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-recognize-songs-on-iphone/"><u>Updated 2024 Approved How to Recognize Songs on iPhone?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

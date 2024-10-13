@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step Guide to 3D Text Effects in PSX\""
-date: 2024-10-02T08:15:14.229Z
-updated: 2024-10-06T19:19:32.452Z
+date: 2024-10-05T18:22:40.847Z
+updated: 2024-10-12T20:19:42.832Z
 tags: 
   - screen-recording
   - ai video
@@ -84,10 +84,10 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Make a 3D Text Effect in Filmora
@@ -106,24 +106,32 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,34 +149,20 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
@@ -204,21 +198,17 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-deciphering-if-reviews-on-products-are-paid-for-2024/"><u>[New] Deciphering if Reviews on Products Are Paid for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-androids-premier-3d-visualization-app/"><u>[New] In 2024, Android's Premier 3D Visualization App</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-cycling-top-vr-bike-games/"><u>[Updated] 2024 Approved Elevate Your Cycling TOP VR Bike Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-guide-to-flawless-solo-livestreaming-operations/"><u>[Updated] 2024 Approved Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-cinemas-best-bits-select-snippets-for-edits/"><u>[Updated] Cinema’s Best Bits Select Snippets for Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-supreme-cameras-for-extreme-sports-fans/"><u>[Updated] In 2024, Supreme Cameras for Extreme Sports Fans</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-uniting-visuals-on-iphone-photos-with-videos/"><u>[Updated] In 2024, Uniting Visuals on iPhone Photos with Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[Updated] Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/convincing-audiences-to-join-a-positive-approach-for-2024/"><u>Convincing Audiences to Join A Positive Approach for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-the-power-of-shortcut-creation-on-windows-11/"><u>Harness the Power of Shortcut Creation on Windows 11</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-choosing-the-best-screen-capture-app-obs-vs-fraps/"><u>In 2024, Choosing the Best Screen Capture App – OBS vs Fraps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A58 4G</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/redefining-cinematic-boundaries-with-360-video/"><u>Redefining Cinematic Boundaries with 360 Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x/"><u>Top 5 Best TV for Ps5 and Xbox Series X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlock-efficiency-the-editors-guide-to-speed-control/"><u>[New] 2024 Approved Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-vs-shadowplay-the-ultimate-showdown-for-gamers-for-2024/"><u>[New] OBS vs ShadowPlay The Ultimate Showdown for Gamers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlock-creative-closure-ideas-with-our-template-service/"><u>[Updated] 2024 Approved Unlock Creative Closure Ideas with Our Template Service</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-green-screen-basics-for-filmmakers-starting-out-for-2024/"><u>[Updated] Green Screen Basics for Filmmakers Starting Out for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-clarity-4-steps-to-perfectly-capture-fb-video-calls/"><u>[Updated] In 2024, Maximizing Clarity 4 Steps to Perfectly Capture FB Video Calls</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-understanding-the-dynamics-of-ig-reels-vs-ig-stories/"><u>[Updated] In 2024, Understanding the Dynamics of IG Reels Vs IG Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-realm-rigging-for-vr/"><u>[Updated] Virtual Realm Rigging for VR</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-deep-dive-into-magix-music-production-tools-for-2024/"><u>A Deep Dive Into Magix Music Production Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dve-vidy-pro-streaming-tvorba-vide-na-platformu-online-s-rozpomenutim/"><u>Dvě Vídy Pro Streaming: Tvorba Vide Na Platformu Online S Rozpomenutím</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-alert-tones-superior-download-sites-list/"><u>In 2024, Top Alert Tones Superior Download Sites List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solutions-for-a-invalid-sim-error-on-your-iphone-comprehensive-fix-guide/"><u>Solutions for a 'Invalid SIM' Error on Your iPhone: Comprehensive Fix Guide</u></a></li>
 </ul></div>
 
