@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Photography 101  Simple Strategies for 2024\""
-date: 2024-09-09T06:38:40.029Z
-updated: 2024-09-10T06:38:40.029Z
+date: 2024-10-16T00:18:14.425Z
+updated: 2024-10-18T23:18:25.644Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "IPhone Photo Basics,IPhone Lens Tips,Simple iOS Shots,Basic iPhone Pi
 thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea55bdaf18f72a70f3772092da.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IPhone Photography 101: Simple Strategies
 
 # Photography Tips for iPhone
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -60,18 +42,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Contrastly
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
@@ -84,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Contrastly
 
 #### 2\.  Learn How To Compose Your Photos and Videos
@@ -122,18 +86,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Storyboard Class
 
  Exploring different camera angles will enable you to show the scene from different points of view and it will allow you to 'solve' the scene in a more efficient way. Assuming that the best angle for a certain scene is at our eye level is natural, but trying to depict a scene from different points of view usually results in better pictures.
@@ -146,18 +98,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Makeuseof
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -185,4 +125,23 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vr-gear-top-10-pc-headsets-2023-edition/"><u>[New] VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>[Updated] 2024 Approved Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-perfect-pc-video-grabbers-a-comprehensible-selection/"><u>[Updated] 2024 Approved Perfect PC Video Grabbers A Comprehensible Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-groundbreaking-companies-at-the-vr-content-frontier-for-2024/"><u>[Updated] Groundbreaking Companies at the VR Content Frontier for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-fourfold-technique-to-achieve-a-blurred-look-in-iphone-photography/"><u>[Updated] In 2024, The Fourfold Technique to Achieve a Blurred Look in iPhone Photography</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/choose-your-view-facebook-video-aspect-ratio/"><u>Choose Your View Facebook Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-storytelling-wevideos-online-video-editing-solution-for-2024/"><u>New Elevate Your Storytelling WeVideos Online Video Editing Solution for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/showcase-a-dialogue-in-one-instagram-post/"><u>Showcase a Dialogue in One Instagram Post</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Compositing Workflow  Implementing LUTs in AE\""
-date: 2024-10-10T21:23:58.738Z
-updated: 2024-10-12T19:23:11.212Z
+date: 2024-10-15T20:50:03.343Z
+updated: 2024-10-18T18:59:54.257Z
 tags: 
   - screen-recording
   - ai video
@@ -102,16 +102,10 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs in After Effects
@@ -126,13 +120,6 @@ Now that you have a variety of Adobe After Effects LUTs at your disposal, here i
 6. You can edit the LUT using the Effect Control Panel. The functions you need are on either side of the video.
 
 ![how to use luts in after effects](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Adobe After Effects allows you to use LUTs on multiple clips. However, you need an adjustment layer for this to work. Here is how you enable the function.
 
@@ -157,6 +144,13 @@ Additionally, you will find recommendations on where to get the best after effec
 02 [How to import LUTs in After Effect?](#part2)
 
 03 [How to use LUTs in After Effects](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Things to Know Before Using LUTs in After Effect
 
@@ -212,13 +206,6 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Creative
 C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use LUTs in After Effects
 
 Now that you have a variety of Adobe After Effects LUTs at your disposal, here is how you apply them.
@@ -231,6 +218,13 @@ Now that you have a variety of Adobe After Effects LUTs at your disposal, here i
 6. You can edit the LUT using the Effect Control Panel. The functions you need are on either side of the video.
 
 ![how to use luts in after effects](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Adobe After Effects allows you to use LUTs on multiple clips. However, you need an adjustment layer for this to work. Here is how you enable the function.
 
@@ -256,13 +250,6 @@ Additionally, you will find recommendations on where to get the best after effec
 
 03 [How to use LUTs in After Effects](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Things to Know Before Using LUTs in After Effect
 
 Do you ever wonder why some Adobe After Effects videos look so great? Regardless of your experience with the software, here are the points to consider when using LUTs in After Effects.
@@ -272,6 +259,13 @@ Do you ever wonder why some Adobe After Effects videos look so great? Regardless
 If you are questioning why there lies your first challenge. You need to check the white balance of your creations because colors appear differently, depending on the lighting you use. As such, you need to adjust your white balance to suit conditions similar to when you made the video. For example, your settings should be between 4000 – 5000K if your light source is fluorescent.
 
 ![things to make sure before using luts in AE](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is how you get the correct white balance when using Adobe After Effects.
 
@@ -290,16 +284,16 @@ Most creators often fail because of after effects luts overuse. Other factors to
 
 ![things to make sure before using luts in AE - match editing with source marterial](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Settle on a creative style
 
 What makes David Fincher famous? His consistent use of desaturated and monochromatic colors in movies to perfection. Similarly, you need to choose a consistent theme for your creations. As such, you get better at it with subsequent creations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to import LUTs in After Effect?
 
@@ -324,13 +318,6 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Creative
 C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use LUTs in After Effects
 
 Now that you have a variety of Adobe After Effects LUTs at your disposal, here is how you apply them.
@@ -360,13 +347,6 @@ Additionally, you will find recommendations on where to get the best after effec
 
 ![luts in after effect](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### In this article
 
 01 [Things to Know Before Using LUTs in After Effect](#part1)
@@ -376,16 +356,10 @@ Additionally, you will find recommendations on where to get the best after effec
 03 [How to use LUTs in After Effects](#part3)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to Know Before Using LUTs in After Effect
@@ -397,6 +371,13 @@ Do you ever wonder why some Adobe After Effects videos look so great? Regardless
 If you are questioning why there lies your first challenge. You need to check the white balance of your creations because colors appear differently, depending on the lighting you use. As such, you need to adjust your white balance to suit conditions similar to when you made the video. For example, your settings should be between 4000 – 5000K if your light source is fluorescent.
 
 ![things to make sure before using luts in AE](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is how you get the correct white balance when using Adobe After Effects.
 
@@ -418,6 +399,13 @@ Most creators often fail because of after effects luts overuse. Other factors to
 #### 3\. Settle on a creative style
 
 What makes David Fincher famous? His consistent use of desaturated and monochromatic colors in movies to perfection. Similarly, you need to choose a consistent theme for your creations. As such, you get better at it with subsequent creations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to import LUTs in After Effect?
 
@@ -487,17 +475,16 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>[New] Boost Your Meeting Management Syncing Zoom with Gmail Emails</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-magix-photo-manager-review/"><u>[New] MAGIX Photo Manager Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-best-value-in-cloud-pricing-a-comprehensive-list-for-2024/"><u>[New] The Best Value in Cloud Pricing A Comprehensive List for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[Updated] 2024 Approved Exploring the Depths Top 10 Unknown Features in VLC Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>[Updated] 2024 Approved Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-decoding-the-capabilities-of-samsung-photo-studio-for-2024/"><u>[Updated] Decoding the Capabilities of Samsung Photo Studio for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-dell-2330dn-monochrome-printer-driver/"><u>Step-by-Step Guide to Updating Your Dell 2330D/N Monochrome Printer Driver</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-influence-of-ai-technology-in-shaping-the-future-of-gaming/"><u>The Influence of AI Technology in Shaping the Future of Gaming</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-perfect-spot-maximizing-video-quality-with-ps4-camcorder-arrangement/"><u>The Perfect Spot: Maximizing Video Quality with PS4 Camcorder Arrangement</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/urban-odyssey-hits-red-planet-stirs-up-storms-and-smiles-alike/"><u>Urban Odyssey Hits Red Planet, Stirs Up Storms and Smiles Alike</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/winx-dvd-ripper-and-hd-video-converter-the-ultimate-free-software-for-copying-and-upgrading-movies/"><u>WinX DVD Ripper & HD Video Converter: The Ultimate Free Software for Copying and Upgrading Movies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-achieve-proficiency-in-audio-upload-with-google/"><u>[New] In 2024, Achieve Proficiency in Audio Upload with Google</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-discover-the-power-of-4k-with-asus-mg28uq-monitor-review/"><u>[New] In 2024, Discover the Power of 4K with ASUS MG28UQ Monitor Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-survey-diverse-categories-in-visual-media-tech-for-2024/"><u>[New] Survey Diverse Categories in Visual Media Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assortment-of-video-capturing-technology/"><u>[Updated] Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-interactive-dimensions-understanding-ar-mr-and-vr/"><u>[Updated] Interactive Dimensions Understanding AR, MR & VR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-key-information-every-asmr-aficionado-should-know/"><u>[Updated] Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-enhancing-your-discord-experience-with-recordings/"><u>2024 Approved Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967508562-download-epson-v700-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson V700 Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-advanced-photo-editing-canvas-backdrop-eradication/"><u>In 2024, Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-comical-connections-top-websites-for-funny-phone-sounds/"><u>In 2024, Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-nova-y71-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei Nova Y71 Phone FRP Lock</u></a></li>
 </ul></div>
 

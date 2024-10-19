@@ -1,7 +1,7 @@
 ---
 title: "\"Video Second Count  20 Megabits File Size\""
-date: 2024-09-09T06:37:45.779Z
-updated: 2024-09-10T06:37:45.779Z
+date: 2024-10-16T01:19:41.070Z
+updated: 2024-10-18T16:50:56.475Z
 tags: 
   - screen-recording
   - ai video
@@ -88,12 +88,6 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
 
 Take note that Lowering the bitrate can help you compress your media files. The quality will differ. As a result, it is important to get a difference between size and quality .
@@ -104,12 +98,6 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
@@ -166,24 +154,12 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
 
 Take note that Lowering the bitrate can help you compress your media files. The quality will differ. As a result, it is important to get a difference between size and quality .
@@ -194,18 +170,6 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
@@ -214,18 +178,6 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
@@ -280,12 +232,6 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
 
 Take note that Lowering the bitrate can help you compress your media files. The quality will differ. As a result, it is important to get a difference between size and quality .
@@ -304,30 +250,12 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
 
 OpenShot comes with a slew of amazing capabilities, like video sorting and trimming, transition effects between video files, audio level adjustments, chroma key or green-screen effects, and more. The most prevalent codecs and formats are also supported by the software.
@@ -370,18 +298,6 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
@@ -398,12 +314,6 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
@@ -412,12 +322,6 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
@@ -478,4 +382,31 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-your-presentations-with-smart-s2t-technology/"><u>[New] 2024 Approved Elevate Your Presentations with Smart S2T Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-high-performance-screen-recorders-for-windows-users/"><u>[New] High-Performance Screen Recorders for Windows Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-harvest-hits-roundup-next-gen-farming-game-picks/"><u>[Updated] 2024 Approved Harvest Hits Roundup Next-Gen Farming Game Picks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-narrative-noble-order-honors-hexagon/"><u>[Updated] 2024 Approved Narrative Noble Order - Honor's Hexagon</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>[Updated] Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>2024 Approved Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-camera-app-for-2024/"><u>Comprehensive Guide to VSCO Camera App for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capture-masters-expertly-reviewing-recorders/"><u>In 2024, Capture Masters Expertly Reviewing Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/is-aurora-hdr-setting-photography-trends-for-2024/"><u>Is Aurora HDR Setting Photography Trends for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992177292-overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-streaming-made-simple-in-obs-studio-android-edition-for-2024/"><u>Professional Streaming Made Simple in OBS Studio, Android Edition for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

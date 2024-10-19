@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Text Overlays on Photos in Windows 10'S Photos App"
-date: 2024-09-09T06:32:02.032Z
-updated: 2024-09-10T06:32:02.032Z
+date: 2024-10-13T23:02:59.988Z
+updated: 2024-10-18T23:37:31.605Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "Photo Overlay Tips,Windows 10 Photo Edits,Text On Images Win10,Master
 thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81b43be135b81d00ad4f84b19.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Text Overlays on Photos in Windows 10'S Photos App
 
 # How to Add Titles/Text to Video on Photos App in Windows 10
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -60,12 +42,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
@@ -86,30 +62,39 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -117,11 +102,12 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -145,4 +131,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guidebook-to-making-wealth-on-instagram/"><u>[New] 2024 Approved The Ultimate Guidebook to Making Wealth on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-validating-your-visual-story-on-instagram/"><u>[New] 2024 Approved Validating Your Visual Story on Instagram</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-success-navigating-youtube-statistics-with-social-blade/"><u>[New] Charting Success Navigating YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-hottest-hashtags-10-twitter-sensations-today/"><u>[New] The Hottest Hashtags 10 Twitter Sensations Today</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>2024 Approved Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-mobile-camera-best-android-practices/"><u>2024 Approved Mastering Mobile Camera Best Android Practices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-memetic-design-top-10-must-haves/"><u>2024 Approved Memetic Design Top 10 Must-Haves</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-organizing-overflow-of-tiktok-saves-for-effective-edits/"><u>2024 Approved Organizing Overflow of TikTok Saves for Effective Edits</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>2024 Approved Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-the-science-of-quantum-hdr-enhancement/"><u>2024 Approved Unveiling the Science of Quantum HDR Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/symphony-in-your-pocket-classic-tones-at-a-click-for-2024/"><u>Symphony in Your Pocket Classic Tones at a Click for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-leading-8-mobile-video-games-you-cant-miss/"><u>The Leading 8 Mobile Video Games You Can't Miss</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-1110-updated-drivers-for-enhanced-performance-on-nvidia-rtx-2080-super-gpus/"><u>Windows 11/10 Updated Drivers for Enhanced Performance on Nvidia RTX #2080 Super GPUs</u></a></li>
+</ul></div>
 

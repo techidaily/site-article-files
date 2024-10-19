@@ -1,7 +1,7 @@
 ---
 title: "\"Video to Picture Perfection  How To Save Individual Images in Windows 10\""
-date: 2024-09-09T06:32:58.977Z
-updated: 2024-09-10T06:32:58.977Z
+date: 2024-10-15T20:18:37.159Z
+updated: 2024-10-18T20:44:20.618Z
 tags: 
   - screen-recording
   - ai video
@@ -34,12 +34,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -53,12 +47,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -70,25 +58,46 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -102,21 +111,9 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -124,11 +121,12 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -152,4 +150,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2023s-ultimate-list-of-affordable-live-stream-software-and-apps-for-2024/"><u>[Updated] 2023’S Ultimate List of Affordable Live Stream Software and Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-orientation-dilemma/"><u>[Updated] Facebook Video Orientation Dilemma?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-addressing-iphone-lens-failures-a-step-by-step-approach/"><u>2024 Approved Addressing iPhone Lens Failures A Step-by-Step Approach</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>2024 Approved Budget-Friendly Filmmaking Choose the Best 6 Action Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-crafting-colours-with-care-top-5-displays-reviewed/"><u>2024 Approved Crafting Colours with Care Top 5 Displays Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-educational-videography-key-editing-strategies/"><u>2024 Approved Educational Videography Key Editing Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premium-gopro-editing-applications-on-smartphones/"><u>2024 Approved Premium GoPro Editing Applications on Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-step-by-step-to-stunning-snaps-with-snapseed/"><u>2024 Approved Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>2024 Approved The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-forcefully-delete-locked-files-on-windows-10-and-11-via-revo-uninstaller/"><u>Advanced Techniques to Forcefully Delete Locked Files on Windows 10 & 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-the-distinctions-signal-versus-whatsapp/"><u>Deciphering the Distinctions: Signal Versus WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages-for-2024/"><u>Decrypting the Significance The Purpose of Blue Icons on FB Messages for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208782428-troubleshooting-your-astro-a40s-unresponsive-mic-solutions-revealed/"><u>Troubleshooting Your Astro A40's Unresponsive Mic - Solutions Revealed!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-m4b-format-top-6-multiplatform-apps-for-audiobooks/"><u>Understanding the M4B Format: Top 6 Multiplatform Apps for Audiobooks</u></a></li>
+</ul></div>
 

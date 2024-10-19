@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Precision Workflow  Tackling Backdrops in Affinity Photo to Perfection\""
-date: 2024-10-08T22:11:31.475Z
-updated: 2024-10-13T01:20:50.127Z
+date: 2024-10-15T20:14:50.906Z
+updated: 2024-10-18T21:48:53.449Z
 tags: 
   - screen-recording
   - ai video
@@ -42,26 +42,26 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -74,13 +74,6 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -120,16 +113,16 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
+<span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -148,6 +141,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -158,13 +158,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -172,6 +165,13 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -223,22 +223,15 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-iphone-x-lens-capabilities-a-guide/"><u>[New] 2024 Approved Mastering iPhone X Lens Capabilities A Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>[New] How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-foundation-principles-of-tale-telling/"><u>[New] In 2024, Foundation Principles of Tale-Telling</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-smart-shoppers-guide-to-camcorder-choices-in-winter/"><u>[New] In 2024, The Smart Shopper's Guide to Camcorder Choices in Winter</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-premium-photographic-archives/"><u>[Updated] 2024 Approved Premium Photographic Archives</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-creating-momentum-in-life-coaching-video-series/"><u>[Updated] Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-techniques-for-stunning-hdr-photography/"><u>[Updated] In 2024, Innovative Techniques for Stunning HDR Photography</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-media-subtitles-transformation-for-2024/"><u>[Updated] Mastering Media Subtitles Transformation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-tools-for-gif-to-video-conversion-best-5/"><u>[Updated] Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-6-eco-friendly-affordable-4k-home-theaters-for-2024/"><u>[Updated] Top 6 Eco-Friendly, Affordable 4K Home Theaters for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-through-blockades-secrets-to-getting-permission-granted/"><u>Breaking Through Blockades: Secrets to Getting Permission Granted</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-unstuck-from-shader-tuning-in-star-wars-battlefront-ii/"><u>Fast Solutions: Unstuck From Shader Tuning in Star Wars Battlefront II</u></a></li>
-<li><a href="https://article-files.techidaily.com/masterful-media-panels-ideal-screens-for-editors/"><u>Masterful Media Panels Ideal Screens for Editors</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-league-of-legends-not-starting-problem-with-easy-fixes/"><u>Resolving the 'League of Legends Not Starting' Problem with Easy Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-zmi-powerpack-2-grower-and-its-potent-portability-features/"><u>Review of the ZMI PowerPack 2 Grower and Its Potent Portability Features</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-3-techniques-for-directory-access/"><u>Unlocking Secrets: 3 Techniques for Directory Access</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/unlocking-successful-ad-campaigns-through-smart-technology-insights-into-cookiebot-solutions/"><u>Unlocking Successful Ad Campaigns Through Smart Technology: Insights Into Cookiebot Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discovering-charismatic-faces-on-your-snaps/"><u>[New] Discovering Charismatic Faces on Your Snaps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-cloud-price-breakdown-guide-for-2024/"><u>[New] Essential Cloud Price Breakdown Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-instagram-to-tiktok-connection-protocol/"><u>[New] In 2024, The Instagram to TikTok Connection Protocol</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-gaming-boosting-horizon-zero-dawns-speed-and-efficiency/"><u>Elevate Your Gaming: Boosting Horizon Zero Dawn's Speed and Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-tiktok-when-its-not-responding-correctly/"><u>How To Repair TikTok When It's Not Responding Correctly</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-gigglegrid-create-social-media-laughs-in-seconds/"><u>In 2024, GiggleGrid Create Social Media Laughs in Seconds</u></a></li>
+<li><a href="https://article-files.techidaily.com/step-by-step-guide-for-proficient-use-of-movie-maker-in-win11-for-2024/"><u>Step-by-Step Guide for Proficient Use of Movie Maker in Win11 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-securely-adding-your-emails-to-the-safe-list/"><u>Step-by-Step Tutorial: Securely Adding Your Emails to the Safe List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-ultra-details-in-minecraft-games/"><u>Unveiling Ultra Details in Minecraft Games</u></a></li>
 </ul></div>
 

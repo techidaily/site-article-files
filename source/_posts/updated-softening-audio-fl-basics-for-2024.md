@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Softening Audio  FL Basics for 2024\""
-date: 2024-10-10T16:07:40.827Z
-updated: 2024-10-12T19:09:42.257Z
+date: 2024-10-12T01:08:41.162Z
+updated: 2024-10-19T00:38:02.147Z
 tags: 
   - screen-recording
   - ai video
@@ -62,28 +62,15 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -94,6 +81,13 @@ No matter which audio editing software, what matters is the learning outcome. Le
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
 
@@ -110,10 +104,10 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -124,30 +118,30 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Related FAQs of FL Studio Audio Editing
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
@@ -182,22 +176,22 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-preeminent-5-cloud-video-capture-systems/"><u>[New] 2024 Approved Preeminent 5 Cloud Video Capture Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[New] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-sonic-and-the-hedgehog-switch-edition-top-10/"><u>[Updated] Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
-<li><a href="https://article-files.techidaily.com/10-free-and-paid-luts-for-canon-camera/"><u>10 Free & Paid LUTs for Canon Camera</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ai-infused-title-engine-your-ultimate-video-marketing-tool/"><u>2024 Approved AI-Infused Title Engine Your Ultimate Video Marketing Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>2024 Approved Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>2024 Approved Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>2024 Approved Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>2024 Approved Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>2024 Approved Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-recording-guide-visuals-plus-vibrant-melodies/"><u>2024 Approved Ultimate Recording Guide Visuals + Vibrant Melodies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-high-dpi-scaling-in-windows-os/"><u>Essential Fixes for High DPI Scaling in Windows OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x90s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X90S to Outlook | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-m1-deciphered-apples-computing-game-changer/"><u>In 2024, M1 Deciphered Apple's Computing Game-Changer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unboxing-and-testing-the-stunning-netgear-nighthawk-rax80-the-latest-in-wi-fi-6-technology/"><u>Unboxing and Testing the Stunning Netgear Nighthawk RAX80: The Latest in Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-on-elden-ring-why-is-its-arrival-being-held-back/"><u>Update on Elden Ring - Why Is Its Arrival Being Held Back?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-craft-your-facebook-profile-video/"><u>[Updated] 2024 Approved Craft Your Facebook Profile Video</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-creative-builders-top-easy-homes-in-minecraft-for-2024/"><u>[Updated] Creative Builders Top Easy Homes in Minecraft for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>[Updated] Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-hdr-excellence-tips-from-the-pros/"><u>2024 Approved Photo-HDR Excellence Tips From the Pros</u></a></li>
+<li><a href="https://article-files.techidaily.com/ascending-the-rankings-iphones-top-selfie-accessories-for-2024/"><u>Ascending the Rankings IPhone's Top Selfie Accessories for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/asus-proart-pa-329q-professional-4k-monitor-review/"><u>Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/audio-unchained-with-pazera-innovations-and-reviews-for-the-year-2024/"><u>Audio Unchained with Pazera Innovations and Reviews for the Year 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/backdrop-bassline-tunes-to-enhance-media/"><u>Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/beat-infused-imagery-mobile-video-making-on-iphone-for-2024/"><u>Beat-Infused Imagery Mobile Video Making on iPhone for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-analysis-gopro-silver-edition-hero4-assessment/"><u>Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
+<li><a href="https://article-files.techidaily.com/data-in-the-cloud-select-five-titans-of-storage-and-safety/"><u>Data in the Cloud Select Five Titans of Storage & Safety</u></a></li>
+<li><a href="https://article-files.techidaily.com/declutter-your-canvas-how-to-delete-background-in-figma/"><u>Declutter Your Canvas How To Delete Background in Figma</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-blaze-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Blaze 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/learn-how-to-export-kontakte-aus-outlook-unter-macos-mit-diesen-zwei-effizienten-strategien/"><u>Learn How To Export Kontakte Aus Outlook Unter macOS Mit Diesen Zwei Effizienten Strategien!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/love-knows-no-language-building-stronger-ties/"><u>Love Knows No Language: Building Stronger Ties</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-for-unrecognized-seagate-external-hard-drives-on-windows-10-systems/"><u>Troubleshooting Guide for Unrecognized Seagate External Hard Drives on Windows 10 Systems</u></a></li>
 </ul></div>
 

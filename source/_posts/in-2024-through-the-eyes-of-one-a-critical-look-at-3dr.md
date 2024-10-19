@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Through the Eyes of One  A Critical Look at '3DR'\""
-date: 2024-09-09T06:38:07.153Z
-updated: 2024-09-10T06:38:07.153Z
+date: 2024-10-14T20:52:50.337Z
+updated: 2024-10-18T21:43:29.912Z
 tags: 
   - screen-recording
   - ai video
@@ -16,36 +16,18 @@ keywords: "\"Eye-Level Review,3D Reality Critique,Deep Dive Into 3DR,3DR Analysi
 thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497dd6ac900e046b6637a6b7e0e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Through the Eyes of One: A Critical Look at '3DR'
 
 # 3DR Solo Review
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
 
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -67,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -91,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -108,11 +98,12 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -128,11 +119,12 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -156,4 +148,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-enhancing-filmmaking-top-choices-in-camera-lenses/"><u>[New] 2024 Approved Enhancing Filmmaking Top Choices in Camera Lenses</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-camcorder-reviews-of-the-future-2024-edition/"><u>[New] Best Camcorder Reviews of the Future 2024 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-android-time-lapse-perfection-secrets-revealed/"><u>[New] In 2024, Android Time-Lapse Perfection Secrets Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-cutting-edge-strategies-for-youtube-to-mpeg-transformation/"><u>[New] In 2024, Cutting-Edge Strategies for YouTube to MPEG Transformation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovative-hexa-drones-2023s-best/"><u>[New] Innovative Hexa-Drones 2023'S Best</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>[New] Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-the-tech-marvel-of-lg-ud88-w-monitors-for-2024/"><u>Exploring the Tech Marvel of LG UD88-W Monitors for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g34-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G34 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-quantifying-the-fortune-of-mr-beast/"><u>In 2024, Quantifying the Fortune of Mr. Beast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inside-the-tech-evaluating-webcam-videotaping-devices/"><u>Inside the Tech Evaluating WebCam Videotaping Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-official-dell-driver-packages-for-seamless-networking-on-win7-systems/"><u>Obtain Official Dell Driver Packages for Seamless Networking on Win7 Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-moto-g04-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G04 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-step-by-step-approach-to-youtube-copyright-mastery-for-2024/"><u>Your Step-by-Step Approach to YouTube Copyright Mastery for 2024</u></a></li>
+</ul></div>
 

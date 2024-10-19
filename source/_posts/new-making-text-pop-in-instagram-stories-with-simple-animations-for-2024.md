@@ -1,7 +1,7 @@
 ---
 title: "[New] Making Text Pop in Instagram Stories with Simple Animations for 2024"
-date: 2024-10-10T21:10:17.962Z
-updated: 2024-10-12T23:03:57.480Z
+date: 2024-10-13T21:54:39.413Z
+updated: 2024-10-18T17:30:22.997Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ Step4 You may check a preview of the dynamic text on Instagram. The animation wi
 
 ![revise story post instagram](https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 2\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor on Computer
 
 Get distinctive word animations that will wow your friends and followers for anything from promotional videos to corporate presentations. Start right now for nothing! Each video scene may be edited separately, and scenes can be added or removed as you go. Enter your text, choose your preferred font, and then select the kind of text animation you want from the dropdown menu. You may also import any photographs or video clips that you wish to utilize. With the app's record function, you may even create brand-new video clips, or you can add a voiceover to go along with your animated text.
@@ -79,10 +72,10 @@ After choosing your scenes, go to the editor to begin creating your animation. T
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Use Animated Text Templates
@@ -113,6 +106,19 @@ Choose a template to use first from the enormous collection of text animation te
 
 ![pick a tempalte flexclip](https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Animate your Font
 
 By producing the video from scratch, you may also practice your creativity. Click "Add Text" and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click "Animate."
@@ -120,16 +126,10 @@ By producing the video from scratch, you may also practice your creativity. Clic
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Share it with your audience
@@ -137,6 +137,13 @@ By producing the video from scratch, you may also practice your creativity. Clic
 Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!
 
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -154,35 +161,22 @@ After choosing your scenes, go to the editor to begin creating your animation. T
 
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Use Animated Text Templates
 
 Filmora is here to spark your creativity if you're at a stage when it's lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.
 
 ![use animated text templates](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Export the Animated Instagram Story
 
 Go to the "Preview" section to see the video after you've completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the "Share" button to immediately share your text animation on social media.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. Create Instagram Text animation Online
 
@@ -215,10 +209,10 @@ Once finished, you can either instantly share the finished product on various so
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -249,21 +243,20 @@ The success or failure of your Instagram company depends in large part on engage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade/"><u>[New] 2024 Approved Smiles, Snorts & Sighs Top 10 IG Meme Communities of the Decade</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rom-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[New] From Hidden to Highlighted Your 2 Ways to See YT's Past Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-perfecting-iphones-audio-captures-for-2024/"><u>[New] Step-by-Step Perfecting iPhone's Audio Captures for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[Updated] 2024 Approved Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-education-mac-audio-recording-best-practices/"><u>[Updated] In 2024, Streamline Your Education Mac Audio Recording Best Practices</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-creative-photography-palette-radiantvisuals-edge/"><u>2024 Approved Creative Photography Palette RadiantVisuals Edge</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-closeup-photography-with-videography-tips/"><u>2024 Approved Enhancing Closeup Photography with Videography Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>2024 Approved Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-prime-examples-14-dynamic-text-animations/"><u>2024 Approved Prime Examples 14 Dynamic Text Animations</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-pushing-boundaries-hps-z32x-4k-revelation/"><u>2024 Approved Pushing Boundaries HP’s Z32X 4K Revelation</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-total-data-for-uninterrupted-viewer-experience/"><u>2024 Approved Total Data for Uninterrupted Viewer Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unmarked-image-accumulation-essentials/"><u>2024 Approved Unmarked Image Accumulation Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4raac-movavi/"><u>在網路上無成本改變M4R至AAC音效格式 - 利用 Movavi 器材</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-leveraging-internet-trending-topics-for-video-creation/"><u>In 2024, Leveraging Internet Trending Topics for Video Creation</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-robust-tripod-inspection/"><u>Leading Edge, Robust Tripod Inspection</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-organize-your-videos-with-ease-top-8-mac-metadata-editors/"><u>Updated In 2024, Organize Your Videos with Ease Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-guide-to-maximizing-channels-earnings-through-trailers-for-2024/"><u>[New] A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-much-money-does-mr-beast-make/"><u>[Updated] 2024 Approved How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>2024 Approved Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/2024s-leading-photo-organizer-applications-compare-winmac-free-vs-premium-solutions/"><u>2024'S Leading Photo Organizer Applications: Compare Win/Mac, Free vs Premium Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-critical-examination-of-vlcs-rivals/"><u>A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-of-the-best-10-timeless-family-vacation-films-for-2024/"><u>Best of the Best 10 Timeless Family Vacation Films for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/capture-and-amplify-no-cost-digital-picture-upgrades/"><u>Capture & Amplify - No Cost Digital Picture Upgrades</u></a></li>
+<li><a href="https://article-files.techidaily.com/clearing-up-tips-for-preventing-gopro-haze/"><u>Clearing Up Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-codecs-comparison-choosing-between-av1-and-vp9/"><u>Cutting-Edge Codecs Comparison Choosing Between Av1 & VP9</u></a></li>
+<li><a href="https://article-files.techidaily.com/decoding-fast-techniques-for-ssgnature-bg-cleansing-for-2024/"><u>Decoding Fast Techniques for Ssgnature Bg Cleansing for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/inside-look-at-high-performance-devices-by-toms-hardware-experts/"><u>Inside Look at High-Performance Devices by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-androidyoutube-music/"><u>IPhone / Androidで使用するためのYouTube Musicからの最適な着信メロディ選び方</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolve-constant-dropped-connections-between-airpods-and-iphone/"><u>Ultimate Guide: Resolve Constant Dropped Connections Between AirPods & iPhone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-capturing-clarity-an-intuitive-roadmap-for-convenient-and-high-quality-podcast-recordings/"><u>Updated In 2024, Capturing Clarity An Intuitive Roadmap for Convenient and High-Quality Podcast Recordings</u></a></li>
 </ul></div>
 

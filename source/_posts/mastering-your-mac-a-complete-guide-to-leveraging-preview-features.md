@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-10-07T17:58:33.692Z
-updated: 2024-10-12T16:46:05.195Z
+date: 2024-10-13T00:38:51.002Z
+updated: 2024-10-18T21:44:21.820Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -62,13 +55,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -82,6 +68,13 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -128,10 +121,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -149,6 +142,13 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -213,10 +213,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -244,20 +244,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-windows-media-player-alternative/"><u>[New] 2024 Approved Windows Media Player Alternative</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-bp550-review-latest-tech-advances/"><u>[New] In 2024, BP550 Review Latest Tech Advances</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-speedy-iphone-timelapses-made-simple/"><u>[New] In 2024, Speedy iPhone Timelapses Made Simple</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-periscope-stars-in-snapchat-highlights-for-2024/"><u>[New] Periscope Stars in Snapchat Highlights for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-ion-air-pro-3-action-camera-review/"><u>[Updated] 2024 Approved ION Air Pro 3 Action Camera Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-artisan-editor-refining-video-transitions-with-inshot/"><u>[Updated] 2024 Approved The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>[Updated] In 2024, From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-inside-the-innovations-a-detailed-look-at-powerdirector-24-release/"><u>[Updated] In 2024, Inside the Innovations A Detailed Look at PowerDirector '24 Release</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-ways-to-perform-a-disk-defragmentation-on-windows-10-using-revo-uninstaller/"><u>Effective Ways to Perform a Disk Defragmentation on Windows 10 Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-great.techidaily.com/fixing-the-issue-how-to-make-a-networked-computer-visible-in-windows-10/"><u>Fixing the Issue: How to Make a Networked Computer Visible in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-para-cambiar-tu-fotografia-de-alta-calidad-dng-a-jpg-gratuito-usando-la-herramienta-en-linea-de-movavi/"><u>Guía Para Cambiar Tu Fotografía De Alta Calidad: DNG a JPG Gratuito Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>In 2024, Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/multi-device-compatibility-viewing-icloud-pictures-on-any-device/"><u>Multi-Device Compatibility: Viewing iCloud Pictures on Any Device</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-dissecting-popularity-ten-facts-about-reels-unmasked-for-2024/"><u>[New] Dissecting Popularity Ten Facts About Reels, Unmasked for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-complementary-behaviors-with-audio-tales-playing/"><u>[New] Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-camera-duel-sj6-against-xiaomis-yi-visionary/"><u>[New] In 2024, The Ultimate Camera Duel SJ6 Against Xiaomi's Yi Visionary</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unseen-marvels-of-vr-elite-headset-comparisons/"><u>[New] Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>[Updated] In 2024, Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-comprehensive-mac-art-app-selection/"><u>2024 Approved Discover Comprehensive Mac Art App Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/disable-youtubes-automatic-video-playback-trigger/"><u>Disable YouTube's Automatic Video Playback Trigger</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-overcome-geforce-software-malfunctioning-and-ensuring-seamless-performance/"><u>Effective Strategies to Overcome GeForce Software Malfunctioning and Ensuring Seamless Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-corrupted-game-files-on-pc-2024/"><u>How to Fix Corrupted Game Files on PC 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-m14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy M14 4G Location | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mastering-the-art-of-disc-cloning-how-to-duplicate-disco-rigido-successfully/"><u>Mastering the Art of Disc Cloning: How To Duplicate 'Disco Rigido' Successfully</u></a></li>
 </ul></div>
 

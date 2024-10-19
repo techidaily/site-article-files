@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Facial Lockout  A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition\""
-date: 2024-09-09T06:39:34.203Z
-updated: 2024-09-10T06:39:34.203Z
+date: 2024-10-16T18:12:33.000Z
+updated: 2024-10-19T00:56:41.941Z
 tags: 
   - screen-recording
   - ai video
@@ -33,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -55,12 +49,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -68,17 +56,25 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -90,11 +86,12 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -109,18 +106,19 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -144,4 +142,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-immersive-escapes-how-to-choose-between-rift-vive-ps-vr/"><u>[New] Immersive Escapes How to Choose Between Rift, Vive, PS VR?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pro-tips-for-immediate-use-of-io-screen-recorder/"><u>[New] In 2024, Pro Tips for Immediate Use of IO Screen Recorder</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mend-iphones-facebook-video-displays/"><u>[New] Mend iPhones' Facebook Video Displays</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-reposting-on-instagram-for-2024/"><u>[New] Step-by-Step Reposting on Instagram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vhs-chronicles-revisiting-the-comical-tale/"><u>[New] VHS Chronicles Revisiting 'The Comical Tale'</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[Updated] 2024 Approved Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fine-tuning-instagram-stories-tempo-with-ease/"><u>[Updated] Fine-Tuning Instagram Stories Tempo with Ease</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>[Updated] In 2024, Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>[Updated] In 2024, Secure Smooth Photo Viewing W10 Troubleshooting Tips Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11/"><u>[Updated] Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11)</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gaming-experience-in-call-of-duty-black-ops-4-by-eliminating-lags-and-fps-declines/"><u>Enhancing Gaming Experience in Call of Duty: Black Ops 4 by Eliminating Lags & FPS Declines</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-whatsapp-wisdom-top-30-astrology-inspired-biographies/"><u>In 2024, WhatsApp Wisdom – Top 30 Astrology-Inspired Biographies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-how-to-effortlessly-rip-dvds-using-the-powerful-and-free-winx-software-perfectly-compatible-with-iphone-and-android-systems/"><u>Learn How to Effortlessly Rip DVDs Using the Powerful and Free WinX Software - Perfectly Compatible with iPhone & Android Systems!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-old-facebook-features-step-by-step-for-2024/"><u>Mastering the Art of Old Facebook Features Step-by-Step for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-essentials-comprehensive-editing-tutorial/"><u>The Essentials Comprehensive Editing Tutorial</u></a></li>
+</ul></div>
 

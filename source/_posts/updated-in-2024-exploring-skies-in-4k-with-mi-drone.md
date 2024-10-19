@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Exploring Skies in 4K with MI Drone"
-date: 2024-10-05T19:11:31.330Z
-updated: 2024-10-12T21:36:14.087Z
+date: 2024-10-11T20:09:00.908Z
+updated: 2024-10-18T19:32:06.066Z
 tags: 
   - screen-recording
   - ai video
@@ -49,20 +49,27 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 
 * Its aesthetics are not much appealing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Features
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Design
 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Battery Life
 
@@ -75,22 +82,15 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Camera
 
@@ -103,10 +103,10 @@ The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -134,22 +134,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>[New] 2024 Approved Enhancing Selfie Impact on Instagram The Zoom Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>[New] In 2024, Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-keywords-the-best-7-no-cost-youtube-taggers/"><u>[New] In 2024, Mastering Keywords The Best 7 No-Cost Youtube Taggers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-visualvision-studio-for-win8-for-2024/"><u>[New] VisualVision Studio for Win8 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-comparative-study-black-hero-4-versus-x1000v-in-action-filming/"><u>[Updated] 2024 Approved Comparative Study Black Hero 4 Versus X1000V in Action Filming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] 2024 Approved Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-chart-topping-content-youtubes-top-5/"><u>[Updated] Chart-Topping Content YouTube's Top 5</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-essential-list-of-kid-safe-drones/"><u>[Updated] Essential List of Kid-Safe Drones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-delivery-to-discovery-enhancing-initial-encounters-for-2024/"><u>[Updated] From Delivery to Discovery Enhancing Initial Encounters for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-holistic-locomotion-scrutiny-report/"><u>2024 Approved Holistic Locomotion Scrutiny Report</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-zooms-video-resolution-expert-advice/"><u>Elevating Zoom's Video Resolution Expert Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-boosting-engagement-through-tiktok-video-duets/"><u>Expert Strategies: Boosting Engagement Through TikTok Video Duets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-intel-wireless-ac-7260-driver-secure-your-free-download-now/"><u>Hassle-Free Intel Wireless-AC 7260 Driver: Secure Your Free Download Now!</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-3-simple-methods-to-brighten-a-video-on-iphone/"><u>In 2024, 3 Simple Methods to Brighten a Video on iPhone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-data-keepers-expert-top-10-selections-for-2024/"><u>Prime Data Keepers Expert Top 10 Selections for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-ranked-mobile-melody-design-experts/"><u>Top-Ranked Mobile Melody Design Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-budget-savvy-gopro-upgrades-for-starters-for-2024/"><u>[New] Budget Savvy GoPro Upgrades for Starters for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-camera-selection-for-amateurs-for-2024/"><u>[New] Camera Selection for Amateurs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] In 2024, Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-visionary-4k-desktop-solutions-full-control/"><u>[New] In 2024, Visionary 4K Desktop Solutions Full Control</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-15-creative-ventures-to-pursue-while-youre-heeding-stories-for-2024/"><u>[Updated] 15 Creative Ventures to Pursue While You're Heeding Stories for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] 2024 Approved Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-money-matters-how-to-understand-your-partner-payouts/"><u>[Updated] 2024 Approved YouTube Money Matters How to Understand Your Partner Payouts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-prime-7-dslr-options-elevating-professional-social-media-coverage/"><u>2024 Approved Prime 7 DSLR Options Elevating Professional Social Media Coverage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nokia-c32-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nokia C32 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/portable-power-players-evaluating-the-differences-between-nintendo-switch-lite-and-oled/"><u>Portable Power Players: Evaluating the Differences Between Nintendo Switch Lite & OLED</u></a></li>
 </ul></div>
 

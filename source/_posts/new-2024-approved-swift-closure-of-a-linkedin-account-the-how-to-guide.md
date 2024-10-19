@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Swift Closure of a LinkedIn Account  The How-To Guide\""
-date: 2024-10-08T01:40:28.326Z
-updated: 2024-10-12T22:30:00.729Z
+date: 2024-10-13T18:38:09.542Z
+updated: 2024-10-18T21:39:17.519Z
 tags: 
   - screen-recording
   - ai video
@@ -53,42 +53,48 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 * Do you have more than one LinkedIn account? You may merge or delete LinkedIn account.
 * Reopening your LinkedIn account is possible within 20days but the data like recommendations, pending invitations, followings, or group memberships will be lost.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to Delete LinkedIn Account on PC
 
 **Step 1:** To delete LinkedIn account, sign in by entering the username and the password. On the top right hand side corner, you can find the "Me" tab. From the "Me" tab drop down menu, you can go to Settings & Privacy. Now, under the "Account" tab find the "Account Management" option.
 
 ![linkedin privacy](https://images.wondershare.com/filmora/article-images/linkedin-privacy.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Next, to "Close your LinkedIn account" find the "Change" option and click on it. You will get a warning if you are a premium member that without canceling the premium membership, you cannot close LinkedIn account. Click on "You’ll need to convert it to a Basic membership" option to reach the membership cancelation page.
 
 ![close linkedin accout](https://images.wondershare.com/filmora/article-images/close-linkedin-account.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Then, you need to click on the answer why you wish to delete LinkedIn account from the options available like I have a duplicate account, I'm getting too many emails, I'm not getting any value from my membership, I have a privacy concern, I'm receiving unwanted contact, and Other. At the bottom of the page, click on "Next". You are asked to enter your password. Now, click on Close "Close Account".
 
 ![linkedin click answer](https://images.wondershare.com/filmora/article-images/linkedin-click-answer.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This automatically deletes LinkedIn account officially but, it takes few more weeks to remove LinkedIn account from the search engines as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part3: How To Close Linkedin Account On Android Phone
 
@@ -98,22 +104,16 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
 ![linkedin android setting](https://images.wondershare.com/filmora/article-images/linkedin-android-setting.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. A message appears if you wish to "continue", so tap on the continue option.Once you click on the continue option, a similar message like the above in delete LinkedIn account from PC appears as to why you wish to close LinkedIn account. Click on any one reason for leaving LinkedIn and then, proceed to tap "Next". It asks for your password to ensure it’s you and for the security of your account and once entering the password is complete, tap "done".
 
 ![linkedin android close account](https://images.wondershare.com/filmora/article-images/linkedin-android-close-account.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,20 +146,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-quadcopters-unveiled-their-intricate-workings-revealed/"><u>[New] 2024 Approved Quadcopters Unveiled Their Intricate Workings Revealed</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-movavi-video-plus-review-and-performance-in-the-new-year-2024/"><u>[New] Movavi Video Plus Review & Performance in the New Year 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-best-ways-to-record-and-preserve-internet-radio/"><u>[New] The Best Ways to Record and Preserve Internet Radio</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-creating-immersive-experiences-best-practices-for-vr-filming-top-9-for-2024/"><u>[Updated] Creating Immersive Experiences Best Practices for VR Filming (Top 9) for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-smooth-transition-wonders-in-4-minutes-or-less/"><u>[Updated] In 2024, Smooth Transition Wonders in 4 Minutes or Less</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>[Updated] In 2024, Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>[Updated] Numerical Leaderboard Spotlight Eighth in Photo Blender</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-techniques-and-strategies-for-beginners-in-pokemon-go/"><u>Easy-to-Follow Techniques and Strategies for Beginners in 'Pokémon Go'</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/guffaw-gallery-your-free-high-quality-memes/"><u>Guffaw Gallery Your Free, High-Quality Memes</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-daily-revenue-of-podcasters-worldwide/"><u>In 2024, Daily Revenue of Podcasters Worldwide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-synchronizing-sequential-images-for-impactful-storytelling/"><u>In 2024, Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/rhythm-reversal-top-10-audio-distortors-for-devices-for-2024/"><u>Rhythm Reversal Top 10 Audio Distortors for Devices for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-8-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/ultimate-selection-of-android-and-ios-editing-tools-for-youtubers/"><u>Ultimate Selection of Android & iOS Editing Tools for YouTubers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-guide-to-storyboard-for-2024/"><u>Updated Step-by-Step Guide to Storyboard for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-inside-track-to-premiere-pro-full-screen-viewing/"><u>[New] 2024 Approved Inside Track to Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-image-editor-repertoire-for-text-addition/"><u>[New] 2024 Approved The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-zenith-zooms-ideal-laptops-for-sharp-resolution-crafting/"><u>[New] 2024 Approved Zenith Zooms Ideal Laptops for Sharp-Resolution Crafting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cross-genre-composition-mastering-audio-blends/"><u>[New] Cross-Genre Composition Mastering Audio Blends</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ideal-strategies-for-online-video-photo-effects-implementation-for-2024/"><u>[New] Ideal Strategies for Online Video Photo Effects Implementation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>[New] In 2024, Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-night-shots-pro-tips-for-iphone-enthusiasts/"><u>[New] Night Shots Pro Tips for iPhone Enthusiasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[New] Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[Updated] 2024 Approved Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-digging-for-discounted-beauty-in-tiktok-backgrounds/"><u>[Updated] Digging for Discounted Beauty in TikTok Backgrounds</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-landscapes-for-streaming-success/"><u>[Updated] Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quirky-quirks-your-simple-steps-for-memelore-mastery/"><u>[Updated] Quirky Quirks Your Simple Steps for Memelore Mastery</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[Updated] Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-index-downloading-your-preferred-chime-files/"><u>[Updated] Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
+<li><a href="https://solve-news.techidaily.com/omamp3/"><u>【セレクション完全】OMAオーディオをMP3に変換するための最強フリーツール! 使いやすさと機能がチェック！</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-to-elevate-your-headline-game/"><u>2024 Approved Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 iOS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app-for-2024/"><u>The Ultimate Guide to Samsung's Picture Editing App for 2024</u></a></li>
 </ul></div>
 

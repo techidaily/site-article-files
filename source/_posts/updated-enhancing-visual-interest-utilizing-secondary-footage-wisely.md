@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Enhancing Visual Interest  Utilizing Secondary Footage Wisely\""
-date: 2024-10-12T01:46:00.447Z
-updated: 2024-10-12T16:48:34.470Z
+date: 2024-10-11T19:01:23.685Z
+updated: 2024-10-18T20:19:39.055Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -53,10 +46,10 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -66,6 +59,13 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -79,11 +79,25 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -91,23 +105,9 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,19 +143,24 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-strategies-for-swiftly-clearing-feedback-for-2024/"><u>[Updated] Comprehensive Strategies for Swiftly Clearing Feedback for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-infusing-sound-into-your-photography/"><u>2024 Approved Infusing Sound Into Your Photography</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-secrets-to-capturing-flawless-photos-for-nothing/"><u>2024 Approved Secrets to Capturing Flawless Photos for Nothing</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>2024 Approved The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-complete-guide-to-motion-without-touch-sensors/"><u>2024 Approved The Complete Guide to Motion Without Touch Sensors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>2024 Approved The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>2024 Approved The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone XS/iPad | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-jesters-playground-newest-tiktok-comedians/"><u>In 2024, Jester's Playground Newest TikTok Comedians</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/simplified-installation-and-durable-construction-the-acurite-pro-01036m-analysis/"><u>Simplified Installation & Durable Construction - The AcuRite Pro 01036M Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/"><u>Troubleshooting Steps to Stop 'Forza Horizon 5' From Freezing on Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-pluraleyes-the-best-plug-in-to-sync-audio-in-premiere-pro-for-2024/"><u>Updated PluralEyes The Best Plug in to Sync Audio in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-detailed-review-of-vsco-editing-techniques-and-tools/"><u>[New] In 2024, Detailed Review of VSCO Editing Techniques and Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-syncopated-social-media-adding-melodies-to-reels/"><u>[New] Syncopated Social Media Adding Melodies to Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-electrolytes-for-hero5-authentic-and-3rd-party-companies/"><u>[Updated] Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies</u></a></li>
+<li><a href="https://article-files.techidaily.com/9gag-the-ultimate-resource-for-memetic-innovation-for-2024/"><u>9GAG The Ultimate Resource for Memetic Innovation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/apple-music-add-on-for-smooth-video-playback/"><u>Apple Music Add-On for Smooth Video Playback</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list-for-2024/"><u>Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/captivating-visual-transformation-software-for-pc-mac-linux/"><u>Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://article-files.techidaily.com/crescent-casts-the-art-of-shaping-focal-points-with-light/"><u>Crescent Casts The Art of Shaping Focal Points with Light</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-ppt-techniques-for-s2t-integration-advocates/"><u>Cutting-Edge PPT Techniques for S2T Integration Advocates</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-tempo-detection-top-free-tools-unveiled-for-2024/"><u>Cutting-Edge Tempo Detection Top Free Tools Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/deciphering-the-power-of-apples-new-m1-laptops/"><u>Deciphering the Power of Apple’s New M1 Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-correcting-error-code-c0000005-in-windows/"><u>Decoding and Correcting Error Code C0000005 in Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>In 2024, Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/render-movement-blur-in-digital-imagery/"><u>Render Movement Blur in Digital Imagery</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-text-alteration-in-snipping-tool-windows-11/"><u>Tips for Text Alteration in Snipping Tool Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-g54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola G54 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
 

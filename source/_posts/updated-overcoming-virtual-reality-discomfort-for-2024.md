@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Virtual Reality Discomfort for 2024"
-date: 2024-09-09T06:34:12.203Z
-updated: 2024-09-10T06:34:12.203Z
+date: 2024-10-12T16:05:53.323Z
+updated: 2024-10-18T17:24:52.461Z
 tags: 
   - screen-recording
   - ai video
@@ -16,34 +16,16 @@ keywords: "VR Comfort Tips,Reducing VR Sickness,Overcome VR Nausea,Virtual Reali
 thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc4017e6eac185e39f8838773.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Virtual Reality Discomfort
 
 # How to reduce Virtual reality (VR) sickness
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -65,11 +47,12 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
@@ -77,17 +60,12 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
@@ -95,17 +73,12 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -129,4 +102,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-begin-webcam-footage-recording-with-vlc-for-2024/"><u>[Updated] Begin Webcam Footage Recording with VLC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/"><u>[Updated] Spotting the Top 10 Covert Instagram Story Spectators for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-are-high-end-tvs-with-aurora-hdr-worth-it-analyzed/"><u>2024 Approved Are High-End TVs with Aurora HDR Worth It? Analyzed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>2024 Approved Expertise Unlocked Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>2024 Approved Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ideal-starter-accessories-for-gopro-newbies/"><u>2024 Approved Ideal Starter Accessories for GoPro Newbies</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-joke-generation-made-simple-kapwing-app-guide/"><u>2024 Approved Joke Generation Made Simple – Kapwing App Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-lg-27ud68-4k-freesync-monitor-review/"><u>2024 Approved LG 27UD68 4K FreeSync Monitor Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-next-gen-cinema-a-virtual-leap-forward/"><u>2024 Approved Next-Gen Cinema A Virtual Leap Forward</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-old-world-wonders-iphone-x-portraits/"><u>2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-usb-to-rs-232-cable-driver-for-windows-step-by-step-guide/"><u>Download & Install USB to RS-232 Cable Driver for Windows - Step by Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-apcindexmismatch-blue-screen-error/"><u>Fix: APC_INDEX_MISMATCH Blue Screen Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-play-8t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Play 8T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unmatched-free-wd-elements-backup-solution-experience-excellence-with-aomei-backupper/"><u>Unmatched FREE WD Elements Backup Solution - Experience Excellence with AOMEI Backupper</u></a></li>
+</ul></div>
 

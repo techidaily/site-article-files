@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unpacking the DJI Phantom 3 Standard Features\""
-date: 2024-09-09T06:32:46.397Z
-updated: 2024-09-10T06:32:46.397Z
+date: 2024-10-13T22:32:57.698Z
+updated: 2024-10-18T17:54:13.640Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "DJI Phantom Features Overview,DJI Drone Basics,DJI Flight Controls Gu
 thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8a731b991532309ef68ee1fd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unpacking the DJI Phantom 3 Standard Features
 
 # Review for DJI Phantom 3 Standard
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -42,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete review for DJ Phantom 3 Standard
 
 #### Pros and Cons
@@ -98,12 +80,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
 
  There are five different modes available under settings manual; once you disable the beginner’s mode then you will be able to gain access to points of interest, follow me, waypoint, home lock and course lock modes. All these modes assist users to enjoy incredible flight experience in air.
@@ -112,22 +88,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Phantom 3 Standard is able to capture videos with three different modes: HD, HHD and 2.7 K resolution level; whereas, you can enjoy stills with 12MP capabilities. All the resulting videos of Phantom device use to be of excellent quality with crystal clear details and all movements are reflected with very smooth and clean fashion. The great news is here that phantom 3 offers intuitive control video settings and one can make easy adjustments to avail soft, real and fuzzy videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -151,4 +115,33 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-omniimageai-holistic-editing-experience-for-2024/"><u>[New] OmniImageAI Holistic Editing Experience for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-ten-best-of-the-year-high-quality-4k-pcs/"><u>[Updated] In 2024, Top Ten Best of the Year High-Quality 4K PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-desktop-on-windows-3-simple-cost-free-methods/"><u>[Updated] Record Desktop on Windows 3 Simple, Cost-Free Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-aesthetic-innovations-showcase/"><u>2024 Approved Aesthetic Innovations Showcase</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-from-forgotten-frames-to-captivating-clip-sequences/"><u>2024 Approved From Forgotten Frames to Captivating Clip Sequences</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-high-altitude-heroes-aerospaces-persistent-innovations-top-10/"><u>2024 Approved High Altitude Heroes Aerospace's Persistent Innovations (Top 10)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>2024 Approved Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-jumpstart-your-career-free-cutting-edge-premiere-plans/"><u>2024 Approved Jumpstart Your Career Free, Cutting-Edge Premiere Plans</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pro-level-stabilization-systems-for-streaming-content/"><u>2024 Approved Pro-Level Stabilization Systems for Streaming Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-skyline-scanning-smartphone-panorama-techniques/"><u>2024 Approved Skyline Scanning Smartphone Panorama Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>2024 Approved Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-essential-guide-to-timeless-stop-motion-classics/"><u>2024 Approved The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-filmography-mastering-cinematic-shots-and-lighting/"><u>2024 Filmography Mastering Cinematic Shots and Lighting</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dual-dialogues-turkey-and-korea/"><u>Dual Dialogues: Turkey & Korea</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-activate-and-utilize-dfu-mode-on-your-iphone/"><u>How to Activate and Utilize DFU Mode on Your iPhone?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-hiding-your-chatconversations-with-gpt-no-deletions-involved/"><u>Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seconds-needed-for-playback-20mb-video-example-for-2024/"><u>Seconds Needed for Playback - 20Mb Video Example for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-silent-pcs-in-fallout-4-a-step-by-step-guide/"><u>Troubleshooting Silent PCs in Fallout 4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-free-movie-streaming-apps-you-cant-miss/"><u>Ultimate List of Free Movie Streaming Apps You Can't Miss</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

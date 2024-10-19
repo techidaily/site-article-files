@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Personal Exploration of 3D Printing in '3DR'"
-date: 2024-10-08T19:53:23.148Z
-updated: 2024-10-12T17:13:23.741Z
+date: 2024-10-13T22:15:31.955Z
+updated: 2024-10-18T23:26:22.989Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -103,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -124,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,22 +161,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-videos-in-complete-silence/"><u>[New] How to Record Videos in Complete Silence</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-visionmaster-vs-screencapturer/"><u>[Updated] 2024 Approved VisionMaster vs ScreenCapturer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-engagement-the-hottest-tiktok-hashtags-for-now-for-2024/"><u>[Updated] Elevate Engagement The Hottest TikTok Hashtags for Now for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-chuckle-composer-app/"><u>2024 Approved Chuckle Composer App</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-discover-top-tier-cost-effective-mobile-imaging-enhancers/"><u>2024 Approved Discover Top-Tier, Cost-Effective Mobile Imaging Enhancers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-easy-to-follow-guide-to-time-lapse-phenomena-with-gopro/"><u>2024 Approved Easy-to-Follow Guide to Time-Lapse Phenomena with GoPro</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-effortlessly-fast-forward-focus-in-video-content/"><u>2024 Approved Effortlessly Fast-Forward Focus in Video Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-lg-vr-360-review-a-new-dimension-of-gaming/"><u>2024 Approved LG VR 360 Review A New Dimension of Gaming</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-premium-steadicam-models-to-transform-your-dslr-filmmaking-experience/"><u>2024 Approved Premium Steadicam Models to Transform Your DSLR Filmmaking Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-video-editing-in-obs-with-luts/"><u>2024 Approved Streamlining Video Editing in OBS With LUTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-science-of-writing-gripping-documentaries/"><u>2024 Approved The Science of Writing Gripping Documentaries</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/einfache-schritte-zur-synchronisation-von-google-drive-auf-deinem-mac/"><u>Einfache Schritte Zur Synchronisation Von Google Drive Auf Deinem Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-v27e-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo V27e to New Phone | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/official-m-audio-fast-track-drivers-for-windows-users-free-download-for-win11-win7-win8-and-win81/"><u>Official M-Audio Fast Track Drivers for Windows Users: Free Download for Win11, Win7, Win8 & Win8.1</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 You Should Try Out</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-a-comprehensible-guide-to-screen-recording-on-the-mi-11/"><u>[New] 2024 Approved A Comprehensible Guide to Screen Recording on the Mi 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-excellent-ai-bots-for-social-spheres/"><u>[New] Excellent AI Bots for Social Spheres</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-amplifying-tv-screens-through-fb-live-integration/"><u>[New] In 2024, Amplifying TV Screens Through FB Live Integration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-master-mp4-transformer-for-fb/"><u>2024 Approved Master MP4 Transformer for FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/assembling-visual-slices-photo-montage-techniques-for-2024/"><u>Assembling Visual Slices Photo Montage Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/audacitys-blueprint-for-high-fidelity-sound-recording-for-2024/"><u>Audacity's Blueprint for High-Fidelity Sound Recording for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-action-cameras-with-front-facing-screen-for-2024/"><u>Best Action Cameras with Front Facing Screen for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/cameras-that-complement-best-hats-for-capturing-motorcycle-adventures-for-2024/"><u>Cameras That Complement Best Hats for Capturing Motorcycle Adventures for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-kinetics-overview-2023/"><u>Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-cinematic-audio-in-inshot-videos/"><u>Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-perfect-lines-in-digital-imagery/"><u>Crafting Perfect Lines in Digital Imagery</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-lenovo-thinkphone-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lenovo ThinkPhone Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-f5-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco F5 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lyric-learning-labyrinas-accelerated-speech-through-song/"><u>Lyric Learning Labyrinas: Accelerated Speech Through Song</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
 </ul></div>
 

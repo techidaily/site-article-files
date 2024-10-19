@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate Resource for Mac Users  Unlocking Preview Capabilities\""
-date: 2024-09-09T06:31:30.077Z
-updated: 2024-09-10T06:31:30.077Z
+date: 2024-10-12T21:30:08.125Z
+updated: 2024-10-19T01:51:37.359Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "\"Mac Preview Guide,Mac Tools Hub,User-Friendly Mac Apps,Optimize Mac
 thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38aadd635d4ed1887b04b3b67e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Resource for Mac Users: Unlocking Preview Capabilities
 
 # How to Use Preview App on Mac
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -42,12 +30,6 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -82,6 +64,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -98,12 +87,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -148,6 +131,13 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -177,17 +167,12 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -223,11 +208,12 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -251,4 +237,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-igtv-your-ultimate-tutorial/"><u>[New] 2024 Approved Unveiling IGTV Your Ultimate Tutorial</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-captureelite-pro-windows-enhanced/"><u>[Updated] In 2024, CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-meme-generator-app-downlaod/"><u>2024 Approved Best Meme Generator App Downlaod</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-brightness-and-hd-in-harmony-a-fit-for-hdr/"><u>2024 Approved Brightness and HD in Harmony A Fit for HDR?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-jokejigsaw-creator-humor-graphic-tool/"><u>2024 Approved JokeJigsaw Creator Humor Graphic Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-whatsapp-audio-chats/"><u>2024 Approved Mastering WhatsApp Audio Chats</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>2024 Approved The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-test-in-cinematography-gopro-vs-x1000v-action-cam/"><u>2024 Approved The Ultimate Test in Cinematography GoPro Vs. X1000V Action Cam?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-display-drivers-supported-on-windows-1078-systems-get-them-here/"><u>Download Nvidia Display Drivers: Supported on Windows 10/7/8 Systems - Get Them Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-clarity-in-colors-top-5-4k-monitors-showcased/"><u>Finding Clarity in Colors Top 5 4K Monitors Showcased</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-fixing-windows-11-8-and-7-drivers-resolved/"><u>StarTech: Fixing Windows 11, 8, & 7 Drivers (Resolved)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
+</ul></div>
 

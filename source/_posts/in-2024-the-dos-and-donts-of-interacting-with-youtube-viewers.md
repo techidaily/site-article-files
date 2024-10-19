@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Do's and Don'ts of Interacting with YouTube Viewers"
-date: 2024-09-09T06:37:23.715Z
-updated: 2024-09-10T06:37:23.715Z
+date: 2024-10-11T23:08:40.472Z
+updated: 2024-10-18T17:03:04.111Z
 tags: 
   - screen-recording
   - ai video
@@ -24,28 +24,10 @@ If you are a content creator who makes product reviews, the comment section is a
 
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -53,6 +35,13 @@ YouTube comments are an opportunity for the site's 1.7 million unique monthly vi
 Not only does it show your fans followers that you care about what they have to say, engaging with comments has they have to say, engaging with comments has the added benefit of boosting you in the YouTube algorithm. Videos with lots of likes, replies and moderation tend to show up higher in search results.
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
 
@@ -74,6 +63,13 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -92,18 +88,6 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -115,27 +99,16 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -163,11 +136,12 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -202,4 +176,20 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-chat-enhancement-course-turning-your-graphics-into-social-media-stickers/"><u>[New] 2024 Approved Chat Enhancement Course Turning Your Graphics Into Social Media Stickers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ranked-elite-12-best-camcorders-sporting-gps-mapping-technology/"><u>[New] 2024 Approved Ranked Elite 12 Best Camcorders Sporting GPS Mapping Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-nikon-z6i-vs-d7500-in-depth-comparison/"><u>[New] In 2024, Nikon Z6I vs D7500 In-Depth Comparison</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-transform-photos-with-ease-using-basic-adobe-tools/"><u>[New] In 2024, Transform Photos with Ease Using Basic Adobe Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-incorporating-songs-in-your-fb-story/"><u>[New] Tips for Incorporating Songs in Your FB Story</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks-for-2024/"><u>Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-techniques-for-youtube-photo-submissions/"><u>Essential Techniques for YouTube Photo Submissions</u></a></li>
+<li><a href="https://article-files.techidaily.com/harness-the-power-of-windows-photos-and-story-remix-for-editing-for-2024/"><u>Harness the Power of Windows Photos & Story Remix for Editing for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-short-videos-and-everything-about-them/"><u>In 2024, Facebook Short Videos and Everything About Them</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-layers-of-twitch-interaction-a-guide-for-fresh-streaming-enthusiasts/"><u>Navigating the Layers of Twitch Interaction: A Guide for Fresh Streaming Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-audio-problems-solved-say-goodbye-to-unexpected-interruptions/"><u>Starfield Audio Problems Solved – Say Goodbye to Unexpected Interruptions!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-innovation-at-apples-wwdc-2025-top-reveals-and-insights/"><u>Unlocking Innovation at Apple's WWDC 2025: Top Reveals & Insights</u></a></li>
+</ul></div>
 
