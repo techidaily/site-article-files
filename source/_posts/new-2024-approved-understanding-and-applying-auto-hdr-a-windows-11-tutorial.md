@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Understanding and Applying Auto HDR  A Windows 11 Tutorial\""
-date: 2024-09-09T06:30:35.342Z
-updated: 2024-09-10T06:30:35.342Z
+date: 2024-10-20T18:23:15.511Z
+updated: 2024-10-24T17:56:18.147Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ Such factors make the demand for Dolby Vision **iPhone HDR video** settings reas
 
 Having HDR-based video playing in the SDR display type would automatically make the colors look weird and washed out. If the software came with an SDR squash functionality for importing/exporting Dolby Vision HDR videos in SDR format, that would benefit users.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why the HDR videos on iPhone look washed out or overexposed?
 
 It is inaccurate to assume that the **iPhone HDR video** issues like overexposure or washed-out appearance occur due to Adobe Premiere not supporting Dolby HDR. On the other hand, the more reasonable reason is that most of the screens and system versions do not work with this functionality.
@@ -54,12 +61,6 @@ The Premiere Pro 2022 version can work with the video clips as HDR after changin
 
 Also, it is important to consider the nits' levels on screens to understand if a device can even display the **iPhone 12 HDR video.** These devices support a 10-bit OLED display type that can reach a peak brightness of 1200 nits. So, it is suitable to showcase the footage without much error.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Most Effective 4 Ways to Fix Overexposed iPhone HDR video in Premiere Pro
 
 The following are some of the feasible solutions we've gathered, you can take to handle the overexposure quality of HDR videos while using Premiere Pro.
@@ -74,18 +75,6 @@ Step1On your iPhone, open the Settings menu from the list of apps.
 
 ![open the settings menu](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2Access the Camera tab.
 
 Step3Under the HDR settings area, slide the toggle for Smart HDR to OFF.
@@ -98,12 +87,6 @@ Step4On the regular Camera app, the yellow HDR icon will appear if you switch of
 
 **Note:** Some steps may vary on some iPhone models when you manually control HDR. Click here to head to how to turn off HDR on iPhone 13.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Get a Video-Editing Software that you can Edit Dolby Vision Footage in \[Recommended\]
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software choices available currently, with a range of high-quality editing functions. You can add pre-set effects in the software package or adjust color grading in the videos. The two main color-related adjustments you can make are Color Correction and Color Match to sync the video visuals with zero washed-out look or distortions.
@@ -130,36 +113,12 @@ Step4Make the necessary edits like Color Matching and Chroma key-based backgroun
 
 ![make edits](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5Click on the Export button on top of the screen.
 
 Step6Go to the Device tab and choose iPhone. Rename the file and make format settings here. The video will export for your device in SDR-Rec 709 format.
 
 ![rename the file](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Edit Color Space Override with Rec 2020
 
 One can use the Color Space Override technique to handle the issue of overexposure video quality. This is a solution that the official Adobe Premiere team provides as a failsafe solution. Here, the process works for files in JPEG 2000 MXF OP1a or  () format.
@@ -178,14 +137,15 @@ The newly imported file should have the same high-quality color resolutions that
 
 Not to mention, the quality of the video might not resemble the original perfectly. This method is not widely tested and authorized, so use it as a last resort or with a professional editor's help.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Hot FAQs on iPhone HDR Video
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Does YouTube support Apple's iPhone 12 Dolby Vision HDR videos?
 
 YouTube does allow users to add HDR videos in the newer update. So, you can insert the Dolby Vision videos from iPhone 12 into the platform.
@@ -194,16 +154,24 @@ YouTube does allow users to add HDR videos in the newer update. So, you can inse
 
 You can directly turn off the HDR setting on your iPhone 12 devices, noted as Smart HDR, from Settings > Camera > Smart HDR. The steps for turning off HDR on iPhone are explained in Solution 1 under Part 3 in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Is it possible to convert a Dolby Vision HDR video taken on an iPhone into a .mp4, .mov, or another video format?
 
 Yes, users can convert their Dolby Vision HDR videos into other formats like MP4 or Quicktime MOV format. For this, using high-quality third-party converter solutions is necessary. Choose your option carefully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Final Words
 
 Overall, it is possible for the HDR quality videos captured with an iPhone 12 camera to look overexposed/washed out. This is because the Dolby Vision effect is not compatible with many devices and platforms and is not an issue with editing software like Premiere Pro. You can fix the problem by disabling the HDR effect, using a high-quality video editor like Filmora, or changing the color codec.
@@ -231,11 +199,12 @@ Step2Click on New Project > Click here to import media.
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Choose the HDR video from the iPhone device that you transferred to the device in QuickTime Movie format (MOV).
 
 Step3Drag and drop the video to the timeline section for editing the file.
@@ -251,23 +220,18 @@ Step6Go to the Device tab and choose iPhone. Rename the file and make format set
 ![rename the file](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 3: Edit Color Space Override with Rec 2020
 
 One can use the Color Space Override technique to handle the issue of overexposure video quality. This is a solution that the official Adobe Premiere team provides as a failsafe solution. Here, the process works for files in JPEG 2000 MXF OP1a or  () format.
@@ -286,26 +250,15 @@ The newly imported file should have the same high-quality color resolutions that
 
 Not to mention, the quality of the video might not resemble the original perfectly. This method is not widely tested and authorized, so use it as a last resort or with a professional editor's help.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Hot FAQs on iPhone HDR Video
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Does YouTube support Apple's iPhone 12 Dolby Vision HDR videos?
 
 YouTube does allow users to add HDR videos in the newer update. So, you can insert the Dolby Vision videos from iPhone 12 into the platform.
@@ -314,22 +267,17 @@ YouTube does allow users to add HDR videos in the newer update. So, you can inse
 
 You can directly turn off the HDR setting on your iPhone 12 devices, noted as Smart HDR, from Settings > Camera > Smart HDR. The steps for turning off HDR on iPhone are explained in Solution 1 under Part 3 in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Is it possible to convert a Dolby Vision HDR video taken on an iPhone into a .mp4, .mov, or another video format?
 
 Yes, users can convert their Dolby Vision HDR videos into other formats like MP4 or Quicktime MOV format. For this, using high-quality third-party converter solutions is necessary. Choose your option carefully.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 Overall, it is possible for the HDR quality videos captured with an iPhone 12 camera to look overexposed/washed out. This is because the Dolby Vision effect is not compatible with many devices and platforms and is not an issue with editing software like Premiere Pro. You can fix the problem by disabling the HDR effect, using a high-quality video editor like Filmora, or changing the color codec.
@@ -360,4 +308,22 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-sendtransfer-large-video-files-from-iphone-to-mac/"><u>[New] In 2024, How to Send/Transfer Large Video Files From iPhone to Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-peering-into-popularity-twitters-top-videos/"><u>[New] In 2024, Peering Into Popularity Twitter’s Top Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-toolwiz-unveiled-the-full-scope-photo-software-review/"><u>[New] In 2024, Toolwiz Unveiled - The Full Scope Photo Software Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-maximizing-podcast-discoverability-through-effective-seo/"><u>[New] Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-movavi-plus-review-a-detailed-look-at-its-version/"><u>[New] Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-palette-perfected-the-finest-4k-panels-for-artists/"><u>[Updated] A Palette Perfected The Finest 4K Panels for Artists</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-first-step-in-film-making-best-8-cameras-35mm-to-pands/"><u>[Updated] First Step in Film Making Best 8 Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargue-y-transforme-sus-ficheros-mp4-a-linea-online-por-nada-usando-movavi/"><u>Descargue Y Transforme Sus Ficheros MP4 a Línea Online Por Nada, Usando Movavi.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>In 2024, Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-video-capture-bandicams-edge-over-camtasia/"><u>Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/score-amazing-deals-on-oneplus-phones-for-prime-day-shopping/"><u>Score Amazing Deals on OnePlus Phones for Prime Day Shopping!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformez-votre-fichier-mef-en-une-image-jpeg-de-qualite-superieure-sans-frais-movavi/"><u>Transformez Votre Fichier MEF en Une Image JPEG De Qualité Supérieure Sans Frais - Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577569045-unlocking-opportunities-with-croatian-top-7-motivations/"><u>Unlocking Opportunities with Croatian: Top 7 Motivations</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Extract and Save Still Images From Movies in Windows Photos"
-date: 2024-10-16T00:49:03.822Z
-updated: 2024-10-18T18:42:50.482Z
+date: 2024-10-18T18:05:10.030Z
+updated: 2024-10-24T19:30:00.232Z
 tags: 
   - screen-recording
   - ai video
@@ -63,40 +63,28 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
@@ -115,15 +103,15 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -132,10 +120,10 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -163,18 +151,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-10-best-webcam-recorders-windows-10-for-2024/"><u>[New] 10 Best Webcam Recorders Windows 10 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-scrutinizing-vrs-enchantment-and-challenges-ahead/"><u>[New] 2024 Approved Scrutinizing VR's Enchantment and Challenges Ahead</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-temporal-and-spatial-shifts-in-filmmaking-for-2024/"><u>[New] Mastering Temporal & Spatial Shifts in Filmmaking for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-hosting-regular-online-gatherings/"><u>[New] The Ultimate Guide to Hosting Regular Online Gatherings</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transform-photos-with-ease-using-basic-adobe-tools-for-2024/"><u>[New] Transform Photos with Ease Using Basic Adobe Tools for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[Updated] 2024 Approved The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-free-from-marks-acquiring-unmarked-stock-photography-for-2024/"><u>[Updated] Free From Marks Acquiring Unmarked Stock Photography for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-downloading-facebook-videos-to-mp4-no-hassle/"><u>[Updated] In 2024, Downloading Facebook Videos to MP4 - No Hassle</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>[Updated] In 2024, Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-variants-of-moviemaker-pro-on-windows-for-2024/"><u>[Updated] Variants of MovieMaker Pro on WIndows for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y100i-power-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y100i Power 5G online without jailbreak</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-dvd-ripper-pro-quick-and-easy-conversion-of-dvds-to-mp4-on-mac-iphone-and-ipad/"><u>MacX DVD Ripper Pro: Quick and Easy Conversion of DVDs to MP4 on Mac, iPhone & iPad</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-summary-of-bose-wave-soundtouch-iv-superior-tunes-aesthetic-downfall/"><u>Review Summary of Bose Wave SoundTouch IV: Superior Tunes, Aesthetic Downfall</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-evolving-strategies-the-forecast-for-fb-advertising/"><u>[New] 2024 Approved Evolving Strategies The Forecast for FB Advertising</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tier-tools-transforming-remote-discussions/"><u>[New] 2024 Approved Top-Tier Tools Transforming Remote Discussions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discover-top-5-cost-free-windows-10-screencast-recorders/"><u>[New] Discover Top 5 Cost-Free Windows 10 Screencast Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[Updated] 2024 Approved Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-quantum-quadrants-cinematic-frontiers-for-2024/"><u>[Updated] Quantum Quadrants Cinematic Frontiers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>In 2024, Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-epic-game-viewing-spots-1-9/"><u>In 2024, Epic Game Viewing Spots #1-#9</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photo-fables-the-best-ios-and-android-text-apps-for-pictures/"><u>In 2024, Photo Fables The Best iOS & Android Text Apps for Pictures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-e13-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto E13 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfecting-your-projects-proportions-with-aspect-ratio/"><u>Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-text-editing-made-simple-tools-and-techniques-for-2024/"><u>Photo Text Editing Made Simple Tools & Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-october-unveiling-metas-revolutionary-project-cambria-headset-redefines-vr-experience/"><u>Upcoming October Unveiling: Meta's Revolutionary Project Cambria Headset Redefines VR Experience</u></a></li>
 </ul></div>
 

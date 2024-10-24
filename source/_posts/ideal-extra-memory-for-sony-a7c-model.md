@@ -1,7 +1,7 @@
 ---
 title: "Ideal Extra Memory for Sony A7C Model"
-date: 2024-10-17T18:07:09.798Z
-updated: 2024-10-18T18:44:55.412Z
+date: 2024-10-23T16:01:00.433Z
+updated: 2024-10-24T17:41:49.077Z
 tags: 
   - screen-recording
   - ai video
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Memory Cards for Sony A7S II
@@ -120,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -151,19 +151,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] 2024 Approved Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-creature-companions-best-animal-titles-on-android-for-2024/"><u>[New] Creature Companions Best Animal Titles on Android for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-easy-steps-to-change-character-sounds-for-maximum-impact-no-cost/"><u>[New] In 2024, Easy Steps to Change Character Sounds for Maximum Impact (No Cost)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-capturing-the-unseen-gopro-hero-vs-nikons-km-170/"><u>[Updated] In 2024, Capturing the Unseen GoPro HERO vs Nikon's KM-170</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-top-frameer-tools-perfect-pictures-with-ease-online/"><u>[Updated] In 2024, Top Frameer Tools Perfect Pictures with Ease Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-leveraging-srt-for-improved-video-subtitles-online-presence-for-2024/"><u>[Updated] Leveraging SRT for Improved Video Subtitles Online Presence for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-impact-of-instant-subscribing-on-online-viewing-habits/"><u>2024 Approved The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-slow-message-arrivals-on-iphones-top-9-tips/"><u>Fixing the Issue of Slow Message Arrivals on iPhones: Top 9 Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-connecting-the-web-to-enhance-your-living-room-theatre-setup/"><u>Guide: Connecting the Web to Enhance Your Living Room Theatre Setup</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-recapture-image-purity-with-these-premium-photo-editors-online/"><u>In 2024, Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/picking-the-top-action-cam-gopro-or-sony-fdr-x1000v-in-2024/"><u>Picking the Top Action Cam GoPro or Sony FDR-X1000V, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-multidevice-scribbling-with-win11s-notes-feature/"><u>Simplify Multidevice Scribbling with WIN11'S Notes Feature</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-adding-audio-to-pictures-with-legally-free-content-sources/"><u>Step-by-Step Tutorial: Adding Audio to Pictures with Legally Free Content Sources</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nary-voices-top-10-most-engaged-internet-creators-for-2024/"><u>Visionary Voices Top 10 Most Engaged Internet Creators for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-slide-to-video-software/"><u>[New] 2024 Approved Premier Slide-to-Video Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-complete-manual-for-logging-and-storing-periscope-video/"><u>[New] A Complete Manual for Logging & Storing Periscope Video</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discover-the-top-10-historically-rich-youtube-tutorials/"><u>[New] Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-integrating-gifs-into-your-iphone-life-with-ease-for-2024/"><u>[New] Integrating GIFs Into Your iPhone Life with Ease for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summers-best-10-nostalgic-films-for-the-whole-family/"><u>[New] Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-why-cant-i-see-video-on-sony-a6400/"><u>[Updated] In 2024, Why Can’t I See Video on Sony A6400?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essentials-of-elevating-your-youtube-entrance-ranks-for-2024/"><u>[Updated] The Essentials of Elevating Your Youtube Entrance Ranks for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-smart-8-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Smart 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978283727-easy-installation-acquire-your-acers-official-bluetooth-driver-today/"><u>Easy Installation: Acquire Your Acer's Official Bluetooth Driver Today</u></a></li>
+<li><a href="https://article-files.techidaily.com/getting-ahead-with-snapchats-latest-features/"><u>Getting Ahead with Snapchat's Latest Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/immerse-in-hd-celestial-wonders-online-for-2024/"><u>Immerse in HD Celestial Wonders Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-visionaryzoom-x7pro-elevate-images-to-new-heights/"><u>In 2024, VisionaryZoom X7Pro Elevate Images to New Heights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-ultra-compact-nh-l12sx77-enhanced-ram-clearance-and-efficient-vrm-cooling-in-sff-rigs/"><u>Noctua Unveils Ultra-Compact NH-L12Sx77: Enhanced Ram Clearance & Efficient VRM Cooling in SFF Rigs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] First Steps in UAV World? The Syma X5C Review Sets You Up Right for 2024"
-date: 2024-10-12T01:10:21.224Z
-updated: 2024-10-18T19:09:04.380Z
+date: 2024-10-18T16:49:07.798Z
+updated: 2024-10-24T19:22:18.741Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -117,19 +117,19 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -163,20 +163,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[New] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-infuse-motion-blur-into-image-sequence/"><u>[New] Infuse Motion Blur Into Image Sequence</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-pinnacle-portals-select-laptops-for-uhd-content-creation/"><u>[New] Pinnacle Portals Select Laptops for UHD Content Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premium-slide-show-software-xi-to-xrxs-max-edition-for-2024/"><u>[New] Premium Slide Show Software XI to Xr/Xs Max Edition for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-video-formats-face-off-determining-the-best-av1-or-vp9/"><u>[Updated] 2024 Approved Video Formats Face Off Determining the Best, AV1 or VP9?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cutting-down-on-workload-the-ultimate-mac-mp4-apps-list/"><u>[Updated] Cutting Down on Workload The Ultimate Mac MP4 Apps List</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-new-iphone-x-camera-features-you-need-to-know/"><u>[Updated] In 2024, New iPhone X Camera Features You Need to Know</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-quick-cut-cinematic-concept/"><u>[Updated] In 2024, Quick Cut Cinematic Concept</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpfocusx7-size-your-photography-right/"><u>2024 Approved SharpFocusX7 Size Your Photography Right</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-20c-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 20C Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-in-photo-captioning-tools/"><u>Best Practices in Photo Captioning Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/gaming-channel-evolution-best-14-video-ideas-on-youtube-for-2024/"><u>Gaming Channel Evolution Best 14 Video Ideas on YouTube for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-the-art-of-search-engine-optimization-for-podcasts-for-2024/"><u>Mastering the Art of Search Engine Optimization for Podcasts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-free-mp4/"><u>Online Free MP4 피드 쿼리 휴리스트 - 모바이비전</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transformative-tapes-the-essential-5-video-booster-apps/"><u>Transformative Tapes The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[New] 2024 Approved Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-photos-jpg-png-on-ios-to-pdf-the-easy-steps/"><u>[New] From Photos (JPG, PNG) on iOS to PDF The Easy Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-isolating-still-images-from-motion-in-windows-11-photos-for-2024/"><u>[New] Isolating Still Images From Motion in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>[New] The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tis-the-tape-a-1992-rewind-at-goofys-cinema-for-2024/"><u>[Updated] 'Tis the Tape!' A 1992 Rewind at Goofy's Cinema for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-hulu-capture-windows-mac-and-mobile-edition/"><u>[Updated] 2024 Approved Mastering Hulu Capture Windows, Mac & Mobile Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-rankings-of-top-free-cross-platform-video-calls-iphoneandroid/"><u>[Updated] 2024 Approved Ultimate Rankings of Top Free Cross-Platform Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[Updated] 2024 Approved Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-building-immersive-thumbnails-for-igtv-videos/"><u>[Updated] In 2024, Building Immersive Thumbnails for IGTV Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-gamers-ultimate-guide-to-9-streams/"><u>[Updated] In 2024, Gamer's Ultimate Guide to #9 Streams</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>[Updated] In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>In 2024, A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-aurora-vs-standard-screens-a-detailed-comparison/"><u>In 2024, Aurora vs Standard Screens A Detailed Comparison</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-initiating-film-narratives/"><u>In 2024, Initiating Film Narratives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-marvels-space-adventure-expert-tips-for-resolving-guardians-of-the-galaxy-crashing-problems-on-windows-systems/"><u>Master Marvel's Space Adventure: Expert Tips for Resolving Guardians of the Galaxy Crashing Problems on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-workstation-with-the-latest-nvidia-quadro-rtx-4000-driver-software-free-download-inside/"><u>Optimize Your Workstation with the Latest NVIDIA Quadro RTX 4000 Driver Software - Free Download Inside</u></a></li>
 </ul></div>
 

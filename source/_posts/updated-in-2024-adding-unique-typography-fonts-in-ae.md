@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Adding Unique Typography  Fonts in AE\""
-date: 2024-10-12T19:30:36.410Z
-updated: 2024-10-18T19:31:20.127Z
+date: 2024-10-23T16:32:39.568Z
+updated: 2024-10-24T17:58:13.442Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -61,13 +68,6 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * First, select the project video that you want to edit. Then navigate to "effects and presets" and search for the presets of the texts that you want to edit.
 
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
@@ -85,28 +85,15 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -115,6 +102,13 @@ These features also include adding texts and changing the fonts of those texts o
 * You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -126,6 +120,19 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
@@ -136,13 +143,6 @@ These features also include adding texts and changing the fonts of those texts o
 * You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,18 +172,17 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-start-with-snapseed-a-foundation-for-image-editing/"><u>[New] Start with Snapseed A Foundation for Image Editing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile/"><u>[Updated] 2024 Approved Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-acquire-and-setup-windows-xp-movie-creator/"><u>[Updated] In 2024, Acquire & Setup Windows XP Movie Creator</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-complete-beginners-reference-to-final-cut-pro/"><u>2024 Approved Complete Beginner's Reference to Final Cut Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-geforce-experiences-error-on-windows-pcs/"><u>Bypassing GeForce Experience's Error on Windows PCs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-between-google-assistant-and-alexa-a-comprehensive-guide/"><u>Choosing Between Google Assistant and Alexa - A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/dissection-of-goofy-quest-the-videotape-perspective/"><u>Dissection of 'Goofy Quest' – The Videotape Perspective</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-persistent-audio-pop-ups-and-crackles-on-your-windows-device/"><u>Fix Persistent Audio Pop-Ups & Crackles on Your Windows Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chrome-pip-integration-a-cross-platform-tutorial/"><u>In 2024, Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-screensphere-comprehensively-global-plus-locally-connected/"><u>In 2024, ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-psd-layer-control-for-2024/"><u>Ultimate PSD Layer Control for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-can-your-tv-play-facebook-content-like-youtube-now-for-2024/"><u>[New] Can Your TV Play Facebook Content Like YouTube Now for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-immersive-education-the-role-of-virtual-reality/"><u>[New] Immersive Education The Role of Virtual Reality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-compress-to-caption-zip-to-srt-for-video-editors/"><u>[Updated] In 2024, Compress to Caption ZIP-to-SRT for Video Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-pick-hilarious-tone-downloads-online-for-2024/"><u>[Updated] Top Pick Hilarious Tone Downloads Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-freemacos-the-ultimate-screen-logger/"><u>2024 Approved FreeMacOS The Ultimate Screen Logger</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-of-the-best-10-leading-video-call-apps-for-iphones-and-android-for-2024/"><u>Best of the Best 10 Leading Video Call Apps for iPhones & Android for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-understanding-the-multi-file-attributes-table/"><u>Comprehensive Guide: Understanding the Multi-File Attributes Table</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-note-30-vip-racing-edition-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Note 30 VIP Racing Edition FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-common-windo-errors-quickly/"><u>Navigating Through Common Windo Errors, Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-risks-could-chatgpt-be-used-by-hackers-to-infiltrate-banks-and-computers/"><u>Potential Risks: Could ChatGPT Be Used by Hackers to Infiltrate Banks and Computers?</u></a></li>
+<li><a href="https://article-files.techidaily.com/race-away-slow-motion-on-your-android-device-for-2024/"><u>Race Away Slow Motion on Your Android Device for 2024</u></a></li>
 </ul></div>
 

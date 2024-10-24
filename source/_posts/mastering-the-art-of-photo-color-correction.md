@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Photo Color Correction"
-date: 2024-09-09T06:30:33.509Z
-updated: 2024-09-10T06:30:33.509Z
+date: 2024-10-22T17:06:35.074Z
+updated: 2024-10-24T16:54:23.853Z
 tags: 
   - screen-recording
   - ai video
@@ -22,34 +22,10 @@ Many professional photographers and editors change the photo colors to use the s
 
 So instead of hiring various models, you can still display your collection by changing the color of outfits tactfully. In this article, we will discuss the tips to change photo color effortlessly through a photo color editor and online tool.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Tips To Change Photo Color Like A Pro
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
@@ -59,27 +35,23 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -90,12 +62,6 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
@@ -110,32 +76,34 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
@@ -148,22 +116,30 @@ This method only hides color based on their luminance values; however, this load
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -172,22 +148,23 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -214,4 +191,19 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-the-essential-guide-to-crafting-engaging-haul-videos/"><u>[New] The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>[Updated] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dreammaker-8-studio-edition/"><u>[Updated] DreamMaker 8 Studio Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfecting-iphone-photo-albums-seamless-integration-with-icloud-for-2024/"><u>[Updated] Perfecting iPhone Photo Albums Seamless Integration with iCloud for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-imagery-boost-integrating-filters-into-pcmobile-videos/"><u>2024 Approved Innovative Imagery Boost Integrating Filters Into PC/Mobile Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>2024 Approved Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-is-financial-compensation-behind-product-evaluations/"><u>In 2024, Is Financial Compensation Behind Product Evaluations?</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-13t-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of 13T on Mac</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-list-of-xsplits-equals-for-2024/"><u>The Ultimate List of Xsplit's Equals for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/tutorial-terpadu-cara-menyelesaikan-masalahnya-file-ke-dropbox/"><u>Tutorial Terpadu: Cara Menyelesaikan Masalahnya File Ke Dropbox</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/your-ultimate-resource-list-for-learning-korean-online/"><u>Your Ultimate Resource List for Learning Korean Online</u></a></li>
+</ul></div>
 

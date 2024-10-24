@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Methods for Smooth Volume Diminishment in Lumafusion\""
-date: 2024-10-12T21:03:10.128Z
-updated: 2024-10-18T18:40:20.568Z
+date: 2024-10-20T16:02:16.045Z
+updated: 2024-10-24T18:44:58.367Z
 tags: 
   - screen-recording
   - ai video
@@ -67,11 +67,25 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -86,15 +100,22 @@ In that window, you can select the MP3 format in the format customization box to
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -114,25 +135,11 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -140,27 +147,7 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
@@ -169,6 +156,19 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -198,17 +198,15 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-secrets-revealed-saving-video-chats-from-facebook-messenger-for-2024/"><u>[New] Secrets Revealed Saving Video Chats From Facebook Messenger for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[New] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-first-steps-in-photography-top-cameras-of-24-for-2024/"><u>[Updated] First Steps in Photography Top Cameras of '24 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-dissecting-the-divide-full-sphere-vs-immersive-films/"><u>[Updated] In 2024, Dissecting the Divide Full Sphere Vs. Immersive Films</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-key-steps-to-preserve-and-broadcast-live-sports-successfully/"><u>[Updated] Key Steps to Preserve & Broadcast Live Sports Successfully</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>[Updated] The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-nubia-red-magic-9-proplus-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Nubia Red Magic 9 Pro+.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-reno-9a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo Reno 9A to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://techidaily.com/sign-dotx-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotx file Online for Free</u></a></li>
-<li><a href="https://article-files.techidaily.com/skilled-pilots-choice-selecting-top-5-pro-drones/"><u>Skilled Pilots' Choice - Selecting Top 5 Pro Drones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enhance-your-cinematic-experience-camera-upgrade-tips/"><u>[New] 2024 Approved Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-audiovisual-harmony-adding-sounds-to-instagram-clips/"><u>[Updated] 2024 Approved Audiovisual Harmony Adding Sounds to Instagram Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[Updated] In 2024, Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pictureforge-hub/"><u>2024 Approved PictureForge Hub</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/decoding-canvas-best-kept-secrets-for-stunning-images/"><u>Decoding Canva's Best-Kept Secrets for Stunning Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/final-cut-pro-masterclass-top-10-plugin-guide-for-2024/"><u>Final Cut Pro Masterclass Top 10 Plugin Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-brightening-videos-android-tips/"><u>In 2024, Brightening Videos Android Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-troubles-overcome-in-discord/"><u>Mic Troubles Overcome in Discord</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-zte-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on ZTE</u></a></li>
 </ul></div>
 

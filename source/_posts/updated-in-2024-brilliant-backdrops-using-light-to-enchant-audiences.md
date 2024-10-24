@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-09-09T06:30:36.272Z
-updated: 2024-09-10T06:30:36.272Z
+date: 2024-10-17T16:51:28.912Z
+updated: 2024-10-24T16:16:39.708Z
 tags: 
   - screen-recording
   - ai video
@@ -60,12 +60,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -78,40 +72,16 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
@@ -123,17 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -166,4 +131,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[New] 2024 Approved Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-eyewear-challenge-google-vs-samsung-virtual-reality/"><u>[New] 2024 Approved The Eyewear Challenge Google Vs. Samsung Virtual Reality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-az-capture-insights-apps-explored/"><u>[New] AZ Capture Insights Apps Explored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-high-definition-with-nikon-d500/"><u>[New] Exploring High-Definition with Nikon D500</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-screen-capturing-top-5-mac-alternatives-excluding-bandicam/"><u>[Updated] 2024 Approved Elite Screen Capturing Top 5 Mac Alternatives Excluding Bandicam</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-holistic-mobility-inspection-study/"><u>[Updated] 2024 Approved Holistic Mobility Inspection Study</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-craft-your-best-youtubing-exit-tips-from-industry-leaders-for-2024/"><u>[Updated] Craft Your Best YouTubing Exit - Tips From Industry Leaders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-venturing-into-virtual-steps-top-treadmill-analysis/"><u>[Updated] In 2024, Venturing Into Virtual Steps Top Treadmill Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inspirational-movies-for-momentum-and-self-belief/"><u>[Updated] Inspirational Movies for Momentum and Self-Belief</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/apex-creatives-review-studio-25-scrutiny-year-2023-for-2024/"><u>Apex Creatives Review Studio 25 Scrutiny, Year 2023 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-neo-5-se-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT Neo 5 SE ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

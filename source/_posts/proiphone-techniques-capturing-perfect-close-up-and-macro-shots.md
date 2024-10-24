@@ -1,7 +1,7 @@
 ---
 title: "\"Proiphone Techniques  Capturing Perfect Close-Up and Macro Shots\""
-date: 2024-10-12T21:39:42.281Z
-updated: 2024-10-18T19:20:17.974Z
+date: 2024-10-22T17:36:34.528Z
+updated: 2024-10-24T18:28:32.658Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ There is, so if you're looking to get to grips with this type of photography, yo
 
 With your iPhone macro photography and close-up shooting are both possible and can bring great results if you know what you're doing. However, for the really professional touch, an investment in a macro lens or specialist app will certainly kick your photography skills into high gear.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Section 2. iPhone Macro Photography Tips
 
 Taking great photos in macro mode isn't always as easy as it looks. Novice users can become frustrated when images come out dark, blurry or out of focus. Here are some top tips to get your iPhone macro photography just right, and to start building a collection of gorgeous close up images.
@@ -63,6 +70,13 @@ Taking great photos in macro mode isn't always as easy as it looks. Novice users
 Shooting in the macro range requires decent lighting, so consider when and how you are positioning your images. Early morning and midafternoon are great times of day to plan a shoot, as the soft, natural light is ideal for macro photography. Taking photos in the blazing midday sun can cause overexposure, and your iPhone may struggle to focus too.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image source: Urdu-Mag.com
 
@@ -97,10 +111,16 @@ When you're shooting macro images with your iPhone, the intention is to make the
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image source: GCFLearnFree
@@ -113,13 +133,6 @@ If you've researched photography in general, you'll already have heard of the �
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image source: SmashingHub
 
 The rule states that if the image were divided into thirds horizontally and vertically, the most important objects in the image should be placed at the points where the lines intersect. This is easy on iPhone, as you can switch on the gridlines and instantly see where to place the subject in the photos. When shooting macro images, place your focal point at one of the intersections to give your photo the professional touch.
@@ -129,13 +142,6 @@ The rule states that if the image were divided into thirds horizontally and vert
 iPhone macro photography is all about looking at the world in a different way. To really accentuate this quality in your work, why not try shooting from a different perspective? Get very low down and shoot your subject from below, with the sky as a background, or snap from directly above to add drama to your images.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image source: Flickr
 
@@ -163,14 +169,14 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -197,18 +203,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exporting-frames-as-images-in-windows-10-photos-viewer/"><u>[New] 2024 Approved Exporting Frames as Images in Windows 10 Photos Viewer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-turbocharge-your-instagram-videos-online-tactics/"><u>[New] 2024 Approved Turbocharge Your Instagram Videos Online Tactics</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-virtual-meetups-made-easy-understanding-xbox-one-zoom/"><u>[New] 2024 Approved Virtual Meetups Made Easy Understanding Xbox One Zoom</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-capture-and-keep-your-linkedin-content-with-these-6-powerful-apps/"><u>[New] Capture & Keep Your LinkedIn Content with These 6 Powerful Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-advanced-game-monitoring-tools-for-diverse-formats/"><u>[New] In 2024, Advanced Game Monitoring Tools for Diverse Formats</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-next-gen-audiovideo-1-players-guide-for-24/"><u>[New] In 2024, Next Gen Audio/Video #1 Players Guide for '24</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland-for-2024/"><u>[Updated] Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728483152609-windows-11-usb/"><u>两种键入Windows 11 USB引导步骤与小技巧</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>In 2024, Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-dynamic-timelines-constructing-animated-narratives-in-movie-maker/"><u>In 2024, Dynamic Timelines Constructing Animated Narratives in Movie Maker</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-spark-10c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Spark 10C Phones? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keychron-kickstarts-gaming-with-lemokey-l3/"><u>Keychron Kickstarts Gaming with Lemokey L3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blueprint-for-a-viral-solitary-audio-experience/"><u>[New] Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations-for-2024/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premier-pro-blueprints-exclusive-free-2023-collection-for-2024/"><u>[New] Premier Pro Blueprints - Exclusive FREE 2023 Collection for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure-for-2024/"><u>[New] Television or Projector? Unraveling the Best for 4K Viewing Pleasure for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-core-definitions-of-cyber-storytelling/"><u>[Updated] Core Definitions of Cyber Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-engaging-14-movements-of-animated-texts/"><u>[Updated] In 2024, Engaging 14 Movements of Animated Texts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>[Updated] In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-music-videos-on-facebook-for-2024/"><u>[Updated] Top 10 Music Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-influential-vr-development-studios/"><u>2024 Approved Influential VR Development Studios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effective-solutions-for-when-pubg-keeps-freezing-or-wont-respond-on-your-computer/"><u>Effective Solutions for When PUBG Keeps Freezing or Won't Respond on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-13-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 13 For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Flash Flick Narrative Template"
-date: 2024-10-11T19:35:17.531Z
-updated: 2024-10-18T21:19:54.133Z
+date: 2024-10-18T19:29:36.312Z
+updated: 2024-10-24T18:23:12.582Z
 tags: 
   - screen-recording
   - ai video
@@ -33,25 +33,11 @@ There's never been a better time to learn the craft of writing short film script
 
 But writing a successful short script is not easy. It requires the craft and concentration of a medieval artist carving scenes into walnut. So here are seven tips for creating a short script.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Storyline
 
 This is always, always, the number one problem for my screenwriting students. They come up with big story ideas, often feature screenplay ideas, but quickly find that their idea doesn't fit or work in short form. The result is what I call "narrative cramming." The story can't breathe. So, you need an idea that is small, specific, and significant to your main character.
 
 **_My Josephine_** was inspired by "an image of two people's legs hanging over a table in my head," according to Barry Jenkins. I saw them, young and intimate, working the night shift in a 24-hour laundry." Even with this small, simple, and significant image as a starting point for a short script, Barry struggled to find a story in six pages that he could tell well. He attempted to include the murder in the Laundromat at one point, which resulted in, yes, narrative cramming. Barry rewrote the script a year later and "made it as simple as I could as a writer," he told me. I was so moved by his transcript that I only wrote three words in the script – “Beautiful and gentle”. Just like his beautiful film.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Characterization
 
@@ -73,6 +59,13 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Turning Point
 
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
@@ -84,6 +77,13 @@ If you want to see a well-crafted surface and deep action/character arc in a fif
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -115,22 +115,29 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -151,10 +158,10 @@ It's also a useful way to think of the script as an energy system, as William Gi
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Conflict
@@ -173,25 +180,11 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -201,13 +194,6 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -216,11 +202,31 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
 
@@ -229,6 +235,13 @@ After you've added your media files for editing and placed them on the Timeline,
 Select the ones you want to add by clicking "Transition" and dragging them between the video clips. Then, double-click to change the Time Duration, and then click "Apply to All" if you want all transition effects to be the same length.
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
@@ -239,13 +252,6 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -279,18 +285,22 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-captivating-chronicles-youtube-stories-to-follow/"><u>[New] Captivating Chronicles YouTube Stories to Follow</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-enhance-your-clients-work-10plus-luts-freepaid-offerings-for-2024/"><u>[New] Enhance Your Clients' Work 10+ LUTs - FREE/Paid Offerings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-techniques-to-rectify-iphone-photo-out-of-focus-for-2024/"><u>[New] Techniques to Rectify iPhone Photo Out-of-Focus for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-determining-the-perfect-aspect-ratio/"><u>[Updated] Determining the Perfect Aspect Ratio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-grayscale-to-glamour-professional-color-adjustment/"><u>[Updated] From Grayscale to Glamour Professional Color Adjustment</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-assortment-of-video-capturing-technology/"><u>[Updated] In 2024, Assortment of Video Capturing Technology</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-professional-editors-guide-fcps-top-10-plugins-for-2024/"><u>[Updated] Professional Editor’s Guide FCP's Top 10 Plugins for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-outshine-xsplit-with-these-cutting-edge-alternatives/"><u>2024 Approved Outshine Xsplit with These Cutting-Edge Alternatives</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ai-winx-video-iphoneandroid/"><u>使用AI Winx Video 將功能移植到行動設備 - iPhone/Android便利方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-and-defend-against-phasmophobia-game-crashes-latest-solutions-and-hacks-updated-for-202n/"><u>Decode & Defend Against Phasmophobia Game Crashes: Latest Solutions and Hacks (Updated for 202N)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-keeping-your-windows-1110-wi-fi-drivers-up-to-date/"><u>Essential Tips for Keeping Your Windows 11/10 Wi-Fi Drivers Up to Date</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-directly-upload-and-share-videos-to-twitter-from-your-phone/"><u>In 2024, Directly Upload and Share Videos to Twitter From Your Phone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ling-the-secrets-of-creative-commons-licensing-for-2024/"><u>Unveiling the Secrets of Creative Commons Licensing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-ground-to-sky-the-lifting-elite-drone-list/"><u>[New] 2024 Approved From Ground to Sky The Lifting Elite Drone List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-a-quick-guide-to-editing-and-updating-twitter-video-images/"><u>[New] In 2024, A Quick Guide to Editing and Updating Twitter Video Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taking-flight-in-edits-top-9-choices-for-every-drone-enthusiast/"><u>[New] Taking Flight in Edits Top 9 Choices for Every Drone Enthusiast</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-troubleshooting-streaming-issues-on-mac-with-mixer-for-2024/"><u>[New] Troubleshooting Streaming Issues on Mac with Mixer for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comical-content-for-apples-pixels-for-2024/"><u>[Updated] Comical Content for Apple's Pixels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>[Updated] In 2024, Transformative Talk 20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-tools-for-clear-uncompromised-4k-recordings/"><u>[Updated] Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-softening-audio-fl-basics-for-2024/"><u>[Updated] Softening Audio FL Basics for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-10-best-apps-for-editing-igtv-vertical-videos/"><u>[Updated] Top 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
+<li><a href="https://discover-community.techidaily.com/craft-funny-and-viral-memes-instantly-with-movavis-no-cost-meme-generator/"><u>Craft Funny & Viral Memes Instantly with Movavi's No-Cost Meme Generator</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-transmission-via-obs-to-instagram/"><u>In 2024, Live Transmission via OBS to Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-maximizing-video-playback-speed-on-facebook/"><u>In 2024, Maximizing Video Playback Speed on Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-peak-craft-space-25-appraisal/"><u>In 2024, Peak Craft Space 25 Appraisal</u></a></li>
+<li><a href="https://win-able.techidaily.com/mobile-methods-adding-image-based-info-to-your-ms-excel-sheets/"><u>Mobile Methods: Adding Image-Based Info to Your MS Excel Sheets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing-for-2024/"><u>Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-ace-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Ace 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-presentation-tech-explore-the-top-7-ai-tools-to-elevate-your-slides/"><u>Transformative Presentation Tech: Explore the Top 7 AI Tools to Elevate Your Slides</u></a></li>
 </ul></div>
 
