@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Underreported Drawbacks of VR"
-date: 2024-09-04T17:48:21.563Z
-updated: 2024-09-05T17:48:21.563Z
+date: 2024-10-28T11:36:54.108Z
+updated: 2024-10-30T14:17:08.919Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Low resoultion content, large file size
 
  The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
@@ -57,29 +64,32 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -103,4 +113,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-detailed-assessment-editorpro-xs-the-ultimate-video-tool/"><u>[New] 2024 Approved Detailed Assessment EditorPro XS, the Ultimate Video Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-settings-for-live-broadcasts/"><u>[New] 2024 Approved Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[New] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-harnessing-power-a-complete-ez-grabber-manual-for-2024/"><u>[New] Harnessing Power A Complete EZ Grabber Manual for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-comprehensive-guide-to-leveraging-adobe-cloud-for-enhanced-data-management/"><u>[New] In 2024, Comprehensive Guide to Leveraging Adobe Cloud for Enhanced Data Management</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-vlogging-topics-to-explore-now/"><u>[Updated] 2024 Approved Essential Vlogging Topics to Explore Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hues-and-highlights-editing-techniques-for-impact/"><u>[Updated] Hues & Highlights Editing Techniques for Impact</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crypto-artistry-unleashed-the-best-generators-transforming-images/"><u>[Updated] In 2024, Crypto Artistry Unleashed The Best Generators Transforming Images</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-show-entry-on-apple-media/"><u>In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/may-2024s-most-competitive-atandt-phone-plans-revealed-by-zdnet/"><u>May 2024'S Most Competitive AT&T Phone Plans Revealed by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impact-and-significance-of-absent-users-in-messaging/"><u>The Impact and Significance of Absent Users in Messaging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-broadcasts-with-manycam-advanced-live-video-technology-and-online-camera-solutions/"><u>Transform Your Broadcasts with ManyCam: Advanced Live Video Technology and Online Camera Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphones-dfu-mode-a-complete-guide-on-its-purpose-and-usage/"><u>Understanding iPhone's DFU Mode: A Complete Guide on Its Purpose & Usage</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+</ul></div>
 

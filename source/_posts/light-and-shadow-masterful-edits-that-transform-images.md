@@ -1,7 +1,7 @@
 ---
 title: "\"Light & Shadow  Masterful Edits That Transform Images\""
-date: 2024-09-04T17:48:16.574Z
-updated: 2024-09-05T17:48:16.574Z
+date: 2024-10-29T10:28:19.352Z
+updated: 2024-10-30T01:02:13.460Z
 tags: 
   - screen-recording
   - ai video
@@ -44,12 +44,6 @@ When processing multiple images at once, the editing process can be tiring and b
 
 Image alt: use presets for image editing
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Play With the Colors
 
 If you look around closely, you can find that everything is associated with a specific color. From the lush green grass to the vibrant dreamy blue skies, everything has its shade. But upon closer inspection, you will find that it’s not just a single constituent color. The grass’s green contains shades of yellow, brown, and orange too.
@@ -59,17 +53,12 @@ If you train your eye to see these hidden colors, you can easily make your image
 ![play with the image colors](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 4\. Adjust the Contrast
 
 One of the main reasons your images are looking flat is low contrast. Without a clear difference between foregrounds and backgrounds, the image can seemingly lack focus. You can play with the blacks and whites to adjust the contrast in your photo. Some of the best photography editing software offers a contrast slider that can help refine your image.
@@ -77,11 +66,12 @@ One of the main reasons your images are looking flat is low contrast. Without a 
 ![adjust the image contrast](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Try Overlays
 
 Layering different textures and images to your photo is a great way to create visual interest in your image. Overlays are easy and helpful tools that are present in nearly all photography editing apps. You can use these to set the mood and create your desired atmosphere in the image.
@@ -91,11 +81,12 @@ Overlays are also useful for creating double exposure effects in your image. If 
 ![apply overlays to image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Straighten the Horizon
 
 Want to create a balanced and stable look for your image? You can easily achieve that by straightening the lines in your image. Although a simple trick, it is often overlooked and can impact the overall symmetry of your image.
@@ -105,11 +96,12 @@ You can choose a baseline in your image and then adjust it to straighten the ima
 ![straighten the horizon](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 7\. Split the Tone
 
 During the photography editing process, a little split-tone can go a long way. This means you can add specific colors to the shadows and highlights of your image. You can play with these colors to make your photos fall on the warm or cold end of the spectrum. Split tone can get out of hand pretty fast, so remember to keep it subtle.
@@ -117,11 +109,12 @@ During the photography editing process, a little split-tone can go a long way. T
 ![use split tone feature](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 8\. Know your White Balance
 
 Adjusting your image's white balance is crucial for the photography editing process. All the light sources around you have their specific temperatures. They can thus bring a specific color temperature to the photo. Cameras are usually set at auto white balance, but you can alter that in the post-processing to satisfy your requirements.
@@ -129,6 +122,19 @@ Adjusting your image's white balance is crucial for the photography editing proc
 While JPEG images can somewhat bend to a specific color temperature, RAW files offer a greater degree of flexibility. You can adjust your white balance to bring the photo towards a warmer or cooler tone. You can also create a warm/cold contrast to bring a dramatic effect to your image.
 
 ![adjust image white balance](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Pay Attention to Details
 
@@ -138,18 +144,6 @@ Most of the prime photography editing apps offer spot removal tools. You will of
 
 ![remove the spots from image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Don’t Take It Too Far
 
 It is quite easy to get carried away during photography editing. Remember not to take your editing a step too far. Try to keep the natural element of the image intact and avoid overdoing the contrast and color saturation. Heavy editing can often cause a perfectly good image to fall apart. Steer clear of unnatural editing and strong color grading.
@@ -157,11 +151,12 @@ It is quite easy to get carried away during photography editing. Remember not to
 ![do natural image editing](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Wrapping Up
 
 The process of image editing is not always a piece of cake. It requires dedication, determination, and some sharp skills which are not easy to acquire. But with the right tips and techniques at hand, you can turn almost any picture into a cinematic masterpiece.
@@ -190,4 +185,26 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-closing-with-panache-free-youtubes-1-six-for-2024/"><u>[New] Closing with Panache Free YouTube's #1 Six for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-the-world-of-iphone-hdr-a-beginners-guide/"><u>[New] In 2024, Navigating the World of iPhone HDR A Beginner's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-slow-motion-a-guide-to-photo-editing-tools-for-2024/"><u>[New] Mastering Slow-Motion A Guide to Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[New] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-reality-wonders-uncovering-the-leading-vr-gear-for-2024/"><u>[New] Virtual Reality Wonders Uncovering the Leading VR Gear for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2023s-elite-professionals-choosing-360-cameras-for-2024/"><u>[Updated] 2023'S Elite Professionals Choosing 360 Cameras for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-route-to-rejuvenate-and-refine-your-vhs-collection-online/"><u>[Updated] 2024 Approved The Ultimate Route to Rejuvenate and Refine Your VHS Collection Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-auditory-transitions-with-logic-pro-x-for-2024/"><u>[Updated] Innovative Auditory Transitions with Logic Pro X for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-virtuosos-curating-the-best-10-camera-optics-for-2024/"><u>[Updated] Visual Virtuosos Curating the Best 10 Camera Optics for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-level-techniques-in-video-spinning-and-joining-on-android/"><u>In 2024, Expert-Level Techniques in Video Spinning and Joining on Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-reno-10-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Reno 10 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tips-for-incorporating-songs-into-social-media-video-content/"><u>In 2024, Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-k11x-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo K11x Screen | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-10-high-res-4k-gaming-pcs-revealed/"><u>Top 10 High-Res 4K Gaming PCs Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-resolve-the-libgdkwin32-20dll-file-not-found-error/"><u>Troubleshooting: How To Resolve The libgdk_win32-2.0.dll File Not Found Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unmasking-phony-friends-key-tips-for-detecting-fake-friend-queries-online/"><u>Unmasking Phony Friends: Key Tips for Detecting Fake Friend Queries Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vlookup-essentials-a-step-by-step-guide-to-querying-ranges-in-excel-spreadsheets/"><u>VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets</u></a></li>
+</ul></div>
 
