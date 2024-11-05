@@ -1,7 +1,7 @@
 ---
 title: "\"Timelessly Taken  Selfies From the Bygone Era\""
-date: 2024-10-25T20:45:50.123Z
-updated: 2024-10-29T17:17:03.278Z
+date: 2024-11-04T06:28:47.133Z
+updated: 2024-11-05T00:43:25.996Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -56,13 +56,6 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image resource: 9to5mac
 
@@ -100,13 +93,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -118,10 +104,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -134,9 +120,23 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -163,21 +163,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-augmented-realms-cinemas-evolution/"><u>[New] 2024 Approved Augmented Realms Cinema's Evolution</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-comprerante-snapchat-content-tips-for-mobile-recording-success/"><u>[New] 2024 Approved Comprerante Snapchat Content Tips for Mobile Recording Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-explore-the-future-with-advanced-vr-finger-tech-for-2024/"><u>[New] Explore the Future with Advanced VR Finger Tech for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-a-step-by-step-approach-to-discard-youtube-watch-later-items/"><u>[New] In 2024, A Step-by-Step Approach to Discard YouTube Watch Later Items</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-beats-and-bars-top-20-rap-tracks-soaring-on-tiktok/"><u>[New] In 2024, Beats & Bars Top 20 Rap Tracks Soaring on TikTok</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-enhancing-youtube-content-with-free-music-sources/"><u>[New] In 2024, Enhancing YouTube Content with Free Music Sources</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>[New] Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide-for-2024/"><u>[New] Unlocking Facebook Blue Verification A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-capturing-moments-with-full-screen-movies-on-iphones/"><u>[Updated] 2024 Approved Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-20-anime-opener-anthems/"><u>[Updated] In 2024, Essential 20 Anime Opener Anthems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-best-ai-enhanced-browser-addons-for-boosting-efficiency/"><u>5 Best AI-Enhanced Browser Addons for Boosting Efficiency</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unleash-zooms-full-potential-with-essential-3-methods/"><u>In 2024, Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-movie-downloads-for-the-ipad-quick-and-simple-instructional-guide/"><u>Mastering Movie Downloads for the iPad: Quick & Simple Instructional Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-vivacut-an-exhaustive-2024-review/"><u>Mastering VivaCut An Exhaustive 2024 Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/reverse-artisan-group/"><u>Reverse Artisan Group</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-10-best-music-video-makers-to-make-fantastic-mv/"><u>Updated 10 Best Music Video Makers to Make Fantastic MV</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[New] 2024 Approved 10 Best Screenshot Enhancers IPhone/Android Sticker Magic</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlock-full-potential-integrating-zoom-and-fb-live-events-for-2024/"><u>[New] Unlock Full Potential Integrating ZOOM and FB Live Events for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems-for-2024/"><u>[New] Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-xsplit-compendium-in-depth-gaming-analysis/"><u>[Updated] 2024 Approved XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tinyflicker-log-review-and-options-to-consider/"><u>[Updated] In 2024, TinyFlicker Log Review & Options to Consider</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-instant-screener-chromeos-edition/"><u>2024 Approved Instant Screener ChromeOS Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-entrance-video-analysis-review/"><u>In 2024, Entrance Video Analysis Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/notable-top-5-superlight-action-camera-picks-for-2024/"><u>Notable Top 5 Superlight Action Camera Picks for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-nokia-c12-plus-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Nokia C12 Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/scouting-the-finest-cameras-for-twitch-broadcast-success-for-2024/"><u>Scouting the Finest Cameras for Twitch Broadcast Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-pinnacle-of-image-capture-toolwiz-apps-extended-review-for-2024/"><u>The Pinnacle of Image Capture Toolwiz App's Extended Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-access-to-nba-live-gameplay-with-these-15-tips/"><u>Unlock Access to NBA Live Gameplay with These 15 Tips</u></a></li>
 </ul></div>
 

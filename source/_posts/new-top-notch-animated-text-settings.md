@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top-Notch Animated Text Settings\""
-date: 2024-10-29T02:09:35.098Z
-updated: 2024-10-30T04:41:10.266Z
+date: 2024-11-01T16:55:22.080Z
+updated: 2024-11-04T22:49:09.720Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -53,10 +53,23 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -64,6 +77,13 @@ There is always a high demand for dynamic text animations in After Effects. This
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
 
@@ -78,23 +98,10 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -108,13 +115,6 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -150,20 +150,24 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-best-practices-for-identifying-premier-free-srt-translation-services-for-2024/"><u>[New] Best Practices for Identifying Premier Free SRT Translation Services for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>[New] Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-why-cant-i-see-video-on-sony-a6400/"><u>[New] Why Can’t I See Video on Sony A6400?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[Updated] 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2023s-best-rated-ps3-virtual-players-for-pc/"><u>[Updated] 2023'S Best-Rated PS3 Virtual Players for PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-asmr-recommendations-for-android-users/"><u>[Updated] ASMR Recommendations for Android Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginning-zoom-video-calls-on-android-devices-for-2024/"><u>Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210295108-9781644581933-coming-out-of-darkness/"><u>Coming Out of Darkness | Free Book</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c51-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-diy-guide-to-assembling-an-expert-level-4k-video-editing-machine/"><u>In 2024, DIY Guide to Assembling an Expert-Level, 4K Video Editing Machine</u></a></li>
-<li><a href="https://article-files.techidaily.com/incorporate-mp3s-into-presentation-decks-for-2024/"><u>Incorporate MP3s Into Presentation Decks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/light-and-shadow-masterful-edits-that-transform-images/"><u>Light & Shadow Masterful Edits That Transform Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/overview-of-magix-audio-enhancer/"><u>Overview of MAGIX Audio Enhancer</u></a></li>
-<li><a href="https://win-webster.techidaily.com/pcos-windows-11-8-7/"><u>PCのOSアップグレード・ダウンロード - Windows 11, 8, 7を対象に【移動ガイド】</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-advanced-card-selections-uhd-video-perfection/"><u>[New] 2024 Approved Advanced Card Selections UHD Video Perfection</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-bridging-music-and-image-in-the-web-for-2024/"><u>[New] Bridging Music & Image in the Web for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-shades-insights-from-the-best-11-color-guides/"><u>[New] Exploring Shades Insights From the Best 11 Color Guides</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[New] In 2024, Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals-for-2024/"><u>[New] KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-iphone-techniques-for-full-sphere-videography/"><u>[Updated] 2024 Approved IPhone Techniques for Full-Sphere Videography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-5-essential-filming-accessories-for-online-creators/"><u>[Updated] 2024 Approved Top 5 Essential Filming Accessories for Online Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-action-screen-recorder-review/"><u>[Updated] Action Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-carminati-ajay-mastering-the-art-and-science-of-online-income/"><u>[Updated] Carminati (Ajay) Mastering the Art and Science of Online Income</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-video-edits-how-to-masterly-modify-and-shorten-videos-on-vimeo-online-for-2024/"><u>[Updated] Expert Video Edits How to Masterly Modify and Shorten Videos on Vimeo Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>[Updated] In 2024, Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streamlined-process-for-hassle-free-hdr-shots/"><u>[Updated] In 2024, Streamlined Process for Hassle-Free HDR Shots</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-ustream-showcase-plus-similar-video-sites/"><u>[Updated] In 2024, Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-ideas-to-empower-your-webcam-for-2024/"><u>[Updated] Revolutionary Ideas to Empower Your Webcam for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-beginners-blueprint-achieving-superior-image-clarity-in-videos-for-2024/"><u>[Updated] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lenovo-thinkphone-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lenovo ThinkPhone without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-direct-to-video-best-5-online-gif-to-video-services/"><u>In 2024, Direct to Video Best 5 Online GIF to Video Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-mobile-filmmaking-final-cut-now-available-on-iphone-according-to-zdnet/"><u>Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET</u></a></li>
 </ul></div>
 

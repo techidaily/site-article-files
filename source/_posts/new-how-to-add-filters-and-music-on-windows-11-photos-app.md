@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-10-24T03:44:56.097Z
-updated: 2024-10-30T10:21:59.442Z
+date: 2024-11-01T23:59:39.740Z
+updated: 2024-11-05T07:06:41.012Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -78,36 +78,23 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -115,6 +102,13 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -141,17 +135,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-leap-into-adventure-mastering-the-realm-of-virtual-reality/"><u>[New] Leap Into Adventure Mastering the Realm of Virtual Reality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-social-media-marketing-a-step-by-step-guide/"><u>[New] Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-the-art-of-phone-recordings-for-2024/"><u>[New] Mastering the Art of Phone Recordings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-engaging-audiences-with-captivating-podcast-logos/"><u>[Updated] Engaging Audiences with Captivating Podcast Logos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads-for-2024/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>[Updated] Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wmvflac-movavi/"><u>即時無限制地將WMV影片轉換為FLAC - 利用Movavi編碼器進行高效轉換</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/diy-filming-hacks-to-learn-and-implement-at-home-for-2024/"><u>DIY Filming Hacks to Learn and Implement at Home for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-sound-problems-with-the-steelseries-arctis-pro-microphone/"><u>Expert Advice: Resolving Sound Problems with the SteelSeries Arctis Pro Microphone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-make-a-fake-face-online-for-free-top-rated-tools/"><u>New 2024 Approved Make a Fake Face Online for Free Top Rated Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-culinary-cinema-secrets-the-best-tips-to-make-your-kitchen-films-pop/"><u>[New] Culinary Cinema Secrets - The Best Tips to Make Your Kitchen Films Pop</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-learning-on-the-go-podcast-tips-and-tricks-for-2024/"><u>[New] Enhance Learning on the Go Podcast Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premier-pro-expertise-for-sound-switchers/"><u>[New] Premier Pro Expertise for Sound Switchers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamline-your-playtime-5-techniques-for-gamers-for-2024/"><u>[New] Streamline Your Playtime 5 Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[New] Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ghostly-movie-editing-hacks/"><u>[Updated] 2024 Approved Ghostly Movie Editing Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-instantaneous-windows-image-player/"><u>[Updated] 2024 Approved Instantaneous Windows Image Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-syncing-soundscapes-to-pixelated-portraits/"><u>[Updated] 2024 Approved Syncing Soundscapes to Pixelated Portraits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/epic-finns-revenue-stream-analysis/"><u>Epic Finn's Revenue Stream Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-blend-soundscape-into-ppt-narratives/"><u>In 2024, Blend Soundscape Into PPT Narratives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12t-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12T Pro Phones with/without a PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pc-virtual-reality-hits-top-10/"><u>In 2024, PC Virtual Reality Hits Top 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-ps4-freezing-issues-comprehensive-troubleshooting-tips/"><u>Solve Your PS4 Freezing Issues: Comprehensive Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290523866-4k/"><u>ローカルで保存した4K動画再生に必要なツールと準備術</u></a></li>
 </ul></div>
 

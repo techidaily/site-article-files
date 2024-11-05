@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Financial Floor and Ceiling in Podcasting World\""
-date: 2024-10-22T20:35:53.743Z
-updated: 2024-10-30T12:05:01.139Z
+date: 2024-11-02T04:06:14.711Z
+updated: 2024-11-04T20:22:31.843Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ As a bonus, podcasts aren't expensive, and you can produce a high-quality episod
 
 The secret? Make sure your podcast is something that people want to listen to. If people are listening, you can make money selling ads and subscriptions.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How Much Money Do Podcasters Make?
 
 Podcaster earnings vary widely. Most people who have made their first million by podcasting make no more than half a million dollars a year.
@@ -72,13 +79,6 @@ If you have 5000 download/listeners per episode:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
@@ -97,6 +97,13 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -106,13 +113,6 @@ You don't have to sell everything; start small and grow. Promoting complementary
 It’s important to know the best ways to market your brand through various platforms like, selling through a third party like eBay or Etsy that allow podcasters to sell their wares at wholesale pricing.
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Listeners' donations
 
@@ -125,10 +125,10 @@ The downside is that, if you reach your fundraising goal, your funds may run out
 ![indiegogo funds](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Affiliate
@@ -140,19 +140,6 @@ You could sell a related product, share your affiliate link through social media
 In addition to the many affiliate marketing programs, some are specifically for podcasting, such as Amazon and ShareASale.
 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Popular Podcasts Earnings in 2024
 
@@ -170,13 +157,6 @@ So many people are trying to figure out the best ways to make money online. So w
 | [Dave Ramsey Show](https://www.ramseysolutions.com/shows/the-ramsey-show)       | $10 million/annually  |
 | [Karen Kilgariff and Georgia Hardstark](https://myfavoritemurder.com/)          | $15 million/annually  |
 | [Joe Rogan](https://open.spotify.com/artist/0bawsIe2P8ykB6psGv81P9)             | $30 million/annually  |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -224,6 +204,13 @@ If you have 5000 download/listeners per episode:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
@@ -242,13 +229,6 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -259,6 +239,13 @@ It’s important to know the best ways to market your brand through various plat
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Listeners' donations
 
 If you don’t have any other income sources, consider crowdfunding and/or donations to help you keep producing high-quality content. Crowdfunding is the act of funding a project or venture by raising funds from a large group of people.
@@ -268,6 +255,19 @@ Crowdfunding websites such as Kickstarter, GoFundMe, and Indiegogo allow people 
 The downside is that, if you reach your fundraising goal, your funds may run out before you’re ready to launch your project.
 
 ![indiegogo funds](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Affiliate
 
@@ -280,10 +280,10 @@ In addition to the many affiliate marketing programs, some are specifically for 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Popular Podcasts Earnings in 2024
@@ -304,10 +304,10 @@ So many people are trying to figure out the best ways to make money online. So w
 | [Joe Rogan](https://open.spotify.com/artist/0bawsIe2P8ykB6psGv81P9)             | $30 million/annually  |
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -344,21 +344,20 @@ Many podcasters start as amateurs and make a living doing what they love. You ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-free-premiere-pro-starter-kit-with-top-templates/"><u>[New] 2024 Approved Free Premiere Pro Starter Kit with Top Templates</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[New] Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-video-entrance-with-these-tools/"><u>[New] In 2024, Elevate Your Video Entrance with These Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-easy-techniques-for-bending-digital-pictures/"><u>[Updated] Easy Techniques for Bending Digital Pictures</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-360-video-making-with-ios-devices/"><u>[Updated] In 2024, Mastering 360 Video Making with iOS Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-snapchat-enhancing-images-and-videos/"><u>2024 Approved Mastering Snapchat Enhancing Images & Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/discover-mematic-the-modern-notetaker-for-2024/"><u>Discover Mematic The Modern Notetaker for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pivotal-vr-films-for-your-watchlist/"><u>In 2024, Pivotal VR Films for Your Watchlist</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/inverting-image-hues-in-photoshop/"><u>Inverting Image Hues in Photoshop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-showdown-comparing-features-to-find-your-perfect-apple-tablet-insights/"><u>IPad Pro Showdown: Comparing Features to Find Your Perfect Apple Tablet - Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-the-art-of-old-facebook-features-step-by-step/"><u>Mastering the Art of Old Facebook Features Step-by-Step</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-a58-4g-music-recovery-recover-deleted-music-from-oppo-a58-4g-by-fonelab-android-recover-music/"><u>Oppo A58 4G Music Recovery - Recover Deleted Music from Oppo A58 4G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triad-of-fixes-overcoming-mkv-streaming-hurdles-on-apple-tv/"><u>Triad of Fixes: Overcoming MKV Streaming Hurdles on Apple TV</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-10-best-microphones-for-action-cameras/"><u>[New] 2024 Approved 10 Best Microphones for Action Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-intro-ideas-free-download-options/"><u>[New] 2024 Approved Intro Ideas Free Download Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inema-craftsmanship-unleashed-youtube-green-screens-101/"><u>[New] Cinema Craftsmanship Unleashed Youtube Green Screens 101</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-a-new-era-of-photo-display-best-frame-makers/"><u>[New] In 2024, A New Era of Photo Display Best Frame Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seo-excellence-transforming-podcast-discoverability/"><u>[New] SEO Excellence Transforming Podcast Discoverability</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[New] Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[Updated] In 2024, Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-investigating-the-practical-usefulness-of-photo-stabilization/"><u>[Updated] Investigating the Practical Usefulness of Photo Stabilization</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-should-you-review-off-facebook-histories-security-tips-and-tricks-for-2024/"><u>[Updated] Should You Review Off-Facebook Histories? Security Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-closer-look-at-asuss-proart-pa-329q-an-in-depth-review-of-its-professional-standards/"><u>2024 Approved A Closer Look at Asus's ProArt PA 329Q – An In-Depth Review of Its Professional Standards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discovering-the-joy-in-reading-with-kobo-clara-colour-a-user-friendly-and-colorful-digital-book-companion/"><u>Discovering the Joy in Reading with Kobo Clara Colour – A User-Friendly and Colorful Digital Book Companion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-laserjet-printer-driver-compatibility-with-windows-10-update/"><u>Enhance Laserjet Printer Driver Compatibility with Windows 10 Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge/"><u>In 2024, Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-to-enhance-productivity-in-distributed-work-teams/"><u>Leveraging ChatGPT to Enhance Productivity in Distributed Work Teams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-to-utilizing-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide to Utilizing Copilot</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expedite Visuals  Drawing & Enhancing with Windows Photos App\""
-date: 2024-08-31T13:17:41.702Z
-updated: 2024-09-01T13:17:41.702Z
+date: 2024-10-31T09:01:34.344Z
+updated: 2024-11-04T21:07:38.303Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -61,32 +68,43 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -110,4 +128,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-brush-up-skills-unveiling-the-ultimate-8-iphone-drawing-tools/"><u>[New] 2024 Approved Brush Up Skills Unveiling the Ultimate 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-stitching-pictures-and-chords-into-compelling-narratives/"><u>[New] 2024 Approved Stitching Pictures & Chords Into Compelling Narratives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-efficient-strategies-for-posting-srt-files-to-social-media-for-2024/"><u>[New] Efficient Strategies for Posting SRT Files to Social Media for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-digital-art-with-layered-imagery/"><u>[New] In 2024, Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently-for-2024/"><u>[New] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-android-and-ios-guide-capturing-google-meet-sessions/"><u>[Updated] 2024 Approved Android & iOS Guide Capturing Google Meet Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-proven-strategies-for-picking-the-most-accurate-free-srt-tools/"><u>[Updated] 2024 Approved Proven Strategies for Picking the Most Accurate Free SRT Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tricks-for-speedy-vimeo-streams/"><u>[Updated] Tricks for Speedy Vimeo Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/constructing-coherent-cinematic-introductions/"><u>Constructing Coherent Cinematic Introductions</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/convert-your-mpeg-videos-into-dvd-format-using-the-ultimate-mpg-to-dvd-tool/"><u>Convert Your MPEG Videos Into DVD Format Using the Ultimate MPG to DVD Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/find-your-favorite-tunes-androids-top-6-music-vids-for-2024/"><u>Find Your Favorite Tunes Android's Top 6 Music Vids for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-exclusive-savings-cut-700-from-your-price-tag-for-this-beastly-rtx-4090-gaming-laptop-by-alienware/"><u>Score Exclusive Savings: Cut $700 From Your Price Tag for This Beastly, RTX 4090 Gaming Laptop by Alienware!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-now-reinventing-development-with-ai-in-low-code-and-no-code-solutions-featured-on-zdnet/"><u>The Future Is Now: Reinventing Development with AI in Low-Code and No-Code Solutions | Featured on ZDNet</u></a></li>
+</ul></div>
 

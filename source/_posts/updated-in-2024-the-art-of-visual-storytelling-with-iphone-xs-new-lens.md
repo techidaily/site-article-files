@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Art of Visual Storytelling with iPhone X's New Lens"
-date: 2024-10-25T00:53:45.706Z
-updated: 2024-10-29T21:40:01.089Z
+date: 2024-10-28T21:30:55.571Z
+updated: 2024-11-04T19:37:04.432Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: The importance of depth
@@ -54,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -80,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -87,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -104,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -141,18 +141,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cutting-edge-accessories-for-virtual-worlds-for-2024/"><u>[New] Cutting-Edge Accessories for Virtual Worlds for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-shades-and-tints-in-action-practical-application/"><u>[New] Shades & Tints in Action Practical Application</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-short-segment-screenplay-snippet/"><u>[New] Short Segment Screenplay Snippet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-next-step-for-gopro-cameras-hero4-hero5/"><u>[New] The Next Step for GoPro Cameras (Hero4, Hero5)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>[New] Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-cutting-edge-memes-top-ten-template-showcase/"><u>[Updated] 2024 Approved Cutting Edge Memes Top Ten Template Showcase</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-science-behind-sharing-memes-unveiled/"><u>[Updated] In 2024, The Science Behind Sharing Memes Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screencapturepro-review-expert-insights-and-comparisons/"><u>2024 Approved ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-to-shield-your-artwork-from-generative-ai-using-nightshade-methods/"><u>Guide to Shield Your Artwork From Generative AI Using Nightshade Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-accurate-are-chatgpts-responses-regarding-health-questions/"><u>How Accurate Are ChatGPT's Responses Regarding Health Questions?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mend-the-pairing-glitch-fixing-connection-issues-in-win-11/"><u>How to Mend the Pairing Glitch: Fixing Connection Issues in Win 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-color-grading-power-with-central-luts/"><u>In 2024, Harnessing Color Grading Power with Central Luts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-techniques-and-choices-for-trimming-premium-tamil-melodies/"><u>In 2024, Proven Techniques and Choices for Trimming Premium Tamil Melodies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comedy-kings-and-queens-of-2023/"><u>[New] In 2024, Comedy Kings & Queens of 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlock-potential-embrace-note-taking-on-mematic-for-2024/"><u>[New] Unlock Potential Embrace Note-Taking on Mematic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-vs-dailymentions-spotting-key-differences/"><u>[New] YouTubes Vs. DailyMentions Spotting Key Differences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-becoming-an-expert-at-obs-studio-android-focus-for-2024/"><u>[Updated] Becoming an Expert at OBS Studio Android Focus for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-blithe-clip-recorder-appraisal-for-2024/"><u>[Updated] Blithe Clip Recorder Appraisal for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-groundbreaking-companies-at-the-vr-content-frontier/"><u>[Updated] Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-demystifying-asuss-proart-pa-329q-full-review-of-a-top-4k-display/"><u>[Updated] In 2024, Demystifying Asus’s ProArt PA 329Q – Full Review of a Top 4K Display</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-free-acting-availability-pledge/"><u>[Updated] In 2024, Free Acting Availability Pledge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-premier-top-5-minimalist-action-cameras-review/"><u>[Updated] In 2024, Premier Top 5 Minimalist Action Cameras Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>2024 Approved The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-mini-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 mini Properly | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sharpen-sound-win-5-free-windows-editing-apps/"><u>Sharpen Sound: Win 5 Free Windows Editing Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus Ace 2? | Dr.fone</u></a></li>
 </ul></div>
 

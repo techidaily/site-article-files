@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Picture Perfect  How to Accurately Date Your Photos for 2024\""
-date: 2024-10-23T12:35:25.592Z
-updated: 2024-10-30T14:43:25.431Z
+date: 2024-10-30T20:36:09.846Z
+updated: 2024-11-05T08:01:34.438Z
 tags: 
   - screen-recording
   - ai video
@@ -106,13 +106,6 @@ Why knowing **how to add date to a photo** with your in-built app is important; 
 
 You can make use of other photo editing apps to edit your pictures. Here are three applications that you will find useful to do this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Instasize**
 
 Instasize is an app that you will find quite useful. The app was developed for influencers and social media users who wish to produce captivating, imaginative images and films..
@@ -131,6 +124,13 @@ Instasize is an app that you will find quite useful. The app was developed for i
 
 You can download the app on [Android](https://play.google.com/store/apps/details?id=com.jsdev.instasize&gl=US) and [iPhone.](https://apps.apple.com/us/app/instasize-photo-editor-video/id576649830)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Adobe Photoshop Lightroom**
 
 Another photo editing app you can find useful is Adobe Photoshop Lightroom. The app makes dozens of photo enhancement and editing products.
@@ -138,6 +138,13 @@ Another photo editing app you can find useful is Adobe Photoshop Lightroom. The 
 The Adobe Photoshop Lightroom is a cloud-based product where you can upload and edit batches of images together. Below are some of the features of Adobe Photoshop Lightroom
 
 ![adobe photoshop lightroom](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -148,13 +155,6 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 * Healing Brushes
 
 You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US)and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **VSCO**
 
@@ -189,13 +189,6 @@ First, to resize an image in the Photos app on a Mac, enter editing mode by clic
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Sharpen your images
 
 You can make your photos sharper by simply navigating to the bottom of the Modify menu in the Photos app and selecting Sharpen.
@@ -218,21 +211,22 @@ Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4Proceed to add date and time into the text area manually.
@@ -283,13 +277,6 @@ Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
@@ -305,13 +292,6 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Smartmockups: Smartmockups are a tool that can bring your best ideas to life.
 * Add depth of field to your image instantly.
 * Background image remover
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [Fotor](https://www.fotor.com/)
 
@@ -422,6 +402,13 @@ Instasize is an app that you will find quite useful. The app was developed for i
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key features**
 
 * Collage maker
@@ -485,13 +472,6 @@ First, to resize an image in the Photos app on a Mac, enter editing mode by clic
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Sharpen your images
 
 You can make your photos sharper by simply navigating to the bottom of the Modify menu in the Photos app and selecting Sharpen.
@@ -504,13 +484,6 @@ When retouching your image in the Photos app, select the Adjust tab, then drag t
 
 ![adjust lighting and exposure](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use inbuilt photo app on mac to add date stamps
 
 **Adding a date in a photo** can also be done on a Mac pc. Below are the steps to take to **add the date to a photo** with a Mac
@@ -520,6 +493,13 @@ Step1Click on Preview to open.
 Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Click on the text button.
 
@@ -602,6 +582,13 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. [PIXLR](https://pixlr.com/)
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
@@ -613,6 +600,13 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Photo Resizing
 * Background Remover
 * Retouching of photo
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -646,21 +640,14 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-gopro-innovations-a-side-by-side-exploration/"><u>[New] 2024 Approved GoPro Innovations A Side-by-Side Exploration</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-review-of-huawei-p10s-multimedia-features-and-functionality/"><u>[New] 2024 Approved Review of Huawei P10’s Multimedia Features & Functionality</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-strategy-for-profiting-from-every-youtube-short-video/"><u>[New] In 2024, Step-by-Step Strategy for Profiting From Every YouTube Short Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-integrate-video-content-for-playlist-building/"><u>[Updated] 2024 Approved Integrate Video Content for Playlist Building</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-snap-with-precision-essential-camera-angles-for-images/"><u>[Updated] In 2024, Snap with Precision Essential Camera Angles for Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-secrets-to-customizing-your-storys-pace-in-instagram/"><u>[Updated] In 2024, The Secrets to Customizing Your Story's Pace in Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-voice-fixes-for-your-snapchat-snaps-using-dual-methods/"><u>[Updated] Quick Voice Fixes for Your Snapchat Snaps Using Dual Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-5-virtual-reality-vr-treadmills-review-for-2024/"><u>[Updated] Top 5 Virtual Reality (VR) Treadmills Review for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>[Updated] Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-creative-conceptions-selecting-the-finest-10-free-macdrawers/"><u>2024 Approved Creative Conceptions Selecting the Finest 10 FREE MacDrawers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-code-4128-in-call-of-duty-world-war-ii-step-by-step-troubleshooting-guide/"><u>Error CODE #4128 in Call of Duty: World War II – Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-apps-not-starting-with-built-in-administrator-privileges-solution/"><u>How to Fix Apps Not Starting with Built-In Administrator Privileges (Solution)</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-fixing-iphone-x-overcoming-face-id-malfunction/"><u>In 2024, Fixing iPhone X Overcoming Face ID Malfunction</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimize-capture-smooth-screenshots-with-dell-models/"><u>In 2024, Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/savoring-the-future-of-flavors-with-chatgpt-how-artifice-intelligence-is-revolutionizing-cooking/"><u>Savoring the Future of Flavors with ChatGPT: How Artifice Intelligence Is Revolutionizing Cooking</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-playlist-podcast-tips-for-2024/"><u>The Ultimate iPhone Playlist Podcast Tips for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-circle-of-power-the-leading-25-titans-revealed/"><u>[New] 2024 Approved The Instagram Circle of Power The Leading 25 Titans Revealed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-hasten-your-windows-doc-analysis-process/"><u>[New] In 2024, Hasten Your Windows Doc Analysis Process</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-the-leading-live-church-broadcast-services/"><u>[New] In 2024, Navigating the Leading Live Church Broadcast Services</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-narratives-before-night-an-analysis-of-storytelling-videos/"><u>[New] Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>[Updated] Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-quick-guide-to-securing-a-youtube-revenue-stream/"><u>2024 Approved Your Quick Guide to Securing a Youtube Revenue Stream</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/metaversal-journey-versus-omniverse-quest-for-2024/"><u>Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pinnacle-10-sound-superchargers-pc-mac-and-phones-for-2024/"><u>Pinnacle 10 Sound Superchargers PC, Mac & Phones for 2024</u></a></li>
 </ul></div>
 

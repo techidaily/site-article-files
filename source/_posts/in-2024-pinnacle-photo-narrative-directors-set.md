@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pinnacle Photo Narrative Director's Set"
-date: 2024-08-31T13:17:31.906Z
-updated: 2024-09-01T13:17:31.906Z
+date: 2024-11-04T06:11:53.142Z
+updated: 2024-11-04T18:41:44.012Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,19 @@ You can import your photos and videos at one time and arrange the order by dragg
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3\. Publish your photo story
 
 After the customization of your photo story, click the Create tab and choose your way to save the photo story.
@@ -69,11 +82,15 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Supported Output Formats by Web Converter
 
 * **DVD**: Standard DVD (D5 or D9)
@@ -86,13 +103,27 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -116,4 +147,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-effective-techniques-to-share-and-display-srt-content-on-pinterest-whatsapp/"><u>[New] 2024 Approved Effective Techniques to Share and Display SRT Content on Pinterest, WhatsApp</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>[New] 2024 Approved Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-guide-securely-recording-on-vimeo/"><u>[New] Detailed Guide Securely Recording on Vimeo</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-10-best-live-streaming-services-for-church-you-should-know/"><u>[New] In 2024, 10 Best Live Streaming Services for Church You Should Know</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-the-top-10-live-streaming-hubs/"><u>[New] In 2024, Unveiling the Top 10 Live Streaming Hubs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-process-of-streaming-on-facebook-live-for-2024/"><u>[Updated] Seamless Process of Streaming on Facebook Live for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>[Updated] The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/3-essential-steps-to-escape-sophisticated-scams/"><u>3 Essential Steps to Escape Sophisticated Scams</u></a></li>
+<li><a href="https://article-files.techidaily.com/film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A15 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/haptic-feedback-and-vr-for-medicine-for-2024/"><u>Haptic Feedback and VR for Medicine for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-guide-to-macs-finest-sniping-tools-uncovered/"><u>In 2024, A Guide to Mac's Finest Sniping Tools Uncovered</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 3 online without jailbreak</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-simplify-with-top-10-free-mac-tools-for-screen-recording/"><u>In 2024, Simplify with Top 10 Free Mac Tools for Screen Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-antivirus-softwares-ram-consumption/"><u>Managing Antivirus Software’s RAM Consumption</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-6-best-voice-changers/"><u>New 6 Best Voice Changers</u></a></li>
+</ul></div>
 

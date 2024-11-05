@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Larger YouTube Media"
-date: 2024-10-25T09:23:16.043Z
-updated: 2024-10-30T13:00:21.062Z
+date: 2024-11-03T03:47:39.937Z
+updated: 2024-11-05T05:53:20.007Z
 tags: 
   - screen-recording
   - ai video
@@ -64,30 +64,23 @@ Step3Thereafter, drag and drop the YouTube video file from Project Media folder 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 3\. Use YouTube Built-in Editor
@@ -107,10 +100,16 @@ Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -124,6 +123,13 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
 ![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -152,16 +158,10 @@ Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -192,22 +192,24 @@ There are several ways you can zoom into YouTube videos to check out the desired
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-10-strategies-for-accessing-nfl-games-online/"><u>[New] 2024 Approved Top 10 Strategies for Accessing NFL Games Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-compelling-iphone-photo-and-video-applications-87x/"><u>[New] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-birds-bamboo-boogie/"><u>[New] In 2024, Birds Bamboo Boogie</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-in-depth-insights-on-creating-captivating-instagram-stories/"><u>[New] In 2024, In-Depth Insights on Creating Captivating Instagram Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-beginners-pathway-to-premium-gopro-accessories/"><u>[Updated] 2024 Approved Beginner’s Pathway to Premium GoPro Accessories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-discover-new-cams-to-beat-out-samsungs-gear-360/"><u>[Updated] 2024 Approved Discover New Cams to Beat Out Samsung's Gear 360</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-9-best-4k-monitors-for-video-editing/"><u>[Updated] In 2024, 9 Best 4K Monitors for Video Editing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-live-streaming-scenery-ideas/"><u>[Updated] In 2024, Optimal Live Streaming Scenery Ideas</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-iphone-photo-excellence-simple-tips-and-tricks-for-2024/"><u>[Updated] IPhone Photo Excellence Simple Tips & Tricks for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-12-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 12 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-your-channel-innovative-banner-templates-for-gamers-for-2024/"><u>Brand Your Channel Innovative Banner Templates for Gamers for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/essential-pre-submission-steps-optimizing-your-articles-for-directory-success-with-massmail/"><u>Essential Pre-Submission Steps: Optimizing Your Articles for Directory Success with MassMail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nubia-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nubia</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-fortnite-running-low-on-ram-a-comprehensive-guide/"><u>How to Fix Fortnite Running Low on RAM: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unveiling-apowercompress-the-latest-tool-packed-with-exceptional-functionality/"><u>Unveiling ApowerCompress: The Latest Tool Packed With Exceptional Functionality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/visual-mastery-the-ultimate-list-of-the-best-photo-editing-displays/"><u>Visual Mastery - The Ultimate List of the Best Photo Editing Displays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-go-live-on-youtube-with-minimum-follower-criteria-met/"><u>[New] Go Live on Youtube with Minimum Follower Criteria Met</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-cultivating-patience-with-youtube-disapproval/"><u>[New] In 2024, Cultivating Patience with YouTube Disapproval</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-leading-20-free-open-source-pubg-galleries/"><u>[New] Leading 20 Free, Open Source PUBG Galleries</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-nft-mastermakers-essential-tools-for-digital-artists/"><u>[New] NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-plugins-list-after-effects-edition/"><u>[New] Ultimate Plugins List After Effects Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-compression-to-clarity-the-zip-srt-conversion/"><u>[Updated] 2024 Approved From Compression to Clarity The ZIP-SRT Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi/"><u>[Updated] 2024 Approved Spectacular Screen Showdown SJ6 Vs. The 4K Innovators of Xiaomi</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-stepwise-training-for-effective-transcription-with-gdoc/"><u>[Updated] 2024 Approved Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dive-deep-into-time-lapse-creation-using-samsung-gear/"><u>[Updated] Dive Deep Into Time-Lapse Creation Using Samsung Gear</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-impact-color-filters-expertly-curated-15-gopro-lut-picks/"><u>[Updated] High-Impact Color Filters Expertly Curated 15 GoPro LUT Picks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-cutting-edge-tools-convert-tiktok-to-clear-mp4-files/"><u>[Updated] In 2024, Cutting-Edge Tools Convert TikTok to Clear MP4 Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/browser-based-remote-access-mastering-your-raspberry-pi-through-raspberry-pi-connect/"><u>Browser-Based Remote Access: Mastering Your Raspberry Pi Through Raspberry Pi Connect</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calm-in-chaos-how-to-reduce-shake-on-action-cam-videos/"><u>Calm in Chaos How to Reduce Shake on Action Cam Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-luts-the-secret-behind-enhanced-photography/"><u>Decoding LUTs The Secret Behind Enhanced Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-online-mp3-codec-veranderen-in-ogg-format-met-movavi-konverter/"><u>Gratis Online MP3-Codec Veranderen in Ogg Format Met Movavi Konverter</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-easy-steps-for-harvesting-free-video-frames/"><u>In 2024, Easy Steps for Harvesting Free Video Frames</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>In 2024, Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/mobile-blur-apps-to-soften-images/"><u>Mobile Blur Apps to Soften Images</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the 360 Video Landscape  Key Do's and Don'ts (9)\""
-date: 2024-08-31T13:19:48.194Z
-updated: 2024-09-01T13:19:48.194Z
+date: 2024-10-31T01:19:38.907Z
+updated: 2024-11-04T16:42:28.674Z
 tags: 
   - screen-recording
   - ai video
@@ -37,29 +37,31 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
  When shooting a 360 degree video, you need to have enough battery and SD card. When using a GoPro camera, it requires a lot of power and storage space, especially if you are going to make a long video. It is recommended that you buy battery packs to keep your cameras charged while shooting. You should also bring extra SD cards to ensure that you have adequate storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Make sure all the settings are the same
 
  When using multiple cameras, it is important to make sure that all the setting of each GoPro camera is the same. It is recommended to use manual mode, and turn off white balance, ISO, and color temperature. You should also use 4:3 ratio to ensure you have the largest coverage. That way editing the 360 degree will be easier. There will be fewer corrections to be made with the individual videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### 4\. Use unipod instead of a tripod
 
  You need an unipod to keep the camera setup stable at all times, and at the same time allow you to move with ease. Moving with a tripod can be hard. Another benefit of using a unipod is that it is easier to clean after the video shoot because it only has a single leg, compared to the tripod’s three legs.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Keep device at the same height as your line of sight
 
  The placement of the camera can affect the experience of the viewers. If the camera is too low, the viewers will feel like they are two feet shorter. It will be like see the world as a mouse. And if the camera is too high, the viewers will feel like they are giants. And if the viewers will be watching the 360 video with a VR headset, the effect will be exaggerated a lot more. That’s why it is important to keep the camera level with your line of sight.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Keep all the videos in the same timeline for easier editing of the video
 
  When the videos are recorded in the same timeline, it will make it easier to edit the video. It is recommended to turn on all the GoPro cameras at the same time. Avoid using a remote control for the cameras because it will cost a lot of power. Another suggestion is to clap your hand around the device. That way you can identify the frame and make it easier to keep the six videos in the same timeline.
@@ -73,8 +75,12 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
  For recording the audio, it is best to hide the camera. It is recommended to use a mini microphone when shooting the video. It will provide a more natural sound to other types of microphones. Hopefully in the future cameras are able to capture 360 degree sound that will make the sound shift as the viewer turns one’s head.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 9\. Keep an object in one camera
 
  It is important to keep the subject in one of the cameras or else it will be hard to stitch or edit the videos. Objects that are near the edge of the video should be static to make editing a lot easier.
@@ -84,8 +90,12 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -109,4 +119,20 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-auto-play-youtube-iphoneandroid-no-notification/"><u>[New] 2024 Approved Auto-Play YouTube IPhone/Android, No Notification</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-blend-beats-and-bullets-in-microsofts-presentation-tool/"><u>[New] 2024 Approved How to Blend Beats and Bullets in Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-on-the-lookout-for-economical-vr-experience-china/"><u>[New] In 2024, On the Lookout for Economical VR Experience (China)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-assault-in-real-time-rivalry-for-2024/"><u>[New] The Art of Assault in Real-Time Rivalry for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>[Updated] In 2024, Elevating Your Instagram Presence A Guide to Smart Hashtag Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-fuel-fascination-with-imagery-the-most-motivating-ig-shots/"><u>[Updated] In 2024, Fuel Fascination with Imagery The Most Motivating IG Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-skills-for-3d-lut-making/"><u>Essential Skills for 3D LUT Making</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-agni-2-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava Agni 2 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-slow-motion-a-guide-to-photo-editing-tools-for-2024/"><u>Mastering Slow-Motion A Guide to Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders-for-2024/"><u>Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-crash-no-more-solutions-for-final-cut-pro-x-stability-issues/"><u>New 2024 Approved Crash No More Solutions for Final Cut Pro X Stability Issues</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-tier-mobile-cloud-space-hacks-for-android-for-2024/"><u>Top-Tier Mobile Cloud Space Hacks for Android for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-shines-in-originality-evaluating-three-chatbots-with-the-same-creative-task/"><u>Which AI Shines in Originality? Evaluating Three Chatbots with the Same Creative Task</u></a></li>
+</ul></div>
 

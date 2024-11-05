@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Immersive Color Grading  Navigating LUTs in Adobe Premiere Pro\""
-date: 2024-10-24T11:29:38.629Z
-updated: 2024-10-29T22:43:58.303Z
+date: 2024-11-01T16:09:41.281Z
+updated: 2024-11-05T01:33:09.476Z
 tags: 
   - screen-recording
   - ai video
@@ -38,16 +38,10 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
@@ -60,13 +54,6 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -77,6 +64,13 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -84,13 +78,6 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -103,6 +90,13 @@ Step1".look" exports color adjustments as a Lumetri file. Exporting ".look" File
 Step2Export ".cube" This function exports lookup tables in the.cube format so that they can be imported into other color grading programs.
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Where can you find LUTs?
 
@@ -118,10 +112,10 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -160,19 +154,24 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-image-hunting-on-pexelscom/"><u>[New] In 2024, The Art of Image Hunting on Pexels.com</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-metaverse-vs-multiverse-understanding-the-distinctions-for-2024/"><u>[New] Metaverse Vs. Multiverse Understanding the Distinctions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigate-past-edgenuity-stealthy-study-strategies/"><u>[New] Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-complexities-of-color-correction-using-luts-for-2024/"><u>[New] Navigating the Complexities of Color Correction Using LUTs for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-spark-to-the-future-djis-next-gen-challenge-from-mavic-air/"><u>[New] Spark to the Future DJI's Next-Gen Challenge From Mavic Air</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>[Updated] 2024 Approved Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-instagram-experience-with-in-story-captions/"><u>[Updated] Enhancing Instagram Experience with In-Story Captions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-funimates-apk-unleashed-playbook/"><u>[Updated] From Zero to Hero Funimate's APK Unleashed Playbook</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-omega-series-high-definition-full-touch-workstations/"><u>[Updated] In 2024, Omega Series High Definition Full Touch Workstations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-insight-into-watermark-functionality-for-fb-media-for-2024/"><u>[Updated] Insight Into Watermark Functionality for Fb Media for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flipscreenfix-reverse-your-display/"><u>FlipScreenFix: Reverse Your Display</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-rename-your-user-account-directory/"><u>Win 11: Rename Your User Account Directory</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zdnets-expert-picks-for-ultimate-mac-cleaner-and-optimization-applications/"><u>ZDNet's Expert Picks for Ultimate Mac Cleaner and Optimization Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-assortment-professional-webcam-supports/"><u>[New] 2024 Approved Best Assortment Professional Webcam Supports</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-best-slideshow-apps-iphone-series-8-series-12/"><u>[New] 2024 Approved Best Slideshow Apps (iPhone Series 8-Series 12)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-future-of-action-cam-unveiled-intova-x/"><u>[New] 2024 Approved The Future of Action Cam Unveiled Intova X</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-meeting-aesthetics-how-to-add-filters-on-zoom-for-2024/"><u>[New] Elevate Meeting Aesthetics How to Add Filters on Zoom for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-iphone-night-snap-strategies-unveiled-for-2024/"><u>[New] IPhone Night Snap Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-hidden-gems-in-graphic-design-basics/"><u>[Updated] 2024 Approved Hidden Gems in Graphic Design Basics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-strategies-mastering-your-laptops-screen-recording/"><u>[Updated] Top Strategies Mastering Your Laptop's Screen Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-costs-in-college-the-insiders-roadmap-for-acquiring-a-discounted-tidal-learner-rate/"><u>Cutting Costs in College: The Insider's Roadmap for Acquiring a Discounted Tidal Learner Rate</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-video-quality-from-youtube-to-crisp-avis-format/"><u>Elevate Video Quality From YouTube to Crisp Avis Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60x-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo 60x 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unlocking-the-secrets-to-smooth-imports-in-windows-10-os/"><u>In 2024, Unlocking the Secrets to Smooth Imports in Windows 10 OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/initial-steps-to-instagram-video-discussion-success/"><u>Initial Steps to Instagram Video Discussion Success</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-expense-worth-it-for-apples-ultimate-earbud/"><u>Is the Expense Worth It for Apple's Ultimate Earbud?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/memelores-premier-10-templates-for-2024/"><u>Memelore's Premier 10 Templates for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android-in-2024/"><u>PickU's Claim – The Ultimate Editor or Just Another Featured App in Android, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/ranking-the-best-non-sportful-activities-at-first-row-for-2024/"><u>Ranking the Best Non-Sportful Activities at First Row for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-movie-companion-best-free-and-paid-iphone-apps/"><u>The Ultimate Movie Companion Best Free and Paid iPhone Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-1111-discord-install-obstructions/"><u>Unlocking Windows 11/11 Discord Install Obstructions</u></a></li>
 </ul></div>
 

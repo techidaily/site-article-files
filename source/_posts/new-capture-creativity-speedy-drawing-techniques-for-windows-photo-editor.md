@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture Creativity  Speedy Drawing Techniques for Windows Photo Editor\""
-date: 2024-08-31T13:15:31.778Z
-updated: 2024-09-01T13:15:31.778Z
+date: 2024-10-30T07:38:31.751Z
+updated: 2024-11-05T00:45:19.395Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,13 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
@@ -70,8 +77,18 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
@@ -79,13 +96,21 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +134,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-iconic-subreddits-and-their-all-time-favorites-list/"><u>[New] 2024 Approved Iconic Subreddits & Their All-Time Favorites List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-reverse-playlist-routine-tail-end-dominance-on-yt/"><u>[New] 2024 Approved The Reverse Playlist Routine Tail-End Dominance on YT</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition-for-2024/"><u>[New] Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-your-creative-process-essential-affects-plugin-guide/"><u>[New] Master Your Creative Process Essential Affects Plugin Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-renewed-view-of-sony-s3700-2023-edition-for-2024/"><u>[New] The Renewed View of Sony S3700 2023 Edition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-zero-in-on-transparent-design-with-figmas-bg-removal/"><u>[New] Zero In on Transparent Design with Figma's BG Removal</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ideal-screen-reporter-tech-boosting-youtubing-experience/"><u>[Updated] 2024 Approved Ideal Screen Reporter Tech Boosting YouTubing Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>[Updated] Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-create-a-live-stream-online/"><u>[Updated] In 2024, How to Create a Live Stream Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snappy-fortnite-visuals-in-no-time/"><u>[Updated] Snappy Fortnite Visuals in No Time</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/antop-at-127-tv-antenna-review/"><u>Antop AT-127 TV Antenna Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-impact-of-machine-intelligence-on-coder-productivity/"><u>Navigating the Impact of Machine Intelligence on Coder Productivity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picart-hack-keep-identities-unseen-for-2024/"><u>PicArt Hack Keep Identities Unseen for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-essentials-navigating-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Navigating Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
+</ul></div>
 

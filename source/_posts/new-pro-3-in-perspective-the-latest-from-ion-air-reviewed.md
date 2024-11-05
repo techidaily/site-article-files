@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro 3 in Perspective  The Latest From ION Air Reviewed\""
-date: 2024-10-23T05:41:33.780Z
-updated: 2024-10-29T22:28:07.647Z
+date: 2024-10-28T18:43:05.036Z
+updated: 2024-11-05T06:17:20.609Z
 tags: 
   - screen-recording
   - ai video
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
  It is much simpler to access Wi-Fi settings with this device. Switch on your device as well as the Wi-Fi Podz then move to Wi-Fi setting of your tablet or smart phone. Here also select Podz from your network and then add password. The settings part is over and now you can control your device from remote location easily. Settings can be adjusted from camera application and it also provides facility to fast media transfers between both connected devices.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Recommend best video editing software for action camera users
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 7. **Battery life and Storage:**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iON Air Pro 3 comes with a non removable battery that is really sad because you don’t have option to replace when it dies during shoot. But the good news is that this non removable battery makes it a compact action camera with waterproof body so that it can be easily used in tough situations. With 1080p resolution level it can record easily up to 2.5 hours. On the other side, the supported Micro SD card goes up to 64 GB capacity. Thus you can easily store a shoot of 4 hours 20 minute length if working on 1080p at 60 fps rating. Additionally, you will be able to obtain 8GB additional space from MiMedia that can be easily used for sharing videos or photos online.
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,18 +141,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[New] In 2024, Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-insights-on-lg-bp350-user-perspectives-and-ratings/"><u>[Updated] 2024 Approved Insights on LG BP350 - User Perspectives and Ratings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-epic-footage-and-photos-mastering-the-hero5-black-experience-for-2024/"><u>[Updated] Epic Footage and Photos Mastering the Hero5 Black Experience for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>[Updated] In 2024, Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-from-start-to-end-mastering-the-art-of-fading-in-pro/"><u>[Updated] In 2024, From Start to End Mastering the Art of Fading in Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-step-by-step-guide-to-lut-mastery/"><u>[Updated] In 2024, Step-by-Step Guide to LUT Mastery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-leading-17-lights-and-stands-reviewed/"><u>[Updated] The Leading 17 Lights & Stands Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-your-match-chances-with-clever-tinder-bios/"><u>Elevate Your Match Chances with Clever Tinder Bios</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-accessing-vintage-facebook-content-tips-for-all-devices/"><u>In 2024, Accessing Vintage Facebook Content Tips for All Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>In 2024, Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970074-9781088236628-la-vida-sabe-lo-que-hace/"><u>La Vida Sabe lo que Hace | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-server-rack-systems-and-enclosures-the-ultimate-guide-to-2024s-market-choices/"><u>Leading Server Rack Systems and Enclosures: The Ultimate Guide to 2024'S Market Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-pc-mysteries-a-step-by-step-guide-to-error-code-management-in-command-prompt/"><u>Unraveling PC Mysteries: A Step-by-Step Guide to Error Code Management in Command Prompt</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levate-vlogging-effective-use-of-jump-cuts/"><u>[New] Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>[New] In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-artistry-selecting-from-6-best-nft-makers/"><u>[New] Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skydrives-frugal-option-minimal-price-maximum-space/"><u>[New] Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inside-the-magic-box-how-does-vr-function/"><u>[Updated] 2024 Approved Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>[Updated] 2024 Approved Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>[Updated] In 2024, Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-windows-apps-top-video-editing-picks/"><u>[Updated] Leading Windows Apps Top Video Editing Picks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premium-cloud-storage-services-a-guides-choice/"><u>[Updated] Premium Cloud Storage Services A Guide's Choice</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-pip-activatedeactivate-in-safari-on-apple-devices/"><u>2024 Approved Mastering PIP Activate/Deactivate in Safari on Apple Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/analyzing-the-precision-of-yis-4k-actioncam/"><u>Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-asus-rog-phone-7-by-drfone-android/"><u>Full Guide to Unlock Your Asus ROG Phone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 Bootloader Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>In 2024, Lush Backgrounds A Compendium of Free Screen-Free Downloadables</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>In 2024, The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-5-inspiring-book-tt-showcases/"><u>In 2024, Top 5 Inspiring Book TT Showcases</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-wmp-for-effortless-audio-conversion/"><u>Navigating WMP for Effortless Audio Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-threefold-way-to-extract-and-save-youtubes-subtitles-srt-for-2024/"><u>The Threefold Way to Extract and Save YouTube's Subtitles (SRT) for 2024</u></a></li>
 </ul></div>
 
