@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Color Grading Techniques in GoPro Studio"
-date: 2024-08-27T08:25:58.385Z
-updated: 2024-08-28T08:25:58.385Z
+date: 2024-11-12T18:57:32.983Z
+updated: 2024-11-14T21:14:18.503Z
 tags: 
   - screen-recording
   - ai video
@@ -68,9 +68,23 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 ![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
 
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
 
@@ -78,9 +92,23 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -105,8 +133,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-visuals-with-hyperlapse-cinematography/"><u>[New] 2024 Approved Elevating Visuals with Hyperlapse Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>[New] Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-complete-guide-to-itunes-podcast-upload/"><u>[New] In 2024, The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-elevating-your-photos-with-online-cropping/"><u>[Updated] 2024 Approved Step-by-Step Elevating Your Photos with Online Cropping</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-future-of-action-photography-tomtoms-bandit-review/"><u>[Updated] In 2024, The Future of Action Photography TomTom's Bandit Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[Updated] Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95856890-9781545601983-another-reality/"><u>Another Reality | Free Book</u></a></li>
+<li><a href="https://article-files.techidaily.com/hidden-havens-of-hand-drawn-harmony-techniques/"><u>Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-5-essential-tips-for-monetizing-your-content-finding-the-right-viewer-count/"><u>In 2024, 5 Essential Tips for Monetizing Your Content Finding the Right Viewer Count</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>In 2024, Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-srgb-standardization-versus-classic-rgb-model/"><u>In 2024, Srgb Standardization Versus Classic Rgb Model</u></a></li>
+<li><a href="https://win-online.techidaily.com/losungsansatz-fur-das-reparieren-des-uefi-bootvorgangs-auf-windows-server-201n-erfahre-mehr/"><u>Lösungsansatz Für Das Reparieren Des UEFI-Bootvorgangs Auf Windows Server 201N - Erfahre Mehr!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/review-of-the-toughest-iphone-shield-by-apple-unveiling-its-revolutionary-security-aspect/"><u>Review of the Toughest iPhone Shield by Apple - Unveiling Its Revolutionary Security Aspect</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-streamlining-audio-production-advanced-methods-of-audio-ducking-using-adobe-premiere-pro-on-a-mac/"><u>Updated 2024 Approved Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

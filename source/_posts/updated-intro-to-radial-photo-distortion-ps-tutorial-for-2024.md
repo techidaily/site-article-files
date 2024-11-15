@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Intro to Radial Photo Distortion  PS Tutorial for 2024\""
-date: 2024-11-02T19:05:39.546Z
-updated: 2024-11-04T23:29:04.418Z
+date: 2024-11-14T00:02:23.047Z
+updated: 2024-11-15T12:07:17.744Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,10 @@ The radial blur effect is somehow similar to motion blur. This effect can be cre
 Moreover, the **radial blur effect** can also evoke certain emotions by transforming the image. To create this effect, you have to be precise and accurate with your camera movements. Hence, you can bring focus and display a certain speed in your photos using the radial blur effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Add the Radial Blur Effect to Your Photos in Photoshop?
@@ -60,6 +60,13 @@ Step2 To refine the selection, use the Alt key from your keyboard. Once done wit
 
 ![add the background layer](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Afterward, click on the background layer and head to the "Filter" tab. From there, select "Blur" and tap "Radial Blur" from the drop-down menu. Adjust on the Radial Blur window by choosing "Zoom" as Blur Method. Also, select "Best" under the Quality section. Once done, adjust your Blur Center from the window.
 
 ![proceed with the radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-4.jpg)
@@ -69,10 +76,10 @@ Step4 After making all the adjustments in the Radial Blur window, press the "OK"
 ![adjust the curves](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Radial Blur Effect
@@ -87,6 +94,13 @@ For photo and video editing, Filmora provides several features such as Split Scr
 
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Create Radial Blur Effect Using Filmora
 
 Creating a radial blur effect in Filmora is extremely simple and easy. Its intuitive interface allows you to add a radial blur effect instantly with a few clicks. For your convenience, we have mentioned precise and authentic instructions below to create a radial blur effect in Filmora:
@@ -103,44 +117,17 @@ Drag and drop the photo in the timeline to proceed. Now go to the Effects tab an
 
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3 Adjust the Blur Settings
 
 Choose your preferred effect and drop it into the timeline. Now increase the duration of your effect according to the clip. Once done, double-click on the effect to open its properties. Here, you can adjust the size, intensity, and other elements of the blur effect.
 
 ![adjust the added blur settings](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4 Edit the Clip
 
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -154,6 +141,13 @@ For photo and video editing, Filmora provides several features such as Split Scr
 
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Create Radial Blur Effect Using Filmora
 
 Creating a radial blur effect in Filmora is extremely simple and easy. Its intuitive interface allows you to add a radial blur effect instantly with a few clicks. For your convenience, we have mentioned precise and authentic instructions below to create a radial blur effect in Filmora:
@@ -164,13 +158,6 @@ Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create
 
 ![import the photo in filmora](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2 Add the Required Effect
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
@@ -178,10 +165,10 @@ Drag and drop the photo in the timeline to proceed. Now go to the Effects tab an
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3 Adjust the Blur Settings
@@ -195,6 +182,13 @@ Choose your preferred effect and drop it into the timeline. Now increase the dur
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -226,19 +220,24 @@ By reading this article, you have learned how to add a radial blur effect using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/10-secrets-to-flawless-live-broadcasts-of-cricket/"><u>10 Secrets to Flawless Live Broadcasts of Cricket</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-thorough-examination-of-high-res-action-footage-via-yi/"><u>2024 Approved A Thorough Examination of High-Res Action Footage via Yi</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-on-creating-impactful-hdr-portraits/"><u>2024 Approved Expert Advice on Creating Impactful HDR Portraits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>2024 Approved Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>2024 Approved The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>2024 Approved Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-vmiospluswindows-harmony-hub/"><u>2024 Approved VMiOS+Windows Harmony Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-horizons-broadened-by-chatbot-innovations/"><u>Creative Horizons Broadened by Chatbot Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown-for-2024/"><u>Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-12-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme 12 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-wi-fi-connectivity-in-your-iphone-following-the-ios-abstraction-understanding-and-resolving-common-problems/"><u>How to Restore Wi-Fi Connectivity in Your iPhone Following the iOS Abstraction - Understanding and Resolving Common Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>In 2024, Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rating-playlist-videos-from-youtube-on-websites-for-2024/"><u>Integrating Playlist Videos From YouTube on Websites for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv/"><u>[New] In 2024, A Visual Extravaganza Detailed Examination of LG UD88-UHD TV</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-memes-unleashed-ranking-the-best-templates-10/"><u>[New] In 2024, Memes Unleashed Ranking the Best Templates #10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-secrets-of-skillful-navigation-around-edgenuity-videos/"><u>[New] Secrets of Skillful Navigation Around Edgenuity Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-crowned-titles-top-sierra-dvd-creation-software/"><u>[Updated] 2024 Approved Crowned Titles Top Sierra DVD Creation Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-laughburst-app-for-all-humor-needs/"><u>[Updated] 2024 Approved LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-brainy-brigade-top-11-quiz-channels/"><u>[Updated] In 2024, Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>[Updated] In 2024, Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-spectacular-hooks-title-crafter/"><u>[Updated] In 2024, Spectacular Hooks Title Crafter</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>[Updated] The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transforming-views-into-brand-loyalty/"><u>[Updated] Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>2024 Approved IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fix-guide-preventing-gameplay-interruptions-in-house-flipper-2-for-windows-users/"><u>Easy Fix Guide: Preventing Gameplay Interruptions in 'House Flipper 2' For Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-revealed-exceptional-camera-functions-combined-with-a-solid-mobile-experience/"><u>Huawei P20 Pro Revealed: Exceptional Camera Functions Combined with a Solid Mobile Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-insights-on-common-filmora-editing-issues/"><u>In 2024, Expert Insights on Common Filmora Editing Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/streamlined-file-sharing-from-your-computer-to-iphone-for-2024/"><u>Streamlined File Sharing From Your Computer To iPhone for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y100-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y100 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-free-virtual-reality-vr-players-for-all-devices-pc-mac-iphone-and-android/"><u>Top Free Virtual Reality (VR) Players for All Devices: PC, Mac, iPhone & Android</u></a></li>
 </ul></div>
 

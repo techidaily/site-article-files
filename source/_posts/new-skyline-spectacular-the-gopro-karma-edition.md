@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skyline Spectacular  The GoPro Karma Edition\""
-date: 2024-08-31T13:08:15.697Z
-updated: 2024-09-01T13:08:15.697Z
+date: 2024-11-10T17:07:21.137Z
+updated: 2024-11-15T11:04:07.181Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -94,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -118,8 +139,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-crafting-compelling-docu-scripts-a-step-by-step-guide-for-2024/"><u>[New] Crafting Compelling Docu-Scripts A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-essence-of-dji-inspire-2-distilled/"><u>[New] In 2024, The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-journey-starter-pack-8-essential-online-courses/"><u>[New] YouTube Journey Starter Pack 8 Essential Online Courses</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>[Updated] 2024 Approved Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-video-assisted-teaching-an-insightful-guidebook/"><u>[Updated] 2024 Approved Video-Assisted Teaching An Insightful Guidebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>[Updated] In 2024, Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laugh-labs-free-comedy-creation-for-creative-souls/"><u>[Updated] Laugh Labs Free Comedy Creation for Creative Souls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-moonlight-shots-on-iphone/"><u>[Updated] Mastering Moonlight Shots on iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfect-your-morphvox-skills-a-complete-manual-for-2024/"><u>[Updated] Perfect Your MorphVOX Skills A Complete Manual for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-your-coding-skills-utilize-line-comments-in-emeditors-powerful-text-editor/"><u>Enhance Your Coding Skills: Utilize Line Comments in EmEditor's Powerful Text Editor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus with a Mask On</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-10t-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme 10T 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-mozilla-thunderbird-version-update-52-features-and-improvements/"><u>Latest Mozilla Thunderbird Version: Update 52 Features and Improvements</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-cut-mkv-files-for-free-top-10-editors/"><u>New In 2024, Cut MKV Files for Free Top 10 Editors</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/schlusselstrategien-fur-die-handhabung-von-hp-systemwiederherstellung-in-windows-11-eine-einfache-anleitung/"><u>Schlüsselstrategien Für Die Handhabung Von HP Systemwiederherstellung in Windows 11 - Eine Einfache Anleitung</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

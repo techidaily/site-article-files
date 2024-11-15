@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminating iPhones in the Dark  Photography Tips\""
-date: 2024-11-02T02:09:13.387Z
-updated: 2024-11-04T19:35:10.447Z
+date: 2024-11-09T22:42:46.317Z
+updated: 2024-11-14T20:56:20.256Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ## Tips on how to take silhouette photos with your iPhone
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What makes a good silhouette?
@@ -58,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
 ![silouette-agiant-light](https://images.wondershare.com/filmora/article-images/silouette-agiant-light.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: Digital Photo Secrets
 
 #### 2\.  Low POV
@@ -65,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
  A yet another tip for silhouetting effect is capturing the view from a low angle. When you will get down a little lower and capture from a low angle, it will present the picture with a plain and simple background and there will be no clumsiness related to background. The photo taken from low point or by lying down on the ground will result in position changing of the subject and adding more interest to it.
 
 ![silhouette-low-pov](https://images.wondershare.com/filmora/article-images/silhouette-low-pov.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image source: Gettyimages
 
@@ -82,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ![silouette-photo-simple-background](https://images.wondershare.com/filmora/article-images/silouette-photo-simple-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image source: Pexels
@@ -95,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
  A very simple thing to keep in mind while going for silhouette photo moment is leaving enough space when the scene contains several subjects. This is important since it will become difficult to recognize the subject. For example, if there is a family silhouette photo, if you won't give space, they will be difficult to identify separately in that shadowy effect. However, when shooting stationary subjects and they are very close, ensure a little change in the shooting angle. On the other hand, if shooting moving subjects, do it only when you feel a sufficient space between them.
 
 ![silhouette-photo-space](https://images.wondershare.com/filmora/article-images/silhouette-photo-space.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image source: astro-canada.ca
 
@@ -107,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
  You can also apply post-production concept to get the remarkable silhouette effect in your snaps. This takes a little moderation in the photography after when you click it. You can use adjustments for a better silhouette effect by adding fair amount of light levels or darkness and highlight your subject. For the adjustments, increasing the contrast would be a recommended option to make the silhouette look darker and brighter. On the other hand, you can use a little amount of vignette effect at the outer range of the photo. This will bring better attention to your subject at the center and will make your silhouette photography moment perfect.
 
 ![silhouette-photo-contrast](https://images.wondershare.com/filmora/article-images/silhouette-photo-contrast.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image source: Flickr
 
@@ -144,24 +156,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-write-dialogue-or-narrative-script/"><u>[Updated] How to Write Dialogue or Narrative Script</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unveiling-the-past-essential-historical-yt-creators-for-students/"><u>[Updated] Unveiling the Past Essential Historical YT Creators for Students</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>2024 Approved A Visual Marvel Unveiled EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-assessing-auroraayers-image-processing-strengths/"><u>2024 Approved Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-capture-joy-online-kapwing-meme-studio/"><u>2024 Approved Capture Joy Online Kapwing Meme Studio</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enhance-images-with-text-via-web-and-mobile-apps/"><u>2024 Approved Enhance Images with Text via Web & Mobile Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-hasty-heists-of-history-recovering-deleted-reddit-posts/"><u>2024 Approved Hasty Heists of History Recovering Deleted Reddit Posts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-htc-vive-comfort-zone-8-strategies-for-clear-skin/"><u>2024 Approved HTC Vive Comfort Zone 8 Strategies for Clear Skin</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-muting-the-youtube-video-peek-mechanism/"><u>2024 Approved Muting the YouTube Video Peek Mechanism</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis/"><u>2024 Approved The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-8-cameras-unmatched-live-stream-quality/"><u>2024 Approved Top 8 Cameras Unmatched Live Stream Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/achieving-stunning-iphone-hdr-results-for-2024/"><u>Achieving Stunning iPhone HDR Results for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/efficiently-setting-up-mixer-on-macos/"><u>Efficiently Setting Up Mixer on MacOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-lenovo-legion-5-pro-performance-install-latest-intel-and-nvidia-drivers/"><u>Enhance Lenovo Legion 5 Pro Performance: Install Latest Intel & NVIDIA Drivers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-support-desk-to-praise-panel-fabios-expert-exchange-tips/"><u>From Support Desk to Praise Panel - Fabio's Expert Exchange Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>In 2024, Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-shields-elite-selection-of-cases-for-your-samsung-galaxy-z-fold-5-device/"><u>Ultimate Shields: Elite Selection of Cases for Your Samsung Galaxy Z Fold 5 Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>[New] 2024 Approved How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-and-save-your-desktop-free-ways-on-windows/"><u>[New] Capture & Save Your Desktop - Free Ways on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enabledisable-picture-in-picture-with-safari-on-ios-ipad-for-2024/"><u>[Updated] Enable/Disable Picture-in-Picture with Safari on iOS, iPad for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/direct-engagement-or-mass-distribution-twitch-and-youtube-contrast-for-2024/"><u>Direct Engagement or Mass Distribution? Twitch & YouTube Contrast for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/ethereal-3-confrontation-shade-4-emerges/"><u>Ethereal 3 Confrontation Shade 4 Emerges</u></a></li>
+<li><a href="https://article-files.techidaily.com/next-gen-cuts-select-best-6-video-editing-apps-for-mac-big-sur-for-2024/"><u>Next-Gen Cuts Select Best 6 Video Editing Apps for Mac Big Sur for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/real-time-insights-for-all-via-chatgpt/"><u>Real-Time Insights for All via ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rewind-on-request-swift-iphone-video-flip-for-2024/"><u>Rewind on Request Swift iPhone Video Flip for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-instant-fix-purge-your-facebook-broadcast-history/"><u>The Instant Fix: Purge Your Facebook Broadcast History</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-site-with-cookiebot-solutions/"><u>Unlock the Potential of Your Site with Cookiebot Solutions</u></a></li>
 </ul></div>
 

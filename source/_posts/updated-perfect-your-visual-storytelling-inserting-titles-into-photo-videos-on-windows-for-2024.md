@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfect Your Visual Storytelling  Inserting Titles Into Photo Videos on Windows for 2024\""
-date: 2024-08-27T08:24:21.790Z
-updated: 2024-08-28T08:24:21.790Z
+date: 2024-11-12T03:52:37.848Z
+updated: 2024-11-15T14:57:28.928Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -61,6 +68,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -75,8 +89,12 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,8 +102,12 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +131,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-affordable-game-controllers-under-100/"><u>[New] 2024 Approved Ultimate Affordable Game Controllers Under $100</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cropped-footage-queries-why-is-my-video-clipped-in-2024/"><u>[New] Cropped Footage Queries Why Is My Video Clipped, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-optimizing-footage-variety-in-your-video-production/"><u>[New] In 2024, Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-10plus-best-instagram-video-editor-for-pc-online-android/"><u>[Updated] 2024 Approved 10+ Best Instagram Video Editor for PC, Online, Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-the-vivid-world-with-curved-images/"><u>[Updated] Exploring the Vivid World with Curved Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-smoothshot-stabilizing-technology-on-the-move/"><u>[Updated] In 2024, SmoothShot Stabilizing Technology on the Move</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-jaunt-vr-a-gateway-to-virtual-worlds/"><u>[Updated] Jaunt VR A Gateway to Virtual Worlds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-issue-of-synchronizing-artificial-intelligence-with-human-values/"><u>Demystifying the Issue of Synchronizing Artificial Intelligence with Human Values</u></a></li>
+<li><a href="https://article-files.techidaily.com/effortless-installation-apple-podcasts-made-simple/"><u>Effortless Installation Apple Podcasts Made Simple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-guide-to-codegpt-integration-in-vs-code/"><u>Expert Guide to CodeGPT Integration in VS Code</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-gt-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme GT 5</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world/"><u>In 2024, Exploring the Spectrum Projectors & Televisions in a 4K World</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-what-is-a-drone-and-how-does-it-work/"><u>In 2024, What Is a Drone and How Does It Work</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/maximize-mac-capacity-in-minutes-essential-techniques-for-swiftly-clearing-disk-space/"><u>Maximize Mac Capacity in Minutes: Essential Techniques for Swiftly Clearing Disk Space</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimizing-chromebook-prime-zoom-features-for-2024/"><u>Optimizing Chromebook Prime Zoom Features for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-fixes-for-a-non-functioning-lynda-desktop-app-on-mac-osx-and-windows-systems/"><u>Ultimate Fixes for a Non-Functioning Lynda Desktop App on Mac OSX & Windows Systems</u></a></li>
+</ul></div>
 

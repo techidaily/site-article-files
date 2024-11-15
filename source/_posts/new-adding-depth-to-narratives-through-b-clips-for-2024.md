@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Depth to Narratives Through B-Clips for 2024\""
-date: 2024-11-03T09:34:43.409Z
-updated: 2024-11-04T20:14:13.705Z
+date: 2024-11-10T03:36:19.217Z
+updated: 2024-11-14T20:08:20.199Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,16 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -69,10 +75,10 @@ Including archival material in your video allows your audience to experience a p
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -85,13 +91,6 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -99,15 +98,22 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,22 +149,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-pairings-blending-tracks-with-cubase-essentials/"><u>[New] 2024 Approved Perfect Pairings Blending Tracks with Cubase Essentials</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-perfecting-your-tiktok-persona-with-our-compreeved-guide/"><u>[New] 2024 Approved Perfecting Your TikTok Persona with Our Compreeved Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos/"><u>[New] 2024 Approved The Hidden Paths Techniques to Skip Without Watching Edgenuity Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[New] In 2024, Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-metaverse-comedy-crafting-memetic-gold/"><u>[New] Mastering Metaverse Comedy Crafting Memetic Gold</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-decoding-complex-task-efficient-background-cleansing-in-affinitys-realm/"><u>[Updated] 2024 Approved Decoding Complex Task Efficient Background Cleansing in Affinity's Realm</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-fiscal-summary-producing-a-music-video/"><u>[Updated] 2024 Approved Fiscal Summary Producing a Music Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-innovative-strategies-for-image-collections-procurement/"><u>[Updated] 2024 Approved Innovative Strategies for Image Collections Procurement</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elegant-volume-attenuation-using-lumafusion/"><u>[Updated] Elegant Volume Attenuation Using Lumafusion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-lifetime-love-affair-with-top-15-classic-stop-motion-movies-for-2024/"><u>A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/edit-photos-infuse-soundtracks-for-2024/"><u>Edit Photos, Infuse Soundtracks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/methods-for-rolling-macos-sierra-back-to-el-capitan-for-2024/"><u>Methods for Rolling MacOS Sierra Back to El Capitan for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/securely-recording-android-tips-and-tricks/"><u>Securely Recording Android Tips and Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-best-free-online-calling-apps-of-2024-you-should-try/"><u>Top 12 Best Free Online Calling Apps of 2024 You Should Try</u></a></li>
-<li><a href="https://solve-news.techidaily.com/unlock-global-cinema-expert-tips-for-playing-foreign-region-locked-dvds-at-home/"><u>Unlock Global Cinema: Expert Tips for Playing Foreign Region-Locked DVDs at Home</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-guide-to-selecting-artistic-win-programs/"><u>[New] 2024 Approved Essential Guide to Selecting Artistic Win Programs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-methods-for-overwatch-audio-capture/"><u>[New] 2024 Approved Innovative Methods for Overwatch Audio Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dynamic-shade-adjuster-app-for-2024/"><u>[New] Dynamic Shade Adjuster App for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-picturing-laughter-building-memes-with-text-tool-for-2024/"><u>[New] Picturing Laughter Building Memes with Text Tool for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-sims-4-games-professionally/"><u>[New] Recording Sims 4 Games Professionally</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlock-photo-editing-potential-with-these-clever-pixlr-techniques/"><u>[Updated] 2024 Approved Unlock Photo Editing Potential with These Clever Pixlr Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-are-thoughtful-analyses-monetarily-rewarded/"><u>[Updated] In 2024, Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-new-insights-into-sony-s6700s-updates-for-2024/"><u>[Updated] New Insights Into Sony S6700's Updates for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-iphone-data-migration-tools-for-pc-mac-and-windows-top-5-picks/"><u>Best iPhone Data Migration Tools for PC, Mac & Windows: Top 5 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/data-mastery-with-chatgpt-a-six-step-guide-for-analysts/"><u>Data Mastery with ChatGPT: A Six-Step Guide for Analysts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-persistent-issues-in-total-war-warhammer-ii-gaming-experience/"><u>Effective Fixes for Persistent Issues in Total War: Warhammer II Gaming Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embarking-on-a-phonetic-adventure-the-essentials-of-german-sounds/"><u>Embarking on a Phonetic Adventure: The Essentials of German Sounds</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-craft-professional-text-the-best-affects-extensions-revealed/"><u>In 2024, Craft Professional Text The Best Affects Extensions Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/maximizing-views-on-tiktok-unboxing-content/"><u>Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-the-roomba-combo-j7plus-a-near-perfect-dual-function-cleaning-bot-revealed/"><u>Zdnet's In-Depth Analysis: The Roomba Combo J7+ - A Near Perfect Dual-Function Cleaning Bot Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Visualizing Your Vision  The Art of Using LUTs in Photos\""
-date: 2024-08-31T13:09:29.066Z
-updated: 2024-09-01T13:09:29.066Z
+date: 2024-11-12T04:05:05.983Z
+updated: 2024-11-15T10:10:11.284Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -65,6 +72,13 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -75,8 +89,12 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -84,10 +102,6 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -105,9 +119,12 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -118,9 +135,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -149,4 +163,26 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-expert-pick-prime-drone-gimbals-for-2024/"><u>[New] Expert Pick Prime Drone Gimbals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-auto-and-smart-hdr-advances-in-camera-technology/"><u>[New] Exploring Auto and Smart HDR Advances in Camera Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-techniques-for-depicting-realism-in-docuscripts/"><u>[New] Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>[New] The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-turn-photos-inside-out-with-ease-using-photoshop/"><u>[New] Turn Photos Inside Out with Ease Using Photoshop</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>[Updated] 2024 Approved Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>[Updated] 2024 Approved In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] 2024 Approved Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-capturing-sound-in-windows-11-explained/"><u>[Updated] Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-auditory-enhancement-of-photographic-memories-online/"><u>[Updated] In 2024, Auditory Enhancement of Photographic Memories Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>[Updated] In 2024, Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-chromebook-snapshot-tool/"><u>[Updated] In 2024, Ultimate Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-best-macbook-air-or-pro-with-m1/"><u>[Updated] Unveiling the Best MacBook Air or Pro with M1</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-f5-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco F5 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15s-resistance-to-water-how-strong-is-it/"><u>IPhone 15'S Resistance to Water: How Strong Is It?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-8-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 8 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-power-of-visuals-zooms-filter-guide/"><u>Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-elite-laptops-powered-by-the-latest-snapdragon-x-processor-surpassing-the-15-hour-mark-and-challenging-intel-rivals/"><u>Unveiling Elite Laptops Powered by the Latest Snapdragon X Processor: Surpassing the 15-Hour Mark & Challenging Intel Rivals</u></a></li>
+</ul></div>
 

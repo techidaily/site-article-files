@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone & Samsung Faces  Examining Their Biometric Security\""
-date: 2024-10-30T20:55:02.695Z
-updated: 2024-11-05T08:27:33.331Z
+date: 2024-11-08T14:00:18.487Z
+updated: 2024-11-15T12:16:39.687Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Which one is more Accuracy?
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -84,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -101,9 +87,29 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -112,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,24 +149,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-ffmpeg-and-its-role-in-preserving-natural-auditory-formats/"><u>[New] 2024 Approved FFmpeg and Its Role in Preserving Natural Auditory Formats</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>[New] 2024 Approved Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-rapid-srt-to-txt-transformation-techniques/"><u>[New] Mastering Rapid SRT to TXT Transformation Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-speech-synthesis-simplified-from-ssa-to-compelling-srt-files/"><u>[New] Speech Synthesis Simplified From SSA to Compelling SRT Files</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>[New] The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-simplifying-creative-workflow-adding-text-to-photography-files/"><u>[Updated] 2024 Approved Simplifying Creative Workflow Adding Text to Photography Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[Updated] 2024 Approved Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-review-luminances-creation-capability/"><u>2024 Approved HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-nominiert-renommeierten-experten-robert-youngjohns-zum-ceo/"><u>ABBYY Nominiert Renommeierten Experten Robert Youngjohns Zum CEO</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-best-in-class-pc-vr-headsets/"><u>Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-pexels-tips-for-visual-explorers/"><u>In 2024, Quick Pexels Tips for Visual Explorers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/power-problems-heres-how-to-bring-your-non-responsive-system-back-to-life/"><u>Power Problems? Here's How to Bring Your Non-Responsive System Back to Life!</u></a></li>
-<li><a href="https://article-files.techidaily.com/premium-3d-video-app-for-android-devices-for-2024/"><u>Premium 3D Video App for Android Devices for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/speaking-and-listening-to-create-better-decks-for-2024/"><u>Speaking and Listening to Create Better Decks for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-converting-and-saving-repubblica-tv-programs-as-mp4movavi-files/"><u>Step-by-Step Tutorial on Converting and Saving Repubblica TV Programs as MP4/MOV/AVI Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-lens-perspective-filmographys-top-cinematic-techniques-and-tips-of-2024/"><u>The Lens Perspective Filmography’s Top Cinematic Techniques and Tips of 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-selection-8-must-have-laptop-backgrounds-for-2024/"><u>Ultimate Selection 8 Must-Have Laptop Backgrounds for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>Unveiling the Virtual Essence Metaphysical Metaverse Adages</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-studio-study-xvideo-studio-insights/"><u>[New] Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dimming-down-music-effortlessly-on-computers-macos-and-windows/"><u>[New] Dimming Down Music Effortlessly on Computers (macOS & Windows)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>[New] In 2024, Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-masterclass-in-capturing-high-quality-vimeo-videos-for-2024/"><u>[Updated] Masterclass in Capturing High-Quality Vimeo Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-speech-synthesis-simplified-from-ssa-to-compelling-srt-files/"><u>[Updated] Speech Synthesis Simplified From SSA to Compelling SRT Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-16-free-video-software-revealed-here/"><u>2024 Approved Prime 16 Free Video Software, Revealed Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flv-to-mp4/"><u>FLV to MP4変換ガイド：オンラインおよびオフラインでの大容量データ</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-craft-your-own-film-finale-templates-no-cost/"><u>In 2024, Craft Your Own Film Finale Templates, No Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-your-content-creation-top-rated-mac-mp4-slicers/"><u>Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
 </ul></div>
 
