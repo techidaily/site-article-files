@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Iconic Highlights From the 2022 Figure Skate World"
-date: 2024-11-08T03:27:29.137Z
-updated: 2024-11-15T10:57:01.011Z
+date: 2024-11-19T17:48:42.487Z
+updated: 2024-11-24T20:48:15.076Z
 tags: 
   - screen-recording
   - ai video
@@ -51,9 +51,17 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
@@ -62,10 +70,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -89,10 +94,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -101,19 +103,6 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
@@ -121,10 +110,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,20 +136,22 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-full-scale-examination-unboxing-the-dji-phantom-4/"><u>[New] 2024 Approved Full-Scale Examination Unboxing the DJI Phantom 4</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-crafting-superior-recordings-a-guide-to-audacity/"><u>[New] Crafting Superior Recordings A Guide to Audacity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>[New] In 2024, Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-rx-memory-revamp/"><u>[New] In 2024, RX Memory Revamp</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-the-art-of-action-shots-with-gopro-for-2024/"><u>[New] Mastering the Art of Action Shots with GoPro for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastery-of-spotify-ad-formats-and-best-practices/"><u>[New] Mastery of Spotify Ad Formats and Best Practices</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-transform-your-ride-with-these-top-10-macwindows-srt-boosters-for-2024/"><u>[Updated] Transform Your Ride with These Top 10 Mac/Windows SRT Boosters for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-to-implement-ai-agents-in-your-browser-using-agentgpt-technology/"><u>Easy Steps to Implement AI Agents in Your Browser Using AgentGPT Technology</u></a></li>
-<li><a href="https://article-files.techidaily.com/harnessing-testimonials-for-genuine-brand-connection-for-2024/"><u>Harnessing Testimonials for Genuine Brand Connection for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-bd-j5900-review-2023-update/"><u>In 2024, Samsung BD-J5900 Review - 2023 Update</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726029433486-mp4h264/"><u>MP4形式への変換：H.264ビデオファイルの効率的な変換手順</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-editor-in-2024/"><u>What Is an AI Editor, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>[New] A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-android-tools-5-leading-ps2-emulator-apps-for-2024/"><u>[New] Essential Android Tools 5 Leading PS2 Emulator Apps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-excellence-in-vocal-alteration-top-choices-above-all-for-2024/"><u>[New] Excellence in Vocal Alteration Top Choices Above All for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry/"><u>[New] In 2024, Pioneering Tools for the Future of 3D Model & Animation Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[New] In 2024, The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-picsart-tips-infusing-life-with-facial-motion-blur/"><u>[New] Picsart Tips Infusing Life with Facial Motion Blur</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-maximize-productivity-with-firefoxs-pip-feature/"><u>[Updated] 2024 Approved Maximize Productivity with Firefox’s PIP Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>[Updated] How To Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-first-footsteps-in-the-fiscal-world-of-filming/"><u>[Updated] Your First Footsteps in the Fiscal World of Filming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-driver-installer-seamless-and-automated-setup/"><u>AMD Driver Installer - Seamless and Automated Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-uses-for-unwanted-or-supplementary-shots/"><u>Creative Uses for Unwanted or Supplementary Shots</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enhance-performance-advanced-techniques-for-windows-10/"><u>In 2024, Enhance Performance Advanced Techniques for Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>In 2024, Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-financial-gains-from-social-video-content-for-2024/"><u>The Ultimate Guide to Financial Gains From Social Video Content for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Strategies to Achieve Professional 3D Text in Photoshoot for 2024"
-date: 2024-11-08T19:28:21.768Z
-updated: 2024-11-14T21:10:23.872Z
+date: 2024-11-23T23:22:00.508Z
+updated: 2024-11-24T19:29:55.936Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,25 @@ Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document
 
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
@@ -53,6 +65,10 @@ Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, fro
 
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
@@ -60,6 +76,10 @@ Step7 The next thing you need to do is add a light source. To do this, go back t
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
@@ -70,13 +90,6 @@ Step10 Finally, from the upper-right corner drop-down button, select **Essential
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Easier Way to Create a 3D Text Effect or Animation
 
@@ -90,13 +103,6 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -105,28 +111,12 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -138,6 +128,10 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -156,10 +150,7 @@ Step1 First, you should download Filmora and install the program on your compute
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -204,21 +195,24 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-enhance-virtual-interaction-top-7-technologies-revealed/"><u>[New] In 2024, Enhance Virtual Interaction - Top 7 Technologies Revealed</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-small-scale-screenplay-idea/"><u>[New] Small-Scale Screenplay Idea</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-streamlined-technique-for-embedding-linktree-on-tiktok-for-2024/"><u>[New] Streamlined Technique for Embedding Linktree on TikTok for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exploring-vr-landscapes-perks-pitfalls-and-pivots-for-2024/"><u>[Updated] Exploring VR Landscapes Perks, Pitfalls and Pivots for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-perfect-your-pics-ideal-apps-list-for-iphonesandroids-for-2024/"><u>[Updated] Perfect Your Pics Ideal Apps List for iPhones/Androids for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-should-itop-screen-recorder-be-a-staple-in-your-kit-for-2024/"><u>[Updated] Should ITop Screen Recorder Be a Staple in Your Kit for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>2024 Approved Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728495644192-usb/"><u>完了：USBデバイスの正しいスキャンと修復後にデータが失われる方法</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/snd-wav-movavi/"><u>在線免費 SND 至 WAV 檔案轉換服務 - Movavi 變更工具</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-create-professional-gopro-vlogs-for-2024/"><u>How to Create Professional Gopro Vlogs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/image-innovation-at-your-fingertips-applications-for-photo-text-adjustments/"><u>Image Innovation at Your Fingertips Applications for Photo Text Adjustments</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-prime-camcorder-selections-in-depth-insights/"><u>In 2024, Prime Camcorder Selections – In-Depth Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-seamless-integration-combining-b-roll-and-main-scenes/"><u>In 2024, Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://article-files.techidaily.com/leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>Leveraging Eco-Friendly Visual Effects Revolutionizing Online Video Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/masterclass-in-live-streaming-integrating-dslr-into-your-digital-space-for-2024/"><u>Masterclass in Live Streaming Integrating DSLR Into Your Digital Space for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701667-seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment.</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-virtual-worlds-on-screen-new-era-films/"><u>[New] 2024 Approved Virtual Worlds on Screen New Era Films</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-creating-unforgettable-podcast-beginnings-methods-and-examples/"><u>[New] Creating Unforgettable Podcast Beginnings Methods & Examples</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-organize-your-fb-content-access-to-free-downloaders-online/"><u>[New] Organize Your FB Content Access to Free Downloaders Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-10-vr-360-video-players-for-pc-reviews/"><u>[New] Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films/"><u>[Updated] 2024 Approved Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>[Updated] Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-guide-to-top-frame-rates-in-slow-motion-video-production-for-2024/"><u>[Updated] Guide to Top Frame Rates in Slow-Motion Video Production for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>[Updated] In 2024, Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-budget-saving-stratospheric-storage-for-heavy-dumps/"><u>[Updated] In 2024, Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-strategy-for-professional-gopro-filming/"><u>[Updated] The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>2024 Approved Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-a-narrative-structure-in-online-video-tutorials-for-2024/"><u>Creating a Narrative Structure in Online Video Tutorials for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/efficiently-restore-data-on-your-sd-card-using-these-proven-strategies-including-4-key-methods/"><u>Efficiently Restore Data on Your SD Card Using These Proven Strategies (Including 4 Key Methods)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-introduction-to-vlogging-tools-for-getting-started/"><u>In 2024, Introduction to Vlogging Tools for Getting Started</u></a></li>
+<li><a href="https://article-files.techidaily.com/quantum-megadesk-pure-4k-multi-touch/"><u>Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-fix-for-stuck-applications-on-pc-mastering-the-force-close-with-revouninstaller/"><u>Quick Fix for Stuck Applications on PC: Mastering the Force Close with RevoUninstaller</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>The Clandestine Way Exploring Insta Stories on Tech Devices</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-how-to-safely-download-songs-from-saavn/"><u>Ultimate Guide: How to Safely Download Songs From Saavn</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-10-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 10 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Key Tactics for Testimonial Videos"
-date: 2024-11-11T16:00:12.843Z
-updated: 2024-11-15T16:00:07.301Z
+date: 2024-11-23T17:06:39.374Z
+updated: 2024-11-24T16:49:51.880Z
 tags: 
   - screen-recording
   - ai video
@@ -49,13 +49,6 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Use the word “I”.
 * Use the word “we”.
 * Use the word “you”.
@@ -63,10 +56,7 @@ It may seem like a daunting task, but there are several ways you can go about de
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep it All Short and Sweet
@@ -74,10 +64,7 @@ It may seem like a daunting task, but there are several ways you can go about de
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
@@ -90,20 +77,21 @@ Asking open-ended questions allows people greater freedom when responding—and 
 
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
@@ -114,10 +102,7 @@ If someone says "I love this product," but then shows their eyes darting around 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
@@ -158,19 +143,19 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-mic-options-for-youtube-vloggers/"><u>[New] 2024 Approved Economical Mic Options for YouTube Vloggers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-guide-yi-hero-cam-and-its-dynamic-features/"><u>[New] 2024 Approved Ultimate Guide Yi Hero Cam & Its Dynamic Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-health-communication-winning-on-social-networks-for-2024/"><u>[New] Health Communication Winning on Social Networks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-optimal-energy-solutions-for-gopro-hero5-certified-and-third-party-for-2024/"><u>[New] Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-basic-hdr-imaging-for-2024/"><u>[New] The Ultimate Guide to Basic HDR Imaging for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>[Updated] 2024 Approved Behind the Lens Mastery 5 Essential Cinematographic Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-budget-friendly-camera-guide-best-bargains/"><u>[Updated] 2024 Approved Budget-Friendly Camera Guide Best Bargains</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-websites-unveiled-where-you-grab-your-ringtone-favorites/"><u>[Updated] Websites Unveiled Where You Grab Your Ringtone Favorites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-visuals-with-paradox-creation/"><u>Enhancing Visuals with Paradox Creation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-toshiba-printer-and-scanner-working-installers-for-windows/"><u>Get Your Toshiba Printer and Scanner Working: Installers for Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-excellent-gopro-filming-mastery/"><u>In 2024, The Path to Excellent Gopro Filming Mastery</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-upload-ps4-screenshots-to-social-media-a-step-by-step-guide/"><u>Updated In 2024, Upload PS4 Screenshots to Social Media A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-unlink-lively-logos-from-your-profile-mobilepc-for-2024/"><u>[Updated] How to Unlink Lively Logos From Your Profile (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-5-steps-to-transform-your-photos-hues-right-away/"><u>[Updated] In 2024, 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-demonstrating-company-culture-fit/"><u>[Updated] In 2024, Demonstrating Company Culture Fit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effortless-image-incorrante-on-instagram/"><u>[Updated] In 2024, Effortless Image Incorrante on Instagram</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6s-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6s With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-picks-and-tips-for-thriving-in-valheim/"><u>In 2024, Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
+<li><a href="https://article-files.techidaily.com/lighten-up-your-digital-presence-kapwing-maker-for-2024/"><u>Lighten Up Your Digital Presence - Kapwing Maker for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pro-iphone-hdr-photos-made-easy-for-2024/"><u>Pro iPhone HDR Photos Made Easy for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/quizzical-quests-top-trivia-video-platforms/"><u>Quizzical Quests Top Trivia Video Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-issues-with-non-functioning-prime-video-subtitles/"><u>Resolving Issues with Non-Functioning Prime Video Subtitles</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshoot-the-stop-code-0xc00n021a-swiftly-on-your-windows-10-system/"><u>Troubleshoot the STOP Code 0Xc00n021a Swiftly on Your Windows 10 System</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-collection-10-excellent-photo-background-alternators/"><u>Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Incorinastrating Supplementary Imagery in Projects for 2024"
-date: 2024-11-09T02:00:54.769Z
-updated: 2024-11-14T22:22:30.664Z
+date: 2024-11-19T00:16:18.102Z
+updated: 2024-11-24T20:58:10.946Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -38,10 +42,7 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
@@ -53,10 +54,7 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -72,10 +70,7 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -92,18 +87,15 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
@@ -143,20 +135,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unravel-complex-video-editing-a-complete-android-guide/"><u>[New] 2024 Approved Unravel Complex Video Editing A Complete Android Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-24-hour-film-size-gb-measurement-guide/"><u>[New] 24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>[New] Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>[Updated] In 2024, A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-expert-tips-on-figma-seamless-bg-erasure-techniques/"><u>[Updated] In 2024, Expert Tips on Figma Seamless BG Erasure Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-masterful-podcast-descriptions-strategies-and-case-studies/"><u>[Updated] In 2024, Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-exclusive-unbeatable-price-on-the-hp-victus-15-gaming-laptop-for-under-500/"><u>Amazon Prime Day Exclusive: Unbeatable Price on the HP Victus 15 Gaming Laptop for Under $500</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-your-raccoon-woes-in-resident-evil-village-expert-tips-to-correct-mouse-issues/"><u>Banish Your Raccoon Woes in Resident Evil Village – Expert Tips to Correct Mouse Issues</u></a></li>
-<li><a href="https://article-files.techidaily.com/easy-logo-creation-download-tailor-make-at-zero-cost/"><u>Easy Logo Creation Download, Tailor-Make, at Zero Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-with-kotion-each-g2000-a-comprehensive-guide-for-unresponsive-mics/"><u>Fixing Sound Problems with Kotion Each G2000: A Comprehensive Guide for Unresponsive Mics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v29e-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V29e to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-functionality-legacy-keys-in-windows-narrator/"><u>Maximizing Functionality: Legacy Keys in Windows Narrator</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/optimierung-der-datenaufnahme-wie-spezielle-ki-die-prozesse-revolutioniert-insights-aus-dem-abbey-blog/"><u>Optimierung Der Datenaufnahme: Wie Spezielle KI Die Prozesse Revolutioniert – Insights Aus Dem ABBEY-Blog</u></a></li>
-<li><a href="https://article-files.techidaily.com/six-simple-ways-to-ease-vr-headset-nausea/"><u>Six Simple Ways to Ease VR Headset Nausea</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stand-out-in-hiring-processes-write-captivating-applications/"><u>Stand Out in Hiring Processes: Write Captivating Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] 2024 Approved From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-film-crafting-from-script-to-screen-for-2024/"><u>[New] Film Crafting From Script to Screen for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pixelprankspro-humorhexagonhub/"><u>[New] In 2024, PixelPranksPro HumorHexagonHub</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-enablingdisabling-picture-in-picture-for-2024/"><u>[New] Step by Step Enabling/Disabling Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transform-films-activate-xp-movie-maker-now/"><u>[New] Transform Films, Activate XP Movie Maker Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-eco-set-designs-30plus-free-downloadable-templates-for-filmmaking-artistry-for-2024/"><u>[Updated] Eco-Set Designs 30+ Free Downloadable Templates for Filmmaking Artistry for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-10-compact-discs-viewer-recommendations/"><u>[Updated] In 2024, Elite 10 Compact Discs Viewer Recommendations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-best-live-streaming-with-manycam-ultimate-virtual-camera-experience/"><u>1. Best Live Streaming with ManyCam: Ultimate Virtual Camera Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-bugs-eliminate-crashes-during-your-forza-horizon-npc-sessions/"><u>Beat The Bugs: Eliminate Crashes During Your Forza Horizon N_PC Sessions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-interrupt-denied-win11-error/"><u>Graphics Interrupt Denied: Win11 Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-from-light-to-shadow-premiere-pro-transitions/"><u>In 2024, From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-tutorial-for-downloading-movie-maker-6-on-windows/"><u>In 2024, Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-plain-edges-in-windows-11/"><u>Reveal Plain Edges in Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-7-essential-algorithms-for-complete-file-and-folder-deletion/"><u>Top 7 Essential Algorithms for Complete File & Folder Deletion</u></a></li>
 </ul></div>
 

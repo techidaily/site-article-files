@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Adding Personalized Audio Effects to Windows 10 Photos"
-date: 2024-11-08T21:04:20.260Z
-updated: 2024-11-15T00:02:19.234Z
+date: 2024-11-23T18:33:58.609Z
+updated: 2024-11-24T21:31:01.316Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -50,6 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -59,10 +67,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -78,30 +83,17 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,18 +127,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-are-m1-laptops-setting-the-standard-in-editing-studios-in-2024/"><u>[New] Are M1 Laptops Setting the Standard in Editing Studios, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-tips-for-optimal-online-vhs-photo-enhancement-for-2024/"><u>[New] Top Tips for Optimal Online VHS Photo Enhancement for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-out-background-sounds-freepaid-options-for-clear-videos/"><u>[Updated] Cutting Out Background Sounds - Free/Paid Options for Clear Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevate-your-tiktok-cinematic-vision/"><u>[Updated] Elevate Your TikTok Cinematic Vision</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-virtual-care-innovations-in-medicine/"><u>[Updated] In 2024, Virtual Care Innovations in Medicine</u></a></li>
-<li><a href="https://article-files.techidaily.com/exploring-digital-magic-enhancing-vhs-photos-online-for-2024/"><u>Exploring Digital Magic Enhancing VHS Photos Online for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-finding-and-installing-microsoft-surface-pro-4-device-drivers-in-windows/"><u>Guide: Finding and Installing Microsoft Surface Pro 4 Device Drivers in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x-fold-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X Fold 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-13-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi 13 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-your-career-path-amidst-artificial-intelligence-advancements/"><u>Mastering Your Career Path Amidst Artificial Intelligence Advancements</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-12-selection-of-smart-flip-screen-vlog-cameras-for-2024/"><u>The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
-<li><a href="https://discover-data.techidaily.com/wie-man-die-os-von-einem-pc-auf-einen-samsung-850-vo-ssd-in-windows-umkopiert-tipps-and-tricks-fur-verschiedene-versionen-windows-7810/"><u>Wie Man Die OS Von Einem PC Auf Einen Samsung ˈ850 Ɛvo SSD in Windows Umkopiert - Tipps & Tricks Für Verschiedene Versionen (Windows 7/8/10)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-clear-black-boards-in-your-youtube-videos-for-2024/"><u>[New] How to Clear Black Boards in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-leading-intro-editors-for-device-applications-for-2024/"><u>[New] Leading Intro Editors for Device Applications for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-5-best-tv-for-ps5-and-xbox-series-x/"><u>[New] Top 5 Best TV for Ps5 and Xbox Series X</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-echoing-giggles-ultimate-ringtone-vaults/"><u>[Updated] 2024 Approved Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-ultimate-selection-of-transition-apps/"><u>[Updated] Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-up-your-slow-mo-game-expert-guide-for-amazing-android-videos/"><u>[Updated] Step Up Your Slow Mo Game Expert Guide for Amazing Android Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-responses-and-results-using-custom-user-archetypes-within-the-chatgpt-framework/"><u>Optimizing Responses and Results Using Custom User Archetypes Within the ChatGPT Framework</u></a></li>
 </ul></div>
 

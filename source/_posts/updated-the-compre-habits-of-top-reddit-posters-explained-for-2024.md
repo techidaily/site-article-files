@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Compre Habits of Top Reddit Posters Explained for 2024"
-date: 2024-08-27T08:21:54.546Z
-updated: 2024-08-28T08:21:54.546Z
+date: 2024-11-19T18:42:40.878Z
+updated: 2024-11-24T16:16:53.074Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,17 @@ Luckily, both reasons require the same strategy to see success. However, it take
 
 This guide covers everything from what to post to how to post and crucial factors that will help your content skyrocket as fast as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Post on Reddit?
 
 First, let's go over the technical part of the process- How to post on Reddit, both on Desktop and mobile?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Post on Desktop
 
@@ -47,6 +55,10 @@ Step3 Next, type in your title and write your message below
 Step4 If you want to add images or videos, select "Images & Video" and upload your files
 
 ![reddit images and videos](https://images.wondershare.com/filmora/article-images/2023/01/images-and-videos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 The next section is titled "Link". Here, you can add a website you want your post to lead to
 
@@ -74,9 +86,6 @@ Step4 Choose the subreddit (community) you want to post your message in
 
 ![select a subreddit to post](https://images.wondershare.com/filmora/article-images/2023/01/reddit-subreddit.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Step5 Check if everything looks good, add the appropriate tags
 
 Step6 Hit Post
@@ -87,9 +96,6 @@ Reddit, like any platform, has its own rules. Its algorithm that, when followed,
 
 That said, here's absolutely everything you should know before posting on Reddit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Subreddits
 
 Subreddits allow Reddit to be more organized. It lets users of similar interests join specific communities that only focus on those interests.
@@ -101,8 +107,9 @@ Some important rules to follow:
 * Most subreddits have their own rules and guidelines within. This is usually displayed on the right-hand side of the page.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Reddiquettes
 
 Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
@@ -112,8 +119,9 @@ The goal behind this is to make Reddit a safer and more enjoyable platform to us
 And we all know that the opinion of users without sufficient Karma isn't as valued as those who have a lot of it. So, if you want to be a valued and influential member of Reddit, follow proper reddiquette.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Karma
 
 Reddit Karma is one of the essential features of the platform. It is what determines your value and status as a Reddit user.
@@ -137,8 +145,9 @@ The second, AVOID these three things at all times:
 Apart from what has been mentioned above, we also prepared a video to help you with posting on Reddit. If you have any interests, you can watch it to establish your overall outlook on posting on Reddit.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The only way to get good and learn how to post on Reddit is with practice. So, use the things you learned here to achieve better results. And keep posting and stay consistent. It will all pay off in the end.
@@ -147,9 +156,6 @@ The only way to get good and learn how to post on Reddit is with practice. So, u
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The only way to get good and learn how to post on Reddit is with practice. So, use the things you learned here to achieve better results. And keep posting and stay consistent. It will all pay off in the end.
@@ -180,4 +186,26 @@ The only way to get good and learn how to post on Reddit is with practice. So, u
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-android-and-iphones-leading-tools-for-enhanced-fb-likes-for-2024/"><u>[New] Android & iPhone's Leading Tools for Enhanced FB Likes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevating-conference-calls-top-3-methods-4-insights/"><u>[New] Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-extended-scope-camera-platforms/"><u>[New] Extended Scope Camera Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photographic-perfection-in-the-palm-of-your-hands-online/"><u>[New] Photographic Perfection in the Palm of Your Hands Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>[Updated] 2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-complete-guide-to-masterful-lunapic-photography/"><u>[Updated] In 2024, The Complete Guide to Masterful LunaPic Photography</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premier-playwrights-lair-for-2024/"><u>[Updated] Premier Playwright's Lair for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-spark-10c-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Spark 10C FRP Bypass Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/fostering-friendship-through-conversations-with-viewers-for-2024/"><u>Fostering Friendship Through Conversations With Viewers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-8-plus-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 8 Plus Activation Lock</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-prime-tools-for-pro-video-creation-on-android-windows/"><u>In 2024, Prime Tools for Pro Video Creation on Android, Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unveiling-the-apple-podcast-submission-process/"><u>In 2024, Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://article-files.techidaily.com/interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>Interlinking Giants A Comprehensible Guide for Instra & Tikto</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-lumafusion-or-final-cut-pro-choosing-the-best-video-editing-software-for-you/"><u>New 2024 Approved LumaFusion or Final Cut Pro Choosing the Best Video Editing Software for You</u></a></li>
+<li><a href="https://article-files.techidaily.com/smile-saver-essential-free-meme-templates/"><u>Smile Saver Essential Free Meme Templates</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories-for-2024/"><u>The Art of Preservation Digitizing & Safeguarding Faded Family Memories for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-truth-behind-unremarkable-smartphone-aesthetics-quality-over-style/"><u>The Truth Behind Unremarkable Smartphone Aesthetics: Quality Over Style</u></a></li>
+</ul></div>
 

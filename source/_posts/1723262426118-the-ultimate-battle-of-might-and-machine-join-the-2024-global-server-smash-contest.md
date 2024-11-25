@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest
-date: 2024-11-13T08:37:01.466Z
-updated: 2024-11-15T08:39:02.626Z
+date: 2024-11-19T00:22:04.385Z
+updated: 2024-11-24T21:36:54.584Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,31 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>[New] 2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-pcs-best-vr-top-10-immersive-360-video-players/"><u>[New] 2024 Approved PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-5-video-editors-for-macos-sierra-for-2024/"><u>[New] Top 5 Video Editors for macOS Sierra for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-effective-tactics-for-customizing-song-tempo-in-spotify/"><u>[Updated] Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/"><u>[Updated] In 2024, A Picture's Worth Top 12 Websites for Exquisite Stock Photography Downloads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>[Updated] In 2024, Tapping Into Traditional Hymns Downloads & Editing Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-spectacular-scenes-from-snowspeedcross-22/"><u>[Updated] Spectacular Scenes From Snowspeedcross '22</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elden-rings-launch-postponement-explained-factors-affecting-gamers-worldwide/"><u>Elden Ring's Launch Postponement Explained: Factors Affecting Gamers Worldwide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-not-found-msodll-issue-for-smooth-ms-office-operation/"><u>Fixing the 'Not Found mso.dll' Issue for Smooth MS Office Operation</u></a></li>
-<li><a href="https://article-files.techidaily.com/focusing-on-fine-details-a-minecraft-journey/"><u>Focusing on Fine Details A Minecraft Journey</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-asus-rog-phone-8-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-google-pixel-fold-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Google Pixel Fold Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-m1-pro-vs-m1-max-identifying-core-differences/"><u>In 2024, M1 Pro Vs. M1 Max Identifying Core Differences</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastery-start-essence-of-storyline-development-for-2024/"><u>Mastery Start Essence of Storyline Development for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/shuttered-by-darkness-iphone-tips-and-tricks/"><u>Shuttered by Darkness IPhone Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-severe-glitches-in-activisions-modern-warfare-franchise/"><u>Troubleshooting Tips for Overcoming Severe Glitches in Activision's Modern Warfare Franchise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-potential-essential-win11-tools-for-2024/"><u>Unleashing Potential Essential Win11 Tools for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-rejtingovye-agentstva-po-seo-v-gorode-frankfurt-germaniya-servis-seo-powersuite/"><u>Топ-Рейтинговые Агентства По SEO В Городе Франкфурт, Германия - Сервис SEO PowerSuite</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>[New] 2024 Approved Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-choose-vr-headset-in-2024-mobile-vr-or-tethered-vr/"><u>[New] How to Choose VR Headset, In 2024 Mobile VR or Tethered VR?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>[New] In 2024, Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovating-image-vision-mastering-hdr-in-photoshop-for-2024/"><u>[New] Innovating Image Vision Mastering HDR in Photoshop for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-gopro-timelapses-top-editing-techniques/"><u>[Updated] Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tales-for-twilight-film-analysis/"><u>[Updated] Tales for Twilight Film Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode Screen?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone XS Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-s18e-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo S18e</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-monitoring-loved-comments-on-youtube-for-2024/"><u>Mastering the Art of Monitoring Loved Comments on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/sleepy-story-vids-assessment-and-overview/"><u>Sleepy Story Vids Assessment & Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-your-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Guide to Computer Components</u></a></li>
+<li><a href="https://article-files.techidaily.com/vividcapturezoomer7-resize-pics-with-unmatched-quality/"><u>VividCaptureZoomer7 Resize Pics with Unmatched Quality</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

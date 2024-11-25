@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  IPhone Photography Hacks  Upside-Down & Sideways Shots\""
-date: 2024-11-08T16:00:17.830Z
-updated: 2024-11-15T16:01:33.950Z
+date: 2024-11-19T23:19:02.982Z
+updated: 2024-11-24T20:23:14.561Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to rotate photos on iPhone
 
  There are a couple of options available which will successfully reorient your image. You don't even need an additional app, as all the functionality is already built in to your clever little handset. Here's the method step by step:
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 #### 4\. Tap the 'crop' button
 
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: imore.com
 
@@ -78,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop taking upside down photos
@@ -101,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: imore.com
@@ -122,10 +124,7 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -153,24 +152,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-10-steps-to-perfect-youtube-reactions-a-trio-guide-for-2024/"><u>[New] 10 Steps to Perfect YouTube Reactions – A Trio Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-epicurean-entertainment-master-the-craft-with-these-7-food-film-techniques/"><u>[Updated] 2024 Approved Epicurean Entertainment Master the Craft with These 7 Food Film Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[Updated] In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>[Updated] In 2024, Instantaneously Obscured Identities Quick Tips with Piscart</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-podcast-entrances-eye-catching-scripts-for-2024/"><u>[Updated] Mastering Podcast Entrances Eye-Catching Scripts for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-stream-your-podcast-with-one-move-only/"><u>[Updated] Stream Your Podcast with One Move Only</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-guide-sharing-youtube-videos-on-fb/"><u>[Updated] The Ultimate Guide Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-windows-movie-maker-your-gateway-into-the-world-of-digital-cartoons/"><u>[Updated] Windows Movie Maker Your Gateway Into the World of Digital Cartoons</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>In 2024, Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/prime-places-to-find-high-quality-vectors-for-2024/"><u>Prime Places to Find High-Quality Vectors for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>Proven iPhone Markers Our Reviewed Top 9 Water-Marking Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rapid-replay-adjusting-video-duration-in-keynote-for-2024/"><u>Rapid Replay Adjusting Video Duration in Keynote for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/select-vhs-visuals-perfect-for-video-editors-for-2024/"><u>Select VHS Visuals Perfect for Video Editors for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-selection-top-hdr-camera-picks/"><u>Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-facebook-discover-the-history-popularity-reasons-and-main-attributes/"><u>Unraveling Facebook: Discover the History, Popularity Reasons, and Main Attributes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/virtual-vintage-the-dosbox-x-guide-to-classic-pc-gaming/"><u>Virtual Vintage: The DOSBox-X Guide to Classic PC Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mpeg-swfmovavi/"><u>オンラインで無料MPEG変換: SWFファイルをMovavi風に移行する方法</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-explore-windows-10s-best-new-applications-and-games/"><u>[New] 2024 Approved Explore Windows 10'S Best New Applications & Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-quality-video-uplift-immaculate-resolution/"><u>[New] 2024 Approved Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-securing-a-spotlight-with-zoom-and-fb-live-integration/"><u>[Updated] In 2024, Securing a Spotlight with ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-key-fixes-for-stabilizing-windows-10-photos-display-for-2024/"><u>[Updated] Key Fixes for Stabilizing Windows 10 Photos Display for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-odyssey-navigating-sci-fi-metaverse-adventures-in-film-for-2024/"><u>[Updated] Virtual Odyssey Navigating Sci-Fi Metaverse Adventures in Film for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/do-you-really-need-ai-unpacking-microsofts-non-ai-recall-function/"><u>Do You Really Need AI? Unpacking Microsoft's Non-AI Recall Function</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-audio-format-transformation-step-by-step-guide-to-convert-tta-files-into-popular-audio-formats-like-flac-wav-and-mp3/"><u>Effortless Audio Format Transformation: Step-by-Step Guide to Convert TTA Files Into Popular Audio Formats Like FLAC, WAV & MP3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-installation-failed-fast-solutions/"><u>Fixing 'Windows Installation Failed' – Fast Solutions!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>In 2024, Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>In 2024, From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-millisecond-metrics-for-a-20mb-digital-creation/"><u>In 2024, Millisecond Metrics for a 20MB Digital Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-simple-hdr-photography-methods-for-2024/"><u>Mastering Simple HDR Photography Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pc-ai/"><u>PCとスマホ対応「アプリ」が推薦! AIクロマキー技術で簡単にグリーンバック動画から変身 - 透明背景を合成動画に</u></a></li>
+<li><a href="https://article-files.techidaily.com/pngjpeg-images-to-pdf-ipad-conversion-essentials-for-2024/"><u>PNG/JPEG Images to PDF - iPad Conversion Essentials for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-mingwm10dll-not-detected-effective-solutions-explained/"><u>Resolve Mingwm10.dll Not Detected: Effective Solutions Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streaming-success-top-methods-for-online-show-recordings/"><u>Streaming Success Top Methods for Online Show Recordings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Underrated Downsides of VR"
-date: 2024-08-27T08:21:38.364Z
-updated: 2024-08-28T08:21:38.364Z
+date: 2024-11-20T00:03:30.679Z
+updated: 2024-11-24T23:53:41.621Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,17 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/filmora/download/)_
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The equipment used for VR is very expensive
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Low resoultion content, large file size
 
@@ -57,20 +65,23 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -94,4 +105,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>[New] Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-estimating-byte-consumption-of-full-film-daily-for-2024/"><u>[New] Estimating Byte Consumption of Full Film Daily for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[New] In 2024, Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-androidiphone-the-best-selection-of-free-overlays-for-image-enhancement/"><u>[Updated] 2024 Approved Android/iPhone The Best Selection of Free Overlays for Image Enhancement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-maintaining-a-continuous-snapchat-connection/"><u>[Updated] 2024 Approved Maintaining a Continuous Snapchat Connection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-disabling-automated-podcast-recommendations-on-spotify/"><u>[Updated] Disabling Automated Podcast Recommendations on Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-key-insights-mastering-win11-features/"><u>[Updated] In 2024, Key Insights Mastering Win11 Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-common-flubs-when-harnessing-ml-power/"><u>7 Common Flubs When Harnessing ML Power</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts-for-2024/"><u>Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/como-solucionar-la-ausencia-de-imagen-del-respaldo-en-windows-server-backup-2012-r2/"><u>Cómo Solucionar La Ausencia De Imagen Del Respaldo en Windows Server Backup 2012 (R2)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-to-convert-fbx-format-to-obj-perfect-for-3d-printer-readiness/"><u>Easy Methods to Convert .fbx Format to .obj - Perfect for 3D Printer Readiness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-driver-pack-for-msis-x470-gaming-motherboards-free-to-download/"><u>Essential Driver Pack for MSI's X470 Gaming Motherboards, Free to Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/qualcomm-atheros-ar938x-chipset-free-drivers-downloaded-with-simple-steps/"><u>Qualcomm Atheros AR938X Chipset: Free Drivers Downloaded with Simple Steps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Mastering iPhone X Lens Capabilities  A Guide\""
-date: 2024-11-08T16:01:06.057Z
-updated: 2024-11-15T16:00:24.007Z
+date: 2024-11-22T21:30:05.498Z
+updated: 2024-11-24T21:57:42.588Z
 tags: 
   - screen-recording
   - ai video
@@ -42,11 +42,19 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -67,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -79,26 +84,10 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,10 +99,7 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -141,20 +127,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>[New] 2024 Approved Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-decoding-the-mysteries-of-vlcs-hidden-tools/"><u>[New] In 2024, Decoding the Mysteries of VLC's Hidden Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tomtom-adventurecam-2023-a-game-changer-in-2024/"><u>[New] TomTom AdventureCam 2023 A Game-Changer, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-video-creation-in-classroom-video-editing-tips-for-2024/"><u>[New] Video Creation in Classroom Video Editing Tips for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-magical-voice-change-tools-for-efficient-calls/"><u>[Updated] 2024 Approved Magical Voice Change Tools for Efficient Calls</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-whatsapps-voice-exchange/"><u>[Updated] In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-art-of-flipping-photo-shades/"><u>[Updated] Unveiling the Art of Flipping Photo Shades</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-edit-youtube-videos-in-windows-movie-maker/"><u>2024 Approved How to Edit YouTube Videos in Windows Movie Maker</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-tuning-into-fm-stations-with-ios-and-android-devices/"><u>A Step-by-Step Guide: Tuning Into FM Stations with iOS and Android Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-highlight-podcast-episode-on-ig/"><u>In 2024, Highlight Podcast Episode on IG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>In 2024, Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-future-of-human-computer-conversation-systems/"><u>In 2024, The Future of Human-Computer Conversation Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>In 2024, Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steering-ai-responses-towards-realism-using-6-tailored-methods/"><u>Steering AI Responses Towards Realism Using 6 Tailored Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-time-lapse-techniques-for-samsung-enthusiasts-for-2024/"><u>Unveiling Time Lapse Techniques for Samsung Enthusiasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-demystifying-the-publics-vllo-interpretation/"><u>[New] Demystifying the Public's VLLO Interpretation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-iphone-autofocusing-a-guide-for-users/"><u>[New] Mastering iPhone Autofocusing A Guide for Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-insiders-guide-to-instagrams-music-licensing-policies-for-2024/"><u>[New] The Insider’s Guide to Instagram's Music Licensing Policies for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-effortless-playback-of-srt-files-across-computers/"><u>[Updated] 2024 Approved Effortless Playback of SRT Files Across Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-understanding-luts-to-amplify-your-photo-quality/"><u>[Updated] 2024 Approved Understanding LUTs to Amplify Your Photo Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-effortless-video-and-image-backup-from-instagram-for-2024/"><u>[Updated] Effortless Video & Image Backup From Instagram for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unbelievable-judgment-and-backup-recommendations/"><u>[Updated] Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-dji-phantom-4-analysis-and-review/"><u>2024 Approved Complete DJI Phantom 4 Analysis and Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd2024-pc/"><u>DVDコピー完全ガイド：2024年保存版！ PC上ですべてのディスクをセットアップする安全な手順</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/improve-spanish-connect-socially-via-vr-platforms/"><u>Improve Spanish, Connect Socially via VR Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-converter-de-imagens-para-formato-gsm-gratuitamente-online/"><u>Movavi - Converter De Imagens Para Formato GSM Gratuitamente Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/preventing-photo-glitches-on-windows-10-a-quick-guide/"><u>Preventing Photo Glitches on Windows 10 A Quick Guide</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/upgrade-your-video-collection-seamless-flv-to-m4a-file-conversion-at-no-cost-using-our-web-service/"><u>Upgrade Your Video Collection: Seamless FLV to M4A File Conversion at No Cost Using Our Web Service</u></a></li>
 </ul></div>
 

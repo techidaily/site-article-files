@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ricoh Theta S Uncovered  A Complete Audit for 2024\""
-date: 2024-11-11T21:35:44.109Z
-updated: 2024-11-14T21:48:59.969Z
+date: 2024-11-20T20:32:02.159Z
+updated: 2024-11-25T00:45:33.605Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ Large numbers of people are talking about Ricoh these days so it becomes essenti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Complete Review of Ricoh Theta S
 
 **Brief Introduction about Ricoh Theta S**
@@ -57,11 +61,19 @@ Theta S is going to serve like a push button to the growing world of spherical i
 
 ![Ricoh Theta S - How to use](https://images.wondershare.com/filmora/article-images/ricoh-theta-S-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This Theta S camera unit can be easily used by beginners as well as professional photographers because of its incredibly interactive features. Simply turn on your camera by pressing the button provided and release the shutter; as it used to cover spherical images so you are advised to hold camera till the time it captures scene around you. The Wi-Fi facility as well as the self-timer feature is very handy so you need not to worry about anything. It can be directly connected to Android as well as iOS devices with available wireless network and one can change the settings of device as per need. It is possible to enjoy live previews of captured photographs but this facility is not available for videos; however, it is possible to transfer everything to PC via USB or HDMI port so that direct streaming can be enjoyed.
 
 **Where to use**
 
 ![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
 
@@ -76,10 +88,7 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -94,13 +103,6 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -119,10 +121,7 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -132,13 +131,6 @@ Theta S is one of the most useful products for photography lovers whether they a
 **Check this video to get detailed information about Ricoh Theta S**
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -165,24 +157,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-decoding-the-code-for-quick-fb-media/"><u>[New] 2024 Approved Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-decoding-srt-for-subc-effective-conversion-guide-for-2024/"><u>[New] Decoding SRT for SUBC Effective Conversion Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expert-strategies-in-photo-editing-for-profound-impact/"><u>[New] In 2024, Expert Strategies in Photo Editing for Profound Impact</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-laugh-ledger-pinpointing-prime-meme-generators-for-2024/"><u>[New] Laugh Ledger Pinpointing Prime Meme Generators for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-five-full-frame-cameras-for-uhd-capture/"><u>[Updated] 2024 Approved Best Five Full Frame Cameras for UHD Capture</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-pro-pilots-choice-the-top-5-drone-picks-of-the-year/"><u>[Updated] 2024 Approved Pro Pilot's Choice The Top 5 Drone Picks of the Year</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-apples-m1-battle-is-the-air-or-pro-more-efficient-in-2024/"><u>[Updated] Apple's M1 Battle Is the Air or Pro More Efficient, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-render-photos-add-inward-radiant-spread-in-photoshop/"><u>[Updated] In 2024, Render Photos Add Inward Radiant Spread in Photoshop</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-quick-and-clean-method-to-live-podcast/"><u>[Updated] Quick & Clean Method to Live Podcast</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728508637114-asus/"><u>「Asusブランドで素早くパーティションを回復し、システムに安全な復元プロセス」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-free-windows-1110-media-extractors-full-downloads-available/"><u>Best Free Windows 11/10 Media Extractors : Full Downloads Available!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/changing-the-locks-on-your-updatedx-profile-easily/"><u>Changing the Locks on Your UpdatedX Profile Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-spine-chilling-entertainment-with-youre-next-amongst-leading-choices-in-scary-cinema/"><u>Discover Spine-Chilling Entertainment with 'You're Next', Amongst Leading Choices in Scary Cinema</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/generate-video-with-talking-photo-feature-for-2024/"><u>Generate Video with Talking Photo Feature for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-14-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 14 Pro Max Properly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-eco-film-hub-dive-into-green-screen-creativity/"><u>In 2024, Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
-<li><a href="https://discover-community.techidaily.com/multi-platform-recording-and-broadcasting-tools-discover-the-best-manycam-substitutes-for-professional-virtual-webcams/"><u>Multi-Platform Recording and Broadcasting Tools - Discover the Best ManyCam Substitutes for Professional Virtual Webcams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-raf-to-jpeg-conversion-free-tool-by-movavi/"><u>Online RAF-to-JPEG Conversion: Free Tool by Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>[New] 2024 Approved Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-captivating-content-crafting-impactful-insta-videos/"><u>[New] In 2024, Captivating Content Crafting Impactful Insta-Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screencaps-made-simple-with-irecorder/"><u>[New] In 2024, Screencaps Made Simple with iRecorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-movies-that-spark-inner-strength-and-determination/"><u>[Updated] 2024 Approved Movies That Spark Inner Strength & Determination</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[Updated] In 2024, Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-eye-opening-film-moments/"><u>[Updated] In 2024, Elite Eye-Opening Film Moments</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-surfings-finest-high-quality-cam-companions/"><u>[Updated] Surfing's Finest High-Quality Cam Companions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-upgrade-list-best-accessories-for-phantom-4/"><u>[Updated] The Ultimate Upgrade List Best Accessories for Phantom 4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-mobile-content-into-profitable-youtube-experiences/"><u>[Updated] Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlocking-your-phones-potential-making-tiktok-rhythms-your-alarm-for-2024/"><u>[Updated] Unlocking Your Phone's Potential Making TikTok Rhythms Your Alarm for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-b29-enhance-file-search-speed-efficiently-querying-thousands-with-emeditor-text-editor/"><u>1. [B29] Enhance File Search Speed: Efficiently Querying Thousands with EmEditor Text Editor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-10-ready-quick-guide-to-downloading-sound-blaster-z-drivers/"><u>Get Your Windows 10 Ready: Quick Guide to Downloading Sound Blaster Z Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-the-ins-and-outs-of-firefox-pip/"><u>In 2024, Learning the Ins and Outs of Firefox PIP</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pushing-boundaries-merging-hdr-photos-with-lightroom/"><u>In 2024, Pushing Boundaries Merging HDR Photos with Lightroom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/d-from-ai-crafted-youtube-video-selections/"><u>Shield From AI-Crafted YouTube Video Selections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
 

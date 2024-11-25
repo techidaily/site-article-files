@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expert Tips for 3D Text Designing in AI\""
-date: 2024-11-09T19:05:58.257Z
-updated: 2024-11-15T01:35:06.359Z
+date: 2024-11-17T17:20:09.828Z
+updated: 2024-11-25T00:20:54.644Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ This guide will show you the step-by-step process of creating a 3D text effect i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -45,16 +49,13 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
@@ -72,13 +73,6 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
@@ -95,6 +89,10 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -106,10 +104,7 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -119,13 +114,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,6 +123,10 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -145,27 +137,17 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,24 +177,18 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ahead-of-the-curve-in-sub4sub-land-this-is-your-guide-first-for-2024/"><u>[New] Ahead of the Curve in Sub4sub Land This Is Your Guide First for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-deciphering-if-reviews-on-products-are-paid-for-2024/"><u>[New] Deciphering if Reviews on Products Are Paid for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-diminuendo-techniques-for-digital-ears-for-2024/"><u>[New] Diminuendo Techniques for Digital Ears for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-news-the-latest-updates-unveiled-for-2024/"><u>[New] Facebook News The Latest Updates Unveiled for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unleashing-creativity-in-micro-videography-and-photography/"><u>[New] In 2024, Unleashing Creativity in Micro Videography and Photography</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-cycling-top-vr-bike-games/"><u>[Updated] 2024 Approved Elevate Your Cycling TOP VR Bike Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-epic-youtube-playback-stories/"><u>[Updated] 2024 Approved Epic YouTube Playback Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-guide-to-flawless-solo-livestreaming-operations/"><u>[Updated] 2024 Approved Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-supreme-cameras-for-extreme-sports-fans/"><u>[Updated] In 2024, Supreme Cameras for Extreme Sports Fans</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-uniting-visuals-on-iphone-photos-with-videos/"><u>[Updated] In 2024, Uniting Visuals on iPhone Photos with Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-delicate-process-of-unjoining-discords/"><u>2024 Approved The Delicate Process of Unjoining Discords</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-recording-your-live-feed-without-spending-a-dime/"><u>In 2024, Recording Your Live Feed without Spending a Dime</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-video-features-youtube-annotations-guide/"><u>In 2024, Streamlining Video Features YouTube Annotations Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-prime-selection-top-ranked-gopro-case-models/"><u>The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x/"><u>Top 5 Best TV for Ps5 and Xbox Series X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-future-of-storage-top-picks-and-prices-in-clouds/"><u>[New] 2024 Approved Future of Storage Top Picks and Prices in Clouds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11/"><u>[New] In 2024, Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-skype-chats-an-obs-guide/"><u>[New] In 2024, Capturing Skype Chats An OBS Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-digital-alchemy-transformative-afx-samples-without-cost-for-2024/"><u>[Updated] Digital Alchemy Transformative AFX Samples Without Cost for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-picprankster-laughlens-lab-for-2024/"><u>[Updated] PicPrankster LaughLens Lab for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>[Updated] Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/capture-video-camera-footage-and-sound-using-winxvideo-ai-record-everything-seamlessly/"><u>Capture Video, Camera Footage & Sound Using Winxvideo AI - Record Everything Seamlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ignite-passion-in-your-pump-best-exercise-playlists-reviewed-for-2024/"><u>Ignite Passion in Your Pump Best Exercise Playlists Reviewed for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>In 2024, Skyline Design Studio Evaluation Insightful Review for the Year</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tutorial-passo-per-passo-sulla-clonazione-della-partizione-del-disco-rigido-e-dei-volumi-secondari/"><u>Tutorial Passo per Passo Sulla Clonazione Della Partizione Del Disco Rigido E Dei Volumi Secondari</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-closure-in-cyberspace-quest-for-2024/"><u>Unmatched Closure in Cyberspace Quest for 2024</u></a></li>
 </ul></div>
 

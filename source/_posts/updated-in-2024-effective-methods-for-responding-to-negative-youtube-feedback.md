@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Effective Methods for Responding to Negative YouTube Feedback"
-date: 2024-11-10T14:11:25.004Z
-updated: 2024-11-15T01:11:15.729Z
+date: 2024-11-21T16:06:41.459Z
+updated: 2024-11-24T20:21:26.700Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,10 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -60,6 +64,10 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -79,28 +87,12 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -112,13 +104,6 @@ Step4 On the right side under the “Manage all history” section, click on “
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -147,10 +132,11 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -189,15 +175,18 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-amplify-youtube-performance-rapid-video-rendering-guide/"><u>[New] 2024 Approved Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-inside-out-of-t5-ultimate-sports-and-adventures-recorder/"><u>[New] In 2024, Inside Out of T5 Ultimate Sports and Adventures Recorder</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[Updated] 2024 Approved The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-digital-dimensions-metaverse-vs-omniverse-explained-for-2024/"><u>[Updated] Digital Dimensions Metaverse Vs. Omniverse Explained for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-delve-deep-into-immersive-videography-tips-for-editing-full-spherical-content-in-premierepro/"><u>[Updated] In 2024, Delve Deep Into Immersive Videography Tips for Editing Full Spherical Content in PremierePro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-augmentation-for-win11-clips/"><u>2024 Approved Auditory Augmentation for Win11 Clips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/duckduckgo-unveiled-how-it-works-and-is-your-data-protected/"><u>DuckDuckGo Unveiled: How It Works & Is Your Data Protected?</u></a></li>
-<li><a href="https://article-files.techidaily.com/thankful-views-complete-outro-template-library-for-2024/"><u>Thankful Views Complete Outro Template Library for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-secret-ingredient-to-learning-top-ideas-for-combining-tasks-with-talk-shows/"><u>The Secret Ingredient to Learning Top Ideas for Combining Tasks with Talk Shows</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-10-dvd/"><u>Windows 10 DVD動画/静止画取り込み・コピーについて</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-pop-culture-sounds-to-your-ringtone-a-compreeved-guide-for-2024/"><u>[New] From Pop Culture Sounds to Your Ringtone A Compreeved Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-expert-tips-for-non-professionals-in-pixlr/"><u>[New] In 2024, Expert Tips for Non-Professionals in Pixlr</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sj7s-pioneering-tech-in-the-action-space-a-complete-4k-starcam-review-for-2024/"><u>[New] SJ7's Pioneering Tech in the Action Space A Complete 4K Starcam Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-striking-the-right-chord-in-your-podcast-summary-for-2024/"><u>[New] Striking the Right Chord in Your Podcast Summary for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reducing-excessive-encoding-obs-broadcast-for-2024/"><u>[Updated] Reducing Excessive Encoding (OBS Broadcast) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-identifying-top-video-capturing-tools-for-win11/"><u>2024 Approved Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://techidaily.com/decode-the-daily-challenge-on-nytimes-puzzle-todays-connections-answers-for-june-7-362/"><u>Decode the Daily Challenge on NYTimes Puzzle: Today's Connections Answers for June 7 (#362)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel S23 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-laughlens-pictorial-humor-studio/"><u>In 2024, LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-tale-transmogrifiers-guild-elite-eight/"><u>In 2024, Tale Transmogrifiers Guild – Elite Eight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oneplus-nord-n30-se-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on OnePlus Nord N30 SE Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-motion-capturer-polaroids-camplus-action-wrap-up-for-2024/"><u>The Ultimate Motion Capturer Polaroid's Cam+ Action Wrap-Up for 2024</u></a></li>
 </ul></div>
 

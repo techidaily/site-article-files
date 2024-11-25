@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key Fixes for Stabilizing Windows 10 Photos Display for 2024"
-date: 2024-11-14T14:21:30.272Z
-updated: 2024-11-14T23:04:48.866Z
+date: 2024-11-22T17:04:12.477Z
+updated: 2024-11-24T22:25:09.609Z
 tags: 
   - screen-recording
   - ai video
@@ -45,14 +45,11 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to fix Windows 10 Photos app crashes
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to fix Windows 10 Photos app crashes
 
 ### Solution 1: Use the Troubleshooter
 
@@ -79,14 +76,11 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -99,10 +93,7 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -116,6 +107,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -127,24 +122,15 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -173,14 +159,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pc-compatible-sony-ps3-mimicry-tools-top-picks/"><u>[New] 2024 Approved PC-Compatible Sony PS3 Mimicry Tools Top Picks</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-revamp-your-talk-with-cloud-top-5-online-voice-altering-services-for-chrome-os-for-2024/"><u>[New] Revamp Your Talk with Cloud Top 5 Online Voice Altering Services for Chrome OS for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-transforming-viral-tiktok-sounds-into-personalized-calls/"><u>[Updated] In 2024, Transforming Viral TikTok Sounds Into Personalized Calls</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unrivaled-4k-gaming-laptops-the-best-of-both-worlds/"><u>[Updated] Unrivaled 4K Gaming Laptops - The Best of Both Worlds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-one-click-wonder-seamless-editing-of-multisnap-videos/"><u>2024 Approved One-Click Wonder Seamless Editing of Multisnap Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/exploring-digital-realms-metaverse-versus-multiverse-compared/"><u>Exploring Digital Realms Metaverse Versus Multiverse Compared</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-10-best-powerpoint-to-video-converters-free-and-paid/"><u>In 2024, 10 Best PowerPoint to Video Converters [Free and Paid]</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub - The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-diy-text-memes-unleash-your-humor-with-a-generator-for-2024/"><u>[New] DIY Text Memes Unleash Your Humor with a Generator for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>[New] PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-success-top-ideas-for-memorable-snaps-for-2024/"><u>[New] Snapchat Success Top Ideas for Memorable Snaps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>[Updated] 2024 Approved Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-intricacies-of-crafting-a-virtual-experience/"><u>[Updated] 2024 Approved The Intricacies of Crafting a Virtual Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[Updated] Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>[Updated] Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-economical-360-degree-video-cameras-elevating-creativity/"><u>[Updated] In 2024, Economical 360 Degree Video Cameras Elevating Creativity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-art-of-sideways-iphone-photography/"><u>2024 Approved Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bid-farewell-to-win11s-elan-touchpad-anomalies/"><u>Bid Farewell to Win11's Elan Touchpad Anomalies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zebra-gk420d-up-and-running-secure-your-printer-drivers-now/"><u>Get Your Zebra GK420D Up and Running: Secure Your Printer Drivers Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-tools-for-filmmakers-mirrorless-cameras-(1000/"><u>In 2024, Essential Tools for Filmmakers Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-audio-capture-essential-techniques-for-facetime/"><u>Maximizing Audio Capture Essential Techniques for FaceTime</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimizing-your-voice-content-via-garageband-for-2024/"><u>Optimizing Your Voice Content via GarageBand for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c67-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C67 4G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-correct-steam-fatal-error-failed-to-load-steamuidll/"><u>Troubleshooting Steps to Correct 'Steam Fatal Error: Failed to Load steamui.dll'</u></a></li>
+<li><a href="https://article-files.techidaily.com/vs-video-edition-which-editor-wins-for-filmmaking-in-2024/"><u>Vs. Video Edition Which Editor Wins for Filmmaking, In 2024</u></a></li>
 </ul></div>
 

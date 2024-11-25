@@ -1,7 +1,7 @@
 ---
 title: "[New] Extended Scope Camera Platforms"
-date: 2024-11-09T16:00:27.261Z
-updated: 2024-11-15T16:00:03.958Z
+date: 2024-11-17T20:41:53.804Z
+updated: 2024-11-24T17:49:06.410Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,6 @@ The years of work on the creation of a beautiful world with the Virtual Reality 
 * [2.Rigs for other Cameras](#part2)
 * [3.3D Print Your Own Rig](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Rigs for Multiple Cameras
 
 When we talk about capturing 360-degree videos then GoPro camera is one of the best choices for VR setup. Following 360 rigs use to work perfectly with GoPro:
@@ -53,6 +46,10 @@ When we talk about capturing 360-degree videos then GoPro camera is one of the b
 #### [Freedom 360 Mount:](http://freedom360.us/)
 
 ![360 camera rigs - Freedom360](https://images.wondershare.com/filmora/article-images/360-camera-rigs-freedom-360.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The freedom 360-degree mount allows users to join almost 6 Hero cameras that allows 360-degree video shooting. All captured content can be stitched together to create full spherical video. Its original geometry allows users ability to hold rig in any possible direction without creating any blind spot during shooting. It has powerful ability to capture everything that is present surrounding rig and you can control its movements with the help of a Wi-Fi remote.
 
@@ -90,24 +87,15 @@ Entaniya is believed to work on simplification of process to create 360 videos w
 
 **Cons:** Little costly solution.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Rigs for other Cameras
 
 #### [360 Designs: Mini EYE:](http://360designs.io/product/mini-eye/)
 
 ![360 camera rigs - Mini EYE](https://images.wondershare.com/filmora/article-images/360-camera-rigs-mini-eye.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a latest rig design for VR content that can serve with 3 to 10 cameras connected per rig. It is one of the best solutions for the creation of stunning VR content that is essential for broadcasters, cinematographers, production companies as well as internet companies. The price range is much higher that goes up to $9000 to $55000 for the complete package which also contains all required accessories and applications.
 
@@ -120,10 +108,7 @@ Here is a latest rig design for VR content that can serve with 3 to 10 cameras c
 ![360 camera rigs - Kodak Dual Pro Pack](https://images.wondershare.com/filmora/article-images/360-camera-rigs-kodak-action.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This Pack is simply a wonderful advancement over original 360 video quality as it comes with single camera unit that don’t even demand efforts for stitching. The available dual pro type camera pack allows users to design VR content using specialized software that is much easier to use.
@@ -135,6 +120,10 @@ This Pack is simply a wonderful advancement over original 360 video quality as i
 #### [Elmo: QBiC Panorama:](https://www.elmousa.com/product/qbic-panorama-x/)
 
 ![360 camera rigs - Elmo QBiC Panorama](https://images.wondershare.com/filmora/article-images/360-camera-rigs-qbic-panorama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a low cost solution for your 360-degree video recording needs and the best thing to know is that it is compatible with post production as well as live streaming where resolution goes up to 4K. It works with four QBiC MS XP Cameras that have wider focus and are able to record vertical portion with 180-degree ability and horizontal part with complete 360-degree view.
 
@@ -156,22 +145,12 @@ This rig is designed with highly customized features and its four cameras use to
 
 ![360 camera rigs - 3D Print](https://images.wondershare.com/filmora/article-images/360-camera-rigs-3d-print.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The latest 3D printer technology has revolutionized world with amazing results. If you are not ready to spend huge money on available gears then it is also possible to create your own customized rig using 3D printer. So many designs are possible with 3D printing technology and they are suitable for professionals as well as beginners; also it is an affordable solution as compared to already designed costly products. It takes very less time to design a VR content supporting rig and you can create it with wider angle abilities so that fewer cameras are needed during recording and stitching task becomes easier.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -199,22 +178,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-craft-a-deep-dive-into-top-6-nft-platforms-for-2024/"><u>[New] Elevate Your Craft - A Deep Dive Into Top 6 NFT Platforms for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-meticulous-study-of-magix-photo-controls/"><u>[New] In 2024, Meticulous Study of MAGIX Photo Controls</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>[Updated] 2024 Approved Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-analyzing-elite-performance-of-parrots-ar-drone-20/"><u>[Updated] 2024 Approved Analyzing Elite Performance of Parrot's AR Drone 2.0</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-creating-a-personalized-google-cardboard-vr-setup/"><u>[Updated] 2024 Approved Creating a Personalized Google Cardboard VR Setup</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfect-group-photos-with-iphones-burst-shot/"><u>[Updated] 2024 Approved Perfect Group Photos with iPhone's Burst Shot</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>[Updated] In 2024, Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] In 2024, The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-projector-vs-television-the-battle-for-4k-dominance-for-2024/"><u>[Updated] Projector vs Television The Battle for 4K Dominance for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>[Updated] Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-go-2024-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark Go (2024) Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-to-grayed-out-icloud-configurations-on-iphoneipad/"><u>How to Restore Functionality to Grayed Out iCloud Configurations on iPhone/iPad</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-iphone-7-perfect-methods-for-screen-recording/"><u>In 2024, IPhone 7 Perfect Methods for Screen Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/master-the-art-of-message-interaction-on-desktopmobile/"><u>Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-setting-up-and-accessing-network-shares-via-macos-finder/"><u>Step-by-Step Guide: Setting Up and Accessing Network Shares via macOS Finder</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-overview-dji-inspire-1-reviewed/"><u>The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-stepwise-journey-through-windows-10-recording/"><u>[New] 2024 Approved A Stepwise Journey Through Windows 10 Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ideal-e-commerce-avenues-for-aesthetic-box-personalization-for-2024/"><u>[New] Ideal E-Commerce Avenues for Aesthetic Box Personalization for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-capturing-movement-with-clarity-implementing-motion-blur-on-peoples-photos-with-picsart/"><u>[New] In 2024, Capturing Movement with Clarity Implementing Motion Blur on People's Photos with Picsart</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-selection-12-free-video-players-for-pcmobile-enthusiasts-for-2024/"><u>[New] The Ultimate Selection 12 Free Video Players for PC/Mobile Enthusiasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-deforming-dialogue-a-photographervideographers-handbook/"><u>[Updated] Deforming Dialogue A Photographer/Videographer's Handbook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films-for-2024/"><u>[Updated] High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>[Updated] In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-uplifting-screen-stories-the-ultimate-empowerment-list/"><u>[Updated] In 2024, Uplifting Screen Stories The Ultimate Empowerment List</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pros-guide-crafting-authentic-3d-characters-in-ps-for-2024/"><u>[Updated] Pro's Guide Crafting Authentic 3D Characters in PS for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-zte-axon-40-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from ZTE Axon 40 Lite to iPhone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-delete-microsofts-ai-assistant-from-your-pc-the-cortana-and-copilot-method/"><u>Comprehensive Steps to Delete Microsoft's AI Assistant From Your PC: The Cortana and Copilot Method</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-creative-photos-applying-radial-blur-techniques-ps/"><u>Explore Creative Photos Applying Radial Blur Techniques PS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-languages-unlock-potential-start-with-slovak-in-a-days-work/"><u>Learn Languages, Unlock Potential: Start with Slovak in a Day's Work!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functional-corsair-hs-series-microphones-in-windows-systems/"><u>Troubleshooting Tips for Non-Functional Corsair HS Series Microphones in Windows Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unraveling-the-top-8-premium-free-srt-translation-websites/"><u>Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/your-secure-video-chatting-needs-met-top-10-safe-and-free-applications-on-smart-devices-for-2024/"><u>Your Secure Video Chatting Needs Met Top 10 Safe & Free Applications on Smart Devices for 2024</u></a></li>
 </ul></div>
 

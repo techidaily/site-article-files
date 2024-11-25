@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Easy Techniques for Bending Digital Pictures"
-date: 2024-08-22T15:19:30.061Z
-updated: 2024-08-23T15:19:30.061Z
+date: 2024-11-23T22:18:25.242Z
+updated: 2024-11-24T16:17:13.964Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -45,6 +49,10 @@ With the Warp Tool selected, hover your cursor over the image. You'll see a grid
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
@@ -58,15 +66,27 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,8 +120,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-innovative-imaging-identifying-the-top-10-smartphone-cameras-in-4k/"><u>[New] In 2024, Innovative Imaging Identifying the Top 10 Smartphone Cameras in 4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-symphony-of-well-being-learn-from-asmr-for-2024/"><u>[New] The Symphony of Well-Being – Learn From ASMR for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-harmonizing-workplay-by-incorporating-podcast-listening-for-2024/"><u>[Updated] Harmonizing Work/Play by Incorporating Podcast Listening for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-setups-in-professional-broadcast-equipment/"><u>[Updated] Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-with-windows-11s-divine-functionality/"><u>Elevate Your PC with Windows 11'S Divine Functionality</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-beat-it-right-constructing-mesmerizing-tiktok-dances-on-mac/"><u>In 2024, Beat It Right Constructing Mesmerizing TikTok Dances on Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-engagement-4-steps-to-add-fb-story-link/"><u>In 2024, Elevate Engagement 4 Steps to Add FB Story Link</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>In 2024, Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unlocking-apples-podcast-potential-an-instructional-guide/"><u>In 2024, Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/metaphysical-realms-of-the-metaverse-quotations-style/"><u>Metaphysical Realms of the Metaverse, Quotations Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-add-ons-the-best-new-filmmakers-starter-list-for-2024/"><u>Prime Add-Ons The Best New Filmmaker’s Starter List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-guide-to-picsarts-latest-features-rev-2024/"><u>The Ultimate Guide to PicsArt's Latest Features, Rev. 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme Note 50? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

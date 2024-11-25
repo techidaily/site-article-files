@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Perfection  Translating Color Concepts for 2024\""
-date: 2024-11-14T10:04:12.593Z
-updated: 2024-11-15T08:16:25.550Z
+date: 2024-11-22T18:53:40.623Z
+updated: 2024-11-25T00:42:06.593Z
 tags: 
   - screen-recording
   - ai video
@@ -39,14 +39,11 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 ## Color Harmony
 
@@ -55,10 +52,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -70,10 +64,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -82,20 +73,21 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 ### Conclusion
 
@@ -131,15 +123,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-entryway-initiating-a-live-discussion-on-instagram/"><u>[New] Easy Entryway Initiating a Live Discussion on Instagram</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-film-experience-integrating-subtitles-in-wmp/"><u>[New] Elevate Your Film Experience Integrating Subtitles in WMP</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-in-depth-guide-to-live-photos-and-full-screen-videos-on-iphones/"><u>[New] In 2024, In-Depth Guide to Live Photos and Full-Screen Videos on iPhones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[New] In 2024, Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-techniques-for-audio-recording-on-modern-windows/"><u>[Updated] In 2024, Essential Techniques for Audio Recording on Modern Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-nightly-narratives-analyzing-video-based-storytelling-for-2024/"><u>[Updated] Nightly Narratives Analyzing Video-Based Storytelling for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-repair-tips-resolving-msi-mystic-light-malfunction-on-windows-systems/"><u>DIY Repair Tips - Resolving MSI Mystic Light Malfunction on Windows Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/luts-uncovered-elevating-the-quality-of-digital-imagery/"><u>LUTs Uncovered Elevating the Quality of Digital Imagery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/parrot-powered-prowess-a-fresh-lens-on-bebop-2/"><u>Parrot-Powered Prowess – A Fresh Lens on Bebop 2</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/sin-querer-se-ha-borrado-un-conjunto-de-archivos-durante-la-organizacion/"><u>¡Sin Querer, Se Ha Borrado Un Conjunto De Archivos Durante La Organización!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-budget-friendly-choices-must-have-gopro-add-ons/"><u>[New] 2024 Approved Budget-Friendly Choices Must-Have GoPro Add-Ons</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-under-200-high-speed-action-cameras-for-captivating-shots/"><u>[New] Under $200 High-Speed Action Cameras for Captivating Shots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleashing-the-potential-of-your-social-media-past-for-2024/"><u>[New] Unleashing the Potential of Your Social Media Past for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ultimate-choice-top-5-pro-fish-action-cameras/"><u>[Updated] 2024 Approved Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>[Updated] Flavorful Footage The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-creation-with-no-cost-high-quality-banner-templates/"><u>[Updated] Streamline Creation with No-Cost, High-Quality Banner Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-strategies-for-a-rising-number-of-youtubers-fans/"><u>In 2024, Strategies for a Rising Number of Youtubers' Fans</u></a></li>
+<li><a href="https://discover-community.techidaily.com/kostengunstig-abspielen-von-dvds-keine-downloads-lizenzierter-freier-codec-nutzen/"><u>Kostengünstig Abspielen Von DVDs - Keine Downloads, Lizenzierter Freier Codec Nutzen</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-methods-for-recovering-information-from-polluted-hard-disks-in-french/"><u>Simple Methods for Recovering Information From Polluted Hard Disks in French</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/synthesize-music-with-images-in-ppts/"><u>Synthesize Music with Images in PPTs</u></a></li>
 </ul></div>
 

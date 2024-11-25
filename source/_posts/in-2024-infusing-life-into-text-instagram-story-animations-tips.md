@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infusing Life Into Text  Instagram Story Animations Tips\""
-date: 2024-11-08T00:12:55.492Z
-updated: 2024-11-14T17:58:57.732Z
+date: 2024-11-21T18:07:10.245Z
+updated: 2024-11-24T19:01:01.554Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,17 @@ Step1 Swipe right on Instagram after it's open to go to the story’s creator. U
 
 ![swipe right on instagram](https://images.wondershare.com/filmora/article-images/2022/09/swipe-right-on-instagram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To add words to your tales post, use the text tool. Typing, fading in, bouncing, stretching, swaying, and illuminating are all examples of text animation.
 
 ![add words to post instagram](https://images.wondershare.com/filmora/article-images/2022/09/add-words-to-post-instagram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 The Animate button, which is shown above the other text-related buttons for alignment and color, gives your text some extra life by causing it to glide up and down the screen. Click the symbol for the animation.
 
@@ -50,13 +58,6 @@ Step3 The Animate button, which is shown above the other text-related buttons fo
 Step4 You may check a preview of the dynamic text on Instagram. The animation will alter whenever the font is changed. Press "Done" in the upper right corner to finish revising your story post or to publish it after you are satisfied with your writing.
 
 ![revise story post instagram](https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 2\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor on Computer
 
@@ -84,6 +85,10 @@ Filmora is here to spark your creativity if you're at a stage when it's lacking.
 
 ![use animated text templates](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Export the Animated Instagram Story
 
 Go to the "Preview" section to see the video after you've completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the "Share" button to immediately share your text animation on social media.
@@ -101,10 +106,7 @@ Launch the FlexClip video editor after uploading your video, GIF, or picture and
 ![upload video into flexclip](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Pick a template or start from scratch
@@ -120,10 +122,7 @@ By producing the video from scratch, you may also practice your creativity. Clic
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Share it with your audience
@@ -133,10 +132,11 @@ Once finished, you can either instantly share the finished product on various so
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -183,13 +183,6 @@ Choose a template to use first from the enormous collection of text animation te
 
 ![pick a tempalte flexclip](https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Animate your Font
 
 By producing the video from scratch, you may also practice your creativity. Click "Add Text" and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click "Animate."
@@ -197,10 +190,7 @@ By producing the video from scratch, you may also practice your creativity. Clic
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Share it with your audience
@@ -237,20 +227,17 @@ The success or failure of your Instagram company depends in large part on engage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-are-sellers-involved-in-monetizing-review-content/"><u>[New] 2024 Approved Are Sellers Involved in Monetizing Review Content?</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>[New] 2024 Approved Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-moviegenius-for-windows-8/"><u>[New] 2024 Approved MovieGenius for Windows 8</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-blackout-blitz-a-moments-work-for-2024/"><u>[New] Blackout Blitz A Moment's Work for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eveloping-intriguing-video-segments-for-channels/"><u>[New] Developing Intriguing Video Segments for Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-the-m1-market-the-top-pick-for-apple-enthusiasts/"><u>[New] Mastering the M1 Market The Top Pick for Apple Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>[Updated] The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-youtube-creator-hub-a-guide/"><u>[Updated] Unveiling the YouTube Creator Hub A Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-elder-scrolls-online-not-loading-error/"><u>How to Overcome The Elder Scrolls Online Not Loading Error</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g-5g-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G 5G (2023) to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-6-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 6 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-google-podcast-submission-guide/"><u>In 2024, Navigating the Google Podcast Submission Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>In 2024, Through the Eyes of One A Critical Look at '3DR'</u></a></li>
-<li><a href="https://article-files.techidaily.com/lumafusion-tips-for-subtle-sound-reduction-for-2024/"><u>Lumafusion Tips for Subtle Sound Reduction for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-vr-peripherals-and-gadgets-review/"><u>[New] 2024 Approved Top VR Peripherals and Gadgets Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-venturing-into-virtual-steps-top-treadmill-analysis/"><u>[New] 2024 Approved Venturing Into Virtual Steps Top Treadmill Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elite-gear-for-stop-motion-visuals/"><u>[New] In 2024, Elite Gear for Stop Motion Visuals</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-picking-aspect-ratios-for-media/"><u>[New] The Art of Picking Aspect Ratios for Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-collective-reflections-on-vllo-usage-for-2024/"><u>[Updated] Collective Reflections on VLLO Usage for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-skys-palette-explored-top-websites-showcasing-hd-imagery/"><u>[Updated] In 2024, Sky's Palette Explored - Top Websites Showcasing HD Imagery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-mass-storage-controller-driver-issue-on-windows-10-solved/"><u>Fix Mass Storage Controller Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-solve-lack-of-hdmi-sound-in-windows-7-systems/"><u>How to Troubleshoot and Solve Lack of HDMI Sound in Windows 7 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-guide-to-recording-games-in-windows-11/"><u>In 2024, The Insider's Guide to Recording Games in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-8-real-time-strategies-to-grow-youtube-success/"><u>Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95919364-9781612833972-reiki-plain-simple/"><u>Reiki Plain & Simple | Free Book</u></a></li>
 </ul></div>
 
