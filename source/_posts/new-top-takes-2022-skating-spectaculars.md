@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Takes - 2022 Skating Spectaculars\""
-date: 2024-11-20T22:37:04.459Z
-updated: 2024-11-24T16:25:37.339Z
+date: 2024-11-30T22:55:15.536Z
+updated: 2024-12-04T03:11:05.287Z
 tags: 
   - screen-recording
   - ai video
@@ -36,20 +36,20 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -59,17 +59,21 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -93,25 +97,21 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,21 +136,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-a-beginners-journey-to-enhanced-gopro-adventures-for-2024/"><u>[New] A Beginner's Journey to Enhanced GoPro Adventures for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-evaluating-the-value-of-sns-hdr-in-a-crowded-market-for-2024/"><u>[New] Evaluating the Value of SNS HDR in a Crowded Market for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-gradual-dimming-of-sound-in-audacity-masterclass-for-2024/"><u>[New] Gradual Dimming of Sound in Audacity Masterclass for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/astering-the-craft-how-to-produce-mukbang-videos-for-2024/"><u>[New] Mastering the Craft How to Produce Mukbang Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>[New] NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-smilescreen-simple-steps-for-video-making/"><u>[New] SmileScreen Simple Steps for Video Making</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevating-content-sharing-link-instagram-and-tiktok/"><u>[Updated] 2024 Approved Elevating Content Sharing Link Instagram & TikTok</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-inclusive-iptv-service-distribution/"><u>[Updated] In 2024, Inclusive IPTV Service Distribution</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-storytellers-sanctum-summit-selections/"><u>[Updated] In 2024, Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-create-cinematic-look-video-with-final-cut-pro-x/"><u>2024 Approved How to Create Cinematic Look Video with Final Cut Pro X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-straightforward-methods-to-fine-tune-shades/"><u>3 Straightforward Methods to Fine-Tune Shades</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-note-13-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi Note 13 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-lunapics-essence-in-photo-editing/"><u>In 2024, Mastering Lunapic's Essence in Photo Editing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-neo-5-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT Neo 5 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-chime-catcher-where-to-securely-download-tones/"><u>[New] 2024 Approved Chime Catcher Where to Securely Download Tones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-virality-on-youtube-essential-steps-demystified-for-2024/"><u>[New] Achieving Virality on YouTube Essential Steps Demystified for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-simple-to-sophisticated-weaving-multiple-images-into-your-insta-story-for-2024/"><u>[New] From Simple to Sophisticated Weaving Multiple Images Into Your Insta Story for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>[New] In 2024, Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[New] In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide-for-2024/"><u>[New] The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-crafting-traditional-eastern-abodes-in-mc-world/"><u>[Updated] 2024 Approved Crafting Traditional Eastern Abodes in MC World</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-in-depth-look-at-facetune-complete-app-revision/"><u>[Updated] 2024 Approved In-Depth Look at Facetune Complete App Revision</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mistaken-loadout-on-tiktok-can-i-see-previous-selections-in-2024/"><u>[Updated] Mistaken Loadout on TikTok Can I See Previous Selections, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boom-in-the-loop-crafting-addictive-ig-videos/"><u>Boom in the Loop Crafting Addictive IG Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/high-def-phones-with-vlogging-extras/"><u>High-Def Phones with Vlogging Extras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-apps-to-speed-audio-speed-on-mobile/"><u>In 2024, 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-applications-of-virtual-reality/"><u>In 2024, Applications of Virtual Reality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-creating-quantum-displacement-effects/"><u>In 2024, Creating Quantum Displacement Effects</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-xsplit-compendium-in-depth-gaming-analysis/"><u>In 2024, XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-ape-to-ogg-converter-vrijetijdig-and-professioneel-movavi-online-konvertierungsdienst/"><u>Online APE-to-OGG Converter - Vrijetijdig & Professioneel: Movavi Online Konvertierungsdienst</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-invisible-player-mastering-xbox-one-screenshots/"><u>The Invisible Player Mastering Xbox One Screenshots</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-top-strategies-for-box-enthusiasts/"><u>The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/will-2023-see-an-increase-in-televising-video-content-in-2024/"><u>Will 2023 See an Increase in Televising Video Content, In 2024</u></a></li>
 </ul></div>
 

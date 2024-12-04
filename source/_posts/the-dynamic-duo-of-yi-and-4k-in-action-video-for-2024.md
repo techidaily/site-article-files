@@ -1,7 +1,7 @@
 ---
 title: "The Dynamic Duo of Yi and 4K in Action Video for 2024"
-date: 2024-08-22T15:13:46.567Z
-updated: 2024-08-23T15:13:46.567Z
+date: 2024-12-03T03:26:04.663Z
+updated: 2024-12-04T00:39:02.079Z
 tags: 
   - screen-recording
   - ai video
@@ -114,11 +114,19 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -143,8 +151,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-change-twitter-video-box-art/"><u>[New] 2024 Approved Change Twitter Video Box Art</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-asus-mg28uq-4k-monitor-review/"><u>[New] In 2024, ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] In 2024, Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-access-to-best-ae-templates/"><u>[New] In 2024, Exclusive Access to Best AE Templates</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-virtual-frontiers-reviewed-must-have-vr-devices/"><u>[New] In 2024, Virtual Frontiers Reviewed Must-Have VR Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/trategic-use-of-creative-commons-copyright-law-for-2024/"><u>[New] Strategic Use of Creative Commons Copyright Law for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-creative-commons-key-to-video-content-sharing/"><u>[New] YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-consumer-reactions-vllo-edition/"><u>[Updated] 2024 Approved Consumer Reactions VLLO Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quintessential-scores-in-8-distinct-movie-spheres-for-2024/"><u>[Updated] Quintessential Scores in 8 Distinct Movie Spheres for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/firefox-126-collaborates-with-nvidia-rtx-to-supercharge-youtube-viewing-experience/"><u>Firefox 126 Collaborates with NVIDIA RTX to Supercharge YouTube Viewing Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-your-iphones-creative-capabilities/"><u>Maximizing Your iPhone's Creative Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-technology-secrets-with-tom-in-depth-gadget-analysis/"><u>Unveiling Technology Secrets with Tom - In-Depth Gadget Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

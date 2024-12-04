@@ -1,7 +1,7 @@
 ---
 title: "Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available"
-date: 2024-11-24T00:41:17.045Z
-updated: 2024-11-24T22:55:07.027Z
+date: 2024-11-30T00:43:19.034Z
+updated: 2024-12-03T20:30:28.392Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>[New] From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premier-camera-picks-for-high-quality-music-videos-in-4k/"><u>[New] Premier Camera Picks for High-Quality Music Videos in 4K</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-harmonymix-pro-mac-and-windows-version/"><u>[Updated] 2024 Approved HarmonyMix Pro Mac & Windows Version</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-a-clear-view-ahead-how-to-pick-your-ideal-4k-monitor-wisely/"><u>[Updated] A Clear View Ahead How to Pick Your Ideal 4K Monitor Wisely</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-steps-to-crafting-a-reliable-pc-restore-disk-diy-guide/"><u>Effortless Steps to Crafting a Reliable PC Restore Disk - DIY Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-x50-gt-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor X50 GT Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-comparing-vr-to-360-degree-video-whats-the-distinction/"><u>In 2024, Comparing VR to 360-Degree Video What's the Distinction?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-how-to-select-and-download-the-right-audio-for-your-video/"><u>In 2024, How to Select and Download the Right Audio for Your Video</u></a></li>
-<li><a href="https://solve-help.techidaily.com/leading-dvd-video-software-for-seamless-slicing-cropping-and-reducing-size/"><u>Leading DVD Video Software for Seamless Slicing, Cropping & Reducing Size</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tactics-to-support-unsupported-freesync-on-amd/"><u>Tactics to Support Unsupported FreeSync on AMD</u></a></li>
-<li><a href="https://article-files.techidaily.com/unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram-for-2024/"><u>Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-online-video-reversers/"><u>Updated Best Online Video Reversers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users-for-2024/"><u>[New] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-efficient-digital-voice-alteration-for-vtubers/"><u>[New] In 2024, Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-learn-the-ins-and-outs-of-online-photo-cropting-tools-for-2024/"><u>[New] Learn the Ins and Outs of Online Photo Cropting Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>[Updated] In 2024, Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-blueprint-of-writing-appealing-vlog-storylines/"><u>[Updated] In 2024, The Blueprint of Writing Appealing Vlog Storylines</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-tricks-for-ios-screenshots-just-got-updated-for-2024/"><u>Advanced Tricks for iOS Screenshots - Just Got Updated for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/conversione-gratuita-online-da-m4a-a-avi-con-movavi/"><u>Conversione Gratuita Online: Da M4A a AVI Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/de-beste-weg-om-avi-bestanden-te-converteeren-met-movavi-de-inleiding-in-een-vloeibaar-procesvertoningstool/"><u>De Beste Weg Om AVI-Bestanden Te Converteeren Met Movavi - De Inleiding in Een Vloeibaar Procesvertoningstool</u></a></li>
+<li><a href="https://fox-http.techidaily.com/earn-big-with-little-experience-discover-the-top-13-reddit-money-ways-for-2024/"><u>Earn Big with Little Experience - Discover the Top 13 Reddit Money Ways for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-10-sound-enhancers-across-os-platforms/"><u>Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streamline-broadcasting-going-from-xbox-to-fb-live/"><u>Streamline Broadcasting Going From Xbox to FB Live</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-premier-editor-that-works-on-every-device-you-own-for-2024/"><u>The Premier Editor That Works on Every Device You Own for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unleash-creativity-pivotal-pixlr-editing-strategies/"><u>Unleash Creativity Pivotal Pixlr Editing Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-most-accessible-triple-decker-cpu-the-amd-ryzen-student-when-did-world-war-ii-start/"><u>Unveiling the Most Accessible Triple-Decker CPU: The AMD Ryzen # Student: When Did World War II Start?</u></a></li>
 </ul></div>
 

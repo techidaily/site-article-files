@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reinvigorating Windows Photo Viewer in W10  Procedures #1 & #2 for 2024\""
-date: 2024-11-21T21:14:50.384Z
-updated: 2024-11-24T22:14:59.239Z
+date: 2024-11-30T04:47:19.611Z
+updated: 2024-12-04T03:06:21.965Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ Stay tuned to learn more!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -66,6 +66,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -77,10 +81,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -96,12 +96,20 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -110,15 +118,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -145,22 +145,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-global-youtube-personalities-peak-of-viewership/"><u>[New] 2024 Approved Top 10 Global YouTube Personalities Peak of Viewership</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-digitizing-creativity-prime-nft-generating-platforms-revealed-for-2024/"><u>[New] Digitizing Creativity Prime NFT-Generating Platforms Revealed for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-formulating-gripping-narratives-for-your-vlogs/"><u>[New] Formulating Gripping Narratives for Your Vlogs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-accessible-visual-aids-for-youtube-videos/"><u>[Updated] 2024 Approved Accessible Visual Aids for YouTube Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>[Updated] 2024 Approved Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-master-live-broadcasts-a-comprehensible-path-for-one-source-use/"><u>[Updated] 2024 Approved Master LIVE Broadcasts A Comprehensible Path for One-Source Use</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-setting-up-your-zone-for-top-notch-oculus-vr-experience/"><u>[Updated] 2024 Approved Setting Up Your Zone for Top-Notch Oculus VR Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-pro-3-unboxed-a-comprehensive-review-of-ions-marvel/"><u>[Updated] In 2024, Pro 3 Unboxed A Comprehensive Review of ION's Marvel</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-maximizing-iphone-to-mac-file-transfer-for-large-videos-for-2024/"><u>[Updated] Maximizing iPhone-to-Mac File Transfer for Large Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlock-new-dimensions-exploring-xbox-ones-zooming-feature-for-2024/"><u>[Updated] Unlock New Dimensions Exploring Xbox One's Zooming Feature for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-hidden-accessing-youtube-video-comments/"><u>[Updated] Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-10-best-free-photo-collage-apps-for-iphone/"><u>2024 Approved 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-critical-considerations-every-potential-smartwatch-owner-should-know-beforehand/"><u>5 Critical Considerations Every Potential Smartwatch Owner Should Know Beforehand</u></a></li>
-<li><a href="https://article-files.techidaily.com/drone-pilots-guide-to-best-vr-headsets-for-2024/"><u>Drone Pilots' Guide to Best VR Headsets for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>In 2024, In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-10-free-video-compression-tools-for-windows-10/"><u>New In 2024, Top 10 Free Video Compression Tools for Windows 10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-fujitsus-high-performance-scansnap-ix1600-for-office-use/"><u>The Ultimate Review of Fujitsu's High-Performance ScanSnap iX1600 for Office Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-future-is-now-hot-10-vr-gear-options-for-2024/"><u>[New] The Future Is Now Hot 10 VR Gear Options for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-magix-music-creators-capabilities/"><u>[Updated] 2024 Approved Exploring Magix Music Creator's Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>[Updated] Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-palette-wisdom-essential-color-theory-explained/"><u>[Updated] Palette Wisdom Essential Color Theory Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-essential-economic-education-top-15-youtube-picks/"><u>2024 Approved Essential Economic Education Top 15 YouTube Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>2024 Approved Optimized Motion The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>In 2024, Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-saving-game-moments-with-fbx-recorder/"><u>In 2024, Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/master-your-pcs-visual-and-performance-preferences-a-tutorial-on-control-panel-settings-by-yl-computing/"><u>Master Your PC's Visual & Performance Preferences: A Tutorial on Control Panel Settings by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-cost-solution-the-leading-converters-for-jpeg-to-gifs/"><u>No-Cost Solution The Leading Converters for JPEG to GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-windows-11-your-ultimate-cheat-sheet/"><u>Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-gptzero-your-essential-tool-for-spotting-artificerly-crafted-writings/"><u>Unveiling GPTZero: Your Essential Tool for Spotting Artificerly Crafted Writings</u></a></li>
 </ul></div>
 

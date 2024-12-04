@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Photography Simplified  Adopt These 10 Easy Rules for 2024\""
-date: 2024-11-17T21:50:39.201Z
-updated: 2024-11-24T19:51:10.498Z
+date: 2024-11-27T23:33:57.656Z
+updated: 2024-12-03T21:27:22.543Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Symmetry
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Framing
@@ -65,19 +65,19 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shape
 
@@ -85,19 +85,15 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Direction of Subject
 
@@ -106,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fill Your Frame
@@ -115,15 +111,19 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclsion
 
@@ -158,18 +158,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-explore-the-best-in-class-pc-vr-headsets/"><u>[New] 2024 Approved Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-lunapics-essence-in-photo-editing/"><u>[New] In 2024, Mastering Lunapic's Essence in Photo Editing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[New] In 2024, The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transforming-videos-with-ease-10-steps-from-youtube-to-mpeg-for-2024/"><u>[New] Transforming Videos with Ease 10 Steps From YouTube to MPEG for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-video-vibrance-10-tips-for-dynamic-color-manipulation/"><u>[New] Video Vibrance 10 Tips for Dynamic Color Manipulation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-innovating-visual-content-mastery-of-windows-11-editing-tools/"><u>[Updated] 2024 Approved Innovating Visual Content Mastery of Windows 11 Editing Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-the-perfect-virtual-space-with-zooms-features/"><u>2024 Approved Crafting the Perfect Virtual Space with Zoom's Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-superior-storytellers-sanctuary/"><u>2024 Approved Superior Storyteller's Sanctuary</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/desktop-guide-effortless-transformation-from-mp4-to-avi-format/"><u>Desktop Guide: Effortless Transformation From MP4 to AVI Format</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-unzip-several-zips-at-once-in-windows/"><u>Efficiently Unzip Several ZIPs at Once in Windows</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-mastering-the-art-of-larger-youtube-media/"><u>In 2024, Mastering the Art of Larger YouTube Media</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-top-1-online-festival-watching/"><u>In 2024, Top 1 Online Festival Watching</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-steelseries-mouse-drivers-available-for-free-downloads/"><u>Latest SteelSeries Mouse Drivers Available for Free Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-title-your-photos-quickly-captioning-techniques-in-photos-app-win-11-for-2024/"><u>[Updated] Title Your Photos Quickly Captioning Techniques in Photos App Win 11 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-8-affordable-3d-videos-players-on-pcmac-for-2024/"><u>[Updated] Top 8 Affordable 3D Videos Players on PC/Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-tracks-for-a-professional-unboxing-presentation-for-2024/"><u>[Updated] Top Tracks for a Professional Unboxing Presentation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vllevaluation-insight-into-app-quality-for-2024/"><u>[Updated] VLLEvaluation Insight Into App Quality for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-prime-free-images-hosts-ensure-picture-longevity-for-2024/"><u>10 Prime Free Images Hosts, Ensure Picture Longevity for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-smart-selections-essential-mac-programs-for-videograbbing/"><u>2024 Approved Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-art-of-ai-creation-using-free-dall-e-3-on-microsoft-bing/"><u>Discover the Art of AI Creation: Using Free DALL-E 3 on Microsoft Bing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2616218-9780752481814-haunted-carlisle/"><u>Haunted Carlisle | Free Book</u></a></li>
+<li><a href="https://article-files.techidaily.com/highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-close-up-cinematography-techniques-with-kinemaster-pro-for-2024/"><u>Mastering Close-Up Cinematography Techniques with Kinemaster Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/pro-tips-for-impressive-gopro-time-lapse-cinematography-for-2024/"><u>Pro Tips for Impressive GoPro Time-Lapse Cinematography for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-intermittent-displays-in-hp/"><u>Remedying Intermittent Displays in HP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-visual-lifeline-size-and-ratio-insights/"><u>YouTube's Visual Lifeline Size & Ratio Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unravel the Complexity of Background Removal with Affinity Photo"
-date: 2024-11-23T19:46:41.647Z
-updated: 2024-11-24T18:16:16.224Z
+date: 2024-11-28T04:25:50.486Z
+updated: 2024-12-03T21:01:34.574Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -46,12 +42,16 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -65,13 +65,13 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -100,10 +100,14 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -113,10 +117,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -202,20 +202,22 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>[New] 2024 Approved The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-achieve-more-with-costless-timer-software/"><u>[New] Achieve More with Costless Timer Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-countdown-creation-in-obs-step-by-step-guide/"><u>[New] In 2024, Countdown Creation in OBS Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-smile-generator-for-memes/"><u>[Updated] 2024 Approved Best Smile Generator for Memes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-illumination-in-high-dynamic-range-a-smart-option-for-2024/"><u>[Updated] Illumination in High-Dynamic Range A Smart Option for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-top-tricks-for-smooth-auditory-paths/"><u>2024 Approved Top Tricks for Smooth Auditory Paths</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-network-driver-updates-for-windows-101178-installs-beginner-friendly-guide/"><u>Get the Newest HP Network Driver Updates for Windows 10/11/7/8 Installs – Beginner-Friendly Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-approach-for-effective-spotify-marketing/"><u>In 2024, A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-virtual-ride-wonders-select-your-favorites/"><u>In 2024, Virtual Ride Wonders Select Your Favorites</u></a></li>
-<li><a href="https://article-files.techidaily.com/key-strategies-for-recruiting-superior-video-artists/"><u>Key Strategies for Recruiting Superior Video Artists</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/recover-deleted-files-for-free-8-tips-to-restore-your-data-on-windows-11/"><u>Recover Deleted Files for Free: 8 Tips to Restore Your Data on Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-procedure-to-effective-video-capturing-using-zds-tools-for-2024/"><u>Step-by-Step Procedure to Effective Video Capturing Using ZD's Tools for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube/"><u>The Ultimate Platform Showdown Twitch Meets YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y100t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y100t Screen | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-online-stop-motion-animation-studios-top-5-free-and-paid-options/"><u>Updated Online Stop Motion Animation Studios Top 5 Free and Paid Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-recommendations-on-asmr-and-restful-nights/"><u>[New] 2024 Approved Expert Recommendations on ASMR & Restful Nights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>[New] 2024 Approved Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-celebrated-list-top-15-classic-stop-motion-flicks-for-2024/"><u>[New] A Celebrated List Top 15 Classic Stop-Motion Flicks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discover-the-power-of-video-filters-in-your-zoom-sessions/"><u>[New] Discover the Power of Video Filters in Your Zoom Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevating-your-linkedin-presence-for-2024/"><u>[New] Elevating Your LinkedIn Presence for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-pushing-photographic-limits/"><u>[New] In 2024, The Art of Pushing Photographic Limits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial-for-2024/"><u>[Updated] Embrace the Art of Timelapses A Comprehensive iPad Tutorial for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-best-budget-conscious-laptop-tools-for-dvd-watchers/"><u>[Updated] In 2024, Best Budget-Conscious Laptop Tools for DVD Watchers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[Updated] Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-snapchat-share-tweets-via-video/"><u>[Updated] Mastering Snapchat Share Tweets via Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-gopro-4k-editing-basics-for-2024/"><u>[Updated] Step-by-Step GoPro 4K Editing Basics for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques-for-2024/"><u>[Updated] The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/ensuring-easy-download-of-youtubes-srt-subs-for-2024/"><u>Ensuring Easy Download of YouTube's SRT Subs for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-f5-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco F5 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-google-pixel-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Google Pixel 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
 </ul></div>
 

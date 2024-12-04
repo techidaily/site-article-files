@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Affordable Full HD Cameras for Stunts and Sports"
-date: 2024-08-22T15:12:20.106Z
-updated: 2024-08-23T15:12:20.106Z
+date: 2024-12-02T23:03:09.968Z
+updated: 2024-12-03T16:48:26.613Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
 
 **Max Video Resolution:** 1080P | **Weight:** 97g | **Battery life:** 3hrs | **Stills resolution:** 12MP | **1080:** 30/25fps | **Waterproof:** 40m using optional case |
@@ -48,6 +52,10 @@ This device copies so many features from the all time favorite Ghost-S action ca
 #### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
 
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
@@ -79,6 +87,10 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 ![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
 
 **Max Video Resolution:** 1080P/60fps | **Weight:** 76.6 g | **Battery life:** 90 mins | **Stills resolution:** 16MP | **1080:** 30/25 fps | **Waterproof:** Yes |
@@ -94,6 +106,10 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 ![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
 
 **Max Video Resolution:** 1080P | **Weight:** 130g | **Battery life:** 1200 mAh | **Stills resolution:** 14MP | **1080:** 30fps | **Waterproof:** Yes, Up to 30 feet |
@@ -106,6 +122,10 @@ This device copies so many features from the all time favorite Ghost-S action ca
  iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -130,8 +150,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[New] 2024 Approved Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discover-10-bestsellers-copyright-free-melodies-for-zen/"><u>[New] Discover 10 Bestsellers Copyright-Free Melodies for Zen</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-type-treatments-in-after-effects/"><u>[New] In 2024, Mastering Type Treatments in After Effects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>[New] In 2024, The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-reality-wars-which-tech-rules-the-gamers-world-for-2024/"><u>[New] Virtual Reality Wars Which Tech Rules the Gamer’s World for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-amplify-your-storytelling-seamlessly-insert-music-into-youtube-videos/"><u>[Updated] Amplify Your Storytelling Seamlessly Insert Music Into YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-directors-speak-the-soul-of-film-writing-for-2024/"><u>[Updated] Directors Speak The Soul of Film Writing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-power-the-best-for-web-video-gems/"><u>[Updated] Pixel Power The Best for Web Video Gems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pro-rated-top-8-convertors-for-subtitles-and-srts-for-2024/"><u>[Updated] Pro-Rated Top 8 Convertors for Subtitles & SRTs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-guide-to-slomo-videography-app-review-update-for-2024/"><u>[Updated] Ultimate Guide to SloMo Videography App Review Update for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-winning-at-movie-watching-leading-windows-phone-apps/"><u>2024 Approved Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-prime-valorant-video-thumbnails-on-youtube/"><u>Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-selection-top-ranked-free-ae-templates/"><u>Elite Selection Top-Ranked FREE AE Templates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-block-unwanted-emergency-notifications-in-android-devices/"><u>How to Block Unwanted Emergency Notifications in Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme C33 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msstdfmtdll-file-missing-problem-a-step-by-step-guide/"><u>Solving the 'Msstdfmt.dll File Missing' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95688553-9781605503066-the-everything-sex-signs-book/"><u>The Everything Sex Signs Book | Free Book</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>Updated Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/l-anonymity-in-sharing-blurring-methods-explained-for-2024/"><u>Visual Anonymity in Sharing Blurring Methods Explained for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

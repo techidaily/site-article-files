@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Ricoh Theta S Uncovered  A Complete Audit\""
-date: 2024-08-22T15:15:54.751Z
-updated: 2024-08-23T15:15:54.751Z
+date: 2024-11-28T22:10:39.150Z
+updated: 2024-12-04T00:55:42.246Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Large numbers of people are talking about Ricoh these days so it becomes essenti
 * [Part 2: Pros and Cons at a glance](#part2)
 * [Part 3: Basic specs of Ricoh Theta S](#part3)
 * [Part 4: Should I buy](#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1 Complete Review of Ricoh Theta S
 
@@ -70,6 +74,10 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -84,8 +92,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3 Basic specs of Ricoh Theta S
 
 | **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
@@ -103,8 +112,9 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4 Should I buy Ricoh Theta S
 
 Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
@@ -114,8 +124,9 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -139,4 +150,20 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-2023s-scarcity-pioneering-vr-content-shortcomings/"><u>[New] 2024 Approved 2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparative-evaluation-of-cost-effective-clouds/"><u>[New] Comparative Evaluation of Cost-Effective Clouds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ditors-dream-machine-top-portable-video-edits-tools/"><u>[New] Editor's Dream Machine Top Portable Video Edits Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-expert-tips-finding-the-best-text-design-resources/"><u>[New] In 2024, Expert Tips Finding the Best Text Design Resources</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[New] In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-3d-viewing-on-your-android-device/"><u>[Updated] In 2024, Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tailored-tips-for-maximizing-vlc-playback-potential-for-2024/"><u>[Updated] Tailored Tips for Maximizing VLC Playback Potential for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/capturing-every-angle-not-just-a-single-plane-for-2024/"><u>Capturing Every Angle, Not Just a Single Plane for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-factors-pre-deletion-reflections-for-a-social-media-break/"><u>Essential Factors: Pre-Deletion Reflections for a Social Media Break</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-11-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus 11 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/join-youtube-mcn-or-not-ultimate-guide/"><u>Join YouTube MCN or Not ULTIMATE Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/superior-viewing-experience-essentials-of-4k-downloading/"><u>Superior Viewing Experience Essentials of 4K Downloading</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ue590-review-top-4k-game-display-with-fs/"><u>The UE590 Review Top 4K Game Display with FS</u></a></li>
+</ul></div>
 

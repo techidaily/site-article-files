@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Close-Up Views in Minecraft\""
-date: 2024-11-19T18:32:27.105Z
-updated: 2024-11-24T23:11:57.336Z
+date: 2024-11-29T20:44:21.567Z
+updated: 2024-12-03T20:45:44.901Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ Since its first release in 2011, this amazing game has gained an estimated 126 m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 1\. Change FOV in Options
@@ -49,10 +49,6 @@ Step4 To save the new FOV settings after finishing adjusting the slider and bein
 
 Step5 Now, after the successful zoom in on Minecraft, press Backspace to get into the menu and to continue playing, choose "Return to Game."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 2\. Change FOV in Options
 
 You may utilize the accessibility features in mac OS to get a zooming option while altering your FOV. You may reach the Minecraft window by manually adjusting the zoom in and out. To zoom in or out instead, utilize macOS' accessibility zoom function. By just dragging your mouse while holding a certain key, you may zoom in or out in any program or game window. Here's how to activate it and utilize it:
@@ -63,23 +59,19 @@ Step1 Select "Activate" next to "System Preferences" at the bottom of the dock. 
 
 ![zoom minecraft preferences](https://images.wondershare.com/filmora/article-images/2022/07/zoom-minecraft-preferences.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Select accessibility from the menu. To tick the box next to the zoom option on the left side of the bar, choose "Use scroll gesture with zooming modifier keys." To inspect it, use the zoom option. Use the change key, which is accessed via the control key, to automatically zoom in on the screen.
 
 ![zoom accessibilty macos](https://images.wondershare.com/filmora/article-images/2022/07/zoom-accessibilty-macos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 To change the alteration key, click on the arrow that is pointing down and next to the box. Then, choose the command, option, or control key that you like.
 
 ![scroll gesture modifier zoom](https://images.wondershare.com/filmora/article-images/2022/07/scroll-gesture-modifier-zoom.jpg)
 
 Step4 After choosing the modifier key, open the Minecraft window and drag it to the higher or lower side of the screen to zoom in or out. Now that you know how to zoom in on Minecraft on Mac OS, all you need to do is hit and hold the modifier key of your choice while scrolling up with the mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3\. Using OptiFine Mod (Java)
 
@@ -93,10 +85,6 @@ Step1 Install the Minecraft OptiFine Mod on your PC in the first step. Visit the
 
 ![install minecraft optifine mod](https://images.wondershare.com/filmora/article-images/2022/07/install-minecraft-optifine-mod.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** For your most recent version of Minecraft, go to optifine.net and select the Downloads page to get the most recent version of OptiFine. By selecting the Show all versions option, you may download the OptiFine compatible version of Minecraft if your current version is out of date.
@@ -104,10 +92,6 @@ Step1 Install the Minecraft OptiFine Mod on your PC in the first step. Visit the
 Step2 Double-click the downloaded OptiFine file to open it and finish the installation. The OptiFine Mod has been added to Minecraft as of late. Check to see whether the OptiFine mod has been loaded into the game by using the Minecraft launcher.
 
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
 
@@ -117,13 +101,13 @@ Step4 Verify that OptiFine Mod is loaded into the program by checking this box. 
 
 ![optifine controls zoom](https://images.wondershare.com/filmora/article-images/2022/07/optifine-controls-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 4\. Using a Spyglass
 
@@ -137,10 +121,6 @@ Step2 After that, put the Spyglass you just created in your menu bar and take a 
 
 ![spyglass options panel](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-options-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
 
 ![spyglass settings](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-settings.jpg)
@@ -148,6 +128,10 @@ Step3 However, you will always zoom in to 10% of your current Field of View whil
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. Use Zoomed-Out Maps
 
@@ -157,19 +141,23 @@ Step1 Gather the materials needed to make a map in the first step. These include
 
 ![use zoom out maps](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-out-maps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
 
 Step4 In order to utilize the map, choose it from the Equip bar at the bottom of the game screen, then right-click (or press and hold on a mobile device). After the first time, repeat the instructions to build 2048 x 2048 blocks, which will give you the greatest magnification. You may stroll about your planet while wearing the map to record all of its features and landmarks as shown below:
 
 ![utilize the map](https://images.wondershare.com/filmora/article-images/2022/07/utilize-the-map.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -183,6 +171,10 @@ Step2 Double-click the downloaded OptiFine file to open it and finish the instal
 
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
 
 ![start launcher in minecraft](https://images.wondershare.com/filmora/article-images/2022/07/start-launcher-in-minecraft.jpg)
@@ -194,6 +186,10 @@ Step4 Verify that OptiFine Mod is loaded into the program by checking this box. 
 Step5 In the Minecraft launch, choose the Play option and click to load a game. While playing the game, hit the keyboard's "c" key to close in on the target in the center. This key may be used to zoom in at any time. Now that you have used the OptiFine Mod in Minecraft to zoom in, you may do so.
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 4\. Using a Spyglass
 
@@ -216,7 +212,11 @@ Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 5\. Use Zoomed-Out Maps
@@ -269,18 +269,24 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-detailed-assessment-editorpro-xs-the-ultimate-video-tool/"><u>[New] 2024 Approved Detailed Assessment EditorPro XS, the Ultimate Video Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-settings-for-live-broadcasts/"><u>[New] 2024 Approved Perfect Settings for Live Broadcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-simplifying-large-screen-viewing-for-youtubers/"><u>[New] 2024 Approved Simplifying Large-Screen Viewing for YouTubers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-from-trip-diary-to-hype-inducing-haul-the-editors-playbook-for-2024/"><u>[New] From Trip Diary to Hype-Inducing Haul The Editor's Playbook for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[New] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-comprehensive-guide-to-leveraging-adobe-cloud-for-enhanced-data-management/"><u>[New] In 2024, Comprehensive Guide to Leveraging Adobe Cloud for Enhanced Data Management</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-crypto-artistry-unleashed-the-best-generators-transforming-images/"><u>[Updated] In 2024, Crypto Artistry Unleashed The Best Generators Transforming Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-premiered-screen-selections-for-ps5-aficionados/"><u>[Updated] Premiered Screen Selections for PS5 Aficionados</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>In 2024, A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-capture-the-scene-without-breaking-the-bank-with-free-tools/"><u>In 2024, Capture the Scene without Breaking the Bank with Free Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/serenade-supreme-top-10-tunes-for-a-forever-commitment-for-2024/"><u>Serenade Supreme Top 10 Tunes for a Forever Commitment for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/evelopment-hacks-embedding-youtubes-playlists-effortlessly/"><u>Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/whats-new-in-rainbow-six-siege-anticipated-changes-coming-with-the-2024-update/"><u>What's New in Rainbow Six Siege: Anticipated Changes Coming with the 2024 Update</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-3-simple-ways-to-color-grading-in-photoshop-for-2024/"><u>[New] 3 Simple Ways to Color Grading in Photoshop for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>[New] From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>[New] Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-xbmc-media-center-all-in-one-home-entertainment/"><u>[New] XBMC Media Center All-in-One Home Entertainment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-visual-triumph-the-best-camera-lenses-ranked-and-revealed/"><u>[Updated] 2024 Approved Visual Triumph The Best Camera Lenses, Ranked & Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-cheapest-entry-level-4k-systems-for-2024/"><u>[Updated] Cheapest Entry-Level 4K Systems for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-synthesizing-best-canon-temporal-videography/"><u>[Updated] In 2024, Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-6-minecraft-house-ideas-for-beginners/"><u>[Updated] In 2024, Top 6 Minecraft House Ideas for Beginners</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-key-principles-to-write-captivating-vlog-dialogues-for-2024/"><u>[Updated] Key Principles to Write Captivating Vlog Dialogues for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>2024 Approved Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apples-m1-processor-showdown-m1-pro-versus-m1-max-differences-for-2024/"><u>Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-ai-for-high-fidelity-image-editing/"><u>Elite AI for High-Fidelity Image Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-game-capture-windows-11-edition/"><u>In 2024, Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>In 2024, Unleashing Visual Potential Incorporating New Fonts in AE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-grok-ai-decoding-elon-musks-breakthrough-technology-and-cost-implications/"><u>Inside Grok AI: Decoding Elon Musk’s Breakthrough Technology and Cost Implications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ios-leading-edge-5-exceptional-psp-game-tools-for-2024/"><u>IOS Leading Edge 5 Exceptional PSP Game Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lens-and-light-the-best-of-cinematographic-insights-24-edition/"><u>Lens & Light The Best of Cinematographic Insights - '24 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/every-independent-youtuber-should-know-about-mcns-for-2024/"><u>What Every Independent YouTuber Should Know About MCNs for 2024</u></a></li>
 </ul></div>
 
