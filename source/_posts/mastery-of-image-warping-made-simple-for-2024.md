@@ -1,7 +1,7 @@
 ---
 title: "Mastery of Image Warping Made Simple for 2024"
-date: 2024-11-30T01:24:57.102Z
-updated: 2024-12-03T18:22:29.418Z
+date: 2024-12-07T17:20:54.795Z
+updated: 2024-12-10T19:57:04.351Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -43,6 +43,10 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -56,7 +60,7 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -64,12 +68,16 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
@@ -79,19 +87,11 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,17 +127,19 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-start-chatting-in-real-time-learn-live-on-instagram/"><u>[New] 2024 Approved Start Chatting in Real-Time Learn Live on Instagram</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-top-vr-bike-games-a-compreayers-guide/"><u>[New] TOP VR Bike Games A Compreayer’s Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>2024 Approved Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos-for-2024/"><u>Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/blazing-lanes-at-sochi-2022-games/"><u>Blazing Lanes at Sochi 2022 Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/building-a-solid-foundation-for-great-interviews/"><u>Building A Solid Foundation For Great Interviews</u></a></li>
-<li><a href="https://article-files.techidaily.com/deciphering-cloud-data-management-a-complete-analysis-of-adobes-storage-offerings-for-2024/"><u>Deciphering Cloud Data Management A Complete Analysis of Adobe's Storage Offerings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/decoding-editing-excellence-can-pickup-outshine-the-competition-on-android-for-2024/"><u>Decoding Editing Excellence Can PickUp Outshine the Competition on Android for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-newest-realtek-bluetooth-driver-update-for-windows-11windows-1e-a-step-by-step-tutorial/"><u>How to Find and Install the Newest Realtek Bluetooth Driver Update for Windows 11/Windows 1E: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>In 2024, Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo T2x 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-complete-guide-to-video-studios-focusing-on-xvideo/"><u>[New] 2024 Approved Complete Guide to Video Studios Focusing on XVideo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transforming-ordinary-footage-to-ig-masterpieces/"><u>[New] 2024 Approved Transforming Ordinary Footage to IG Masterpieces</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-8-best-drawing-apps-for-iphones/"><u>[New] In 2024, 8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-metaverse-versus-multimetase-analyzing-their-core-disparities-for-2024/"><u>[New] Metaverse Versus MultiMetase Analyzing Their Core Disparities for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-capture-words-use-at-zero-expense/"><u>[Updated] In 2024, Capture Words, Use at Zero Expense</u></a></li>
+<li><a href="https://discover-data.techidaily.com/a-step-by-step-guide-to-refreshing-your-websites-design-with-flipper-pro/"><u>A Step-by-Step Guide to Refreshing Your Website's Design with Flipper Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/computational-fluid-dynamics-cfd-plays-a-significant-role-in-optimizing-material-selection-by-simulating-fluid-material-interactions-before-manufacturing/"><u>Computational Fluid Dynamics (CFD) Plays a Significant Role in Optimizing Material Selection by Simulating Fluid-Material Interactions Before Manufacturing.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel-for-2024/"><u>Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-satirize-a-guide-to-parody-production/"><u>In 2024, How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-the-updated-parrot-ar-drone-experience/"><u>In 2024, Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-video-migration-youtube-to-dailymotion-process-for-2024/"><u>Navigating Video Migration YouTube to Dailymotion Process for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-online-streaming-options-for-faith-communities/"><u>Premier Online Streaming Options for Faith Communities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-sluggish-microsoft-edge-on-windows-1011/"><u>Troubleshooting Sluggish Microsoft Edge on Windows 10/11</u></a></li>
+<li><a href="https://article-files.techidaily.com/vintage-verve-a-list-of-ringtones-online/"><u>Vintage Verve A List of Ringtones Online</u></a></li>
 </ul></div>
 

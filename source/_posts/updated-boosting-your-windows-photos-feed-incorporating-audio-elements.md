@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Boosting Your Windows Photos Feed  Incorporating Audio Elements\""
-date: 2024-08-15T07:48:42.491Z
-updated: 2024-08-16T07:48:42.491Z
+date: 2024-12-03T18:24:13.262Z
+updated: 2024-12-10T18:03:53.388Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -51,13 +55,16 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -69,30 +76,26 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 **Step 3**: Now, hit the ‘Create’ button from the top-right followed by dragging the video to Photos timeline. Later, hit on ‘Auio’ at top right.
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -117,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-digital-painting-choosing-between-srgb-and-rgb/"><u>[New] 2024 Approved Digital Painting Choosing Between Srgb & Rgb</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/udience-augmentation-made-simple-5-solutions-available-for-2024/"><u>[New] Audience Augmentation Made Simple - $5 Solutions Available for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-auditory-aesthetics-incorporating-youtube-music-into-videos-for-2024/"><u>[New] Auditory Aesthetics Incorporating YouTube Music Into Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-tips-for-youtube-short-fixes/"><u>[New] Essential Tips for YouTube Short Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[New] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-imaginarium-collagecraft-cutting-edge-assembler-for-2024/"><u>[New] Imaginarium CollageCraft Cutting-Edge Assembler for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-playstation-experience-transform-your-voice/"><u>[New] In 2024, The PlayStation Experience Transform Your Voice</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pro-tips-for-capturing-stunning-close-up-footage/"><u>[New] Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unraveling-the-magic-of-mixed-reality/"><u>[Updated] In 2024, Unraveling the Magic of Mixed Reality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-action-cam-editing-solutions/"><u>[Updated] Ultimate Action Cam Editing Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>2024 Approved Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-130-music-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia 130 Music Location | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/master-subtitles-from-srt-with-3-steps-for-2024/"><u>Master Subtitles From SRT with 3 Steps for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-gameplay-the-power-of-the-samsung-cf60-75uh-4ms-refresh-rate-monitor/"><u>Mastering Gameplay: The Power of the Samsung CF60 75UH 4Ms Refresh Rate Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-audio-problem-heres-how-to-fix-a-malfunctioning-sony-wh-1000-series-mic/"><u>PC Audio Problem? Here's How to Fix a Malfunctioning Sony WH-1000 Series Mic</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated In 2024, Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
+</ul></div>
 

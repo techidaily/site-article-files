@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating and Exploring Every Aspect of Mac's Preview App"
-date: 2024-11-26T18:24:07.168Z
-updated: 2024-12-03T20:11:44.293Z
+date: 2024-12-07T17:16:15.189Z
+updated: 2024-12-10T18:56:19.825Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -68,10 +72,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -90,7 +90,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -121,6 +121,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -136,10 +140,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -158,7 +158,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -172,6 +172,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,14 +236,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pinnacle-panoramics-selecting-the-best-8k-cameras/"><u>[New] Pinnacle Panoramics Selecting the Best 8K Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-listening-preferences-deciding-between-podcasts-and-youtube/"><u>[Updated] Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-subscribe-like-a-pro-true-or-false/"><u>[Updated] Subscribe Like a Pro True or False?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-mb-to-seconds-a-20-video-study/"><u>2024 Approved From MB to Seconds A 20-Video Study</u></a></li>
-<li><a href="https://article-files.techidaily.com/ace-your-channel-prime-title-generators/"><u>Ace Your Channel Prime Title Generators</u></a></li>
-<li><a href="https://article-files.techidaily.com/ancestral-aesthetics-art-without-restrictive-rights-for-2024/"><u>Ancestral Aesthetics Art Without Restrictive Rights for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/complete-review-for-hero4-black-for-2024/"><u>Complete Review for Hero4 Black for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/demystifying-av1-encoding-basics/"><u>Demystifying AV1 Encoding Basics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-install-and-update-your-asus-bluetooth-drivers-with-our-guide/"><u>Simple Steps: Install and Update Your ASUS Bluetooth Drivers with Our Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-auditory-aesthetics-incorporating-youtube-music-into-videos-for-2024/"><u>[New] Auditory Aesthetics Incorporating YouTube Music Into Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[New] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-imaginarium-collagecraft-cutting-edge-assembler-for-2024/"><u>[New] Imaginarium CollageCraft Cutting-Edge Assembler for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>[Updated] Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-conquering-the-flaws-of-windows-11-photo-app-for-2024/"><u>[Updated] Conquering the Flaws of Windows 11 Photo App for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unraveling-the-magic-of-mixed-reality/"><u>[Updated] In 2024, Unraveling the Magic of Mixed Reality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-action-cam-editing-solutions/"><u>[Updated] Ultimate Action Cam Editing Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb-for-2024/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB) for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028310162-dvd-dvd/"><u>「タブレットでDVD再生の簡単ガイド – DVDファイルの移行手順」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>2024 Approved Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-new-horizons-with-apples-latest-upgrade-what-to-expect-from-the-updated-watchos-11/"><u>Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-unprompted-gaming-suggestions-on-windows-11/"><u>Halt Unprompted Gaming Suggestions on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 5G Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Moto G24</u></a></li>
+<li><a href="https://article-files.techidaily.com/master-subtitles-from-srt-with-3-steps-for-2024/"><u>Master Subtitles From SRT with 3 Steps for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-list-of-no-cost-audio-to-text-transformation-tools-for-multimedia-creators-for-2024/"><u>New The Ultimate List of No-Cost Audio-to-Text Transformation Tools for Multimedia Creators for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/tailor-sharespread-content-adobe-memes/"><u>Tailor Sharespread Content Adobe Memes</u></a></li>
 </ul></div>
 

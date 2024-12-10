@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-11-30T16:24:01.796Z
-updated: 2024-12-04T04:28:34.075Z
+date: 2024-12-09T17:29:58.466Z
+updated: 2024-12-10T17:44:53.069Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -42,7 +46,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -60,7 +64,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -76,6 +80,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -93,10 +101,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +112,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -140,10 +148,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,17 +236,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bloodthirsty-horror-your-go-to-8-zombie-titles/"><u>[New] 2024 Approved Bloodthirsty Horror Your Go-To 8 Zombie Titles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-best-captured-moments-made-available-to-iphone/"><u>[New] 2024 Approved Instagram's Best Captured Moments Made Available to iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-avoiding-legal-issues-best-practices-for-zoom-records/"><u>[New] In 2024, Avoiding Legal Issues Best Practices for Zoom Records</u></a></li>
-<li><a href="https://article-files.techidaily.com/7-writing-linkedin-summary-tips-you-must-know/"><u>7 Writing LinkedIn Summary Tips You Must Know</u></a></li>
-<li><a href="https://article-files.techidaily.com/aerial-cinematography-secrets-unveiled-for-2024/"><u>Aerial Cinematography Secrets Unveiled for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-15-gear-to-secure-your-gopro-on-movement-for-2024/"><u>Best 15 Gear to Secure Your GoPro on Movement for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere-for-2024/"><u>Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/download-movavis-free-audio-transformer-high-quality-sound-file-conversion-tool/"><u>Download Movavi's Free Audio Transformer - High-Quality Sound File Conversion Tool</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-a2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi A2 Phone? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-composers-path-to-infusing-music-in-online-videos-fb/"><u>In 2024, The Composer's Path to Infusing Music in Online Videos (FB)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/tricks-to-clear-up-screenshots-of-fuzzy-fb-videos-for-2024/"><u>Tricks to Clear Up Screenshots of Fuzzy FB Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-pathway-to-adding-sound-in-adobe-premiere/"><u>[New] A Step-by-Step Pathway to Adding Sound in Adobe Premiere</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-three-ways-to-make-your-instagram-videos-pop-with-captions/"><u>[New] In 2024, Three Ways to Make Your Instagram Videos Pop with Captions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-usb-c-revolution-with-lgs-ultra-hd-tv-the-27ud88/"><u>[New] In 2024, USB-C Revolution with LG's Ultra HD TV, the 27UD88</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revolutionizing-video-sharing-alternatives-to-youtube/"><u>[New] Revolutionizing Video Sharing Alternatives to YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-perfectly-sharing-your-photography-on-youtube-for-2024/"><u>[New] Step-by-Step Perfectly Sharing Your Photography on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-recording-equipment-for-creating-youtube-masterpieces-for-2024/"><u>[Updated] Best Recording Equipment For Creating YouTube Masterpieces for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-explore-top-virtual-reality-bike-adventures-for-2024/"><u>[Updated] Explore Top Virtual Reality Bike Adventures for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-no-cost-nature-inspired-screen-images/"><u>[Updated] In 2024, No-Cost, Nature Inspired Screen Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-pinnacle-av-artisans-an-exclusive-list-for-you/"><u>[Updated] In 2024, Pinnacle AV Artisans An Exclusive List for You</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-masterclass-in-kinemaster-application-and-top-tier-opponents-online/"><u>[Updated] Masterclass in KineMaster Application & Top-Tier Opponents Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-m1-2021-model-a-revolutionary-blend-of-portability-and-desktop-level-performance-reviewed/"><u>IPad Pro (M1, 2021 Model): A Revolutionary Blend of Portability and Desktop-Level Performance Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-taskbar-icon-shortcuts-in-windows-10-using-these-4-expert-techniques/"><u>Revive Your Taskbar Icon Shortcuts in Windows 10 Using These 4 Expert Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/timing-duration-for-a-20mb-high-definition-video-for-2024/"><u>Timing Duration for a 20Mb High-Definition Video for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-teredos-disqualification-a-comprehensive-guide/"><u>Understanding Teredo's Disqualification - A Comprehensive Guide</u></a></li>
 </ul></div>
 

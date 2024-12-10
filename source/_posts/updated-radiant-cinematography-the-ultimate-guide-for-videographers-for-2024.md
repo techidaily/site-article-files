@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Radiant Cinematography  The Ultimate Guide for Videographers for 2024\""
-date: 2024-11-29T01:04:36.219Z
-updated: 2024-12-03T19:09:44.769Z
+date: 2024-12-09T19:14:25.964Z
+updated: 2024-12-10T19:21:49.256Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -58,7 +54,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -73,10 +69,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -85,21 +77,21 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -111,11 +103,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -151,24 +151,18 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-high-definition-cameras-for-extreme-enthusiasts/"><u>[New] 2024 Approved Essential High Definition Cameras for Extreme Enthusiasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cheerful-media-extractor-analysis/"><u>[New] Cheerful Media Extractor Analysis</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-discover-these-must-try-iphone-vr-titles-for-2024/"><u>[New] Discover These Must-Try iPhone VR Titles for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[New] Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-10-relaxing-hobbies-outside-the-athletic-domain/"><u>[New] Top 10 Relaxing Hobbies Outside the Athletic Domain</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>[Updated] 2024 Approved How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-compre-written-by-john-doe-phd-in-psychology-specializing-in-human-behavior-and-motivation-motivational-interviewing/"><u>[Updated] 2024 Approved The Compre Written By John Doe, PhD in Psychology, Specializing in Human Behavior and Motivation (Motivational Interviewing)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevating-your-audacity-skills-for-professional-audio-capture-for-2024/"><u>[Updated] Elevating Your Audacity Skills for Professional Audio Capture for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-skills-for-youtube-gamers-for-2024/"><u>[Updated] Essential Skills for YouTube Gamers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-craft-your-ultimate-music-collection/"><u>[Updated] Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-unlocked-step-by-step-guide-for-enthusiasts/"><u>2024 Approved Haul Videography Unlocked Step-by-Step Guide for Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-comfortable-virtual-realities/"><u>2024 Approved Mastering Comfortable Virtual Realities</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-13-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>In 2024, Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-exclusive-club-festivities-after-vidcon/"><u>In 2024, Youtube's Exclusive Club Festivities After VidCon</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/solution-how-to-fix-missing-sound-in-adobe-premiere-pro-while-importing-or-exporting-footage/"><u>Solution: How to Fix Missing Sound in Adobe Premiere Pro While Importing or Exporting Footage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-right-clicks-on-a-windows-10-pc/"><u>Step-by-Step Solution for Non-Responsive Right Clicks on a Windows 10 PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/videoshow-app-complete-review-and-guide-2024/"><u>VideoShow App Complete Review & Guide 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>[New] 2024 Approved Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-selective-alarm-tones-optimal-websites-list/"><u>[New] 2024 Approved Selective Alarm Tones Optimal Websites List</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-artisticjoke-maker-share-laughs-online-for-2024/"><u>[New] ArtisticJoke Maker Share Laughs Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-master-live-broadcasts-a-comprehensible-path-for-one-source-use/"><u>[New] In 2024, Master LIVE Broadcasts A Comprehensible Path for One-Source Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ghostly-gag-gallery/"><u>[Updated] 2024 Approved Ghostly Gag Gallery</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-efficient-video-mastery-merging-windows-11-and-storyremix-technologies-for-2024/"><u>[Updated] Efficient Video Mastery Merging Windows 11 and StoryRemix Technologies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-selection-optimal-drones-available/"><u>2024 Approved Exclusive Selection Optimal Drones Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>2024 Approved Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y200e-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y200e 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-smart-speakers-google-nest-audio-against-the-apple-homepod/"><u>Comparing Smart Speakers: Google Nest Audio Against the Apple HomePod</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals/"><u>Comprehensive Review Navigating Adobe Cloud + Comparing Rivals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-to-perfect-finishes-preventing-defects-in-three-dimensional-printing-processes/"><u>Guide to Perfect Finishes: Preventing Defects in Three-Dimensional Printing Processes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nubia-red-magic-9-proplus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nubia Red Magic 9 Pro+ Phone Screen?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Conquering the Flaws of Windows 11 Photo App for 2024"
-date: 2024-11-26T20:05:09.073Z
-updated: 2024-12-03T19:43:17.343Z
+date: 2024-12-04T16:56:40.178Z
+updated: 2024-12-10T18:41:27.945Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Windows 10 Photos app crashes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -62,12 +66,12 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -83,7 +87,7 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -96,10 +100,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -110,10 +110,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -133,6 +129,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,18 +159,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-is-it-illegal-to-screen-capture-youtube-videos/"><u>[New] In 2024, Is It Illegal to Screen-Capture YouTube Videos?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pursuit-of-riches-terrarias-quintessential-map-rankings-for-2024/"><u>[New] Pursuit of Riches Terraria’s Quintessential Map Rankings for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-incremental-movie-moment/"><u>[Updated] 2024 Approved Incremental Movie Moment</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-wedding-countdown-clock-apps-top-10-picks-androidios/"><u>2024 Approved Essential Wedding Countdown Clock Apps Top 10 Picks (Android/iOS)</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-choices-best-vr-for-drones/"><u>2024 Approved Expert Choices Best VR for Drones</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-from-cloudy-to-crisp-how-to-remove-background-in-picsart/"><u>2024 Approved From Cloudy to Crisp How to Remove Background in Picsart</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-key-techniques-for-smooth-inshot-pivots/"><u>2024 Approved Key Techniques for Smooth Inshot Pivots</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>2024 Approved The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
-<li><a href="https://article-files.techidaily.com/3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-dissection-the-vll-review-process/"><u>Digital Dissection The VLL Review Process</u></a></li>
-<li><a href="https://some-skills.techidaily.com/optimizing-video-calls-a-guide-from-skype-to-zoom-for-2024/"><u>Optimizing Video Calls A Guide From Skype to Zoom for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-oneplus-12-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus 12 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-boosting-your-insta-presence-with-meta-ai-tools/"><u>The Ultimate Guide to Boosting Your Insta Presence with Meta AI Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-historical-imagery-unleashed-from-copyrights/"><u>[New] Historical Imagery Unleashed From Copyrights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>[New] In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-collective-evaluation-of-vllo/"><u>[New] The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transition-trails-your-pathway-to-macos-11-big-sur/"><u>[New] Transition Trails Your Pathway to macOS 11 Big Sur</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>[Updated] 2024 Approved Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-advanced-techniques-in-final-cut-pro-for-2024/"><u>[Updated] Advanced Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-securing-perfection-top-10-free-mac-screen-recorders-unveiled-for-2024/"><u>[Updated] Securing Perfection TOP 10 FREE Mac Screen Recorders Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide-for-2024/"><u>[Updated] Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/error-no-more-mastering-the-art-of-solving-tfla0002-final-exam-glitches/"><u>Error No More: Mastering the Art of Solving 'TFLA0002' Final Exam Glitches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978066376-get-the-latest-lenovo-thinkpad-drivers-for-optimal-performance-guaranteed-secure/"><u>Get the Latest Lenovo ThinkPad Drivers for Optimal Performance – Guaranteed Secure</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-full-tutorial-on-exploiting-googles-ai-driven-speech-transcription-service/"><u>In 2024, Full Tutorial on Exploiting Google's AI-Driven Speech Transcription Service</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/premium-concealed-usb-duplicator-auto-backup-feature-from-usb-drive/"><u>Premium Concealed USB Duplicator – Auto Backup Feature From USB Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-solution-stop-the-devolder-game-crashes-on-your-computer/"><u>Simple Solution: Stop the DeVolder Game Crashes on Your Computer</u></a></li>
 </ul></div>
 

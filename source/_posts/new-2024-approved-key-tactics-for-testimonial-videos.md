@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Key Tactics for Testimonial Videos\""
-date: 2024-08-22T15:09:07.969Z
-updated: 2024-08-23T15:09:07.969Z
+date: 2024-12-03T17:32:20.391Z
+updated: 2024-12-10T19:33:59.496Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ If you want to learn how to create video testimonials that convert, then this po
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
 
 It may seem like a daunting task, but there are several ways you can go about defining who this person is:
@@ -41,8 +45,9 @@ It may seem like a daunting task, but there are several ways you can go about de
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Include Strong Opinions
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
@@ -57,9 +62,6 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
 
 When asking someone for their thoughts on a topic or issue, there's always going to be some variation in how people respond. Some will talk about personal experiences; others will talk about what they've learned from others' experiences; still, others might share some advice for future generations who might encounter similar problems. The key here is that your main objective is not necessarily the information itself (though this can help), but rather the emotion behind it—what effect does this experience have on your audience?
@@ -67,31 +69,32 @@ When asking someone for their thoughts on a topic or issue, there's always going
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lighting, Sound, and Video Quality Matter
 
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Skeptics and Negative Nellies
 
@@ -101,9 +104,6 @@ You might have skeptics and negative nellies in your audience. They're the ones 
 
 These people will try to poke holes in what you've done and make it sound like your product or service isn't worth buying no matter what you do for them. Luckily for us, there are a few things we can do about this!
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you're looking to boost your sales with testimonial videos, then you need to be sure that they reflect the quality of your product or service. Customers will be more likely to trust a testimonial if it's given by someone who seems authentic and honest in their praise. Try these tactics out for yourself and see what results in you get!
@@ -111,7 +111,6 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
@@ -137,4 +136,24 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-a-peek-at-cinematic-magic-in-vr-worlds/"><u>[New] In 2024, A Peek at Cinematic Magic in VR Worlds</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enhancing-collaboration-a-guide-from-skype-meetings-to-zoom/"><u>[New] In 2024, Enhancing Collaboration A Guide From Skype Meetings to Zoom</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-noble-nine-top-dvd-creation-tools-sierra-edition-for-2024/"><u>[New] Noble Nine Top DVD Creation Tools, Sierra Edition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>[Updated] 2024 Approved A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beginners-blueprint-for-ipad-time-lapse-videos/"><u>[Updated] Beginner's Blueprint for iPad Time-Lapse Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-exploring-and-locating-videos-on-facebook-platform/"><u>[Updated] Exploring and Locating Videos on Facebook Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-meetings-to-media-how-zoom-powers-fb-live-content-for-2024/"><u>[Updated] From Meetings to Media How Zoom Powers FB Live Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-next-gen-recording-nine-leading-webmicrone-recorders-23/"><u>[Updated] In 2024, Next-Gen Recording Nine Leading Webmicrone Recorders ('23)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-inshots-competitors-for-pclaptop-editors-for-2024/"><u>[Updated] Inshot's Competitors for PC/Laptop Editors for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-x-treme-selfies-vintage-iphone-x-pics/"><u>2024 Approved X-Treme Selfies Vintage iPhone X Pics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015713614-corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cutting-edge-optics-top-recommendations-for-best-4k-cinematography/"><u>Cutting-Edge Optics Top Recommendations for Best 4K Cinematography</u></a></li>
+<li><a href="https://games-able.techidaily.com/discreetly-stowing-steam-titles/"><u>Discreetly Stowing Steam Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors-for-2024/"><u>Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-v29e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo V29e Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-resolving-the-problem-of-red-dead-redemption-2-not-starting-properly/"><u>In-Depth Troubleshooting: Resolving the Problem of Red Dead Redemption 2 Not Starting Properly</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-tier-voice-to-text-applications/"><u>Top Tier Voice to Text Applications</u></a></li>
+</ul></div>
 

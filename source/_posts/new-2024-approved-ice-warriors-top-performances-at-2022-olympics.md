@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Ice Warriors  Top Performances at 2022 Olympics\""
-date: 2024-12-02T23:57:11.238Z
-updated: 2024-12-03T18:28:10.704Z
+date: 2024-12-09T19:30:24.629Z
+updated: 2024-12-10T17:02:11.180Z
 tags: 
   - screen-recording
   - ai video
@@ -27,11 +27,11 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -41,13 +41,13 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
@@ -56,6 +56,10 @@ Russia’s Semen Elistratov wins the bronze medal.
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -69,16 +73,12 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -94,6 +94,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -123,10 +127,6 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -150,21 +150,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-polishing-profile-vids-tips-and-tricks/"><u>[New] In 2024, Polishing Profile Vids Tips and Tricks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-professional-guidelines-for-text-overlays-vimeo/"><u>[Updated] 2024 Approved Professional Guidelines for Text Overlays (Vimeo)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-full-potential-share-videos-on-fb-effectively/"><u>[Updated] In 2024, Unlocking Full Potential Share Videos on FB Effectively</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-10-best-mobile-writing-tools-for-iosandroid-images/"><u>2024 Approved 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-encompassing-views-vs-enhanced-visual-depth/"><u>2024 Approved Encompassing Views vs Enhanced Visual Depth</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-free-eco-templates-for-video-creation/"><u>2024 Approved Free Eco Templates for Video Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>2024 Approved Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>2024 Approved Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-sculpted-sound-diminishment-for-impact/"><u>2024 Approved Sculpted Sound Diminishment for Impact</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-10-final-cut-pro-enhancers/"><u>2024 Approved The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-capture-stellar-tiktoks-with-ease-and-flair-for-2024/"><u>How to Capture Stellar TikToks with Ease and Flair for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-live-stream-via-network-in-vlc/"><u>In 2024, Step-by-Step Live Stream via Network in VLC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-final-cut-pro-transition-tips-3-essential-methods/"><u>New Final Cut Pro Transition Tips 3 Essential Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>[New] 2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-prodigious-editing-power-utilizing-inshot-on-devices/"><u>[New] 2024 Approved Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-decoding-wirecast-other-broadcasting-software-for-2024/"><u>[New] Decoding WireCast Other Broadcasting Software for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>[New] Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>[New] Flawless Online Invitation Crafting YouTube Subscription Buttons</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-essential-aspect-ratio-info-for-effective-twitter-videos/"><u>[Updated] 2024 Approved Essential Aspect Ratio Info for Effective Twitter Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-homemade-video-making-top-5-efficient-methods-you-must-know/"><u>[Updated] Homemade Video Making Top 5 Efficient Methods You Must Know</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-grab-tailor-made-cost-free-outro-videos/"><u>[Updated] In 2024, Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-holding-attention-6-video-classifications/"><u>[Updated] The Art of Holding Attention 6 Video Classifications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-musica-flac-a-wav-de-manera-gratuita-en-linea-usando-movavi/"><u>Convertir Música Flac a Wav De Manera Gratuita en Línea Usando Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/enlightening-epics-and-epochs-the-leading-storytelling-institutions-top-8-for-2024/"><u>Enlightening Epics and Epochs The Leading Storytelling Institutions (Top 8) for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-fixes-and-tweaks-to-enhance-your-wow-gaming-experience-low-fps-solutions/"><u>Essential Fixes & Tweaks to Enhance Your WoW Gaming Experience - Low FPS Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y27-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y27 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
 

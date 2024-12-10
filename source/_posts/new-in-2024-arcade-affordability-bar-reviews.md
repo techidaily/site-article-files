@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, ARCADE AFFORDABILITY BAR  Reviews\""
-date: 2024-08-22T15:10:24.452Z
-updated: 2024-08-23T15:10:24.452Z
+date: 2024-12-06T18:29:54.945Z
+updated: 2024-12-10T19:42:03.242Z
 tags: 
   - screen-recording
   - ai video
@@ -55,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ## The Pros and Cons of POT Player
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -65,23 +66,21 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 * It creates minimal loads of memory and CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Bad
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Deep Review of Pot Player
 
 ### 1\. Adding Files and Managing Playlists
@@ -91,6 +90,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Playing Audio Files
 
@@ -102,6 +105,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Playing Video Files
 
  Generally, the video frame appears on left portion of screen and right one stays cluttered with playlist but you can simply close it by pressing the little arrow head on right most corner of screen. In order to bring video to the full screen mode, you need to double click over it. Return back to small window by pressing Esc or double click again.
@@ -110,18 +117,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![pot-play-video ](https://images.wondershare.com/filmora/article-images/pot-play-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -145,4 +142,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-crucial-collections-8-innovative-products-to-boost-your-professional-edge-for-2024/"><u>[New] Crucial Collections 8 Innovative Products to Boost Your Professional Edge for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-oscillation-engineer-kit-for-2024/"><u>[New] Oscillation Engineer Kit for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-plotting-your-path-in-the-realm-of-visual-arts/"><u>[New] Plotting Your Path in the Realm of Visual Arts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>[Updated] 2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamlining-your-way-to-high-quality-android-recordings/"><u>[Updated] In 2024, Streamlining Your Way to High-Quality Android Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-masterclass-in-digital-animation-the-art-of-creating-gifs-for-2024/"><u>[Updated] Masterclass in Digital Animation The Art of Creating GIFs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-meeting-efficiency-using-zoom-in-your-email-routine-with-gmail/"><u>[Updated] Maximizing Meeting Efficiency Using Zoom in Your Email Routine with Gmail</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>2024 Approved Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synchronizing-releases-with-listener-habits/"><u>2024 Approved Synchronizing Releases with Listener Habits</u></a></li>
+<li><a href="https://fox-within.techidaily.com/come-liberare-la-casella-piena-su-hotmail-con-strategie-prove-e-verificate/"><u>Come Liberare La Casella Piena Su Hotmail Con Strategie Prove E Verificate</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/downloading-and-setting-up-llama-2-locally-explained/"><u>Downloading and Setting up Llama 2 Locally Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/experience-reality-redefined-with-htc-vive/"><u>Experience Reality Redefined with HTC Vive</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality.</u></a></li>
+<li><a href="https://article-files.techidaily.com/premium-sound-to-text-converters/"><u>Premium Sound to Text Converters</u></a></li>
+</ul></div>
 

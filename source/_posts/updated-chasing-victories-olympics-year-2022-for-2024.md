@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Chasing Victories  Olympics, Year 2022 for 2024\""
-date: 2024-12-01T02:51:20.548Z
-updated: 2024-12-03T20:09:35.799Z
+date: 2024-12-09T18:55:00.968Z
+updated: 2024-12-10T18:18:10.319Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -40,10 +36,6 @@ Here are the main highlights of 1500 meter short track speed skating held at the
 Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
@@ -57,10 +49,6 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
@@ -68,6 +56,10 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -78,7 +70,11 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -94,6 +90,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -124,7 +124,7 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,22 +150,16 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-social-media-economy-maximizing-your-facebook-revenue/"><u>[New] In 2024, The Social Media Economy Maximizing Your Facebook Revenue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-motion-without-touch-sensors/"><u>[New] The Complete Guide to Motion Without Touch Sensors</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>2024 Approved A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-gopro-hero5-footage-analysis/"><u>2024 Approved GoPro Hero5 Footage Analysis</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-nocturnal-landscapes-on-your-iphone/"><u>2024 Approved Nocturnal Landscapes on Your iPhone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-proven-strategies-for-professional-green-screen-filming/"><u>2024 Approved Proven Strategies for Professional Green Screen Filming</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seamless-merge-apple-music-and-videos-together/"><u>2024 Approved Seamless Merge Apple Music & Videos Together</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>2024 Approved The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>2024 Approved The Photographer's Toolkit Essential Tips for Cutting-Edge Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-to-use-game-soundtracks-online/"><u>2024 Approved Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-brand-potential-with-a-comprehensive-guide-to-smm-mastery/"><u>2024 Approved Unleashing Brand Potential with a Comprehensive Guide to SMM Mastery</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unlock-your-creative-potential-best-free-premiere-pro-libraries/"><u>2024 Approved Unlock Your Creative Potential Best Free Premiere Pro Libraries</u></a></li>
-<li><a href="https://facebook.techidaily.com/controlling-who-sees-your-fb-photos/"><u>Controlling Who Sees Your Fb Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-next-level-visual-smart-scanning-with-iphone-16s-new-camera-functionality-echoing-google-lens-capabilities-insights-from-zdnet/"><u>Experience Next-Level Visual Smart Scanning with iPhone 16'S New Camera Functionality Echoing Google Lens Capabilities | Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/izing-youtube-engagement-with-strategic-hashes-for-2024/"><u>Maximizing YouTube Engagement with Strategic Hashes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-touchpad-problems-get-your-scrolling-back-on-track/"><u>Resolving Windows 11 Touchpad Problems – Get Your Scrolling Back on Track!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/king-viewership-on-multiple-channels-youtube-and-friends/"><u>Unlocking Viewership on Multiple Channels (YouTube & Friends)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-podcast-streaming-trick-quick-play-upgrade/"><u>[New] 2024 Approved Top Podcast Streaming Trick - Quick Play Upgrade</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-eliminating-fisheye-lens-distortions-with-gopro/"><u>[New] Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-highlight-effects-assessment-essential-or-excessive-in-2024/"><u>[New] Highlight Effects Assessment Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-perfect-iphone-photos-quick-editing-hacks-for-2024/"><u>[New] Perfect iPhone Photos Quick Editing Hacks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-securing-top-quality-pixel-ringtones-where-to-go-in-2024/"><u>[New] Securing Top Quality Pixel Ringtones Where to Go, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[New] Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-fade-out-in-audacity/"><u>[Updated] In 2024, How to Fade Out in Audacity</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-scrutinizing-hdr-performance-in-luminance-tech/"><u>[Updated] In 2024, Scrutinizing HDR Performance in Luminance Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-multi-image-melding-on-computers-for-2024/"><u>[Updated] Mastering Multi-Image Melding on Computers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-the-door-to-others-tiktok-lives/"><u>[Updated] Unlock the Door to Others' TikTok Lives</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 </ul></div>
 
