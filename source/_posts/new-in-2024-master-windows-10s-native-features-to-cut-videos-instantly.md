@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Master Windows 10'S Native Features to Cut Videos Instantly"
-date: 2024-12-06T17:27:40.837Z
-updated: 2024-12-10T18:22:01.078Z
+date: 2024-12-10T22:46:14.084Z
+updated: 2024-12-16T23:02:18.066Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -54,10 +50,6 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
@@ -65,7 +57,7 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -80,6 +72,10 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
@@ -87,7 +83,7 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -97,10 +93,14 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,18 +127,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[New] 2024 Approved Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-deciphering-the-twitter-archive-a-beginners-tutorial-for-2024/"><u>[New] Deciphering the Twitter Archive A Beginner's Tutorial for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-craft-compelling-youtube-titles-faster-than-ever/"><u>[Updated] Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>[Updated] Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-disk-creation-the-ultimate-tutorial-for-using-windows-nines-burn-feature/"><u>Effortless Disk Creation: The Ultimate Tutorial for Using Windows Nine's Burn Feature</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>In 2024, Beyond Expectations The New Samsung UBD-K8500 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-implementing-dynamic-filters-transform-your-videos-digitally/"><u>In 2024, Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-prime-collection-no-cost-viewers-for-windowsmacos/"><u>In 2024, Prime Collection No-Cost Viewers for Windows/MacOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>In 2024, Streamline Visuals Integrating Filters Into Videos (PC/Mobile)</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-valorant-game-freeze-with-reboot/"><u>Preventing Valorant Game Freeze with Reboot</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/screentosave-mobilepc-video-recording-for-2024/"><u>ScreenToSave Mobile/PC Video Recording for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-delving-into-vrs-potential-and-limitations-for-2024/"><u>[New] Delving Into VR's Potential and Limitations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-live-stream-pioneers-top-10-sites-ranked/"><u>[New] Live Stream Pioneers Top 10 Sites Ranked</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-beyond-wirecast-for-broadcast-solutions/"><u>[New] Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-clear-video-ultimate-guide-to-good-cams-mics/"><u>[Updated] Clear Video Ultimate Guide to Good Cams' Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-complete-step-by-step-to-google-podcast-success/"><u>[Updated] Complete Step-by-Step to Google Podcast Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-expert-advice-for-maximizing-your-iphones-photographic-features/"><u>[Updated] Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-ai-breakthroughs-exploring-the-swift-advancements-of-a-new-technological-era-with-zdnet/"><u>Beyond AI Breakthroughs: Exploring the Swift Advancements of a New Technological Era with ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficient-shortening-of-instagram-video-content-mac/"><u>Efficient Shortening of Instagram Video Content (Mac)</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-access-with-essential-shortcuts-for-windows-narrator/"><u>Elevating Access with Essential Shortcuts for Windows Narrator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859202980-evaluating-the-value-of-minecraft-realms-for-players/"><u>Evaluating the Value of Minecraft Realms for Players</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/explore-nature-on-android-best-animal-simulation-games-for-2024/"><u>Explore Nature on Android Best Animal Simulation Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gearsport-gains-8-frames-up-techniques-unveiled/"><u>Gearsport Gains: 8 Frames Up Techniques Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 11 Pro without Password?</u></a></li>
 </ul></div>
 

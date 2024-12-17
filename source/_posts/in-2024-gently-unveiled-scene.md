@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Gently Unveiled Scene"
-date: 2024-12-04T20:24:50.430Z
-updated: 2024-12-10T17:58:30.885Z
+date: 2024-12-09T18:05:23.287Z
+updated: 2024-12-16T16:50:31.056Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,10 @@ Initially, you need to apply the transition to add fading effects. First, choose
 
 ![apply transition](https://images.wondershare.com/filmora/article-images/2022/03/apply-transition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Single-Sided Transitions
 
 When you place the transition on a single cut, click on Ctrl + drag on the transition to the timeline. Release the mouse when the “End at Cut” or “Start at Cut” icon appears.
@@ -68,7 +72,7 @@ Start At Cut: Adjust the start of the transition at the beginning of the first c
 ![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Fade In/Out sound on Premiere Pro
@@ -102,6 +106,10 @@ Compared to all other crossfades, constant power is the best audio crossfade. Th
 Exponential Fade is opposite to constant power. It fades out the first clip and disappears in the second clip, which brings a smooth logarithmic curve. This is how to add exponential Fade in Premiere Pro to the video.
 
 ![exponential fade](https://images.wondershare.com/filmora/article-images/2022/03/exponential-fade.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Thus, now you know how to add crossfade in Premiere Pro smoothly.
 
@@ -145,138 +153,8 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
-### Conclusion
-
-Thus, in this guide, you learned how to add fade-in Premiere and proper edits to add fade-in Premiere. While sharing any video content, the flow of the video is all it matters. Nowadays, we all share any information or entertainment through videos only. The most demanded software in the market is video editing software, but the point is which is best. We have learned how to add Fade in Adobe Premiere and other fade effects like fade in title Premiere Pro on this journey.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Today’s topic is to add fades in Premiere Pro. Do you want to fade in or out your video to black or white? Then, we have got you. Adobe Premiere Pro is one popular video editing software. Fading is every editor’s trump card, making it enjoyable to viewers by seamless scene transitions and some elements pop onto the screen. Fading is an effortless and beautiful effect that hep the clips to merge into the color of another clip smoothly. It is a way of telling viewers there is a visual change without explicitly telling them. The fade effect is in two forms fade in and fade out. Moreover, Fade-in appears at the beginning of the video and fade-out at the end of the video. And in this blog, we will discuss how to fade in Premiere Pro.
-
-A fade-in refers to the technique that allows video/image to emerge from the black, white, or any color background. In contrast, fade-out relates to the methods which will enable videos/images to blend naturally into the black, white, or color background. We will also learn how to fade in video Premiere Pro.
-
-#### In this article
-
-01 [Fade Video Transition Premiere Pro](#Part 1)
-
-02 [Fade In/Out sound on Premiere Pro](#Part 2)
-
-03 [Add Video fade in Premiere Pro](#Part 3)
-
-## Part 1 Fade Video Transition Premiere Pro
-
-Premiere Pro to add fade transition can be between clips to link and move from one shot to another shot smoothly. Premiere Pro offers many transition effects to edit the videos: Audio, Video, and VR.
-
-Transitions are generally of two types; single-sided or double-sided transitions. Single-sided is when you have only a single clip. This image shows how the transition fades look. The double-sided transition will have a diagonal line, and the single-sided transition will have one-half light and the other half dark.
-
-##### Step1 Apply Transition between the clips
-
-Initially, you need to apply the transition to add fading effects. First, choose Window > Effects. Expand the video or audio transitions, expand the bin containing the transition, and drag and drop the required transition between the two clips.
-
-![apply transition](https://images.wondershare.com/filmora/article-images/2022/03/apply-transition.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-##### Step2 Single-Sided Transitions
-
-When you place the transition on a single cut, click on Ctrl + drag on the transition to the timeline. Release the mouse when the “End at Cut” or “Start at Cut” icon appears.
-
-End At Cut: Adjust the end transition at the end of the first clip
-
-Start At Cut: Adjust the start of the transition at the beginning of the first clip. This is another method to add fade in the Premiere.
-
-![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 2 Fade In/Out sound on Premiere Pro
-
-Are you in doubt about how to fade background music in Premiere Pro? A crossfade is an essential tool for smooth video effects where viewers cannot notice any cuts between the videos, which can be valuable for both video and audio. There are two types of crossfading, either by using keyframes manually or using transitions pre-built in Premiere Pro.
-
-Let’s learn how to add crossfade in Premiere. There are three types of crossfade available in the Premiere: constant gain, constant power, and exponential power to fade music. Lets us discuss how to add music fade in Premiere Pro.
-
-![types of crossfade](https://images.wondershare.com/filmora/article-images/2022/03/types-of-crossfade.jpg)
-
-You can find these options in Effects > Audio Transitions > Crossfade available in the project panel. This is how to add a crossfade in Premiere with just three simple steps. There are three types of crossfade available in Premiere Pro, and below is a brief description of them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Constant Gain
-
-The constant gain crossfades are employed to vary the audio at a constant rate as it fades in and fades out at the transition between the clips. But sometimes, it is often abrupt. These are usually done manually using keyframes.
-
-![constant gain](https://images.wondershare.com/filmora/article-images/2022/03/constant-gain.jpg)
-
-But this constant gain generally seems to be noise and not smooth compared to continuous power. Let us discuss this next.
-
-### Constant Power
-
-Constant Power crossfade creates a smooth, gradual transition effect analogous to dissolve to the following clip compared to constant gain. Constant power fades in the audio effect initially and then fades out at the end of the clip. In the image, you can notice the keyframes have gradually decreased in the first clip and steadily increased at the end of the second clip.
-
-![constant power](https://images.wondershare.com/filmora/article-images/2022/03/constant-power.jpg)
-
-Compared to all other crossfades, constant power is the best audio crossfade. This will be giving a more smoothing effect and gradual shift in gain between the clips, nothing more apparent changes during the transition. This is how to fade in sound on Premiere Pro using constant power crossfade.
-
-### Exponential Fade
-
-Exponential Fade is opposite to constant power. It fades out the first clip and disappears in the second clip, which brings a smooth logarithmic curve. This is how to add exponential Fade in Premiere Pro to the video.
-
-![exponential fade](https://images.wondershare.com/filmora/article-images/2022/03/exponential-fade.jpg)
-
-Thus, now you know how to add crossfade in Premiere Pro smoothly.
-
-## Part 3 Add Video fade in Premiere Pro
-
-When we want to add a black color between two videos for smooth movements, the best idea is to fade-in and fade-out. In Premiere Pro, you will not find a fade option directly. It will appear as Film Dissolve in the settings of the Premiere Pro dashboard. Below is an example clip of how the video will look if you add black color fading effects. Let us discuss how to add video fade in Premiere Pro.
-
-##### Step 1 Choose the effect
-
-To add fade in Premiere Pro, navigate Effects > Video Transitions > Dissolve > Film Dissolve.
-
-![film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/film-dissolve.jpg)
-
-Fade in and out can be done using Film Dissolve found in the Video transitions folder.
-
-##### Step 2 Appling Fade in/out
-
-In Adobe Premiere, add Fade in or out, click and hold on Film Dissolve effect. Drag the Effect onto the video portion in the Timeline to create a fade-in effect drop at the beginning of the clip. To create a fade-out effect, drop at the end of the clip. After everything is automatic, you can clip on the Play button to see its action.
-
-![applying film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/applying-film-dissolve.jpg)
-
-##### Step 3 Change length of the Fade in and out effects
-
-It is possible to change the length of the Fade in and out effects after the film dissolve is applied. You can notice that the Fade gets added between the clip. Inside the video, there is a small box. You can click on it drag their edges to increase the duration of the fade-in/out in the video.
-
-![change length](https://images.wondershare.com/filmora/article-images/2022/03/change-length.jpg)
-
-Short video transitions are the best between the clips for most transitions. No one would like to wait between two scenes, but there are situations you might want to extend. This is how to add fade in the premiere.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Tip: Fade In/Out Effects with Filmora
-
-There is many other professional editing software like Adobe Premiere Pro for Fade in/out, but Wondershare Filmora offers the easiest and simple way. Same as premiere pro, Filmora fading effects is called Dissolve transition sometimes, lap dissolve transitions are a gradual smooth transition to move from one image to another. Filmora offers many transitions under ripple or dissolves categories like Dispersion blur, evaporate, ripple, wind, swirl, or wave. You can edit the duration of the transitions to get better results. A unique feature in Filmora is that just simple fading effects, you can use motion fade effect to make your footage more vivid. Filmora gives multiple colors to choose from for transitions.
-
-A new feature in the latest versions of Filmora is the keyframing animation feature. This feature is ideal for adding fade-in and fade-out transitions, and you can have more control over the Opacity and duration in fading using Filmora.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/images/filmora-box.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -319,6 +197,10 @@ Start At Cut: Adjust the start of the transition at the beginning of the first c
 
 ![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2 Fade In/Out sound on Premiere Pro
 
 Are you in doubt about how to fade background music in Premiere Pro? A crossfade is an essential tool for smooth video effects where viewers cannot notice any cuts between the videos, which can be valuable for both video and audio. There are two types of crossfading, either by using keyframes manually or using transitions pre-built in Premiere Pro.
@@ -328,10 +210,6 @@ Let’s learn how to add crossfade in Premiere. There are three types of crossfa
 ![types of crossfade](https://images.wondershare.com/filmora/article-images/2022/03/types-of-crossfade.jpg)
 
 You can find these options in Effects > Audio Transitions > Crossfade available in the project panel. This is how to add a crossfade in Premiere with just three simple steps. There are three types of crossfade available in Premiere Pro, and below is a brief description of them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Constant Gain
 
@@ -357,6 +235,10 @@ Exponential Fade is opposite to constant power. It fades out the first clip and 
 
 Thus, now you know how to add crossfade in Premiere Pro smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3 Add Video fade in Premiere Pro
 
 When we want to add a black color between two videos for smooth movements, the best idea is to fade-in and fade-out. In Premiere Pro, you will not find a fade option directly. It will appear as Film Dissolve in the settings of the Premiere Pro dashboard. Below is an example clip of how the video will look if you add black color fading effects. Let us discuss how to add video fade in Premiere Pro.
@@ -375,10 +257,6 @@ In Adobe Premiere, add Fade in or out, click and hold on Film Dissolve effect. D
 
 ![applying film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/applying-film-dissolve.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3 Change length of the Fade in and out effects
 
 It is possible to change the length of the Fade in and out effects after the film dissolve is applied. You can notice that the Fade gets added between the clip. Inside the video, there is a small box. You can click on it drag their edges to increase the duration of the fade-in/out in the video.
@@ -386,10 +264,6 @@ It is possible to change the length of the Fade in and out effects after the fil
 ![change length](https://images.wondershare.com/filmora/article-images/2022/03/change-length.jpg)
 
 Short video transitions are the best between the clips for most transitions. No one would like to wait between two scenes, but there are situations you might want to extend. This is how to add fade in the premiere.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip: Fade In/Out Effects with Filmora
 
@@ -422,6 +296,10 @@ A fade-in refers to the technique that allows video/image to emerge from the bla
 02 [Fade In/Out sound on Premiere Pro](#Part 2)
 
 03 [Add Video fade in Premiere Pro](#Part 3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1 Fade Video Transition Premiere Pro
 
@@ -489,6 +367,10 @@ To add fade in Premiere Pro, navigate Effects > Video Transitions > Dissolve > F
 
 ![film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/film-dissolve.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fade in and out can be done using Film Dissolve found in the Video transitions folder.
 
 ##### Step 2 Appling Fade in/out
@@ -504,8 +386,126 @@ It is possible to change the length of the Fade in and out effects after the fil
 ![change length](https://images.wondershare.com/filmora/article-images/2022/03/change-length.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Short video transitions are the best between the clips for most transitions. No one would like to wait between two scenes, but there are situations you might want to extend. This is how to add fade in the premiere.
+
+### Tip: Fade In/Out Effects with Filmora
+
+There is many other professional editing software like Adobe Premiere Pro for Fade in/out, but Wondershare Filmora offers the easiest and simple way. Same as premiere pro, Filmora fading effects is called Dissolve transition sometimes, lap dissolve transitions are a gradual smooth transition to move from one image to another. Filmora offers many transitions under ripple or dissolves categories like Dispersion blur, evaporate, ripple, wind, swirl, or wave. You can edit the duration of the transitions to get better results. A unique feature in Filmora is that just simple fading effects, you can use motion fade effect to make your footage more vivid. Filmora gives multiple colors to choose from for transitions.
+
+A new feature in the latest versions of Filmora is the keyframing animation feature. This feature is ideal for adding fade-in and fade-out transitions, and you can have more control over the Opacity and duration in fading using Filmora.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/images/filmora-box.png)
+
+### Conclusion
+
+Thus, in this guide, you learned how to add fade-in Premiere and proper edits to add fade-in Premiere. While sharing any video content, the flow of the video is all it matters. Nowadays, we all share any information or entertainment through videos only. The most demanded software in the market is video editing software, but the point is which is best. We have learned how to add Fade in Adobe Premiere and other fade effects like fade in title Premiere Pro on this journey.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Today’s topic is to add fades in Premiere Pro. Do you want to fade in or out your video to black or white? Then, we have got you. Adobe Premiere Pro is one popular video editing software. Fading is every editor’s trump card, making it enjoyable to viewers by seamless scene transitions and some elements pop onto the screen. Fading is an effortless and beautiful effect that hep the clips to merge into the color of another clip smoothly. It is a way of telling viewers there is a visual change without explicitly telling them. The fade effect is in two forms fade in and fade out. Moreover, Fade-in appears at the beginning of the video and fade-out at the end of the video. And in this blog, we will discuss how to fade in Premiere Pro.
+
+A fade-in refers to the technique that allows video/image to emerge from the black, white, or any color background. In contrast, fade-out relates to the methods which will enable videos/images to blend naturally into the black, white, or color background. We will also learn how to fade in video Premiere Pro.
+
+#### In this article
+
+01 [Fade Video Transition Premiere Pro](#Part 1)
+
+02 [Fade In/Out sound on Premiere Pro](#Part 2)
+
+03 [Add Video fade in Premiere Pro](#Part 3)
+
+## Part 1 Fade Video Transition Premiere Pro
+
+Premiere Pro to add fade transition can be between clips to link and move from one shot to another shot smoothly. Premiere Pro offers many transition effects to edit the videos: Audio, Video, and VR.
+
+Transitions are generally of two types; single-sided or double-sided transitions. Single-sided is when you have only a single clip. This image shows how the transition fades look. The double-sided transition will have a diagonal line, and the single-sided transition will have one-half light and the other half dark.
+
+##### Step1 Apply Transition between the clips
+
+Initially, you need to apply the transition to add fading effects. First, choose Window > Effects. Expand the video or audio transitions, expand the bin containing the transition, and drag and drop the required transition between the two clips.
+
+![apply transition](https://images.wondershare.com/filmora/article-images/2022/03/apply-transition.jpg)
+
+##### Step2 Single-Sided Transitions
+
+When you place the transition on a single cut, click on Ctrl + drag on the transition to the timeline. Release the mouse when the “End at Cut” or “Start at Cut” icon appears.
+
+End At Cut: Adjust the end transition at the end of the first clip
+
+Start At Cut: Adjust the start of the transition at the beginning of the first clip. This is another method to add fade in the Premiere.
+
+![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
+
+## Part 2 Fade In/Out sound on Premiere Pro
+
+Are you in doubt about how to fade background music in Premiere Pro? A crossfade is an essential tool for smooth video effects where viewers cannot notice any cuts between the videos, which can be valuable for both video and audio. There are two types of crossfading, either by using keyframes manually or using transitions pre-built in Premiere Pro.
+
+Let’s learn how to add crossfade in Premiere. There are three types of crossfade available in the Premiere: constant gain, constant power, and exponential power to fade music. Lets us discuss how to add music fade in Premiere Pro.
+
+![types of crossfade](https://images.wondershare.com/filmora/article-images/2022/03/types-of-crossfade.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+You can find these options in Effects > Audio Transitions > Crossfade available in the project panel. This is how to add a crossfade in Premiere with just three simple steps. There are three types of crossfade available in Premiere Pro, and below is a brief description of them.
+
+### Constant Gain
+
+The constant gain crossfades are employed to vary the audio at a constant rate as it fades in and fades out at the transition between the clips. But sometimes, it is often abrupt. These are usually done manually using keyframes.
+
+![constant gain](https://images.wondershare.com/filmora/article-images/2022/03/constant-gain.jpg)
+
+But this constant gain generally seems to be noise and not smooth compared to continuous power. Let us discuss this next.
+
+### Constant Power
+
+Constant Power crossfade creates a smooth, gradual transition effect analogous to dissolve to the following clip compared to constant gain. Constant power fades in the audio effect initially and then fades out at the end of the clip. In the image, you can notice the keyframes have gradually decreased in the first clip and steadily increased at the end of the second clip.
+
+![constant power](https://images.wondershare.com/filmora/article-images/2022/03/constant-power.jpg)
+
+Compared to all other crossfades, constant power is the best audio crossfade. This will be giving a more smoothing effect and gradual shift in gain between the clips, nothing more apparent changes during the transition. This is how to fade in sound on Premiere Pro using constant power crossfade.
+
+### Exponential Fade
+
+Exponential Fade is opposite to constant power. It fades out the first clip and disappears in the second clip, which brings a smooth logarithmic curve. This is how to add exponential Fade in Premiere Pro to the video.
+
+![exponential fade](https://images.wondershare.com/filmora/article-images/2022/03/exponential-fade.jpg)
+
+Thus, now you know how to add crossfade in Premiere Pro smoothly.
+
+## Part 3 Add Video fade in Premiere Pro
+
+When we want to add a black color between two videos for smooth movements, the best idea is to fade-in and fade-out. In Premiere Pro, you will not find a fade option directly. It will appear as Film Dissolve in the settings of the Premiere Pro dashboard. Below is an example clip of how the video will look if you add black color fading effects. Let us discuss how to add video fade in Premiere Pro.
+
+##### Step 1 Choose the effect
+
+To add fade in Premiere Pro, navigate Effects > Video Transitions > Dissolve > Film Dissolve.
+
+![film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/film-dissolve.jpg)
+
+Fade in and out can be done using Film Dissolve found in the Video transitions folder.
+
+##### Step 2 Appling Fade in/out
+
+In Adobe Premiere, add Fade in or out, click and hold on Film Dissolve effect. Drag the Effect onto the video portion in the Timeline to create a fade-in effect drop at the beginning of the clip. To create a fade-out effect, drop at the end of the clip. After everything is automatic, you can clip on the Play button to see its action.
+
+![applying film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/applying-film-dissolve.jpg)
+
+##### Step 3 Change length of the Fade in and out effects
+
+It is possible to change the length of the Fade in and out effects after the film dissolve is applied. You can notice that the Fade gets added between the clip. Inside the video, there is a small box. You can click on it drag their edges to increase the duration of the fade-in/out in the video.
+
+![change length](https://images.wondershare.com/filmora/article-images/2022/03/change-length.jpg)
 
 Short video transitions are the best between the clips for most transitions. No one would like to wait between two scenes, but there are situations you might want to extend. This is how to add fade in the premiere.
 
@@ -551,22 +551,20 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-facebooks-live-features-for-optimal-performance/"><u>[New] 2024 Approved Mastering Facebook's Live Features for Optimal Performance</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-snickel-and-snicker-5-best-meme-generating-apps/"><u>[New] 2024 Approved Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-bridging-gaps-building-relationships-with-your-audience-for-2024/"><u>[New] Bridging Gaps Building Relationships with Your Audience for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[New] In 2024, Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-bridge-issue-video-not-playing-tweet-in-chrome/"><u>[Updated] 2024 Approved Bridge Issue Video Not Playing Tweet in Chrome</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-easy-steps-making-time-lapses-on-galaxy-phones/"><u>[Updated] 2024 Approved Easy Steps Making Time-Lapses on Galaxy Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-on-demand-broadcasts-a-guide-to-efficient-recording/"><u>[Updated] 2024 Approved On-Demand Broadcasts A Guide to Efficient Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-comprehensive-giroptic-camera-experience-for-2024/"><u>[Updated] Comprehensive Giroptic Camera Experience for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal/"><u>[Updated] From Basic to Expert Mastering the Art of Adobe PS Background Removal</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/56gs56kf5ogi5b6p5oyh5y2x77ya6kmz6kej6yen5bu66kkr56e76zmk55qe5asw572u56gs56kf5yig5yy6/"><u>硬碟恢復指南：詳解重建被移除的外置硬碟分区</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-crafting-personalized-user-archetypes-using-chatgpt/"><u>Effective Strategies for Crafting Personalized User Archetypes Using ChatGPT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pova-6-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pova 6 Pro 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>In 2024, Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-9a-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-high-def-monitor-list-top-10-picks/"><u>In 2024, The Ultimate High-Def Monitor List Top 10 Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-services-under-windows-11/"><u>Optimizing Disk Usage for Microsoft Telemetry Services Under Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/pinpointing-premium-hdr-camera-brands-for-2024/"><u>Pinpointing Premium HDR Camera Brands for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-economical-aerial-surveillance-best-drones-for-less/"><u>[New] In 2024, Economical Aerial Surveillance Best Drones for Less</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-beyond-the-headsets-the-essence-of-virtual-reality-for-2024/"><u>[Updated] Beyond the Headsets The Essence of Virtual Reality for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-enchant-your-e-images-with-electronic-soundtracks/"><u>[Updated] In 2024, Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-device-to-inshot-a-guide-to-audio-integration/"><u>[Updated] In 2024, From Device to InShot A Guide to Audio Integration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-visual-content-size-videos-correctly-for-instagram/"><u>[Updated] Mastering Visual Content Size Videos Correctly for Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-video-streams-across-networks-using-vlc/"><u>[Updated] Navigating Video Streams Across Networks Using VLC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[Updated] SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-taking-screenshots-of-pc-games-6-ways-for-2024/"><u>[Updated] Taking Screenshots of PC Games [6 Ways] for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-entertainment-top-6-ways-snapchats-my-ai-transforms-your-experience/"><u>Beyond Entertainment: Top 6 Ways Snapchat's My AI Transforms Your Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gray-zone-warfare-gzw-system-failures-in-windows-environments/"><u>Overcoming Gray Zone Warfare (GZW) System Failures in Windows Environments</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-and-craft-of-podcast-storytelling-for-2024/"><u>The Art and Craft of Podcast Storytelling for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/topo-guia-essencial-transferir-dvd-com-sucesso-do-disco-ao-computador-windowsmac-no-ano-novo/"><u>Topo: Guia Essencial: Transferir DVD Com Sucesso Do Disco Ao Computador (Windows/Mac) No Ano Novo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-strategies-for-saving-windows-1110-driver-configurations-effectively/"><u>Ultimate Strategies for Saving Windows 11/10 Driver Configurations Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-behind-shooting-images-with-iphones-hdr-for-2024/"><u>Unveiling the Magic Behind Shooting Images with iPhone’s HDR for 2024</u></a></li>
 </ul></div>
 

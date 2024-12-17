@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Personal Exploration of 3D Printing in '3DR'\""
-date: 2024-08-15T07:47:00.760Z
-updated: 2024-08-16T07:47:00.760Z
+date: 2024-12-15T16:16:52.987Z
+updated: 2024-12-16T19:47:45.869Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -49,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -69,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 #### 2\.  Design
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -88,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 #### 5\. Control Range
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -105,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,4 +140,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-evaluating-magix-multimedia-software-for-2024/"><u>[New] Evaluating MAGIX Multimedia Software for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-6-apps-for-creating-film-captions-in-various-languages/"><u>[New] In 2024, Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-integration-with-picture-in-picture-mode-for-2024/"><u>[New] Seamless Integration with Picture-In-Picture Mode for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-five-leading-pc-tools-for-sonys-ps1-experience-for-2024/"><u>[New] The Five Leading PC Tools for Sony's PS1 Experience for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles-for-2024/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-nature-garmin-virb-ultra-30-cam-review/"><u>[Updated] 2024 Approved Exploring Nature Garmin VIRB Ultra 30 Cam Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[Updated] Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-gopros-top-5-subaquatic-filter-choices/"><u>[Updated] GoPro's Top 5 Subaquatic Filter Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-drone-buying-101-essential-info-to-make-an-informed-choice/"><u>[Updated] In 2024, Drone Buying 101 Essential Info to Make an Informed Choice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-seamless-replay-on-iphone-a-how-to-guide/"><u>[Updated] In 2024, Seamless Replay on iPhone A How-To Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ingenious-intellectual-engagement-best-general-knowledge-channels/"><u>[Updated] Ingenious Intellectual Engagement Best General Knowledge Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-top-pick-non-lenovonon-dell-2-in-1-laptop-deal-before-prime-day-insights-from-zdnet/"><u>Affordable Top Pick: Non-Lenovo/Non-Dell 2-in-1 Laptop Deal Before Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-views-with-the-dji-mavic-air-2-expert-insights-and-rating-highlights/"><u>Elevate Your Views with the DJI Mavic Air 2 – Expert Insights and Rating Highlights</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-intersection-of-business-and-immersive-vr-technology/"><u>In 2024, The Intersection of Business and Immersive VR Technology</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-guide-reduce-your-videos-down-to-8mb-in-seconds/"><u>Quick Guide: Reduce Your Videos Down to 8MB in Seconds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-the-potential-of-windows-with-best-8-podcast-apps/"><u>Unleashing the Potential of Windows with Best 8 Podcast Apps</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/wechsel-der-benutzerprofile-von-windows-10-nach-windows-11-effiziente-losungsansatze/"><u>Wechsel Der Benutzerprofile Von Windows 10 Nach Windows 11 - Effiziente Lösungsansätze</u></a></li>
+</ul></div>
 

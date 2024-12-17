@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Dynamic Image Narration Toolbox"
-date: 2024-08-15T07:44:31.439Z
-updated: 2024-08-16T07:44:31.439Z
+date: 2024-12-12T18:13:21.632Z
+updated: 2024-12-16T16:41:07.585Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Photo Story Platinum
 
 * Easily create your show with photos, videos and music
@@ -40,9 +44,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -55,8 +56,9 @@ After the installation of the program, you will see a window with two options: s
 After the mode selection, click the Add Files button to import your photos and videos.
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2\. Personalize your photo story
@@ -66,8 +68,9 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
@@ -77,15 +80,17 @@ After the customization of your photo story, click the Create tab and choose you
 The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Supported Output Formats by Web Converter
 
 * **DVD**: Standard DVD (D5 or D9)
@@ -98,9 +103,6 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -125,4 +127,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-navigating-network-needs-for-natural-growth-in-youtube-numbers-for-2024/"><u>[New] Navigating Network Needs for Natural Growth in Youtube Numbers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ideo-ventures-youtube-shorts-or-tiktok-for-2024/"><u>[New] Video Ventures YouTube Shorts or TikTok for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-windows-10-essential-tips-for-video-editing-enthusiasts/"><u>[New] Windows 10 Essential Tips for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-deep-dive-into-ustream-and-substitutes-for-2024/"><u>[Updated] Deep Dive Into Ustream & Substitutes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/craft-your-own-french-journey-from-anywhere/"><u>Craft Your Own French Journey From Anywhere!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-dell-hardware-drivers-safe-and-easy-download-for-windows-7-systems/"><u>Essential Dell Hardware Drivers – Safe & Easy Download for Windows 7 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/headset-face-off-googles-simplicity-and-samsungs-complexity-for-2024/"><u>Headset Face-Off Google's Simplicity and Samsung's Complexity for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-edge-40-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Edge 40 Screen | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>Mastering Tales & Truths The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-amateur-to-pro-easy-tips-for-producing-high-quality-films-for-2024/"><u>New From Amateur to Pro Easy Tips for Producing High-Quality Films for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-30-cameras-frontal-screen-for-convenience/"><u>Top 30 Cameras Frontal Screen for Convenience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-improper-installation-of-the-ryzen-master-driver/"><u>Troubleshooting Steps: Resolving Improper Installation of the Ryzen Master Driver</u></a></li>
+</ul></div>
 

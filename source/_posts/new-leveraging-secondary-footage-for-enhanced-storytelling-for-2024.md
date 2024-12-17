@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Secondary Footage for Enhanced Storytelling for 2024"
-date: 2024-12-04T16:28:06.743Z
-updated: 2024-12-10T17:49:08.970Z
+date: 2024-12-09T19:28:15.117Z
+updated: 2024-12-16T21:20:54.223Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -38,7 +42,7 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
@@ -53,16 +57,12 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
@@ -70,12 +70,16 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -86,10 +90,6 @@ This particular kind of B roll film is captured without any direction being give
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -135,24 +135,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] 2024 Approved Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-cutting-edge-background-switchers-lightart-masters/"><u>[New] Cutting-Edge Background Switchers LightArt Masters</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-discovering-the-best-5-web-based-title-artists-of-today/"><u>[New] In 2024, Discovering the Best 5 Web-Based Title Artists of Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-seamless-nba-viewing-discover-the-best-15-streaming-options-for-2024/"><u>[New] Seamless NBA Viewing Discover the Best 15 Streaming Options for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-breaking-down-lgs-360-camera-updates-and-features/"><u>[Updated] 2024 Approved Breaking Down LG's 360 Camera Updates & Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] 2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>[Updated] 2024 Approved Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-gigglegallery-craft-and-share-your-own-funny-faces-for-2024/"><u>[Updated] GiggleGallery Craft and Share Your Own Funny Faces for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>[Updated] In 2024, How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-essentials-of-writing-attractive-vlog-narratives/"><u>[Updated] In 2024, The Essentials of Writing Attractive Vlog Narratives</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-prime-8-converters-seamless-sub-and-srt-transition/"><u>[Updated] Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-projecting-the-financial-footprint-of-music-video-shootouts/"><u>[Updated] Projecting the Financial Footprint of Music Video Shootouts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-competition-unveiled-twitchs-clash-with-youtube-for-2024/"><u>[Updated] The Competition Unveiled Twitch's Clash with YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-decode-the-art-of-youtube-shorts-with-hit-songs/"><u>2024 Approved Decode the Art of YouTube Shorts with Hit Songs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287901162-mp4avihevch265-winxvideo-ai/"><u>最強動画変換ツールランキング：無料でMP4/AVI/HEVC(H265)を変換！ - Winxvideo AIの完全ガイド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s18-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S18</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-use-capcut-translate-to-transform-video-content/"><u>How To Use CapCut Translate to Transform Video Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-70-lite-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor 70 Lite 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-15-best-action-cameras-from-beginners-to-pros/"><u>[New] 2024 Approved 15 Best Action Cameras - From Beginners to Pros</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elite-4k-recording-units-our-favorites-of-18/"><u>[New] 2024 Approved Elite 4K Recording Units Our Favorites of 18</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[New] Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-instant-window-photo-viewer/"><u>[New] In 2024, Prime Instant Window Photo Viewer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-virtual-ride-wonders-select-your-favorites/"><u>[New] In 2024, Virtual Ride Wonders Select Your Favorites</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-6-most-used-4k-youtube-converters-to-compare-for-2024/"><u>[Updated] 6 Most-Used 4K YouTube Converters to Compare for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-youtube-banners-and-thumbnails-for-2024/"><u>[Updated] How to Make YouTube Banners and Thumbnails for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>[Updated] In 2024, How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-elite-screen-hunt-10-monitors-for-your-mac/"><u>[Updated] In 2024, The Elite Screen Hunt #10 Monitors for Your Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-drive-sales-through-smart-use-of-snapchats-tools/"><u>2024 Approved Drive Sales Through Smart Use of Snapchat's Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone8/"><u>動画を分離したい？これがiPhoneで使える8つの最適なオーディオ抜き取りアプリ！</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-guide-to-mastering-zero-cost-timer-functionality-for-2024/"><u>Expert Guide to Mastering Zero Cost Timer Functionality for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-craft-a-unique-channel-look-for-free/"><u>In 2024, Craft a Unique Channel Look for Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try/"><u>In 2024, Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-visual-vibrancy-a-step-by-step-on-animating-story-captions/"><u>In 2024, Visual Vibrancy A Step-by-Step on Animating Story Captions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ming-stature-symbolized-by-play-and-follower-awards-for-2024/"><u>Streaming Stature Symbolized by Play & Follower Awards for 2024</u></a></li>
 </ul></div>
 

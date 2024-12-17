@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Windows 11  The 11 Best Tricks Revealed for 2024\""
-date: 2024-12-08T17:16:36.408Z
-updated: 2024-12-10T16:28:53.040Z
+date: 2024-12-14T22:46:06.418Z
+updated: 2024-12-16T16:50:25.584Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ In 2015, Microsoft announced that Windows 10 would be the last version number fo
 
 After years of small updates, the biggest and most popular operating system in the world finally has some great news for you. At last, Windows fans have something they should get excited about. The following section of this article will share Windows 11 tips and tricks with you that are hidden and secret.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Turn off the Notifications
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
@@ -47,15 +51,19 @@ This feature can be activated through Windows Settings and then by clicking on �
 
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Shortcut Keys
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Taskbar and Start Menu Placements
 
@@ -64,7 +72,7 @@ The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu.
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Remove Unwanted Ads on Apps
@@ -80,7 +88,11 @@ The coolest thing about Windows 11 that most people don’t know is the ‘Voice
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Widgets and Chat Customization
@@ -91,14 +103,6 @@ However, some people do not like using this kind of stuff. They don’t even pre
 
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
@@ -106,11 +110,7 @@ Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. Change your Geolocation
@@ -121,6 +121,10 @@ For changing your default location, hit the ‘Set Default’ button on the righ
 
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Bring Folders on Start
 
 Windows 11 tips and tricks also include bringing back the folders on the start menu. Windows 11 have a built-in setting that shows the folders next to the power button on the Start Menu. You can also personalize things.
@@ -128,10 +132,6 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -151,11 +151,11 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -185,21 +185,24 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-giggle-guides-essential-websites-for-humorous-ringtones/"><u>[New] 2024 Approved Giggle Guides Essential Websites for Humorous Ringtones</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-breaking-into-solos-creating-popular-podcasts/"><u>[New] Breaking Into Solos Creating Popular Podcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-easily-through-trending-youtube-comments-for-2024/"><u>[New] Navigating Easily Through Trending YouTube Comments for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-obsessed-with-broadcasting-choose-between-xsplit-and-obs-for-2024/"><u>[New] Obsessed with Broadcasting? Choose Between XSplit & OBS for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-macbook-air-and-pro-powered-by-m1-decision-guide/"><u>[Updated] In 2024, MacBook Air & Pro Powered by M1 Decision Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>[Updated] In 2024, Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-trailblazing-the-mobile-app-landscape/"><u>[Updated] In 2024, Trailblazing the Mobile App Landscape</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-artisans-path-to-gratuitous-text-animation-for-2024/"><u>[Updated] The Artisan's Path to Gratuitous Text Animation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-ranked-pixel-perfection-appweb-software/"><u>[Updated] Top-Ranked Pixel Perfection App/Web Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-an-everlasting-bin-for-deletion-in-the-windows-interface/"><u>Configuring an Everlasting Bin for Deletion in the Windows Interface</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/deciding-on-a-top-gopro-camera-max-or-hero-11-for-2024/"><u>Deciding on a Top GoPro Camera Max or Hero 11 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/enriching-online-spaces-channels-and-group-connectivity/"><u>Enriching Online Spaces: Channels and Group Connectivity</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-enable-split-view-and-picture-in-picture-on-your-iphone/"><u>How to Enable Split View and Picture-in-Picture on Your iPhone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12r-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12R to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation/"><u>The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[New] 2024 Approved Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>[New] 2024 Approved The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-professional-picks-the-best-video-cams-year-for-2024/"><u>[New] Professional Picks The Best Video Cams Year for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-the-potential-of-thumbnails-in-video-marketing/"><u>[New] Unveiling the Potential of Thumbnails in Video Marketing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-topline-numbers-pewdiepies-yearly-income/"><u>[Updated] 2024 Approved Topline Numbers PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-quality-8-cam-transformations-for-streaming-for-2024/"><u>[Updated] High-Quality 8 Cam Transformations for Streaming for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>[Updated] Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pro-level-performance-a-compre-cookie-box-for-2024/"><u>[Updated] Pro-Level Performance A Compre Cookie Box for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-sound-selection-superior-downloads-for-2024/"><u>Elite Sound Selection Superior Downloads for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/experiential-business-the-vr-revolution-for-2024/"><u>Experiential Business The VR Revolution for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/exploring-chinas-historical-epic-the-significance-of-the-long-march-insights-by-yl-computing/"><u>Exploring China's Historical Epic: The Significance of the Long March - Insights by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-6-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 6 or iPad?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-realtek-bluetooth-for-modern-windows-operating-systems/"><u>Latest Driver Downloads - Realtek Bluetooth for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-savings-and-performance-the-ultimate-guide-to-the-50-laptop-hack-you-cant-miss/"><u>Maximize Savings and Performance: The Ultimate Guide to the $50 Laptop Hack You Can't Miss!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smooth-transitions-in-photography-mastering-face-focused-motion-blur-in-picsart/"><u>Smooth Transitions in Photography Mastering Face-Focused Motion Blur in Picsart</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-recording-youtube-content-on-your-own-terms/"><u>Start Recording YouTube Content on Your Own Terms</u></a></li>
+<li><a href="https://article-files.techidaily.com/superior-sd-card-compatible-with-a7s-ii/"><u>Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-s17t-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo S17t Phone</u></a></li>
 </ul></div>
 

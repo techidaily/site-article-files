@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Visual Vibrancy  A Step-by-Step on Animating Story Captions\""
-date: 2024-12-04T17:22:14.148Z
-updated: 2024-12-10T20:15:09.737Z
+date: 2024-12-09T20:49:06.139Z
+updated: 2024-12-16T19:50:13.694Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ An engaging Instagram animated text video may help you bring your concept to lif
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1\. Use Instagram App
 
 Instagram has made animated text for stories available to all users. More than half of viewers pay close attention to videos, making them the most engaging content format. A new button to make your text animated has been added to the top of the text editing menu in tale creation mode. Your text may flicker or slide from the left depending on the font style.
@@ -38,10 +42,6 @@ The easiest method to ensure that people remember what they've read is to delive
 Step1 Swipe right on Instagram after it's open to go to the story’s creator. Use the create feature to make a stories post, take or upload a picture or video, or both.
 
 ![swipe right on instagram](https://images.wondershare.com/filmora/article-images/2022/09/swipe-right-on-instagram.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 To add words to your tales post, use the text tool. Typing, fading in, bouncing, stretching, swaying, and illuminating are all examples of text animation.
 
@@ -80,7 +80,7 @@ After choosing your scenes, go to the editor to begin creating your animation. T
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Use Animated Text Templates
@@ -92,6 +92,10 @@ Filmora is here to spark your creativity if you're at a stage when it's lacking.
 ##### Step4 Export the Animated Instagram Story
 
 Go to the "Preview" section to see the video after you've completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the "Share" button to immediately share your text animation on social media.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Create Instagram Text animation Online
 
@@ -117,15 +121,15 @@ By producing the video from scratch, you may also practice your creativity. Clic
 
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Share it with your audience
 
 Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!
 
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -143,15 +147,15 @@ After choosing your scenes, go to the editor to begin creating your animation. T
 
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Use Animated Text Templates
 
 Filmora is here to spark your creativity if you're at a stage when it's lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.
 
 ![use animated text templates](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Export the Animated Instagram Story
 
@@ -170,7 +174,7 @@ Launch the FlexClip video editor after uploading your video, GIF, or picture and
 ![upload video into flexclip](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Pick a template or start from scratch
@@ -178,10 +182,6 @@ Launch the FlexClip video editor after uploading your video, GIF, or picture and
 Choose a template to use first from the enormous collection of text animation templates. Visit the ever-expanding template collection of our animated text generator to choose the template for your next text animation. Choose the video that best suits your project by previewing the available ones. A wide variety of animated text scenarios are included in templates to suit all demands. To begin making your animation, choose and include your favorite moments.
 
 ![pick a tempalte flexclip](https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Animate your Font
 
@@ -196,7 +196,7 @@ Once finished, you can either instantly share the finished product on various so
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -227,19 +227,22 @@ The success or failure of your Instagram company depends in large part on engage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ffortless-transition-from-spotify-to-youtube-find-the-best-apps-for-2024/"><u>[New] Effortless Transition From Spotify to YouTube Find the Best Apps for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-wondershare-photo-story-platinum-for-2024/"><u>[New] Wondershare Photo Story Platinum for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>[Updated] In 2024, Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-beyond-reality-horizon-virtual-progress-and-upcoming-challenges/"><u>[Updated] In 2024, Beyond Reality Horizon Virtual Progress & Upcoming Challenges</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-newcomers-elite-entryway-list-for-zooids-for-2024/"><u>[Updated] Newcomers’ Elite Entryway List for Zooids for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-understanding-asmrs-potential-benefits-for-you-for-2024/"><u>[Updated] Understanding ASMR's Potential Benefits for You for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-5-pcs-and-monitors-for-ps5-games-for-2024/"><u>Best 5 PCs & Monitors for PS5 Games for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-pathfinder-wrath-of-the-righteous-not-opening-challenge/"><u>Effective Solutions for 'Pathfinder: Wrath of the Righteous' Not Opening Challenge</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-a-complete-guide-to-sourcing-elite-instagram-ringtones-and-designing-noteworthy-ringtone-alarms/"><u>In 2024, A Complete Guide to Sourcing Elite Instagram Ringtones & Designing Noteworthy Ringtone Alarms</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-discovering-unmatched-premium-rate-free-luts-of-today/"><u>In 2024, Discovering Unmatched Premium-Rate Free LUTs of Today</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-moto-g34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Moto G34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-experts-reveal-unknown-functions-and-features/"><u>In 2024, Insta-Experts Reveal Unknown Functions and Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-your-quest-for-quick-snapstreaming-today/"><u>In 2024, Start Your Quest for Quick Snapstreaming Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-exploring-your-liked-movies-and-shows-on-facebook/"><u>[New] 2024 Approved Exploring Your Liked Movies and Shows on Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gopro-hero5-session-vs-hero-session/"><u>[New] 2024 Approved GoPro Hero5 Session Vs Hero Session</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-journey-through-depths-with-premium-underwater-cameras-2023/"><u>[New] In 2024, Journey Through Depths with Premium Underwater Cameras 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-propel-your-skills-with-the-finest-android-drawing-software/"><u>[New] In 2024, Propel Your Skills with the Finest Android Drawing Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire-for-2024/"><u>[New] Masterful Modulation How to Switch Up Your Character's Speech in Free Fire for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-jest-in-layout-and-edit-suite/"><u>[Updated] 2024 Approved Best Jest in Layout & Edit Suite</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-lost-in-translation-no-videos-on-a6400/"><u>[Updated] 2024 Approved Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-the-universe-of-gesture-technology-for-2024/"><u>[Updated] Exploring the Universe of Gesture Technology for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[Updated] Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipated-apple-ring-launch-exclusive-leaks-on-price-specifications-and-release-timeline/"><u>Anticipated Apple Ring Launch: Exclusive Leaks on Price, Specifications & Release Timeline</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crucial-steps-for-altering-songs-playback-rate-in-spotify/"><u>Crucial Steps for Altering Songs' Playback Rate in Spotify</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hp-screen-malfunction-heres-how-you-can-get-it-up-and-running-again/"><u>HP Screen Malfunction? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-11-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 11 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-your-audiovid-creations-here/"><u>In 2024, Stream Your AudioVid Creations Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-efficiently-implementing-windows-11s-auto-hdr-mode/"><u>In 2024, Tips for Efficiently Implementing Windows 11'S Auto HDR Mode</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-typing-experience-how-to-perform-a-full-keyboard-reset/"><u>Reviving Your Typing Experience: How to Perform a Full Keyboard Reset</u></a></li>
 </ul></div>
 

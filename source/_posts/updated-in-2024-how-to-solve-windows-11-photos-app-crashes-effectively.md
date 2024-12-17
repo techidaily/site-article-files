@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Solve Windows 11 Photos App Crashes Effectively"
-date: 2024-12-03T19:00:12.535Z
-updated: 2024-12-10T18:30:52.164Z
+date: 2024-12-15T22:48:29.641Z
+updated: 2024-12-16T23:10:48.790Z
 tags: 
   - screen-recording
   - ai video
@@ -45,7 +45,15 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Windows 10 Photos app crashes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -61,10 +69,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -76,14 +80,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -108,7 +108,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -122,10 +122,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -133,6 +129,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,22 +159,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>[New] 2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-discover-the-hidden-gems-of-photography-on-pexels/"><u>[New] Discover the Hidden Gems of Photography on Pexels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-assemble-your-unique-google-cardboard-virtual-reality/"><u>[New] In 2024, Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[New] The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-how-to-manual-for-time-stamped-videos-on-youtubes/"><u>[New] The How-To Manual for Time-Stamped Videos on YouTubes</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-2023-no-cost-live-stream-tools-cross-platform-edition-for-2024/"><u>[New] Top 2023 No-Cost Live Stream Tools Cross-Platform Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[Updated] Beating the Blues of Overly Green A Mac Video Editor's Handbook for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-essential-guide-to-timeless-stop-motion-classics-for-2024/"><u>[Updated] The Essential Guide to Timeless Stop-Motion Classics for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>2024 Approved Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-the-affordable-hp-chromebook-revolutionizes-life-without-windows-unbeatable-savings-with-136-off-insights-from-zdnet/"><u>Discover How the Affordable HP Chromebook Revolutionizes Life Without Windows: Unbeatable Savings with $136 Off - Insights From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/film-and-television-as-educational-resources/"><u>Film and Television as Educational Resources</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-essential-guide-to-crafting-engaging-haul-videos/"><u>In 2024, The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/making-movies-magical-the-use-of-youtube-music-in-videos/"><u>Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/optimal-text-movement-collections/"><u>Optimal Text Movement Collections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-tools-to-replay-ps3-classics-on-pc/"><u>[New] 2024 Approved Essential Tools to Replay PS3 Classics on PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-industrys-heavyweight-champions-drones-of-the-year/"><u>[Updated] 2024 Approved Industry's Heavyweight Champions - Drones of the Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>[Updated] Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-viewership-igtv-video-scaling-hacks/"><u>[Updated] Maximizing Viewership IGTV Video Scaling Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-srt-production-via-xml-ssa-and-ttml-conversions-for-2024/"><u>[Updated] SRT Production via XML, SSA & TTML Conversions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-to-enhance-your-youtube-video-positioning/"><u>[Updated] Strategies to Enhance Your YouTube Video Positioning</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-pros-approach-to-optimizing-zoom-settings/"><u>[Updated] The Pro's Approach to Optimizing Zoom Settings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-chroma-techniques-from-raw-footage-to-final-cut-for-2024/"><u>Decoding Chroma Techniques From Raw Footage to Final Cut for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevate-your-engagement-with-strategic-youtube-titles-for-2024/"><u>Elevate Your Engagement with Strategic YouTube Titles for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-stress-just-nfts-a-beginners-handbook/"><u>No Stress, Just NFTs A Beginner’s Handbook</u></a></li>
 </ul></div>
 

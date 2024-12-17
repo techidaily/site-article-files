@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The New Frontier  Understanding AR's Role\""
-date: 2024-12-09T18:04:20.410Z
-updated: 2024-12-10T19:50:00.503Z
+date: 2024-12-15T16:43:15.628Z
+updated: 2024-12-16T20:06:10.729Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of AR
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -132,22 +132,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>[New] 2024 Approved How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-cinemas-best-hope-fueled-film-selections/"><u>[New] Cinema's Best Hope-Fueled Film Selections</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effective-strategies-for-mov-video-recording-in-windows-11-for-2024/"><u>[New] Effective Strategies for MOV Video Recording in Windows 11 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-highest-praised-videos-celebrating-the-15-most-outstanding-unboxing-youtubers-2024/"><u>[New] Highest Praised Videos Celebrating the 15 Most Outstanding Unboxing YouTubers, 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-elite-10-of-tiktok-game-stars/"><u>[New] In 2024, The Elite 10 of TikTok Game Stars</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-spiral-fabricator-package-for-2024/"><u>[New] Spiral Fabricator Package for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-the-secrets-to-smooth-imports-in-windows-10-os-for-2024/"><u>[New] Unlocking the Secrets to Smooth Imports in Windows 10 OS for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-startling-audience-with-compelling-intros/"><u>[Updated] 2024 Approved Startling Audience with Compelling Intros</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-elevate-your-craft-canvas-hidden-design-secrets/"><u>[Updated] In 2024, Elevate Your Craft Canva's Hidden Design Secrets</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-heavy-duty-drone-powerhouses/"><u>[Updated] The Ultimate Guide to Heavy-Duty Drone Powerhouses</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/experts-pathway-navigating-fullscreen-realms-in-premiere-pro-for-2024/"><u>Expert's Pathway Navigating Fullscreen Realms in Premiere Pro for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-your-freefire-gameplay-on-youtube-channels/"><u>In 2024, Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-yuva-2-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Yuva 2 Pro Through Google Earth?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-luxury-cosmetics-series/"><u>[New] 2024 Approved Ultimate Luxury Cosmetics Series</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-youtubes-finest-storyweavers-for-2024/"><u>[Updated] Discovering YouTube's Finest Storyweavers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fast-forward-features-unveiled-the-editors-guidebook-for-2024/"><u>[Updated] Fast-Forward Features Unveiled The Editor's Guidebook for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-meaningful-conversations-an-interviewers-journey/"><u>[Updated] Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm5yuv55s75zcm5pyf77ya44ox44ot44gu44ki44oj44oq44kk44k544ks5l244gj44gm44cb5pig5yop44go5aow44gu44k44kk44of44oz44kw44ks44oe44k544k44o844gz44kl5pa55rov44cn/"><u>「動画同期：プロのアドバイスを使って、映像と声のタイミングをマスターする方法」</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-dialogue-mastery-connecting-with-viewers-flawlessly-for-2024/"><u>Digital Dialogue Mastery Connecting with Viewers Flawlessly for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-software-upgrade-install-stellar-now/"><u>Effortless Software Upgrade - Install Stellar Now</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-building-a-solid-foundation-for-great-interviews/"><u>In 2024, Building A Solid Foundation For Great Interviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ideal-shade-modifier-software/"><u>In 2024, Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-incorporating-music-seamlessly-in-projects-with-premiere-pro/"><u>In 2024, Incorporating Music Seamlessly in Projects with Premiere Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-comprehending-google-hangouts-purpose-and-usage/"><u>Unveiling the Mystery: Comprehending Google Hangouts Purpose and Usage</u></a></li>
 </ul></div>
 

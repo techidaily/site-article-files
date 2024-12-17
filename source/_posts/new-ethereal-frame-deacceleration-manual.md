@@ -1,7 +1,7 @@
 ---
 title: "[New] Ethereal Frame Deacceleration Manual"
-date: 2024-12-09T17:14:55.017Z
-updated: 2024-12-10T18:57:20.416Z
+date: 2024-12-09T18:50:16.362Z
+updated: 2024-12-16T19:06:29.379Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ The use of a phantom super slow-motion camera has numerous benefits for both fil
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Phantom Slow Motion Camera
 
 Slow-motion recordings are very popular in today's society. This is because people can see and appreciate the world around them. People are also able to show off their skills in a new light. The Phantom camera is a great way to capture slow-motion recordings. There are many different ways to use the Phantom camera, but here are some tips on how to get started.
@@ -51,10 +55,6 @@ It is important to pick something that will move slowly or that you can control 
 The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
 
@@ -76,10 +76,6 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -111,15 +107,15 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -138,6 +134,10 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -168,7 +168,7 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -178,10 +178,6 @@ There are many reasons why someone might want or need to use a phantom slow-moti
 Phantom cameras are the newest type of camera on the market that can capture slow-motion footage at an incredibly high speed. These cameras can record up to 2.5 million frames per second, which is significantly higher than any other type of camera. No matter what the reason, phantom slow-motion cameras are an essential tool for anyone who needs to capture fast-moving objects.
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to create a time-lapse video on a phantom slow-motion camera
 
@@ -195,6 +191,10 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -226,15 +226,15 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -255,7 +255,7 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -292,15 +292,24 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-optimizing-images-with-ae-luts-step-by-step/"><u>[Updated] 2024 Approved Optimizing Images with AE LUTs Step-by-Step</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-digital-scrutiny-vll-app-evaluation/"><u>[Updated] Digital Scrutiny VLL App Evaluation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/bypassing-edge-academy-video-free-study-strategies-for-2024/"><u>Bypassing EDGE Academy Video-Free Study Strategies for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-red-magic-9-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Red Magic 9 Pro Through Google Earth?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-find-your-photo-oasis-a-guide-to-pexels/"><u>In 2024, Find Your Photo Oasis A Guide to Pexels</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode Screen?</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-the-art-of-photo-color-correction/"><u>Mastering the Art of Photo Color Correction</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>New 2024 Approved Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-media-driver-issues-on-your-pc-essential-guide/"><u>Resolving Media Driver Issues on Your PC - Essential Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-video-potential-top-9-tips-for-vr-storytelling/"><u>Unlocking Video Potential Top 9 Tips for VR Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-periscope-uncovered-free-entry-details-and-signup-method/"><u>[New] In 2024, Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-the-impact-of-circular-videography/"><u>[New] In 2024, Understanding the Impact of Circular Videography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-depth-look-at-iphones-top-watermarking-software-choices-for-2024/"><u>[New] In-Depth Look at iPhone's Top Watermarking Software Choices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-striking-setups-to-impress-online-audiences/"><u>[New] Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[New] The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-free-and-paid-iphone-photo-experience-top-app-lineup/"><u>[Updated] 2024 Approved Free & Paid iPhone Photo Experience - Top App Lineup</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations-for-2024/"><u>[Updated] How to Make Gmail Meetings Work Zipping Up Zoom Integrations for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-twitter-videos-in-ultra-hd/"><u>[Updated] In 2024, Mastering Twitter Videos in Ultra HD</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-ultimate-4k-gaming-experience-top-laptop-picks/"><u>[Updated] In 2024, Ultimate 4K Gaming Experience - Top Laptop Picks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/st-youtube-conversion-tools-for-webm-format-for-2024/"><u>10 Best YouTube Conversion Tools for WebM Format for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-video-techniques-with-apple-music/"><u>Cutting-Edge Video Techniques with Apple Music</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-functionality-to-your-windows-computers-cddvd-drive/"><u>Expert Tips for Restoring Functionality to Your Windows Computer's CD/DVD Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/flacitunesmp3/"><u>FLAC形式からiTunes対応のMP3への完全ガイド変換</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>In 2024, Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-series-precision-testing-the-best-of-gopro-hero5-b/"><u>In 2024, Pro-Series Precision Testing the Best of GoPro Hero5 B</u></a></li>
+<li><a href="https://article-files.techidaily.com/leveraging-spotifys-advertising-mechanisms/"><u>Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-3d-creations-with-elegoo-saturn-4-ultra-an-in-depth-assessment/"><u>Mastering the Art of 3D Creations with Elegoo Saturn 4 Ultra: An In-Depth Assessment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-review-iphone-14-fulfills-all-necessary-requirements-proving-its-worth/"><u>ZDNet Review: IPhone 14 Fulfills All Necessary Requirements, Proving Its Worth</u></a></li>
 </ul></div>
 

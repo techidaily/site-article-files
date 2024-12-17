@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Optimal Memory Support for Sony Alpha 7SII"
-date: 2024-08-15T07:47:22.275Z
-updated: 2024-08-16T07:47:22.275Z
+date: 2024-12-12T17:09:07.204Z
+updated: 2024-12-16T20:36:44.025Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  Sony A7S II is well known for its abilities to process all media file formats along with 4K resolution levels. But note that you will need huge storage capacity to work with all advanced features of this camera so here is a need to go through available memory cards. Note that Sony A7S II is highly dependent upon type of memory card and when it find that memory card is not meeting desired requirements then card type it simply disables few important features. It is good to ensure that you have bought right card so that your camera can function properly.
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to choose the right memory card for your Sony A7S II
 
@@ -68,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -109,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -136,4 +142,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-transferring-tunes-between-platforms/"><u>[New] 2024 Approved The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques/"><u>[New] 2024 Approved Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-live-without-youtube-shorts-for-2024/"><u>[New] How to Live Without YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tutorial-turning-on-hdr-for-windows-11-users/"><u>[New] In 2024, Tutorial Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premier-phone-editors-for-the-ultimate-gopro-experience-for-2024/"><u>[New] Premier Phone Editors for the Ultimate GoPro Experience for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktoks-triumph-the-most-shared-videos-on-twitter/"><u>[New] TikTok's Triumph The Most Shared Videos on Twitter</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-precision-mixing-techniques-with-logics-audio-fading-for-2024/"><u>[Updated] Precision Mixing Techniques with Logic's Audio Fading for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-excellent-apps-for-streamlined-igtv-vertical-cuts/"><u>2024 Approved Excellent Apps for Streamlined IGTV Vertical Cuts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/how-to-fade-audio-in-lumafusion-for-2024/"><u>How To Fade Audio In Lumafusion for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>In 2024, Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-e13-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto E13 Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-wake-on-lan-activation-essential-steps-for-windows-operating-systems/"><u>Mastering Wake-on-LAN Activation: Essential Steps for Windows Operating Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470655963-struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes.</u></a></li>
+</ul></div>
 

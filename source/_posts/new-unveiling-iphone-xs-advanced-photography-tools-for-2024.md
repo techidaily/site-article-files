@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling iPhone X's Advanced Photography Tools for 2024"
-date: 2024-08-15T07:45:55.169Z
-updated: 2024-08-16T07:45:55.169Z
+date: 2024-12-11T19:39:33.595Z
+updated: 2024-12-16T22:56:40.758Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,14 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 * [Part 3: How to use portrait mode](#part3)
 * [Part 4: Video improvement](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -47,8 +48,13 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -67,23 +73,18 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -91,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -118,4 +120,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-diving-into-mr-beasts-cash-flow/"><u>[New] 2024 Approved Diving Into Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-ios-gaming-apps-with-cutting-edge-vr-features/"><u>[New] 2024 Approved Top iOS Gaming Apps with Cutting-Edge VR Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harness-the-power-of-storytelling-making-captivating-reels-on-facebook-for-2024/"><u>[New] Harness the Power of Storytelling Making Captivating Reels on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-create-gifs-from-youtube-videos/"><u>[New] How to Create GIFs From YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[New] Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[Updated] 2024 Approved Precision in Speech Synthesis Converting Text Formats to SRT</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-video-and-photography-makers-who-mix-sounds-for-2024/"><u>[Updated] Essential Video & Photography Makers Who Mix Sounds for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-cover-video-widthheight-guide/"><u>[Updated] Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>[Updated] In 2024, Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-selecting-the-ideal-m1-equipped-laptop-for-you/"><u>[Updated] In 2024, Selecting the Ideal M1-Equipped Laptop for You</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-role-of-authenticity-in-client-generated-marketing/"><u>[Updated] In 2024, The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>[Updated] In 2024, Transform Your Talk Explore Gratis Options for Audio Effect Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>2024 Approved Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units-for-2024/"><u>Breaking Barriers in Drone Races & Top 5 Innovative FPV Units for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/digital-identity-crafting-a-convenient-metaverse-approach-for-2024/"><u>Digital Identity Crafting A Convenient Metaverse Approach for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps-for-2024/"><u>Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transforming-audio-to-text-on-slides-for-ppt/"><u>Transforming Audio to Text on Slides for PPT</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-video-highlight-makers-for-pc-mac-android-and-ios/"><u>Updated In 2024, Best Video Highlight Makers for PC, Mac, Android, and iOS</u></a></li>
+</ul></div>
 

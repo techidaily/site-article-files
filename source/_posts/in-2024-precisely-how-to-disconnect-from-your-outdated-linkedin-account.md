@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Precisely How To Disconnect From Your Outdated LinkedIn Account"
-date: 2024-08-15T07:46:22.157Z
-updated: 2024-08-16T07:46:22.157Z
+date: 2024-12-11T20:21:36.737Z
+updated: 2024-12-16T20:51:06.135Z
 tags: 
   - screen-recording
   - ai video
@@ -49,20 +49,26 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 * Reopening your LinkedIn account is possible within 20days but the data like recommendations, pending invitations, followings, or group memberships will be lost.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part2: How to Delete LinkedIn Account on PC
 
 **Step 1:** To delete LinkedIn account, sign in by entering the username and the password. On the top right hand side corner, you can find the "Me" tab. From the "Me" tab drop down menu, you can go to Settings & Privacy. Now, under the "Account" tab find the "Account Management" option.
 
 ![linkedin privacy](https://images.wondershare.com/filmora/article-images/linkedin-privacy.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Next, to "Close your LinkedIn account" find the "Change" option and click on it. You will get a warning if you are a premium member that without canceling the premium membership, you cannot close LinkedIn account. Click on "You’ll need to convert it to a Basic membership" option to reach the membership cancelation page.
 
 ![close linkedin accout](https://images.wondershare.com/filmora/article-images/close-linkedin-account.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Then, you need to click on the answer why you wish to delete LinkedIn account from the options available like I have a duplicate account, I'm getting too many emails, I'm not getting any value from my membership, I have a privacy concern, I'm receiving unwanted contact, and Other. At the bottom of the page, click on "Next". You are asked to enter your password. Now, click on Close "Close Account".
 
@@ -70,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 
  This automatically deletes LinkedIn account officially but, it takes few more weeks to remove LinkedIn account from the search engines as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part3: How To Close Linkedin Account On Android Phone
 
  If you wish to close LinkedIn account on Android phone, there’s nothing to worry about. It is very similar to how you delete LinkedIn account on PC.
@@ -80,20 +83,17 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 1. At first, tap on the LinkedIn app and then click on the displayed profile picture. Next, on the top right corner you can find the Settings tab, tap on it. From the Account icon, click on Close Account.
 
 ![linkedin android setting](https://images.wondershare.com/filmora/article-images/linkedin-android-setting.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. A message appears if you wish to "continue", so tap on the continue option.Once you click on the continue option, a similar message like the above in delete LinkedIn account from PC appears as to why you wish to close LinkedIn account. Click on any one reason for leaving LinkedIn and then, proceed to tap "Next". It asks for your password to ensure it’s you and for the security of your account and once entering the password is complete, tap "done".
 
 ![linkedin android close account](https://images.wondershare.com/filmora/article-images/linkedin-android-close-account.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -101,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
  LinkedIn is not rigid about deleting the account or losing a user. It is completely up to you and your convenience, if you wish to remove LinkedIn account completely. Whether mobile browser or Android phone or your computer, the process to cancel LinkedIn account is quite simple and does not involve much of any critical steps. Follow the above points to delete LinkedIn account from your PC or Android.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -128,4 +125,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-choreographing-newscast-endings/"><u>[New] 2024 Approved Choreographing Newscast Endings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-quad-pack-of-superior-4k-video-gear-for-2024/"><u>[New] Elite Quad Pack of Superior 4K Video Gear for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>[New] The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-your-virtual-future-awaits-essential-vr-devices-10-for-2024/"><u>[New] Your Virtual Future Awaits Essential VR Devices (10) for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-laughlounge-beginner-friendly-content-creation/"><u>[Updated] 2024 Approved LaughLounge Beginner-Friendly Content Creation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-photobooth-glitch-unraveling-video-lags/"><u>[Updated] 2024 Approved Photobooth Glitch Unraveling Video Lags</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-apple-m1-pro-vs-m1-max-the-difference-between-them/"><u>[Updated] In 2024, Apple M1 Pro Vs. M1 Max The Difference Between Them</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-movavis-leap-forward-the-2024-edition-of-video-proplus/"><u>[Updated] Movavi's Leap Forward The 2024 Edition of Video Pro+</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-slide-by-slide-audio-integration-for-dynamic-ppts-for-2024/"><u>[Updated] Slide-by-Slide Audio Integration for Dynamic PPTs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-practices-managing-gpu-thermal-output/"><u>Best Practices: Managing GPU Thermal Output</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-friendly-frenemies-top-social-vr-games/"><u>In 2024, Friendly Frenemies Top Social VR Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kickstarting-success-the-initial-actions-for-your-freshly-bought-desktop/"><u>Kickstarting Success: The Initial Actions for Your Freshly Bought Desktop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-hues-a-collection-of-the-best-11-video-tutorials-for-2024/"><u>Mastering Hues A Collection of the Best 11 Video Tutorials for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-advantage-for-dedicated-twitch-watchers/"><u>Prime's Advantage for Dedicated Twitch Watchers</u></a></li>
+</ul></div>
 
