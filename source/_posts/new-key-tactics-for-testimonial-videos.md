@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Tactics for Testimonial Videos"
-date: 2024-12-09T22:36:25.789Z
-updated: 2024-12-16T18:55:33.427Z
+date: 2024-12-23T17:42:46.068Z
+updated: 2024-12-25T17:17:11.089Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ If you want to learn how to create video testimonials that convert, then this po
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
 
 It may seem like a daunting task, but there are several ways you can go about defining who this person is:
@@ -49,22 +53,22 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Use the word “I”.
 * Use the word “we”.
 * Use the word “you”.
 * You can also use the word "they" for an authoritative tone, or "them", which is more casual and vaguer, depending on what you want to convey.
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Keep it All Short and Sweet
 
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
@@ -81,6 +85,10 @@ Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
@@ -89,25 +97,17 @@ When you're listening to your customers, don't just take notes on what they say.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Beware of Skeptics and Negative Nellies
 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
 
 These people will try to poke holes in what you've done and make it sound like your product or service isn't worth buying no matter what you do for them. Luckily for us, there are a few things we can do about this!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,17 +143,14 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[New] 2024 Approved From Script to Spectacle Independent Effect Innovation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-melodious-memories-capturing-songs-in-your-snaps/"><u>[New] 2024 Approved Melodious Memories Capturing Songs in Your Snaps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-a-beginners-journey-to-enhanced-gopro-adventures-for-2024/"><u>[New] A Beginner's Journey to Enhanced GoPro Adventures for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-gradual-dimming-of-sound-in-audacity-masterclass-for-2024/"><u>[New] Gradual Dimming of Sound in Audacity Masterclass for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[New] In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[New] In 2024, Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>[New] NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevating-content-sharing-link-instagram-and-tiktok/"><u>[Updated] 2024 Approved Elevating Content Sharing Link Instagram & TikTok</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-storytellers-sanctum-summit-selections/"><u>[Updated] In 2024, Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-expert-comment-definir-correctement-votre-ssd-pour-une-installation-optimale-de-windows-n-11/"><u>Guide Expert: Comment Définir Correctement Votre SSD Pour Une Installation Optimale De Windows N 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-m14-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy M14 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>In 2024, Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-building-a-solid-foundation-for-great-interviews/"><u>[New] Building A Solid Foundation For Great Interviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-integration-of-video-filters-in-zoom-for-2024/"><u>[New] Seamless Integration of Video Filters in Zoom for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-bring-out-the-splendor-in-your-iphone-reflections/"><u>[Updated] In 2024, Bring Out the Splendor in Your iPhone Reflections</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-next-generation-of-vr-innovations-reviewed-for-2024/"><u>[Updated] The Next Generation of VR Innovations Reviewed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>2024 Approved Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-god-of-war-on-pc-now-running-smoothly-crash-prevented/"><u>No More Interruptions: God of War on PC Now Running Smoothly, Crash Prevented</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876461-9781733744911-river-to-ocean/"><u>River to Ocean | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-your-xbox-odin-game-pass-edition/"><u>Simplifying Your Xbox ODIN: Game Pass Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-magic-v2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Magic V2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

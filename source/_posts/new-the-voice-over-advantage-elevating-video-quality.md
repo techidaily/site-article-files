@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Voice-Over Advantage  Elevating Video Quality\""
-date: 2024-08-15T07:38:58.831Z
-updated: 2024-08-16T07:38:58.831Z
+date: 2024-12-20T17:27:30.387Z
+updated: 2024-12-25T16:29:40.356Z
 tags: 
   - screen-recording
   - ai video
@@ -44,16 +44,14 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -61,9 +59,6 @@ A good example of this would be narrating a story on top of some still images an
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
@@ -72,8 +67,9 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -83,6 +79,10 @@ Know what you want to tell your viewer rather than speak aimlessly. What can you
 You can edit pauses or weak parts out of the voiceover to trim it up. But if it is still too long, you can easily add another video clip, or even still images to help boost the length to match your narration.
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Narration is a great storytelling device
 
@@ -97,15 +97,17 @@ It can also help make a connection with your audience because you can be relatin
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -142,4 +144,22 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-exclusive-look-the-10-best-countdown-clock-apps-for-your-big-event-androidios-for-2024/"><u>[New] Exclusive Look The 10 Best Countdown Clock Apps for Your Big Event (Android/iOS) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>[New] The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-earnings-audit-the-monetization-process/"><u>[New] YouTube Earnings Audit The Monetization Process</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-achieve-striking-visuals-your-guide-to-uploading-at-correct-dimensions/"><u>[Updated] Achieve Striking Visuals Your Guide to Uploading at Correct Dimensions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-the-basics-of-effective-vlogging/"><u>[Updated] Exploring the Basics of Effective Vlogging</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-cadence-crossover-transferring-playlists-with-ease/"><u>[Updated] In 2024, Cadence Crossover Transferring Playlists with Ease</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-three-fee-free-methods-for-mixing-audio-in-imovie-projects/"><u>[Updated] Three Fee-Free Methods for Mixing Audio in iMovie Projects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-educators-guide-top-screen-capture-tools/"><u>2024 Approved Educator's Guide Top Screen Capture Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-storytelling-excellence-editing-numbers-on-tiktok-platforms/"><u>2024 Approved Visual Storytelling Excellence Editing Numbers on TikTok Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educating-kids-on-chatgpt-and-generative-ai/"><u>Educating Kids on ChatGPT & Generative AI</u></a></li>
+<li><a href="https://article-files.techidaily.com/instagram-photo-addition-a-simple-guide-for-2024/"><u>Instagram Photo Addition A Simple Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4/"><u>Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/simple-steps-modify-windows-speech-of-sea-creatures/"><u>Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-palette-primer-compreenasive-guide-to-coloring-for-2024/"><u>The Palette Primer Compreenasive Guide to Coloring for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Iconic Highlights From the 2022 Figure Skate World"
-date: 2024-12-11T19:51:22.179Z
-updated: 2024-12-16T20:33:32.630Z
+date: 2024-12-20T16:21:51.556Z
+updated: 2024-12-25T16:01:44.650Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,13 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
@@ -55,6 +55,10 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
@@ -64,13 +68,13 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -93,25 +97,21 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,18 +136,19 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-compreeved-insight-androids-version-of-photoshop-lightroom/"><u>[New] 2024 Approved Compreeved Insight Android's Version of Photoshop - Lightroom</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts-for-2024/"><u>[New] Crafting Memorable Announcements The Key to Successful Facebook Giving Posts for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-future-of-action-cam-unveiled-intova-x-for-2024/"><u>[New] The Future of Action Cam Unveiled Intova X for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-articulating-emotion-on-stage-through-words/"><u>[Updated] In 2024, Articulating Emotion on Stage Through Words</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-12-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 12 Pro Max to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-hidden-gems-top-8-private-video-downloaders/"><u>In 2024, Hidden Gems Top 8 Private Video Downloaders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 Pro Max when Phone is Broken?</u></a></li>
-<li><a href="https://article-files.techidaily.com/loop-maker-assembly/"><u>Loop Maker Assembly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-guide-how-to-update-your-windows-10-drivers/"><u>Quick & Easy Guide: How to Update Your Windows 10 Drivers</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>Twist and Turn Tales Transforming Visual Content on Instagram Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-security-beyond-bitlocker-top-4-choices/"><u>Windows Security Beyond BitLocker: Top 4 Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-decoding-the-workings-of-whatsapp-call-features/"><u>[New] 2024 Approved Decoding the Workings of WhatsApp Call Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-stream-your-podcast-with-a-click/"><u>[New] 2024 Approved How to Stream Your Podcast with a Click</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-understanding-telegram-advertising-for-new-marketing-entrants/"><u>[New] 2024 Approved Understanding Telegram Advertising For New Marketing Entrants</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pioneering-virtual-meetings-mastering-gmail-and-zoom-usage-together/"><u>[New] Pioneering Virtual Meetings Mastering Gmail and Zoom Usage Together</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-srt-upgrades-a-comparative-analysis-of-pc-and-macos/"><u>[Updated] 2024 Approved Superior SRT Upgrades A Comparative Analysis of PC & macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-chorus-of-chats-music-infusion-in-whatsapp/"><u>[Updated] Chorus of Chats Music Infusion in WhatsApp</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[Updated] In 2024, A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premier-playwriting-for-podcasts-and-radios/"><u>[Updated] Premier Playwriting for Podcasts & Radios</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-meme-modification-software-for-2024/"><u>Best in Class Meme Modification Software for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/interpreting-laws-around-youtube-content-capture/"><u>Interpreting Laws Around YouTube Content Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-login-correcting-invalid-captcha/"><u>Steam Login: Correcting Invalid CAPTCHA</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instruamo-for-downloading-and-setting-up-canon-dr-c225-drivers-on-windows-11108/"><u>Step-by-Step Instruamo for Downloading and Setting Up Canon DR-C225 Drivers on Windows 11/10/8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transferez-gratuitement-un-fichier-aiff-vers-format-mov-en-ligne-convertisseur-video-movavi/"><u>Transférez Gratuitement Un Fichier AIFF Vers Format MOV en Ligne - Convertisseur Vidéo Movavi</u></a></li>
 </ul></div>
 

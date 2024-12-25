@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lightning-Fast  The Art of Windows File Scanning for 2024\""
-date: 2024-12-10T19:55:58.151Z
-updated: 2024-12-16T19:01:14.428Z
+date: 2024-12-24T17:48:34.551Z
+updated: 2024-12-25T17:43:34.371Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ Step1 Open Microsoft Store and search for QuickLook. Make sure you select the op
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
@@ -48,6 +48,10 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
 
@@ -59,20 +63,20 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
@@ -80,7 +84,7 @@ Step4 After a successful installation, find the file you want to preview and sel
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
@@ -90,10 +94,6 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -143,22 +143,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-snap-with-a-single-purpose-remove-bg-using-affinity/"><u>[New] 2024 Approved Snap with a Single Purpose - Remove Bg Using Affinity</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-avian-cha-cha-cha-for-2024/"><u>[New] Avian Cha-Cha-Cha for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s-for-2024/"><u>[New] Streamlined Techniques for Transforming Vids on Pinterest to MP3s for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>[Updated] 2024 Approved Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[Updated] 2024 Approved Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-best-tech-in-cards-for-4k-video-editing/"><u>[Updated] Best Tech in Cards For 4K Video Editing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-hps-vivid-spectrum-with-the-z32x-4k-monitor/"><u>[Updated] Exploring HP's Vivid Spectrum with the Z32X 4K Monitor</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-all-windows-movie-maker-editions/"><u>[Updated] In 2024, Exploring All Windows Movie Maker Editions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-videographs-for-instagram-via-mac/"><u>[Updated] Streamlining Videographs for Instagram via Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-how-to-detect-and-delete-redundant-frame-sequences-from-your-footage/"><u>Guide: How to Detect and Delete Redundant Frame Sequences From Your Footage</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-spark-10-4g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Spark 10 4G Without PUK Codes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-meme-masterpieces-iphones-here/"><u>In 2024, Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>In 2024, Streamline Your Soundtrack Exchanging Playlists Seamlessly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-performance-review-the-ultimate-guide-to-the-linksys-ea8300-multi-device-router/"><u>In-Depth Performance Review: The Ultimate Guide to the Linksys EA8300 Multi-Device Router</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leveraging-length-and-style-in-your-instagram-videos/"><u>Leveraging Length and Style in Your Instagram Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trygg-multimedia-software-professional-solutions-by-movavi/"><u>Trygg Multimedia Software - Professional Solutions by Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-the-ultimate-selection-of-free-slide-show-designs-for-2024/"><u>[New] Explore the Ultimate Selection of Free Slide Show Designs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-your-slides-with-auditory-elements-powerpoint/"><u>[New] In 2024, Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-lowdown-on-the-maximum-video-length-on-instagram/"><u>[New] The Lowdown on the Maximum Video Length on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-documentary-storytelling-from-idea-to-screenplay/"><u>[Updated] 2024 Approved Documentary Storytelling From Idea to Screenplay</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-craftsmanship-in-podcast-visuals-the-essentials/"><u>[Updated] In 2024, Craftsmanship in Podcast Visuals The Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-digital-content-filming-talents-release/"><u>[Updated] In 2024, Digital Content Filming Talents Release</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-edits-premier-4k-display-options-for-videographers/"><u>[Updated] In 2024, Elite Edits Premier 4K Display Options for Videographers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-guide-to-instagrams-video-duration-regulations/"><u>2024 Approved A Guide to Instagram's Video Duration Regulations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-total-unlinkage-from-youtube-shorts-complete-guide/"><u>2024 Approved Total Unlinkage From YouTube Shorts Complete Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/comparing-streamlabs-with-obs-for-professional-broadcasts-for-2024/"><u>Comparing Streamlabs with OBS for Professional Broadcasts for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-rings-battery-powered-smart-video-doorbell/"><u>Expert Insights on Ring's Battery-Powered Smart Video Doorbell</u></a></li>
+<li><a href="https://games-able.techidaily.com/faster-online-interactions-diminishing-delay-in-data-transmission/"><u>Faster Online Interactions: Diminishing Delay in Data Transmission</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-best-performance-updating-drivers-on-lenovo-legion-5-pro-16ach6h/"><u>How to Get the Best Performance: Updating Drivers on Lenovo Legion 5 Pro (16ACH6H)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-mini-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>In 2024, Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/jollyjingles-top-sites-to-stream-laugh-rich-rhythms-for-2024/"><u>JollyJingles Top Sites to Stream Laugh-Rich Rhythms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/techniques-to-archivalize-chat-communication-in-whatsapp-for-2024/"><u>Techniques to Archivalize Chat Communication in WhatsApp for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/transform-your-images-into-dynamic-visual-stories-for-2024/"><u>Transform Your Images Into Dynamic Visual Stories for 2024</u></a></li>
 </ul></div>
 

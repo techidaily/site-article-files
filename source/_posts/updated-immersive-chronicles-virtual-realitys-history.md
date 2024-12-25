@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Immersive Chronicles  Virtual Reality's History\""
-date: 2024-12-15T17:32:54.211Z
-updated: 2024-12-16T20:42:08.755Z
+date: 2024-12-23T17:15:52.076Z
+updated: 2024-12-25T16:19:53.882Z
 tags: 
   - screen-recording
   - ai video
@@ -40,28 +40,28 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VR development in 1930s
 
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 1960s
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 2014
@@ -69,7 +69,7 @@ VR headsets begin to make their way into a few arcade games for simulations and 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
@@ -81,7 +81,7 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -109,21 +109,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[New] 2024 Approved Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-best-4k-gaming-laptops-unleash-game-potential-for-2024/"><u>[New] Best 4K Gaming Laptops - Unleash Game Potential for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-sj7-4k-star-camera-an-in-depth-look-at-the-latest-action-tech/"><u>[New] SJ7 4K Star Camera An In-Depth Look at the Latest Action Tech</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-definitive-list-of-premium-vector-sites-for-2024/"><u>[New] The Definitive List of Premium Vector Sites for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison-for-2024/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>[Updated] In 2024, From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-diving-deep-into-your-twitter-archive/"><u>2024 Approved Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-innovations-at-ces-2024-a-review-of-leading-laptops-and-more-zdnet/"><u>Exploring Tech Innovations at CES 2024: A Review of Leading Laptops and More - ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-xr21-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia XR21 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>In 2024, Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/indispensable-top-vr-movie-adventures-for-2024/"><u>Indispensable Top VR Movie Adventures for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-zte-nubia-z60-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of ZTE Nubia Z60 Ultra ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721965931623-the-generous-offer-of-free-gpt-4-yet-here-are-six-insights-to-continue-with-chatgpt-plus/"><u>The Generous Offer of Free GPT-4 - Yet, Here Are Six Insights to Continue with ChatGPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-synergy-of-chatgpt-and-cognitive-behavioral-therapy-methods-for-improved-mental-wellness/"><u>The Synergy of ChatGPT and Cognitive Behavioral Therapy: Methods for Improved Mental Wellness</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-twitch-loophole-reviving-forgotten-chats/"><u>The Twitch Loophole Reviving Forgotten Chats</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-action-cams-face-off-black-and-star-for-2024/"><u>Ultimate Action Cams Face-Off Black & Star for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generate-interest-making-your-own-youtube-intros/"><u>[New] 2024 Approved Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secret-weapons-for-follower-increase/"><u>[New] Instagram's Secret Weapons for Follower Increase</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-visual-guide-to-aspect-ratios-on-platforms-like-youtube-for-2024/"><u>[New] The Visual Guide to ASPECT RATIOS on Platforms Like YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-livestream-tactics-best-practices-for-cricket-viewers/"><u>[Updated] In 2024, Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ultimate-10-audio-elevators-on-computersmobile/"><u>[Updated] In 2024, Ultimate 10 Audio Elevators on Computers/Mobile</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-master-the-art-of-video-editing-with-top-10-fcp-tools-for-2024/"><u>[Updated] Master the Art of Video Editing with Top 10 FCP Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-media-game-with-xps-movie-editor/"><u>[Updated] Step Up Your Media Game with XP's Movie Editor</u></a></li>
+<li><a href="https://article-files.techidaily.com/diverse-video-editing-apps-for-pc-users/"><u>Diverse Video Editing Apps for PC Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-3-effective-steps-to-brighten-your-photos/"><u>In 2024, 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-steady-shot-enhancer-for-traveling-filmmakers/"><u>In 2024, Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-system-how-to-get-the-latest-microsoft-driver-updates-for-windows-versions-1187/"><u>Streamline Your System: How to Get the Latest Microsoft Driver Updates for Windows Versions 11/8/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287153083-dvd/"><u>ゲオDVDから高品質映像をコピー:第三者アプリ利用マニュアル</u></a></li>
 </ul></div>
 
