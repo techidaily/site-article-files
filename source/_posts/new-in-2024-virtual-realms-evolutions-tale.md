@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Virtual Realms  Evolution's Tale\""
-date: 2024-12-20T16:11:35.391Z
-updated: 2024-12-25T17:31:24.220Z
+date: 2024-12-27T16:18:24.857Z
+updated: 2025-01-03T20:05:24.110Z
 tags: 
   - screen-recording
   - ai video
@@ -41,7 +41,7 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 1930s
@@ -49,7 +49,7 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 1960s
@@ -57,7 +57,7 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 1990s
@@ -65,7 +65,7 @@ VR headsets actually started development in the 1960s. Just 30 years from the or
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 2014
@@ -73,7 +73,7 @@ VR headsets begin to make their way into a few arcade games for simulations and 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
@@ -109,19 +109,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-fostering-friendship-through-conversations-with-viewers/"><u>[New] 2024 Approved Fostering Friendship Through Conversations With Viewers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>[New] 2024 Approved Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-forge-corporate-icons-without-spending-a-dime-for-2024/"><u>[Updated] Forge Corporate Icons Without Spending a Dime for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>[Updated] In 2024, Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>[Updated] In 2024, The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>[Updated] Unlock the Secrets Crafting Captivating Instagram Unboxing Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/about-to-say-goodbye-to-your-current-role-ponder-over-these-essential-points-first-careernest/"><u>About to Say Goodbye to Your Current Role? Ponder Over These Essential Points First | CareerNest</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-protocols-for-filming-films-across-multiplatform-systems-for-2024/"><u>Detailed Protocols for Filming Films Across Multiplatform Systems for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/efficient-content-curation-multiple-photosvideos-to-instagram-storyboard-for-2024/"><u>Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-airpod-sounds-that-move-with-you-by-disabling-head-movement-feature/"><u>Fix AirPod Sounds That Move with You by Disabling Head Movement Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-record-google-meet-for-free-in-2024/"><u>How to Record Google Meet for Free, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-seamless-videos-with-funimate/"><u>In 2024, Guide to Seamless Videos with Funimate</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-mastering-pcmobile-video-filter-techniques/"><u>In 2024, Mastering PC/Mobile Video Filter Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-quest-for-codec-perfection-is-av1-surpassing-vp9-for-2024/"><u>The Quest for Codec Perfection Is AV1 Surpassing VP9 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-showcase-of-top-movie-teasers/"><u>[New] In 2024, Showcase of Top Movie Teasers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-asus-mg28uq-the-future-of-4k-gaming-screens/"><u>[New] Unveiling the ASUS MG28UQ The Future of 4K Gaming Screens</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-viral-ventures-valuation-the-revenue-of-a-rising-star/"><u>[New] Viral Ventures Valuation The Revenue of a Rising Star</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-secure-your-video-conferences-recording-made-easy/"><u>[Updated] 2024 Approved Secure Your Video Conferences Recording Made Easy</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-overcoming-shaky-drone-video-quality/"><u>[Updated] In 2024, Overcoming Shaky Drone Video Quality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-create-how-to-edit-videos-on-vimeo-for-free/"><u>[Updated] Vimeo Create How to Edit Videos on Vimeo for Free?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-a-pokemon-master-with-this-essential-how-to-on-pokemon-go/"><u>Become a Pokémon Master with This Essential How-To on Pokémon Go</u></a></li>
+<li><a href="https://article-files.techidaily.com/fusionflix-your-all-inclusive-tv-streaming-companion-for-2024/"><u>FusionFlix Your All-Inclusive TV Streaming Companion for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-instatunes-navigating-copyright-laws/"><u>In 2024, Mastering InstaTunes Navigating Copyright Laws</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-mobile-media-6-leading-video-apps-without-periscope-for-2024/"><u>Revolutionizing Mobile Media 6 Leading Video Apps without Periscope for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-36-exclusive-tablet-bargains-on-prime-day-2024-unbeatable-offers-still-available/"><u>Top 36 Exclusive Tablet Bargains on Prime Day 2024 - Unbeatable Offers Still Available!</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-full-processor-load-problems-solutions-inside/"><u>Troubleshooting Full Processor Load Problems - Solutions Inside</u></a></li>
 </ul></div>
 

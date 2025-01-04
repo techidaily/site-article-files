@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives\""
-date: 2024-12-19T17:59:23.713Z
-updated: 2024-12-25T17:31:52.550Z
+date: 2025-01-02T17:08:10.727Z
+updated: 2025-01-04T01:07:41.095Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Based on the normal video resolution of 4k at 60fps, a 64GB storage device can k
 
 A 64GB storage device can hold more than 1 hour and 37 minutes of video at a resolution of 2.7k at 120fps. On a 64GB memory card, recording at a resolution of 1080p at 60fps allows for around 5 hours of video time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much video can 128GB hold?
 
 A 128GB memory card may carry about 75 or 76 videos if each film is only 3 minutes long.
@@ -59,27 +63,15 @@ To open the output window of this video shrinker, click the "Export" button.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go to the Format tab and set the output to the original video format. Then, in the "Settings" panel, click the triangle button below to downsize the video by selecting a lower video resolution, frame rate, or bit rate. If the video format is not important to you, you can choose from various formats such as FLV, MP4, and others, which produce lower files.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Export the file
 
 Now press the Export button to create a considerably smaller file. When it's finished, click "find target" to acquire the compressed file, which you can then freely share with your friends.
 
 The strategy described above is simply one way to reduce the size of a video file during Export. You can also crop out the video frame or change the frame scale to lower the video size.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More tools to make video smaller
 
@@ -172,16 +164,12 @@ Step 4: You can export the compressed file by clicking on the option in the top-
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A wide range of softwares and applications help with video compressing features for free. Choose the right that is compatible with your device.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Import the file
 
@@ -190,7 +178,7 @@ Click the "Import" button in the top-left corner of Filmora to import the video 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Reduce file size
@@ -198,6 +186,10 @@ Click the "Import" button in the top-left corner of Filmora to import the video 
 To open the output window of this video shrinker, click the "Export" button.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to the Format tab and set the output to the original video format. Then, in the "Settings" panel, click the triangle button below to downsize the video by selecting a lower video resolution, frame rate, or bit rate. If the video format is not important to you, you can choose from various formats such as FLV, MP4, and others, which produce lower files.
 
@@ -230,10 +222,6 @@ Download and install Shotcut when you're finished, open Shotcut, and choose Open
 You'll then be presented with a long choice of compression options from which to choose.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Baseline Profile is a decent choice in general. This format will most likely shrink your video without losing too much quality.
 
@@ -307,15 +295,15 @@ A wide range of softwares and applications help with video compressing features 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Import the file
 
 Click the "Import" button in the top-left corner of Filmora to import the video you want, or drag it from your computer to the User's Album. Then drag the newly added video from the User's Album to the timeline's video track.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Reduce file size
 
@@ -327,6 +315,10 @@ Go to the Format tab and set the output to the original video format. Then, in t
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Export the file
 
 Now press the Export button to create a considerably smaller file. When it's finished, click "find target" to acquire the compressed file, which you can then freely share with your friends.
@@ -334,6 +326,10 @@ Now press the Export button to create a considerably smaller file. When it's fin
 The strategy described above is simply one way to reduce the size of a video file during Export. You can also crop out the video frame or change the frame scale to lower the video size.
 
 ## More tools to make video smaller
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Shotcut
 
@@ -348,6 +344,10 @@ You can easily compress video files with Shotcut.
 Download and install Shotcut when you're finished, open Shotcut, and choose Open File to view your video. Click Export in the window's top-right corner to save it in a new file format.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Compress the file**
 
@@ -414,10 +414,6 @@ Open the Google Play Store on Android, download the video compressor, and instal
 Step 2: Click on "Select on Folder" on the top to import the file.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Once you have imported the video file you want to compress, select the percentage and quality of the video you prefer.
 
@@ -431,6 +427,10 @@ A wide range of softwares and applications help with video compressing features 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Import the file
 
 Click the "Import" button in the top-left corner of Filmora to import the video you want, or drag it from your computer to the User's Album. Then drag the newly added video from the User's Album to the timeline's video track.
@@ -452,6 +452,10 @@ Go to the Format tab and set the output to the original video format. Then, in t
 Now press the Export button to create a considerably smaller file. When it's finished, click "find target" to acquire the compressed file, which you can then freely share with your friends.
 
 The strategy described above is simply one way to reduce the size of a video file during Export. You can also crop out the video frame or change the frame scale to lower the video size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More tools to make video smaller
 
@@ -538,10 +542,6 @@ Step 2: Click on "Select on Folder" on the top to import the file.
 Step 3: Once you have imported the video file you want to compress, select the percentage and quality of the video you prefer.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: You can export the compressed file by clicking on the option in the top-left corner of the screen.
 
@@ -573,22 +573,24 @@ A wide range of softwares and applications help with video compressing features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/"><u>[Updated] 2024 Approved The Metaverse Versus Multi-Meva Comprehensive Differences Overviewed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>[Updated] Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-adobe-advances-bringing-text-into-three-dimensional-space/"><u>2024 Approved Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-celebrated-scripts-spanning-eight-movie-segments/"><u>2024 Approved Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>2024 Approved Fading Flourishes Invisible Audio Adjustments in Garageband</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ideal-starter-accessories-for-gopro-newbies/"><u>2024 Approved Ideal Starter Accessories for GoPro Newbies</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-lg-27ud68-4k-freesync-monitor-review/"><u>2024 Approved LG 27UD68 4K FreeSync Monitor Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-next-gen-cinema-a-virtual-leap-forward/"><u>2024 Approved Next-Gen Cinema A Virtual Leap Forward</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-old-world-wonders-iphone-x-portraits/"><u>2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-commerce-masterclass-essentials-unveiled/"><u>2024 Approved SnapChat Commerce Masterclass Essentials Unveiled</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-complete-itunes-radio-downloading-blueprint/"><u>2024 Approved The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-when-microsofts-default-browser-crashes-or-freezes/"><u>Easy Fixes for When Microsoft's Default Browser Crashes or Freezes</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-neo-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Neo Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-g22-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia G22</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978249837-latest-thinbook-t420s-windows-10-support-drivers-available-for-download-now/"><u>Latest ThinBook T420s Windows 10 Support Drivers Available for Download Now</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-elite-discover-the-leading-25-influential-souls/"><u>The Instagram Elite Discover the Leading 25 Influential Souls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-nvidia-cp-unresponsiveness-on-win-11/"><u>Troubleshooting Nvidia CP Unresponsiveness on Win 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-decoding-advanced-image-editing-the-role-of-luts-in-cs6/"><u>[New] 2024 Approved Decoding Advanced Image Editing The Role of LUTs in CS6</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>[New] 2024 Approved How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>[New] The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-to-restore-functionality-in-frozen-obs-screen/"><u>[Updated] 2024 Approved Tips to Restore Functionality in Frozen OBS Screen</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-audio-clips-to-written-content-harnessing-ms-words-transcription-features/"><u>[Updated] In 2024, From Audio Clips to Written Content Harnessing MS Word's Transcription Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-color-grading-power-with-central-luts/"><u>[Updated] In 2024, Harnessing Color Grading Power with Central Luts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>[Updated] Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-verbal-input-processing-for-free/"><u>2024 Approved Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/beyond-tiktok-the-top-5-platforms-for-video-content-creators/"><u>Beyond TikTok The Top 5 Platforms for Video Content Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-detect-memory-problems-on-windows-with-event-viewer-insights-by-yl-computing/"><u>How to Detect Memory Problems on Windows with Event Viewer - Insights by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastery-in-free-graphics-top-online-resource-directory/"><u>In 2024, Mastery in FREE Graphics Top Online Resource Directory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shine-bright-enhancing-video-quality-tools/"><u>In 2024, Shine Bright Enhancing Video Quality Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/maximize-your-yi-4k-footage-ideal-add-ons-guide/"><u>Maximize Your YI 4K Footage Ideal Add-Ons Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/voice-alteration-apps-magic-edition-amongst-the-best/"><u>Voice Alteration Apps Magic Edition Amongst the Best</u></a></li>
+<li><a href="https://article-files.techidaily.com/vr-cinematic-experiences-the-next-wave-for-2024/"><u>VR Cinematic Experiences The Next Wave for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 </ul></div>
 

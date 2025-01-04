@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Video Setup Starter Kit for Excursion Documentation"
-date: 2024-12-18T16:32:49.239Z
-updated: 2024-12-25T16:07:20.454Z
+date: 2024-12-31T20:32:08.120Z
+updated: 2025-01-03T17:27:47.063Z
 tags: 
   - screen-recording
   - ai video
@@ -27,15 +27,15 @@ From the very beginning, when I started travel vlogging, I mentioned in my previ
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Travel Gear and Equipment: Are They Good Investments?
 
 Is it worth it? Is it really necessary to upgrade a travel video? Will my money does not go to waste? These are the few questions that I asked myself before buying new equipment. This is my simple answer, we don't need a high-priced camera or gears for us to do travel vlogging, I think a good story and your editing skills are enough and will get you by. But when the time comes that you are ready to climb the ladder and create an extraordinary sequence, with vivid colors, better sharpness, creamy bokeh effect, the macro shot, that panoramic shot or smooth time lapse, hyper lapse, or maybe you will use it in a low light situation or any kind of good angles. Get up from your seat now! Do your research and find the best equipment that will suit your taste. Consider buying something that will conform to your needs, is durable, convenient to use, and most importantly, cost that is within your budget. I didn't think about earning money when I started to buy my equipment; I am more on creating memories because they will last forever and I consider that as a souvenir from that time and place.
 
 ![travel gear review](https://images.wondershare.com/filmora/article-images/2022/07/travel-gear-review.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My Equipments for Travel Vlogging
 
@@ -49,13 +49,13 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Gimbal
 
@@ -70,11 +70,7 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
@@ -82,6 +78,10 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 In any case, we needed a few accessories to support our equipment better. Simple things like an extra pair of batteries for your camera and action came. External SSD is a big help especially when you're running out of memory on your computer. Memory card with a lot of storage space, I consider this an important part of my accessory kit. Make those two, and always have a spare card with you because anything can happen. So be prepared.
 
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Laptop, desktop, or phone for editing
 
@@ -107,6 +107,10 @@ from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
@@ -120,6 +124,10 @@ choose the TOOLS
 select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
@@ -134,7 +142,7 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -145,10 +153,6 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
@@ -156,7 +160,7 @@ from there you can choose and select which video you would like to import
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3DRAG AND DROP
@@ -172,10 +176,6 @@ choose the TOOLS
 select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
@@ -211,22 +211,18 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chucklechief-easy-meme-design-tool/"><u>[New] ChuckleChief Easy Meme Design Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-craftsmanship-redefined-leading-photo-frame-apps/"><u>[New] Craftsmanship Redefined Leading Photo Frame Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-professional-portrait-maker-for-passports-desktop-and-online-access-only/"><u>[New] In 2024, Professional Portrait Maker for Passports – Desktop & Online Access Only</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transcription-and-task-execution-on-the-go-fee-free-for-2024/"><u>[New] Transcription and Task Execution on the Go – Fee-Free for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>[New] Unraveling the Mystery Understanding & Using Slug Lines for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>[Updated] 2024 Approved PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>[Updated] In 2024, Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-perfect-photo-framing-digital-sites-and-apps-guide/"><u>[Updated] Perfect Photo Framing Digital Sites and Apps Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-utilizing-picture-in-picture-feature-across-all-chrome-devices-for-2024/"><u>[Updated] Utilizing Picture In Picture Feature Across All Chrome Devices for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings-for-2024/"><u>[Updated] Virtual Odyssey Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/embarking-on-a-virtual-odyssey-through-yt-stories-for-2024/"><u>Embarking on a Virtual Odyssey Through YT Stories for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-import-music-to-inshot-app-for-2024/"><u>How to Import Music to Inshot App for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-adding-snapchat-to-your-mac/"><u>In 2024, Step-by-Step Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-y100-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo Y100 5G</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-elite-list-10-best-4k-cameras-on-shoulders-for-2024/"><u>The Elite List 10 Best 4K Cameras on Shoulders for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-trojans-cybersecurity-essentials-for-protecting-your-digital-life/"><u>Understanding Trojans: Cybersecurity Essentials for Protecting Your Digital Life</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-conquer-the-metaverse-top-7-devices-that-matter/"><u>[New] 2024 Approved Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>[New] 2024 Approved Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-action-recorder-the-thievery-t5-edition/"><u>[New] 2024 Approved The Ultimate Action Recorder – The Thievery T5 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-your-audio-experience-with-windows-11-recording-tips/"><u>[New] Enhance Your Audio Experience with Windows 11 Recording Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-leading-edge-best-9-filter-tips-for-live-broadcasts-for-2024/"><u>[New] Leading Edge Best 9 Filter Tips for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-ppt-shows-with-advanced-techniques/"><u>[Updated] Elevate Your PPT Shows with Advanced Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-guide-for-effective-periscope-use/"><u>[Updated] In 2024, The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/9-epic-joke-and-puzzle-tiktok-hits/"><u>9 Epic Joke & Puzzle TikTok Hits</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-dolby-advanced-sound-drivers-wont-start-in-windows-10/"><u>Troubleshooting Steps When Dolby Advanced Sound Drivers Won't Start in Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/uncovering-ustream-plus-other-live-streamers/"><u>Uncovering Ustream + Other Live Streamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-appeal-of-minecraft-perfect-gaming-experience-for-all-generations/"><u>Unraveling the Appeal of Minecraft - Perfect Gaming Experience for All Generations</u></a></li>
 </ul></div>
 

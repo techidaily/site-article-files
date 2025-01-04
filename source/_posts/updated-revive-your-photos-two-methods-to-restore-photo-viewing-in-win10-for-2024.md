@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Revive Your Photos  Two Methods to Restore Photo Viewing in Win10 for 2024\""
-date: 2024-12-20T18:14:22.061Z
-updated: 2024-12-25T16:50:39.529Z
+date: 2024-12-27T19:32:50.900Z
+updated: 2025-01-03T20:29:06.560Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Stay tuned to learn more!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -64,6 +60,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
@@ -74,13 +74,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -97,7 +97,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -111,13 +111,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -145,17 +145,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-prime-camera-choices-revealing-the-best/"><u>[New] 2024 Approved The Prime Camera Choices – Revealing the Best</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-discover-top-tier-church-broadcasting-options-for-2024/"><u>[New] Discover Top-Tier Church Broadcasting Options for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-artificial-intelligence-for-insights-and-predictions/"><u>[New] Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/avoid-the-crowds-shop-exclusive-govee-bargains-before-prime-day-arrives/"><u>Avoid the Crowds: Shop Exclusive Govee Bargains Before Prime Day Arrives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/compact-guide-to-top-5-apps-for-picture-plus-sound-blend/"><u>Compact Guide to Top 5 Apps for Picture + Sound Blend</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-chart-your-course-navigating-the-waters-of-youtube-subscription-surges/"><u>In 2024, Chart Your Course Navigating the Waters of YouTube Subscription Surges</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-outperforming-the-gear-360-best-cameras-of-the-year-reviewed/"><u>In 2024, Outperforming the Gear 360 Best Cameras of the Year Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-ordinary-interviews-into-impactful-experiences/"><u>In 2024, Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-depth-study-simplified-hdr-mastery/"><u>In-Depth Study Simplified HDR Mastery</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-cameras-for-high-stakes-athletics/"><u>Innovative Cameras for High-Stakes Athletics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-avoid-gaming-disruptions-with-windows-altplustab-and-sticky-keys/"><u>Optimizing PC Performance: Avoid Gaming Disruptions with Windows, Alt+Tab & Sticky Keys</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-review-updated-lg-360-camera-specs-and-usage-for-2024/"><u>The Ultimate Review Updated LG 360 Camera Specs & Usage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-formulating-fascinating-film-moments/"><u>[New] Formulating Fascinating Film Moments</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-effortless-edits-bending-image-into-shape/"><u>[New] In 2024, Effortless Edits Bending Image Into Shape</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-six-quick-tips-for-efficient-beginner-edits-in-ps/"><u>[New] In 2024, Six Quick Tips for Efficient Beginner Edits in PS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>[New] In 2024, Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-retro-aesthetics-integrating-yesterdays-vhs-tricks-into-modern-editing-for-2024/"><u>[New] Retro Aesthetics Integrating Yesterday’s VHS Tricks Into Modern Editing for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-risk-free-strategies-for-youtube-to-mp4-file-conversion/"><u>[Updated] 2024 Approved Risk-Free Strategies for YouTube to MP4 File Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fiendish-film-pause-techniques/"><u>[Updated] Fiendish Film Pause Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-elevate-youtube-broadcasts-select-the-right-webcam-for-2024/"><u>[Updated] How to Elevate YouTube Broadcasts Select the Right Webcam for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-upload-wisdom-tiktok-video-rights-and-compliance-guide/"><u>[Updated] In 2024, Upload Wisdom TikTok Video Rights & Compliance Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-picture-holding-portals-for-2024/"><u>[Updated] Leading Picture Holding Portals for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unraveling-the-mystery-of-effective-gif-communication-for-2024/"><u>[Updated] Unraveling the Mystery of Effective GIF Communication for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-invigorate-snaps-implement-inner-blur-spread-in-cs/"><u>2024 Approved Invigorate Snaps Implement Inner Blur Spread in CS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reversing-the-consequences-of-a-youtube-ban/"><u>2024 Approved Reversing the Consequences of a YouTube Ban</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-smoother-video-playback-on-chromebook-and-mobile-devices/"><u>2024 Approved Smoother Video Playback on Chromebook & Mobile Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-netiosys-blue-screen-errors-on-windows/"><u>How to Fix NETIO.SYS Blue Screen Errors on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-inside-the-metaverse-comprehending-6-intricate-instances/"><u>In 2024, Inside the Metaverse Comprehending 6 Intricate Instances</u></a></li>
 </ul></div>
 

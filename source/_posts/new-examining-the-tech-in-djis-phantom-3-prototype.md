@@ -1,7 +1,7 @@
 ---
 title: "[New] Examining the Tech in DJI's Phantom 3 Prototype"
-date: 2024-12-19T16:12:40.141Z
-updated: 2024-12-25T17:38:03.741Z
+date: 2024-12-30T19:02:04.548Z
+updated: 2025-01-03T18:28:04.334Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete review for DJ Phantom 3 Standard
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By using specially designed control sticks you can easily move the motors in desired direction. On the other side, the advanced application provides easy controls to flight modes, GPS, signal strength and battery level monitoring. The bottom portion of application indicates speed, altitude, heading and other location based details. Map will help users to gain full control over live view details and it will update the hybrid or satellite based location information on the go.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,21 +133,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] 2024 Approved The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker Audio Ambience For Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-bebops-visionary-feathered-future-examined-for-2024/"><u>[Updated] Bebop's Visionary Feathered Future Examined for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-direct-transfer-of-pc-media-files-to-iphone-for-2024/"><u>[Updated] Direct Transfer of PC Media Files to iPhone for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-essential-free-cloud-services-with-massive-1tb-space-included/"><u>[Updated] Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exploring-alternatives-google-vr-vs-samsung-tech-for-2024/"><u>[Updated] Exploring Alternatives Google VR Vs. Samsung Tech for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/surface-pro/"><u>如何在Surface Pro上传输所有信息？——详细步骤说明与提示</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-lava-yuva-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Lava Yuva 3 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-online-converter-effortlessly-transform-mp2-audio-files-into-mov-video-format/"><u>Free Online Converter: Effortlessly Transform MP2 Audio Files Into MOV Video Format</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-sony-xperia-10-v-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Sony Xperia 10 V</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/nubia-red-magic-9-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nubia Red Magic 9 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-ps4-connection-problems-an-ultimate-step-by-step-solution-guide/"><u>Overcome PS4 Connection Problems: An Ultimate Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-x-flip-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo X Flip ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-shift-from-rgb-to-srgb-in-digital-imaging-for-2024/"><u>The Shift From Rgb to Srgb in Digital Imaging for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/emystifying-youtubes-seo-a-keyword-research-guide/"><u>[New] Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery-for-2024/"><u>[New] Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tomorrows-examination-innovative-approaches/"><u>[New] Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-meme-magic-kinemaster-edition-for-2024/"><u>[New] Unlocking Meme Magic KineMaster Edition for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-weave-audio-threads-through-powerpoint-slides-for-2024/"><u>[New] Weave Audio Threads Through PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-waves-with-top-surf-cams/"><u>[Updated] 2024 Approved Mastering Waves with Top Surf Cams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambia-tus-videos-ogm-a-un-formato-moderno-mp4-por-nada-utiliza-movavi-online-converter-hoy-mismo/"><u>Cambia Tus Videos OGM a Un Formato Moderno MP4 Por Nada, Utiliza Movavi Online Converter Hoy Mismo.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/can-you-play-on-xbox-live-insights-into-console-connectivity-and-server-health/"><u>Can You Play on Xbox Live? Insights Into Console Connectivity & Server Health</u></a></li>
+<li><a href="https://article-files.techidaily.com/embrace-audio-freedom-the-revolutionary-pazera-extractor-guide/"><u>Embrace Audio Freedom The Revolutionary Pazera Extractor Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-next-gen-virtual-reality-top-8-metaverse-tech/"><u>In 2024, Next-Gen Virtual Reality Top 8 Metaverse Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-playbook-to-conquer-spotify-advertising/"><u>In 2024, The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>In 2024, Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
+<li><a href="https://discover-great.techidaily.com/safeguard-your-files-top-4-strategies-for-backing-up-windows-11-on-an-external-hdd/"><u>Safeguard Your Files: Top 4 Strategies for Backing Up Windows 11 on an External HDD</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-up-your-game-techniques-for-bordered-instagram-videos/"><u>Step Up Your Game Techniques for Bordered Instagram Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-15-excelentes-herramientas-de-diseno-gratis-para-crear-logos-en-computadoras-movavi/"><u>Top 15 Excelentes Herramientas De Diseño Gratis Para Crear Logos en Computadoras - Movavi</u></a></li>
 </ul></div>
 
