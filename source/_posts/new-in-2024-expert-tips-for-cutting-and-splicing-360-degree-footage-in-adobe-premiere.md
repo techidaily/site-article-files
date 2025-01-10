@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere\""
-date: 2025-01-02T18:34:31.996Z
-updated: 2025-01-03T17:47:45.055Z
+date: 2025-01-07T19:09:59.393Z
+updated: 2025-01-10T16:57:58.832Z
 tags: 
   - screen-recording
   - ai video
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 ![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 ![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
@@ -76,14 +76,10 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -91,10 +87,14 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,21 +121,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-laughlens-quickly-create-social-memes-and-gifs/"><u>[New] 2024 Approved LaughLens Quickly Create Social Memes & Gifs</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-gopro-karma-quest-for-altitude-dominance/"><u>[New] 2024 Approved The GoPro Karma Quest for Altitude Dominance</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-high-fidelity-windows-playlists-for-2024/"><u>[New] High-Fidelity Windows Playlists for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-iphone-videography-8-tips-of-recording-pro-videos/"><u>[New] IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-core-principles-in-internet-story-development/"><u>[Updated] 2024 Approved Core Principles in Internet Story Development</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dji-airborne-series-entry-level-mid-range-models-premium-uhd-edition/"><u>[Updated] DJI Airborne Series Entry Level, Mid-Range Models, Premium UHD Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-focused-frames-eliminating-jitterbugs/"><u>[Updated] In 2024, Focused Frames Eliminating Jitterbugs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>[Updated] In 2024, Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-stabilized-mobile-shooting-with-precision-mounts/"><u>[Updated] Stabilized Mobile Shooting with Precision Mounts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazons-echo-fleet-expands-surpassing-100m-smart-speakers-with-matter-support-insights-from-zdnet/"><u>Amazon's Echo Fleet Expands: Surpassing 100M Smart Speakers with Matter Support - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/epic-encounters-venom-vs-spider-man-top-desktop-background-pack-for-fans-powered-by-yl-software/"><u>Epic Encounters: Venom Vs Spider-Man - Top Desktop Background Pack for Fans, Powered by YL Software</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/guia-simple-para-solucionar-el-problema-de-shadow-copy-no-creado-correctamente/"><u>Guía Simple Para Solucionar El Problema De Shadow Copy No Creado Correctamente</u></a></li>
-<li><a href="https://article-files.techidaily.com/guide-to-progressive-audio-diminishment-via-lumafusion-for-2024/"><u>Guide to Progressive Audio Diminishment via Lumafusion for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-note-30-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Note 30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-competitive-play-on-windows/"><u>Mastering the Art of Competitive Play on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-mastering-3d-luts-for-professional-photos/"><u>Step-by-Step Guide to Mastering 3D LUTs for Professional Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-a-thorough-analysis-elevating-video-recording-with-obs/"><u>[New] 2024 Approved A Thorough Analysis Elevating Video Recording with OBS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>[New] 2024 Approved How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-essentials-for-building-compelling-canon-time-lapses/"><u>[New] In 2024, The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-audacity-pro-audio-capture-guide/"><u>[New] Mastering Audacity Pro Audio Capture Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/11-keys-to-unlock-the-power-of-grading-precision/"><u>11 Keys to Unlock the Power of Grading Precision</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>2024 Approved Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
+<li><a href="https://article-files.techidaily.com/discovering-the-benefits-of-personalized-asmr-sounds-for-2024/"><u>Discovering the Benefits of Personalized ASMR Sounds for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-an-all-inclusive-examination-of-inshots-video-edits/"><u>In 2024, An All-Inclusive Examination of InShot's Video Edits</u></a></li>
+<li><a href="https://discover-great.techidaily.com/live-streaming-essentials-discover-manycams-virtual-camera-features/"><u>Live Streaming Essentials: Discover ManyCam's Virtual Camera Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/navigating-adobe-clouds-storage-explained-simply-with-comparisons/"><u>Navigating Adobe Cloud's Storage, Explained Simply with Comparisons</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-gopros-capabilities-for-capturing-dynamic-time-lapse-videos-for-2024/"><u>Unveiling GoPro's Capabilities for Capturing Dynamic Time-Lapse Videos for 2024</u></a></li>
 </ul></div>
 

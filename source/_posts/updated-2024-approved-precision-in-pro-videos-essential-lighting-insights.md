@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Precision in Pro Videos  Essential Lighting Insights\""
-date: 2024-12-31T00:31:20.376Z
-updated: 2025-01-03T23:42:39.657Z
+date: 2025-01-04T18:17:16.253Z
+updated: 2025-01-10T19:10:13.844Z
 tags: 
   - screen-recording
   - ai video
@@ -54,7 +54,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -69,6 +69,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -78,12 +82,16 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
@@ -95,17 +103,9 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -114,7 +114,7 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -151,24 +151,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-discovering-triller-a-platform-beyond-traditional-tiktok/"><u>[New] 2024 Approved Discovering Triller A Platform Beyond Traditional TikTok</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>[New] Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-revolutionizing-ps2-playtime-on-ios-with-top-emulators-for-2024/"><u>[New] Revolutionizing PS2 Playtime on iOS with Top Emulators for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tools-and-gear-for-crafting-vlogs/"><u>[New] Tools & Gear for Crafting Vlogs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigating-the-leading-live-church-broadcast-services/"><u>[Updated] 2024 Approved Navigating the Leading Live Church Broadcast Services</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unrivaled-streaming-experience-ranking-the-leaders/"><u>[Updated] 2024 Approved Unrivaled Streaming Experience Ranking the Leaders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-beat-the-beast-instagram-video-troubleshooting-guide-for-2024/"><u>[Updated] Beat the Beast Instagram Video Troubleshooting Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-ranking-action-cameras-seventh-to-leading-wet-proof/"><u>[Updated] In 2024, Ranking Action Cameras, Seventh to Leading Wet-Proof</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-strategies-for-dominating-spotifys-advertising-space/"><u>[Updated] In 2024, Strategies for Dominating Spotify's Advertising Space</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-navigating-through-windows-11s-new-frontier/"><u>[Updated] Navigating Through Windows 11'S New Frontier</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oneplus-nord-ce-3-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On OnePlus Nord CE 3 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723013658298-forza-horizon-4-wont-start-master-these-strategies-for-a-smooth-playback-experience/"><u>Forza Horizon 4 Won't Start? Master These Strategies for a Smooth Playback Experience</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-mini-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 mini SIM Lock?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unwind-twitch-feeds-immediately/"><u>In 2024, Unwind Twitch Feeds Immediately</u></a></li>
-<li><a href="https://article-files.techidaily.com/master-recommendations-elite-ios-sound-artists-for-2024/"><u>Master Recommendations Elite iOS Sound Artists for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pioneering-strategies-for-success-in-the-spotify-ad-arena-for-2024/"><u>Pioneering Strategies for Success in the Spotify Ad Arena for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-techniques-for-optimal-voice-recording-on-set-for-2024/"><u>Step-By-Step Techniques for Optimal Voice Recording on Set for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-your-romantic-journey-insights-on-leveraging-chategpts-magic/"><u>Transforming Your Romantic Journey: Insights on Leveraging ChateGPT's Magic</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pro-audio-recording-the-ultimate-audacity-course/"><u>[New] 2024 Approved Pro Audio Recording The Ultimate Audacity Course</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-filmmakers-handbook-building-effective-luts/"><u>[New] A Filmmaker's Handbook Building Effective LUTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uilding-a-fanbase-with-youtube-streams-for-2024/"><u>[New] Building a Fanbase with YouTube Streams for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-chuckle-champs-twitters-humor-heap/"><u>[New] In 2024, Chuckle-Champs Twitter’s Humor Heap</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-giggle-your-way-comedy-tones-downloads-hubs/"><u>[New] In 2024, Giggle Your Way Comedy Tones Downloads Hubs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimal-aging-strategy-edit-and-confirm-on-tiktok-for-2024/"><u>[New] Optimal Aging Strategy Edit and Confirm On TikTok for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-instal-subtitles-on-mediaplayer/"><u>[Updated] 2024 Approved Step-by-Step Guide Instal Subtitles on MediaPlayer</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-an-introduction-to-simple-and-effective-hdr-methods-for-2024/"><u>[Updated] An Introduction to Simple and Effective HDR Methods for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-listing-windowsmac-os-x-users-4k-playback-tools/"><u>[Updated] Essential Listing Windows/Mac OS X Users - 4K Playback Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-windows-video-editing-software-for-professional-use/"><u>[Updated] In 2024, Essential Windows Video Editing Software for Professional Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>[Updated] Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[Updated] Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-the-art-of-self-care-with-asmr-sounds/"><u>2024 Approved Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-guide-to-saving-screen-captures-in-windows-8/"><u>2024 Approved Quick Guide to Saving Screen Captures in Windows 8</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-xcover-6-pro-tactical-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy XCover 6 Pro Tactical Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/fuhre-deine-telefonnummern-bei-apple-iphone-sicher-fort-speichern-von-kontakten-auf-der-sim-karte-schritt-fur-schritt-erklart/"><u>Führe Deine Telefonnummern Bei Apple iPhone Sicher Fort: Speichern Von Kontakten Auf Der SIM-Karte Schritt Für Schritt Erklärt</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>In 2024, The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
 </ul></div>
 

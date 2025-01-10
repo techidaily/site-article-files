@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Discover the Power of Easy Trimming with Windows Photos App"
-date: 2024-12-30T22:02:28.444Z
-updated: 2025-01-03T21:05:05.295Z
+date: 2025-01-09T21:25:30.750Z
+updated: 2025-01-10T17:16:56.834Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to trim video in Windows 10 Photos
@@ -55,7 +55,7 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
@@ -63,6 +63,10 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
 
@@ -76,19 +80,11 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -97,10 +93,14 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,19 +127,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-adding-and-recording-voices-in-ppt/"><u>[New] 2024 Approved The Art of Adding and Recording Voices in PPT</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-windows-way-to-pluck-visuals-from-videos/"><u>[New] 2024 Approved Window's Way to Pluck Visuals From Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-lens-and-light-the-best-of-cinematographic-insights-24-edition/"><u>[Updated] 2024 Approved Lens & Light The Best of Cinematographic Insights - '24 Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-m1-mastery-seamless-editing-with-video-tools/"><u>[Updated] In 2024, M1 Mastery Seamless Editing with Video Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>[Updated] In 2024, The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/discovering-the-enhanced-vision-in-samsung-galaxy-s8/"><u>Discovering the Enhanced Vision in Samsung Galaxy S8</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-play-7t-by-drfone-android/"><u>How to Bypass FRP from Honor Play 7T?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-edge-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Edge 40</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers</u></a></li>
-<li><a href="https://games-able.techidaily.com/personalize-playtime-tailoring-xbox-game-bar-to-fit-your-style-on-pc/"><u>Personalize Playtime: Tailoring Xbox Game Bar to Fit Your Style on PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-essential-snapshot-strategies-snapchat-boomerangs-unveiled-for-2024/"><u>The Essential Snapshot Strategies Snapchat Boomerangs Unveiled for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Updated In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/wie-man-heic-bilder-in-jpg-umwandelt-tipps-fur-mac-und-windows-desktop-computer/"><u>Wie Man HEIC Bilder in JPG Umwandelt: Tipps Für Mac Und Windows Desktop Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-definitive-guide-to-live-tweeting-with-reactions/"><u>[New] 2024 Approved The Definitive Guide to Live Tweeting with Reactions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-acknowledgments-galore-cost-effective-templates-here/"><u>[New] Acknowledgments Galore Cost-Effective Templates Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-zoom-videos-efficiently-with-top-three-methods/"><u>[New] Enhance Zoom Videos Efficiently with Top Three Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[New] In 2024, How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-crafting-success-steps-to-thriving-as-a-designer/"><u>[Updated] 2024 Approved Crafting Success Steps to Thriving as a Designer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[Updated] 2024 Approved Dissecting Video Platform Distinctions YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-speech-recognition-a-game-changer-for-visual-presentations/"><u>[Updated] 2024 Approved Speech Recognition A Game Changer for Visual Presentations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>[Updated] Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-swipe-up-for-a-dose-of-self-reflection-curated-instagramcaptions/"><u>[Updated] Swipe up for a Dose of Self-Reflection - Curated #InstagramCaptions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avoiding-fuzzy-edges-in-picart-picture-processing/"><u>Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
+<li><a href="https://article-files.techidaily.com/expert-tips-for-selecting-video-control-software-for-2024/"><u>Expert Tips for Selecting Video Control Software for 2024</u></a></li>
 </ul></div>
 

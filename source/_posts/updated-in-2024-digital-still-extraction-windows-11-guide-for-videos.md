@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Digital Still Extraction  Windows 11 Guide for Videos\""
-date: 2025-01-02T16:15:00.071Z
-updated: 2025-01-03T19:20:37.308Z
+date: 2025-01-09T16:52:49.282Z
+updated: 2025-01-10T18:17:41.181Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -57,7 +53,7 @@ Creating a living image:
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -69,11 +65,11 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 ## Part 2: Why I can’t save photo from video
 
@@ -90,7 +86,7 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -105,6 +101,10 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
@@ -115,7 +115,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -143,16 +143,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-camera-selection-for-amateurs-for-2024/"><u>[New] Camera Selection for Amateurs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comical-content-for-apples-pixels/"><u>[New] Comical Content for Apple's Pixels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] In 2024, Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-visionary-4k-desktop-solutions-full-control/"><u>[New] In 2024, Visionary 4K Desktop Solutions Full Control</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-15-creative-ventures-to-pursue-while-youre-heeding-stories-for-2024/"><u>[Updated] 15 Creative Ventures to Pursue While You're Heeding Stories for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-6-ways-to-record-mov-files-on-windows-10/"><u>[Updated] 2024 Approved 6 Ways to Record .mov Files on Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>[Updated] 2024 Approved How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-masterclass-from-yis-4k-to-thrilling-cinematography/"><u>[Updated] In 2024, Masterclass From Yi's 4K to Thrilling Cinematography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv/"><u>[Updated] In 2024, The Ultimate Routine for Accessing and Playing FB Videos via Apple TV</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-initialization-error-with-dragon-ball-fighterzs-networking-features/"><u>Resolved: Initialization Error with Dragon Ball FighterZ's Networking Features</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-11-proplus-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme 11 Pro+</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>[New] 2024 Approved Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-craft-a-sonic-whatsapp-update/"><u>[New] Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-grandest-video-humor-studio/"><u>[Updated] Grandest Video Humor Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sleek-screenscape-top-wallpapers-for-your-device/"><u>[Updated] Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-firefox-screen-recorders-and-add-ons/"><u>2024 Approved Firefox Screen Recorders and Add-Ons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-our-no-cost-mp4-video-transformer-web-and-pc-version-available/"><u>Download Our No-Cost MP4 Video Transformer: Web & PC Version Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-overcoming-the-launch-issue-with-age-of-empires-iv/"><u>Fixes and Solutions: Overcoming the Launch Issue with Age of Empires IV</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-critical-5-changes-in-apple-phone-photoshoot-settings/"><u>In 2024, Critical 5 Changes in Apple Phone Photoshoot Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-hp-laserjet-p1006-with-this-free-dedicated-driver/"><u>Install Your HP LaserJet P1006 with This Free Dedicated Driver</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-15-online-haven-for-your-favorite-ringtone-files/"><u>Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://win11.techidaily.com/why-ditch-bot-helmed-windows-key-creation/"><u>Why Ditch Bot-Helmed Windows Key Creation?</u></a></li>
 </ul></div>
 

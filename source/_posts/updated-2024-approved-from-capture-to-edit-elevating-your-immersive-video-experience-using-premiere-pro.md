@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Capture to Edit  Elevating Your Immersive Video Experience Using Premiere Pro\""
-date: 2024-08-08T02:50:21.572Z
-updated: 2024-08-09T02:50:21.572Z
+date: 2025-01-07T21:29:23.491Z
+updated: 2025-01-10T19:47:41.675Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 # How to Edit 360 Degree Video in Premiere Pro
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
  Adobe Premiere Pro is without a doubt one of the most popular applications for editing videos today. To the convenience of many, especially those involved with VR, it now comes with an improved workflow for editing virtual reality videos. While you will be required to use your favorite tools to stitch videos together for a 360 degree view, Adobe Premier Pro allows for the importation of such videos with an equirectangular projection that makes it possible to edit them just as you would work with any other video file.
 
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Editing 360 degrees videos in Premiere Pro
 
@@ -43,18 +44,16 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 #### 2. Adjust your settings
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
 
 #### 3. Set the Preview Window to VR Mode
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
 
  After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
@@ -70,33 +69,27 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 #### 5. Exporting the VR Footage
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,4 +114,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-curated-list-14-captivating-text-animation-showcases-for-2024/"><u>[New] Curated List 14 Captivating Text Animation Showcases for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-guidance-to-fix-iphone-autofocus-problems-immediately/"><u>[New] In 2024, Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22-for-2024/"><u>[New] Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expert-recommendations-on-asmr-and-restful-nights/"><u>[Updated] 2024 Approved Expert Recommendations on ASMR & Restful Nights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-tracing-trending-commentary-across-videos/"><u>[Updated] 2024 Approved Tracing Trending Commentary Across Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-2024-audio-message-keeper/"><u>[Updated] IPhone 2024 Audio Message Keeper</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>[Updated] Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximize-your-google-meet-experience-without-paying-a-penny/"><u>[Updated] Maximize Your Google Meet Experience, Without Paying a Penny</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/call-recorder-iphone-captures-all-calls/"><u>Call Recorder IPhone Captures All Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-brother-printer-configuration-in-minutes/"><u>Mastering the Brother Printer Configuration in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/securesave-professionals-assessment/"><u>SecureSave Professionals' Assessment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Eliminating Photo Viewer Crashes on Windows 10\""
-date: 2024-12-30T19:22:46.145Z
-updated: 2025-01-03T17:54:11.875Z
+date: 2025-01-08T17:03:58.577Z
+updated: 2025-01-10T20:09:41.612Z
 tags: 
   - screen-recording
   - ai video
@@ -58,16 +58,8 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -80,15 +72,7 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -99,6 +83,10 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -111,6 +99,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -122,6 +114,10 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -129,10 +125,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,20 +159,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>[New] Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-top-networking-grounds-grow-your-youtube-audience/"><u>[New] In 2024, Top Networking Grounds Grow Your YouTube Audience</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-srt-file-handling-on-cross-platform-operating-systems/"><u>[New] SRT File Handling on Cross-Platform Operating Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-five-excellent-cameras-for-high-fidelity-movies-for-2024/"><u>[New] Top Five Excellent Cameras for High Fidelity Movies for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unleash-your-imagination-best-drawers-for-ipados/"><u>[New] Unleash Your Imagination Best Drawers for iPadOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[Updated] 2024 Approved How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[Updated] 2024 Approved The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-optimal-devices-for-photogrammetric-movies/"><u>[Updated] In 2024, Optimal Devices for Photogrammetric Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-art-of-photographic-posts-on-instagram/"><u>2024 Approved Unlocking the Art of Photographic Posts on Instagram</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-discover-these-top-5-iphone-friendly-podcast-services/"><u>In 2024, Discover These Top 5 iPhone-Friendly Podcast Services</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://article-files.techidaily.com/prime-10-nano-drones-for-experienced-pilots-for-2024/"><u>Prime 10 Nano Drones for Experienced Pilots for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-methods-for-iphone-screen-capture-for-2024/"><u>Step-by-Step Methods for iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-image-transformation-with-polarr-editors-power/"><u>Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-the-secrets-of-m1-max-clips-for-2024/"><u>Unveiling the Secrets of M1 Max Clips for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-effortless-restoration-of-windows-photo-viewer-steps-explained/"><u>[New] In 2024, Effortless Restoration of Windows Photo Viewer - Steps Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-zoom-on-chromebook-essential-advice-for-2024/"><u>[New] Navigating Zoom on Chromebook Essential Advice for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-paywalls-here-learn-how-to-record-and-save-your-youtube-experience-for-free-for-2024/"><u>[New] No Paywalls Here! Learn How To Record and Save Your YouTube Experience For Free for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-components-in-desktops/"><u>[Updated] 2024 Approved Cutting-Edge Components in Desktops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-dissecting-video-trimming-in-imovie-app/"><u>[Updated] 2024 Approved Dissecting Video Trimming in iMovie App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-windows-hd-color-find-out-how-to-watch-and-edit-hdr-videos-on-your-pc/"><u>[Updated] In 2024, Windows HD Color Find Out How to Watch and Edit HDR Videos on Your PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-omnistreamer-2024-local-and-live-the-best-package/"><u>[Updated] OmniStreamer 2024 Local & Live, The Best Package</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-s17-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo S17 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-corsair-icue-software-for-pc-compatible-with-windows-11-and-10/"><u>Download the Latest Corsair iCUE Software for PC - Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x9b-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X9b without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-multi-genre-unmanned-flyers/"><u>In 2024, Multi-Genre Unmanned Flyers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-the-ultimate-nvidia-shield-tv-pro-review/"><u>Next-Level Gaming Experience: The Ultimate NVIDIA Shield TV Pro Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimal-chatgpt-experience-comparing-web-browser-support-with-add-on-extensions/"><u>Optimal ChatGPT Experience: Comparing Web Browser Support with Add-On Extensions</u></a></li>
 </ul></div>
 

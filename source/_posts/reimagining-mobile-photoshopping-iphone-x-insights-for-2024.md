@@ -1,7 +1,7 @@
 ---
 title: "\"Reimagining Mobile Photoshopping  IPhone X Insights for 2024\""
-date: 2024-08-08T02:51:54.359Z
-updated: 2024-08-09T02:51:54.359Z
+date: 2025-01-05T20:07:28.051Z
+updated: 2025-01-10T19:22:35.454Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 # New iPhone X Camera Features You Need to Know
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -37,24 +34,27 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 * [Part 4: Video improvement](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -73,21 +73,22 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -119,4 +120,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-illustration-elevation-incorporating-text-into-3d-artwork-for-2024/"><u>[New] Illustration Elevation Incorporating Text Into 3D Artwork for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-laughter-lab-steps-to-simple-sharp-memes/"><u>[New] Laughter Lab Steps to Simple, Sharp Memes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[New] Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-video-to-image-easily-separate-and-save-pics-from-movies-windows-10-for-2024/"><u>[New] Video to Image Easily Separate and Save Pics From Movies (Windows 10) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[Updated] In 2024, Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-hooks-essential-steps-in-podcast-design-for-2024/"><u>[Updated] Visual Hooks Essential Steps in Podcast Design for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easy-steps-to-move-your-ipod-content-seamlessly-to-an-iphone/"><u>Easy Steps to Move Your iPod Content Seamlessly to an iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-guide-moving-music-from-iphone-playlists-into-itunes-instantly/"><u>Effortless Guide: Moving Music From iPhone Playlists Into iTunes Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-build-a-career-in-graphic-design/"><u>In 2024, How to Build A Career In Graphic Design</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-11-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 11 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-stay-grounded-in-virtual-reality-spaces/"><u>In 2024, How to Stay Grounded in Virtual Reality Spaces</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 11 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-memes-with-a-smile-builder/"><u>In 2024, Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://article-files.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor/"><u>PunPixel The Ultimate Tool for Digital Humor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regional-guide-how-to-securely-store-your-drivers-license-in-apple-wallet-on-iphone/"><u>Regional Guide: How to Securely Store Your Driver's License in Apple Wallet on iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-fixing-the-rec-room-mic-issue-on-pcs-guide/"><u>Troubleshooting Steps for Fixing the Rec Room Mic Issue on PCs (Guide)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-av-equipment-key-variances-of-ht-and-sr-receivers-for-your-space/"><u>Understanding AV Equipment: Key Variances of HT and SR Receivers for Your Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-a-better-nights-rest-with-these-exceptional-apple-watch-sleep-monitoring-apps/"><u>Unlock a Better Night's Rest with These Exceptional Apple Watch Sleep Monitoring Apps</u></a></li>
+</ul></div>
 

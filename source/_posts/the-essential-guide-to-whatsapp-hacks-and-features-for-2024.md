@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to WhatsApp Hacks and Features for 2024"
-date: 2025-01-03T01:33:27.458Z
-updated: 2025-01-04T00:05:09.623Z
+date: 2025-01-03T18:46:41.934Z
+updated: 2025-01-10T16:46:16.182Z
 tags: 
   - screen-recording
   - ai video
@@ -77,10 +77,6 @@ Many times, we have just one or a few people whose texts matter the most. So, av
 
 ![Whatsapp Pin Prioritized Contacts](https://images.wondershare.com/filmora/article-images/whatsapp-pin-prioritized-contacts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Source: techmesto.com
 
 #### 7.Export Chat Logs
@@ -89,15 +85,15 @@ If you wish to save the chats that you exchanged with someone special, you can e
 
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 8.WhatsApp Font Tricks for Formatting
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
 
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
 
@@ -112,11 +108,11 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the Hidden Features of WhatsApp?
@@ -146,7 +142,7 @@ As long as you have the chat history intact you can search specific words to tra
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5.Restore Your Chat History, and Deleted Chats
@@ -182,7 +178,7 @@ Manage how you are notified of messages from specific contacts and groups. Go to
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Source: beebom.com
@@ -198,7 +194,7 @@ There are no download options for photos and videos for WhatsApp Statuses, yet y
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2.Record Video Calls from PC and Improve Its Quality
@@ -209,6 +205,10 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 When it comes to WhatsApp Tricks and Trades, you always have to look forward to every update. Keep a tab on the updates and find a new WhatsApp Hidden Feature now and then.
@@ -218,7 +218,7 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -246,22 +246,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mobile-editing-hacks-writing-on-photos/"><u>[New] 2024 Approved Mobile Editing Hacks Writing on Photos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-techniques-to-effortlessly-attain-professional-graphic-content/"><u>[New] 2024 Approved Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-guide-to-freely-download-youtube-series-on-mobile/"><u>[New] 2024 Approved The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-craft-a-captivating-story-integrating-images-on-instagram-for-2024/"><u>[New] Craft a Captivating Story Integrating Images on Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-nba-experience-with-these-15-tips/"><u>[New] Elevate Your NBA Experience with These 15 Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hdr-brilliance-justified-choice-or-overkill/"><u>[Updated] HDR Brilliance Justified Choice or Overkill?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[Updated] In 2024, Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-chromatic-chameleons-playbook-for-masters/"><u>[Updated] The Chromatic Chameleon's Playbook for Masters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-try-these-free-online-tempo-trackers-today-for-2024/"><u>[Updated] Try These FREE Online Tempo Trackers Today for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>2024 Approved How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-dji-phantom-3-pros-innovations/"><u>2024 Approved Navigating the DJI Phantom 3 Pro's Innovations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>2024 Approved Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/achieving-seamless-video-communication-between-xbox-and-zoom/"><u>Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-drivers-updater-tools-available-this-july-2024/"><u>Discover the Best Free Drivers Updater Tools Available This July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-how-to-reset-the-dns-resolver-configuration-on-macos/"><u>Expert Tips: How to Reset the DNS Resolver Configuration on macOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-secret-story-gazers-manual-for-discreet-instagram-stories-on-desktopmobile/"><u>In 2024, Secret Story Gazer's Manual for Discreet Instagram Stories on Desktop/Mobile</u></a></li>
-<li><a href="https://article-files.techidaily.com/smart-strategies-for-buying-economical-gopros/"><u>Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-15-activities-for-podcast-enthusiasts/"><u>[New] Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-master-the-art-of-sound-alteration-on-sony-games-for-2024/"><u>[Updated] Master the Art of Sound Alteration on Sony Games for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/automatisieren-von-regelmassigen-sicherungen-auf-windows-server-einfach-und-effektiv-erklart/"><u>Automatisieren Von Regelmäßigen Sicherungen Auf Windows Server - Einfach Und Effektiv Erklärt!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals-for-2024/"><u>Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-tecno-spark-10c-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Tecno Spark 10C</u></a></li>
+<li><a href="https://article-files.techidaily.com/hitbox-vs-twitch-which-is-better/"><u>Hitbox Vs Twitch Which Is Better?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-gopro-hero-5-black-vs-nikon-keymission-170-which-one-is-better/"><u>In 2024, GoPro Hero 5 Black vs Nikon Keymission 170 Which One Is Better?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>In 2024, Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/our-selection-of-the-15-best-free-bootable-anti-virus-tools-online/"><u>Our Selection of the 15 Best Free Bootable Anti-Virus Tools Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vloggers-solution-excellent-camera-stabilization-for-2024/"><u>Vloggers' Solution Excellent Camera Stabilization for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/zero-shaking-zones-how-to-fix-unstable-gopro-videos-for-2024/"><u>Zero Shaking Zones How to Fix Unstable GoPro Videos for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/44k044of566x44gl44kj5ymk6zmk44gv44km44gf44ov44kh44kk44or44gu5b6p5ywd5oml6acgic0g44k944ov44oi44km44kn44ki5lin5l255so44gn5a6f6kgm5yplusv6io977yb/"><u>ゴミ箱から削除されたファイルの復元手順 - ソフトウェア不使用で実行可能！</u></a></li>
 </ul></div>
 

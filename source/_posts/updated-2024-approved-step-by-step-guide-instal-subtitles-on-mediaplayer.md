@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step Guide  Instal Subtitles on MediaPlayer\""
-date: 2024-12-29T00:05:29.935Z
-updated: 2025-01-04T00:16:28.465Z
+date: 2025-01-03T18:37:34.294Z
+updated: 2025-01-10T18:52:27.808Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Windows Media Player is still maintaining its wide popularity among users from e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step by Step Guide
 
 The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.
@@ -45,13 +41,13 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
 
@@ -63,10 +59,14 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Websites for Downloading Subtitles
@@ -74,7 +74,7 @@ As soon as you will finish all these settings, your subtitles will appear perfec
 If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [1. Moviesubtitles.com:](http://www.moviesubtitles.org/movies.html)
@@ -85,6 +85,10 @@ You will be glad to know that this website offers subtitles in wide range of lan
 
 This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
@@ -94,10 +98,6 @@ There is no doubt to say that TVSubtitles.com is well known as best site for TV 
 One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -124,20 +124,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-popularity-stock-images-meme-journey/"><u>[New] 2024 Approved Exploring Popularity Stock Images' Meme Journey</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-lg-ultrafine-4k-monitor-complete-review/"><u>[New] 2024 Approved LG UltraFine 4K Monitor Complete Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-visual-vibrancy-motion-blur-magic-in-adobe-illustrators/"><u>[New] 2024 Approved Visual Vibrancy Motion Blur Magic in Adobe Illustrators</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-hd-to-uhd-seamless-video-transformations-for-2024/"><u>[New] HD to UHD Seamless Video Transformations for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-8-mirrorless-cams-for-professional-videographers/"><u>[New] In 2024, Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[New] In 2024, The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>[New] New Frontiers in Immersive Experiences The Best Metaverse Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-future-is-now-insights-from-jaunt-vr-review/"><u>[New] The Future Is Now Insights From Jaunt VR Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pinnacle-screenshot-programs/"><u>[Updated] 2024 Approved Pinnacle Screenshot Programs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-playwriting-workshop/"><u>2024 Approved Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728475970090-nvme-ssd/"><u>大型NVMe SSDへのダブルクローニングテクニック - データ安全と最適化</u></a></li>
-<li><a href="https://fox-search.techidaily.com/come-trasferire-i-file-da-un-disco-rigido-di-windows-7-a-un-nuovo-computer-senza-installazione/"><u>Come Trasferire I File Da Un Disco Rigido Di Windows 7 a Un Nuovo Computer Senza Installazione</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 10 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pioneering-visual-stories-with-windows-10-photos-and-story-remix/"><u>In 2024, Pioneering Visual Stories with Window's 10 Photos & Story Remix</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>[New] 2024 Approved Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-metaverse-chronicles-the-best-sci-fi-movies-to-explore-new-universes-for-2024/"><u>[New] Metaverse Chronicles The Best Sci-Fi Movies to Explore New Universes for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-prime-5-replacements-for-twitter-users-for-2024/"><u>[New] Prime 5 Replacements for Twitter Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-professional-photogridding-services-to-polish-your-art-for-2024/"><u>[New] Professional Photogridding Services to Polish Your Art for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-prime-virtual-classroom-creation-tool/"><u>[Updated] In 2024, Prime Virtual Classroom Creation Tool</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-seizing-stability-eliminating-instability/"><u>[Updated] Seizing Stability Eliminating Instability</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visionary-creations-the-ultimate-list-of-30-video-plans/"><u>[Updated] Visionary Creations The Ultimate List of 30 Video Plans</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-ios-slideshow-software-for-latest-models-for-2024/"><u>Essential iOS Slideshow Software for Latest Models for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-audio-the-best-cam-mics/"><u>In 2024, Perfecting Audio The Best Cam Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-no-cost-companion-for-your-iphone-x7plus-selfies/"><u>In 2024, The Ultimate, No-Cost Companion for Your iPhone X/7+ Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-system-with-the-latest-in-kernel-6-cups-expert-advice-from-zdnet/"><u>Maximizing Your System with the Latest in Kernel 6. Cups - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-email-feedback-mechanisms-for-effective-communication-on-windows/"><u>Securing Email Feedback Mechanisms for Effective Communication on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-note-13-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi Note 13 Pro 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-the-next-level-audio-experience-with-key-enhancements/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro: The Next Level Audio Experience with Key Enhancements</u></a></li>
 </ul></div>
 

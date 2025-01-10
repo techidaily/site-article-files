@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Dive Into the World of LUTs and Free Digital Tools"
-date: 2024-12-30T00:36:58.723Z
-updated: 2025-01-04T02:11:55.460Z
+date: 2025-01-07T18:08:12.338Z
+updated: 2025-01-10T17:02:33.283Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -57,15 +57,15 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To create the effect:**
 
@@ -76,6 +76,10 @@ The patch graph that renders the color gradation effect looks like this:
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
@@ -97,7 +101,7 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -107,11 +111,7 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -121,7 +121,7 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
@@ -130,15 +130,15 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -174,17 +174,20 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-leveraging-ergonomics-for-superior-team-dynamics-in-the-workplace-for-2024/"><u>[New] Leveraging Ergonomics for Superior Team Dynamics in the Workplace for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hythmic-reactions-10-mobile-music-rippers-for-2024/"><u>[New] Rhythmic Reactions 10 Mobile Music Rippers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/trategic-playlist-formation-your-guide-to-youtube-mastery-for-2024/"><u>[New] Strategic Playlist Formation Your Guide to YouTube Mastery for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-advanced-hd-screen-documentation-gadgets/"><u>[Updated] In 2024, Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-playful-pioneers-the-kids-game-bazaar/"><u>[Updated] In 2024, Playful Pioneers The Kids' Game Bazaar</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-premier-transcription-tools-for-silent-input-for-2024/"><u>[Updated] Premier Transcription Tools for Silent Input for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/paralleled-youtube-gamers-intros-revealed-free-or-fee/"><u>12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-p40-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-essential-websites-for-digital-graffiti-fonts/"><u>In 2024, Essential Websites for Digital Graffiti Fonts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>In 2024, The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
-<li><a href="https://article-files.techidaily.com/stable-shooting-ultimate-iphoneandroid-tripod-hits/"><u>Stable Shooting Ultimate iPhone/Android Tripod Hits</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-your-logitech-mx-master-mouse-driver/"><u>Step-by-Step Guide: Installing Your Logitech MX Master Mouse Driver</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-quick-guide-to-chroma-key-background/"><u>[New] A Quick Guide to Chroma Key Background</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-fs-view-strategies-for-premiere-pro/"><u>[New] Comprehensive FS View Strategies for Premiere Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>[New] In 2024, Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>[New] Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-role-of-storytelling-in-presenting-market-research-findings-for-2024/"><u>[New] The Role of Storytelling in Presenting Market Research Findings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-best-gamers-audio-selection-guide/"><u>[New] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expert-recommendations-on-asmr-and-restful-nights/"><u>[Updated] 2024 Approved Expert Recommendations on ASMR & Restful Nights</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-zoom-launch-your-guide-to-online-chats/"><u>[Updated] 2024 Approved Zoom Launch Your Guide to Online Chats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content/"><u>[Updated] In 2024, Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-lgs-cutting-edge-monitor-technology-in-detail/"><u>[Updated] In 2024, Unveiling LG’s Cutting-Edge Monitor Technology in Detail</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortless-coordination-streamlining-zoom-and-gmail-collaboration-techniques/"><u>2024 Approved Effortless Coordination Streamlining Zoom & Gmail Collaboration Techniques</u></a></li>
+<li><a href="https://win-data.techidaily.com/access-and-modify-windows-control-panel-options-efficiently-with-our-comprehensive-tutorial-yl-computing-expertise/"><u>Access & Modify Windows Control Panel Options Efficiently with Our Comprehensive Tutorial - YL Computing Expertise</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-desktops-and-laptops-for-superior-performance-for-2024/"><u>Elite Desktops & Laptops for Superior Performance for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-10-editing-wizards-fcps-must-have-plugins/"><u>In 2024, Top 10 Editing Wizards FCP's Must-Have Plugins</u></a></li>
 </ul></div>
 
