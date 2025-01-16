@@ -1,7 +1,7 @@
 ---
 title: "Perfect Presentation with Personalized Typography in AE Projects"
-date: 2025-01-04T18:07:08.799Z
-updated: 2025-01-10T16:05:54.767Z
+date: 2025-01-13T00:15:10.983Z
+updated: 2025-01-16T08:23:21.949Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ After Effects is one of the most promising video editing applications available 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to add fonts to After Effects?
 
 Adding fonts to any video editor is a crucial part because texts add a story to the video projects. They have a great impact on the cinematic quality of any video. For informative videos, the style of font decides the tone in which the texts are displayed.
@@ -42,7 +46,7 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
@@ -53,7 +57,7 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Types of Fonts in After Effects
@@ -74,6 +78,10 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -90,10 +98,6 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
 * If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
@@ -102,7 +106,7 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -114,10 +118,6 @@ The article discussed the detailed process of **how to add font to Adobe After E
 These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
@@ -158,24 +158,22 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-effortlessly-enhance-videos-with-textual-descriptions-in-microsoft-photos-windows-11/"><u>[New] Effortlessly Enhance Videos with Textual Descriptions in Microsoft Photos (Windows 11)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-improve-real-time-periscope-performance/"><u>[New] Improve Real-Time Periscope Performance</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-role-a-guide-to-exceptional-interviews/"><u>[New] In 2024, Elevating Your Role A Guide to Exceptional Interviews</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[New] In 2024, Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>[New] Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>[New] Understanding Facebook Story Algorithms How to Optimize for Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-expert-techniques-for-clearing-picture-edges/"><u>[Updated] 2024 Approved Expert Techniques for Clearing Picture Edges</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-design-and-produce-your-fb-profile-vids-for-2024/"><u>[Updated] Design and Produce Your FB Profile Vids for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-efficient-tools-and-tips-for-webp-to-jpeg-transformation-for-2024/"><u>[Updated] Efficient Tools and Tips for WebP to JPEG Transformation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhance-your-projectes-dimensionality-with-3d-text-psx-for-2024/"><u>[Updated] Enhance Your Project'es Dimensionality with 3D Text PSX for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-ideal-days-for-launching-a-podcast/"><u>[Updated] In 2024, Ideal Days for Launching a Podcast</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] In 2024, Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-venturing-into-vector-world-starting-point-and-top-tools/"><u>[Updated] In 2024, Venturing Into Vector World Starting Point and Top Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quick-fixes-addressing-top-youtube-short-challenges-for-2024/"><u>[Updated] Quick Fixes Addressing Top YouTube Short Challenges for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-what-is-public-domain-art/"><u>[Updated] What Is Public Domain Art</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-dog-tracking-devices-reviewed-discover-the-top-picks-for-pet-safety/"><u>Leading Dog Tracking Devices Reviewed: Discover the Top Picks for Pet Safety</u></a></li>
-<li><a href="https://discover-data.techidaily.com/stunning-dragon-training-themed-wallpapers-and-backgrounds-by-yl-computing-the-ultimate-collection/"><u>Stunning Dragon Training Themed Wallpapers & Backgrounds by YL Computing - The Ultimate Collection</u></a></li>
-<li><a href="https://article-files.techidaily.com/uncover-hidden-tech-secrets-with-toms-in-depth-hardware-analysis/"><u>Uncover Hidden Tech Secrets with Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-10-innovative-video-call-platforms-azoom-not-necessary/"><u>[New] 10 Innovative Video Call Platforms Azoom Not Necessary?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-do-reviewers-get-dollars-for-commentary-in-2024/"><u>[New] Do Reviewers Get Dollars for Commentary, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-flight-to-fun-mavic-airs-showdown-with-spark/"><u>[New] In 2024, From Flight to Fun Mavic Air's Showdown with Spark</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>[Updated] 2024 Approved Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature/"><u>[Updated] 2024 Approved Ultimate Training Harnessing the Power of Adobe Captivate's Screen Record Feature</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>[Updated] Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-stunning-photos-on-iphones/"><u>2024 Approved Expert Tips for Stunning Photos on iPhones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/chordography-map-your-creative-path-with-iphone-for-2024/"><u>Chordography Map Your Creative Path with iPhone for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/flight-controls-and-beyond-the-2023-h501s-review/"><u>Flight Controls and Beyond The 2023 H501S Review</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-methods-to-assess-the-condition-of-your-hard-drive-and-usb-drives/"><u>Free Methods to Assess the Condition of Your Hard Drive & USB Drives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-iphone-performance-with-a-network-settings-reset/"><u>Improve iPhone Performance with a Network Settings Reset</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-achieving-perfect-synchronization-google-upload/"><u>In 2024, Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-add-ons-to-elevate-your-yi-4k-cameras/"><u>In 2024, Innovative Add-Ons to Elevate Your YI 4K Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-12-html5-videophones-for-optimal-viewing/"><u>In 2024, Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-flip-and-spin-10-top-video-editing-tools/"><u>New Rotate, Flip, and Spin 10 Top Video Editing Tools</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ripristina-la-partizione-mancante-in-windows-11-guida-rapida-e-facile-con-video-tutorial/"><u>Ripristina La Partizione Mancante in Windows 11: Guida Rapida E Facile Con Video Tutorial!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-elevate-your-video-content-with-advanced-64-bit-editing-capabilities/"><u>Updated In 2024, Elevate Your Video Content with Advanced 64-Bit Editing Capabilities</u></a></li>
 </ul></div>
 

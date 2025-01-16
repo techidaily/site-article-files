@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Stunning Feats in Figure Skating '22 Moments"
-date: 2025-01-07T18:48:28.917Z
-updated: 2025-01-10T20:37:18.674Z
+date: 2025-01-12T23:07:27.636Z
+updated: 2025-01-16T10:35:35.163Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter O
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -39,17 +35,9 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
@@ -59,23 +47,31 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -97,6 +93,10 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -104,7 +104,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -136,15 +136,17 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review-for-2024/"><u>[New] Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-implement-google-meets-grid-view-feature-for-2024/"><u>[New] How to Implement Google Meet's Grid View Feature for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/dentifying-the-top-12-easiest-to-use-flip-screen-cams-for-2024/"><u>[New] Identifying the Top 12 Easiest to Use Flip Screen Cams for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhanced-imagery-at-your-fingertits-iphone-and-androids-sticker-boost-apps-for-2024/"><u>[Updated] Enhanced Imagery at Your Fingertits – iPhone and Android's Sticker-Boost Apps for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[Updated] In 2024, Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-the-realm-of-favorites-top-10-reddit-discussions-revisited-for-2024/"><u>[Updated] In the Realm of Favorites Top 10 Reddit Discussions Revisited for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tailored-transmission-terminal-podcasters-hub-for-2024/"><u>[Updated] Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-world-of-viral-memes/"><u>Decoding the World of Viral Memes</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effective-techniques-for-unjamming-your-printer-insights-from-yl-computing/"><u>Effective Techniques for Unjamming Your Printer: Insights From YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-best-top-race-rc-rock-crawler-mastering-off-road-adventures/"><u>Ultimate Guide to the Best Top Race RC Rock Crawler: Mastering Off-Road Adventures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-gazescope-grading-guide/"><u>[New] 2024 Approved GazeScope Grading Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-highlighted-best-free-efficient-3d-videos-player-software/"><u>[New] In 2024, Highlighted Best Free, Efficient 3D Videos Player Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-interior-illumination-through-natural-sun-exposure-for-2024/"><u>[New] Interior Illumination Through Natural Sun Exposure for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-satirical-shots-reimagined-the-best-onlineiosandroid-tools-for-2024/"><u>[New] Satirical Shots Reimagined The Best Online/iOS/Android Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview/"><u>[Updated] 2024 Approved From Basic to Advanced Usage Maximize Your Experience with Mac's Preview</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-black-screen-trouble-in-fortnite-expert-strategies-for-windows-users/"><u>Clearing Up Black Screen Trouble in Fortnite: Expert Strategies for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-ideal-cyber-monday-tech-deals-for-your-perfect-laptop-save-big-in-october-2024-techradar/"><u>Find the Ideal Cyber Monday Tech Deals for Your Perfect Laptop - Save Big in October 2024! | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-deal-with-windows-error-x70-a-comprehensive-checklist/"><u>How To Deal with Windows Error X70: A Comprehensive Checklist</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-fires-pitch-perfect-playbook/"><u>In 2024, Free Fire's Pitch Perfect Playbook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-integrated-workout-tracking-of-apple-watch-enough-or-should-you-stick-with-garmin-devices/"><u>Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?</u></a></li>
+<li><a href="https://article-files.techidaily.com/unbeatable-summer-movie-list-10-familial-classics/"><u>Unbeatable Summer Movie List 10 Familial Classics</u></a></li>
 </ul></div>
 

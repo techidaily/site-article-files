@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samsung Galaxy S8  Setting New Standards for 4K Video\""
-date: 2025-01-09T16:14:52.734Z
-updated: 2025-01-10T21:25:34.564Z
+date: 2025-01-11T00:37:19.180Z
+updated: 2025-01-15T23:36:36.537Z
 tags: 
   - screen-recording
   - ai video
@@ -91,10 +91,6 @@ To make connectivity even better the S8 is equipped with Bluetooth five which im
 
 The phone comes with a very durable design that is created to be waterproof. With the full certification on waterproofing this is maybe not a device that you would use for diving but it can stand up to light rain, splashing and other situations. The majority of the device is made out of an aluminum instruction with the front of the device being constructed out of Gorilla Glass 5\. The weight and the durability of this device is not something to question as it can deliver the best in performance throughout a standard day.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Section 2: Samsung Galaxy S8 Features and Performance
 
 #### 1. Samsung Galaxy S8 Camera Performance
@@ -112,7 +108,7 @@ However, if you are looking for a more advanced video editing tool to make a vid
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Samsung Galaxy S8 Audio Performance
@@ -133,16 +129,24 @@ It can handle plenty of demanding applications but it's very important to use th
 
 ![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
 
 #### 5. Samsung Galaxy S8 Compatibility
 
 ![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Section 3: Samsung Galaxy S8 Onboard Software
@@ -151,14 +155,10 @@ The device comes with a touchwiz UI which is very similar to other Samsung appli
 
 ![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -192,18 +192,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[New] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[New] In 2024, Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[New] In 2024, Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pixels-to-perfection-design-tips-for-captivating-banners/"><u>[New] In 2024, Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-overview-of-google-ar-sticker-and-its-alternative/"><u>[New] Overview of Google AR Sticker and Its Alternative</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elevate-your-digital-presence-mastering-the-art-of-sharing-pictures-on-youtube-for-2024/"><u>[Updated] Elevate Your Digital Presence Mastering the Art of Sharing Pictures on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-redefine-your-viewing-habits-6-leading-cost-free-video-downloaders-for-youtube-shorts/"><u>[Updated] Redefine Your Viewing Habits 6 Leading, Cost-Free Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-art-of-crafting-superior-srt-documents-for-2024/"><u>[Updated] The Art of Crafting Superior SRT Documents for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-photo-browser-for-modern-windows/"><u>2024 Approved Instant Photo Browser for Modern Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-alternatives-to-similarweb-ultimate-guide-to-in-depth-website-traffic-analysis-tools/"><u>Best Alternatives to SimilarWeb: Ultimate Guide to In-Depth Website Traffic Analysis Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-pro-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 Pro to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/light-on-shadows-techniques-for-depth-in-illustrator/"><u>Light on Shadows Techniques for Depth in Illustrator</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/transform-your-stories-6-premier-apps-for-snapchat-filters/"><u>Transform Your Stories 6 Premier Apps for Snapchat Filters</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-crafting-a-huge-impact-youtube-titles-that-sell/"><u>[New] 2024 Approved Crafting a Huge Impact YouTube Titles That Sell</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-tips-for-capturing-360-degree-fisheye-photos/"><u>[New] Pro Tips for Capturing 360-Degree Fisheye Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>[New] Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>[New] The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-what-makes-magix-video-pro-x-stand-out-in-2024/"><u>[New] What Makes Magix Video Pro X Stand Out, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-top-5-featherweight-camcorders-for-adventures/"><u>[Updated] Best Top 5 Featherweight Camcorders for Adventures</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart-for-2024/"><u>[Updated] Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-easy-steps-to-starting-an-instagram-live/"><u>[Updated] In 2024, Easy Steps to Starting an Instagram Live</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>[Updated] In 2024, Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/troubleshooting-guide-star-wars-jedi-fallen-order-failure-to-start/"><u>Troubleshooting Guide: Star Wars Jedi: Fallen Order Failure to Start</u></a></li>
 </ul></div>
 

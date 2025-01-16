@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Moments Right  Ideal Perspectives on iPhone\""
-date: 2024-07-29T01:53:02.172Z
-updated: 2024-07-30T01:53:02.172Z
+date: 2025-01-14T17:02:33.806Z
+updated: 2025-01-15T21:44:06.087Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,11 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 #### 1\.  Close Ups
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![close-up-angle.](https://images.wondershare.com/filmora/article-images/close-up-angle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Digital Care Solutions
 
@@ -49,10 +50,11 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 #### 2\.  Low-Angle Shots
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: google
 
@@ -62,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -81,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 #### 5\.  Bird's Eye View
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
 
  Image resource: Google
@@ -100,6 +92,10 @@ No advertising on the website.
 
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Chris Utano Photography
 
  All photos have a rectangular shape, and depicting the same shape within a photo creates instant dynamics between the shape you captured in a photo and its literal shape. A frame can be literally anything from a window in your room to a crack in the wall or even an old photo frame, and each item you use as a frame will give the photo a special atmosphere.
@@ -108,10 +104,11 @@ No advertising on the website.
 
 #### 7\.  Use Transparent Objects as Lens Filters
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Digital Photo Secrets
 
@@ -119,19 +116,11 @@ No advertising on the website.
 
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -156,4 +145,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ree-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution-for-2024/"><u>[New] Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-iphones-video-reduction-and-adjustment-tools-for-2024/"><u>[New] Mastering iPhone's Video Reduction and Adjustment Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-to-excellence-the-ultimate-powerdirectors-user-manual-for-2024/"><u>[New] Step-by-Step to Excellence The Ultimate PowerDirector's User Manual for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-guffaw-glory-top-downloads-of-jingles/"><u>[Updated] In 2024, Guffaw Glory Top Downloads of Jingles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-iconic-nintendo-switch-fighting-game-series-max-156/"><u>[Updated] In 2024, Iconic Nintendo Switch Fighting Game Series (Max 156)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-lifting-legends-top-10-super-strong-drones/"><u>[Updated] In 2024, Lifting Legends Top 10 Super-Strong Drones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>[Updated] In 2024, SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-proven-picks-the-top-5-online-title-makers-you-need-to-know/"><u>[Updated] Proven Picks The Top 5 Online Title Makers You Need to Know</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-essential-tutorial-for-using-speech-to-text-in-microsoft-word/"><u>2024 Approved The Essential Tutorial for Using Speech-to-Text in Microsoft Word</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-download-get-your-scansnap-s1300i-scanner-software-updated-today/"><u>Effortless Download: Get Your ScanSnap S1300i Scanner Software Updated Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-cheap-and-effective-action-cam-picks-top-6-list/"><u>In 2024, Cheap and Effective ACTION Cam Picks – Top 6 List</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-instructions-setting-up-wm6/"><u>In 2024, Expert Instructions Setting Up WM6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrating-artistry-into-your-instagram-feed-with-pictures/"><u>Integrating Artistry Into Your Instagram Feed with Pictures</u></a></li>
+<li><a href="https://article-files.techidaily.com/maximize-windows-10-top-5-recording-techniques-for-2024/"><u>Maximize Windows 10 Top 5 Recording Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-unsupported-boot-state-in-windows/"><u>Quick-Fix for Unsupported Boot State in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-ps5-and-pc-gaming-controller-use-tutorial/"><u>Uniting PS5 & PC Gaming: Controller Use Tutorial</u></a></li>
+</ul></div>
 

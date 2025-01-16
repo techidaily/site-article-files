@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Power of Popularity in Stock Images & Stories"
-date: 2025-01-09T19:41:31.221Z
-updated: 2025-01-10T19:37:49.505Z
+date: 2025-01-10T01:36:20.136Z
+updated: 2025-01-16T00:42:58.750Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -50,7 +46,15 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: Distracted Boyfriend
 
@@ -61,10 +65,6 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -79,14 +79,10 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
@@ -109,10 +105,6 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
 * The meme also appears in a 2017 tweet by @NFLRT, an NFL fan account, where the man questions when Colin Kaepernick will be signed.
@@ -124,12 +116,16 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
@@ -145,6 +141,10 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 * A Reddit post by Poonswoggle from April 2020 received 36,500 points within three months. In this version, the user references his struggle with sleeping because of repressed memories.
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part5: FAQs
 
@@ -194,22 +194,20 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-digital-collection-mastery-extracting-twitters-animated-tweets-for-2024/"><u>[New] Digital Collection Mastery Extracting Twitter's Animated Tweets for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-photographic-precision-against-shake/"><u>[New] In 2024, Photographic Precision Against Shake</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premier-plugins-for-dynamic-type-design-in-ae-for-2024/"><u>[New] Premier Plugins for Dynamic Type Design in AE for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/imply-saver-top-mobile-apps-for-downloading-youtube-series-and-songs-for-2024/"><u>[New] Simply Saver Top Mobile Apps for Downloading YouTube Series & Songs for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-enhance-your-skills-with-the-top-10-drawing-apps-on-android-platform-for-2024/"><u>[Updated] Enhance Your Skills with the Top 10 Drawing Apps on Android Platform for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-depth-analysis-the-revolutionary-4k-features-in-benq-sw320/"><u>[Updated] In-Depth Analysis The Revolutionary 4K Features in BenQ SW320</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok-in-2024/"><u>[Updated] The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-avoiding-unwanted-image-ripples/"><u>2024 Approved Avoiding Unwanted Image Ripples</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-slomo-app-evaluation-future-prospects/"><u>2024 Approved Comprehensive SloMo App Evaluation - Future Prospects</u></a></li>
-<li><a href="https://article-helps.techidaily.com/excellent-10-drone-set-professional-filming-and-photography/"><u>Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-resolve-iphone-visibility-problems-when-connected-to-a-windows-1011-desktop/"><u>How to Resolve iPhone Visibility Problems when Connected to a Windows 10/11 Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-capturing-time-live-photo-journey-to-video-vista/"><u>In 2024, Capturing Time Live Photo Journey to Video Vista</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-lowering-volume-steps-in-logic-pro-audio-editing/"><u>In 2024, Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-setting-up-your-microphone-on-windows-11/"><u>In 2024, Setting Up Your Microphone on Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-simplified-storytelling-methodology/"><u>In 2024, Simplified Storytelling Methodology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-to-blurring-videos-online-a-complete-tutorial/"><u>Step-by-Step Guide to Blurring Videos Online: A Complete Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-affordable-cameras-where-to-buy-economical-gopros/"><u>[New] 2024 Approved Affordable Cameras Where to Buy Economical GoPros</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-dive-into-ar-sticker-technology-and-alternatives-for-2024/"><u>[New] A Dive Into AR Sticker Technology and Alternatives for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones-for-2024/"><u>[New] Exclusive Sites for Secure & Quick Download of YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>[New] Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unsubscribing-disconnecting-desktop-discords-for-2024/"><u>[New] Unsubscribing Disconnecting Desktop Discords for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-sound-top-10-podcast-recording-mics/"><u>[Updated] 2024 Approved Superior Sound Top 10 Podcast Recording Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-virtual-realities-made-tangible-6-metaverse-examples-reviewed/"><u>[Updated] 2024 Approved Virtual Realities Made Tangible 6 Metaverse Examples Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-5-for-high-speed-video-capture-tech/"><u>[Updated] Best 5 for High-Speed Video Capture Tech</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-craft-impressive-clips-with-these-intros/"><u>[Updated] In 2024, Craft Impressive Clips With These Intros</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[Updated] In 2024, Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-s23plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy S23+ via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comment-effacer-completement-votre-playstation-5-sans-supprimer-vos-jeux/"><u>Comment Effacer Complètement Votre PlayStation 5 Sans Supprimer Vos Jeux</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/guida-facile-per-convertire-e-trasferire-filmati-vhs-su-un-computer-con-la-tecnologia-dvd/"><u>Guida Facile per Convertire E Trasferire Filmati VHS Su Un Computer Con La Tecnologia DVD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30-vip-racing-edition-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30 VIP Racing Edition Phone When You Forget the Password</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
 </ul></div>
 

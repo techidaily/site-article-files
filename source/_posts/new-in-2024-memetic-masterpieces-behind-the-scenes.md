@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Memetic Masterpieces  Behind the Scenes\""
-date: 2025-01-09T19:42:44.202Z
-updated: 2025-01-10T19:59:47.951Z
+date: 2025-01-12T22:04:03.669Z
+updated: 2025-01-16T05:07:39.190Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -37,10 +41,6 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
 * The stock photo meme guy conducted a TEDx talk in his native Ukraine in September 2018\. During the talk, Mr. Andras Arato, a 73-year-old retired electrical engineer, speaks on his fame as a meme-personality and his profession. Currently, the video has nearly 7.87 million views on TEDx's official YouTube channel.
@@ -59,7 +59,7 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -85,6 +85,10 @@ In addition, Antonio Guillem also has a stock image meme where the roles are rev
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
@@ -92,7 +96,7 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
@@ -100,10 +104,6 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -113,11 +113,11 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -132,7 +132,7 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -141,10 +141,6 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 * A Reddit post by Poonswoggle from April 2020 received 36,500 points within three months. In this version, the user references his struggle with sleeping because of repressed memories.
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part5: FAQs
 
@@ -157,6 +153,10 @@ This is because not all stock photo providers offer their images with a creative
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
 
@@ -194,19 +194,18 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-broadcast-iptv-across-platforms/"><u>[New] 2024 Approved Broadcast IPTV Across Platforms</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>[New] 2024 Approved Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-craft-a-sonic-whatsapp-update/"><u>[New] Craft a Sonic WhatsApp Update</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-tiny-film-plot-proposal/"><u>[Updated] In 2024, Tiny Film Plot Proposal</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-addressed-hidden-shorters-now-visible/"><u>2024 Approved Addressed Hidden Shorters, Now Visible</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-complete-guide-to-youtubes-movie-maker-features/"><u>2024 Approved The Complete Guide to YouTube's Movie Maker Features</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweetvidaudiomaker-instant-sound-output/"><u>2024 Approved TweetVidAudioMaker Instant Sound Output</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/9-must-ask-inquiries-for-savvy-shoppers-in-the-ev-marketplace/"><u>9 Must-Ask Inquiries for Savvy Shoppers in the EV Marketplace</u></a></li>
-<li><a href="https://article-files.techidaily.com/guarding-against-virtual-sickness/"><u>Guarding Against Virtual Sickness</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c67-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C67 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-textual-transformation-in-adobe-after-effects/"><u>In 2024, Textual Transformation in Adobe After Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-video-editing-apps-for-the-gopro-community/"><u>Premier Video Editing Apps for the GoPro Community</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-htc-u23-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for HTC U23 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unlocking-your-hdd-top-5-methods-to-retrieve-data-without-an-operating-system/"><u>Unlocking Your HDD: Top 5 Methods to Retrieve Data Without an Operating System</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-conquer-live-streaming-a-stepwise-guide-to-excellence/"><u>[New] 2024 Approved Conquer Live Streaming A Stepwise Guide to Excellence</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[New] 2024 Approved The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-video-connectivity-sharing-across-twitter-and-tumblr/"><u>[New] 2024 Approved Video Connectivity Sharing Across Twitter & Tumblr</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-comprehensive-guide-to-high-def-game-broadcasting/"><u>[New] The Comprehensive Guide to High-Def Game Broadcasting</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-nextgen-video-upscaler-mobiledesktop-edition/"><u>[Updated] 2024 Approved NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-huawei-p10s-network-performance-and-coverage-for-2024/"><u>[Updated] Exploring Huawei P10's Network Performance & Coverage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>[Updated] Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>2024 Approved Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-os-error-xc0000142-on-windows/"><u>Eradicating OS Error XC0000142 on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11-proplus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-buddy-chatgpt-online-heres-how/"><u>Is AI Buddy ChatGPT Online? Here’s How</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-windows-view-on-screen/"><u>Sharpening Windows View on Screen</u></a></li>
 </ul></div>
 
