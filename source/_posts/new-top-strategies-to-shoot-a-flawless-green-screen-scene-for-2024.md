@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Strategies to Shoot a Flawless Green Screen Scene for 2024"
-date: 2025-01-13T08:49:50.162Z
-updated: 2025-01-16T09:26:03.031Z
+date: 2025-01-15T18:59:47.300Z
+updated: 2025-01-22T17:27:43.541Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
@@ -45,7 +49,7 @@ We’ve figured out some useful green screen tricks, have fun and hope you’ll 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
@@ -58,15 +62,15 @@ Don’t throw too much light onto the green background. That will create hotspot
 
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
@@ -80,19 +84,11 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
@@ -110,10 +106,14 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -141,20 +141,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-optimize-your-presence-on-spotify-ads/"><u>[New] In 2024, How to Optimize Your Presence on Spotify Ads</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-beyond-the-basics-advanced-video-splitting/"><u>[Updated] 2024 Approved Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-text-to-youtube-video-before-or-after-uploading/"><u>[Updated] 2024 Approved How to Add Text to YouTube Video Before or After Uploading</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-perfect-ending-for-youtubers-best-practices-and-pro-files/"><u>[Updated] In 2024, Perfect Ending for YouTubers Best Practices and Pro Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-xs-100-i-shattering-boundaries-of-action-filming-for-2024/"><u>[Updated] XS 100 I Shattering Boundaries of Action Filming for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-hitman-3-hiccups-and-glitches-advanced-troubleshooting-techniques-for-pc-users/"><u>Beat Hitman 3 Hiccups & Glitches - Advanced Troubleshooting Techniques for PC Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/epic-meme-designs-the-10-list-of-choice-for-2024/"><u>Epic Meme Designs The #10 List of Choice for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-2022-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone SE (2022) Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-transfer-iphone-data-to-a-windows-pc-using-6-effective-methods/"><u>How to Transfer iPhone Data to a Windows PC Using 6 Effective Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-precision-close-up-techniques-with-kinemaster-software/"><u>In 2024, Precision Close-Up Techniques with Kinemaster Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202575300-keep-your-mac-tidy-with-scheduled-file-and-folder-purges-try-stellar-file-eraser-5/"><u>Keep Your Mac Tidy with Scheduled File and Folder Purges: Try Stellar File Eraser 5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-running-chatgpt-on-linux-with-ease/"><u>Mastering the Art of Running ChatGPT on Linux with Ease</u></a></li>
-<li><a href="https://article-files.techidaily.com/present-day-vr-tech-diary-for-2024/"><u>Present-Day VR Tech Diary for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-k11-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo K11 5G</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-and-easy-avi-video-editing-top-5-software-choices/"><u>Updated 2024 Approved Free and Easy AVI Video Editing Top 5 Software Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gopros-360-degree-spectacle-max-vs-hero-11-showdown/"><u>[New] 2024 Approved GoPro's 360-Degree Spectacle Max vs Hero 11 Showdown</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-the-art-of-technological-advancement-with-this-guide/"><u>[New] 2024 Approved Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-face-editing-battle-is-hero-series-better-than-the-cube-for-2024/"><u>[New] Face-Editing Battle Is Hero Series Better Than The Cube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-comparative-study-of-premium-video-services/"><u>[New] In 2024, Comparative Study of Premium Video Services</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-the-potential-of-dslr-with-facebook-live-compatible-pcsmacs/"><u>[New] In 2024, Unlock the Potential of DSLR with Facebook LIVE, Compatible PCs/Macs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unraveling-the-art-of-iphone-vr-video-playback-for-2024/"><u>[New] Unraveling the Art of iPhone VR Video Playback for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-master-the-spectrum-advanced-hdr-tips-for-lightroom-pro-for-2024/"><u>[Updated] Master the Spectrum Advanced HDR Tips for Lightroom Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-sierras-best-top-5-mac-videography-software-insights-for-2024/"><u>[Updated] Sierra's Best Top 5 Mac Videography Software Insights for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-10-screen-capture-solutions-to-enhance-instruction/"><u>2024 Approved Top 10 Screen Capture Solutions to Enhance Instruction</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-spark-20-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Spark 20 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone XR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-new-standard-how-does-av1-outperform-vp9-for-2024/"><u>The New Standard How Does AV1 Outperform VP9 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-ai-in-personal-connections-enhancing-your-dating-experience-with-chatgpt/"><u>The Power of AI in Personal Connections: Enhancing Your Dating Experience with ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-free-pc-and-mac-dvd-ripper-software-best-picks/"><u>Top Rated FREE PC & MAC DVD Ripper Software : Best Picks</u></a></li>
 </ul></div>
 

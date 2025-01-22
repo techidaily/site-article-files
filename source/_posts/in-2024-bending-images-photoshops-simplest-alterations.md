@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bending Images  Photoshop's Simplest Alterations\""
-date: 2025-01-12T01:52:39.713Z
-updated: 2025-01-16T11:01:17.352Z
+date: 2025-01-16T18:27:44.356Z
+updated: 2025-01-22T16:03:40.822Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -44,7 +44,7 @@ After creating the new document, open the image that you want to curve. You may 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3Warp the Image
@@ -60,7 +60,7 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -70,10 +70,6 @@ Play around with the settings in the options bar. There are quite a few differen
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
@@ -90,7 +86,11 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,22 +127,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-superior-recommendations-elite-ios-audio-makers/"><u>[New] 2024 Approved Superior Recommendations Elite iOS Audio Makers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expedited-photographic-viewing-in-windows-10/"><u>[New] In 2024, Expedited Photographic Viewing in Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>[New] In 2024, Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-guide-sharing-melodies-in-facebook-narratives/"><u>[New] In 2024, Guide Sharing Melodies in Facebook Narratives</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>[Updated] 2024 Approved 18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership/"><u>[Updated] 2024 Approved Exploring the Neuroscience of Decision-Making and Its Implications for Leadership</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>[Updated] 2024 Approved Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-reddit-winners-a-collection-of-best-posts/"><u>[Updated] 2024 Approved Ultimate Reddit Winners A Collection of Best Posts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>[Updated] In 2024, Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>[Updated] In 2024, Start Here How to Expedite Videos in Snapchat for New Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-recording-games-via-steam/"><u>[Updated] In 2024, The Ultimate Guide to Recording Games via Steam</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-prime-8-virtual-vision-composition-program-for-2024/"><u>[Updated] Prime 8 Virtual Vision Composition Program for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 12 Pro without Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-jump-cut-like-a-pro-expert-techniques-for-final-cut-pro-x-editors/"><u>In 2024, Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-second-screen-craftsman/"><u>In 2024, Second-Screen Craftsman</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tesla-enhances-in-car-entertainment-with-new-apple-airplay-feature-ignores-car-play-integration/"><u>Tesla Enhances In-Car Entertainment with New Apple AirPlay Feature; Ignores Car Play Integration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-step-by-step-to-upgraded-windows-photos-visuals-and-tunes/"><u>[New] 2024 Approved A Step-by-Step to Upgraded Windows Photos Visuals & Tunes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-fanatics-dream-the-ultimate-list-of-free-movies-streaming-on-youtube-for-2024/"><u>[New] Film Fanatics' Dream – The Ultimate List of Free Movies Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovation-in-action-top-video-editing-strategies/"><u>[New] Innovation in Action Top Video Editing Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unparalleled-harmony-collector-android-based/"><u>[New] Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-10-premier-alternative-activities-to-watching-sports/"><u>[Updated] 2024 Approved 10 Premier Alternative Activities to Watching Sports</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] 2024 Approved Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-monetizing-media-earnings-analysis-for-pewdiepie/"><u>[Updated] 2024 Approved Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-detailed-handbook-for-optimizing-googles-ai-powered-text-conversion/"><u>[Updated] Detailed Handbook for Optimizing Google's AI-Powered Text Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-nine-leading-iphone-image-watermarking-tools-analysis/"><u>[Updated] Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-6-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic 6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-playback-enjoy-movies-without-downloading-software/"><u>DVD Playback - Enjoy Movies Without Downloading Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-engagement-a-step-by-step-for-commenting-with-gifs-on-instagram/"><u>Elevate Your Engagement: A Step-by-Step for Commenting with GIFs on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors/"><u>In 2024, Assessing the Pros and Cons of LG's USB Type-C Monitors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme 11 5G Device SIM</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pro-techniques-for-professional-iphone-shots/"><u>In 2024, Pro Techniques for Professional Iphone Shots</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-c33-2023-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme C33 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-networking-solution-for-serious-gamers-explored/"><u>The Perfect Networking Solution for Serious Gamers Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/thorough-examination-of-dji-inspire-1-for-2024/"><u>Thorough Examination of DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/windows-11s-fresh-perspectives-explored-for-2024/"><u>Windows 11'S Fresh Perspectives Explored for 2024</u></a></li>
 </ul></div>
 
