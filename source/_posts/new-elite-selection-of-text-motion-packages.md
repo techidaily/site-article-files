@@ -1,7 +1,7 @@
 ---
 title: "[New] Elite Selection of Text Motion Packages"
-date: 2025-01-17T19:10:31.018Z
-updated: 2025-01-22T16:32:35.489Z
+date: 2025-01-29T02:16:32.364Z
+updated: 2025-01-30T06:16:26.103Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Liquid Text Animation
@@ -44,7 +44,7 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -53,10 +53,6 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
@@ -64,7 +60,7 @@ If you want to add texts and titles in your video that looks like the games mean
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
@@ -72,6 +68,10 @@ If you want to add texts and titles in your video that looks like the games mean
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Text Library
 
@@ -86,7 +86,7 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -96,7 +96,7 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -133,20 +133,20 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-hitting-a-pixel-snag-a6400s-video-problems/"><u>[New] 2024 Approved Hitting a Pixel Snag A6400's Video Problems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-gopro-review-showdown-max-360-vs-hero-11-edition/"><u>[New] In 2024, GoPro Review Showdown Max 360 VS Hero 11 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-virtual-reality-vistas-exploring-sci-fi-worlds-in-top-movies-for-2024/"><u>[New] Virtual Reality Vistas Exploring Sci-Fi Worlds in Top Movies for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>[Updated] In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-the-power-disable-youtube-video-skip-triggers-for-2024/"><u>[Updated] Unlocking the Power Disable YouTube Video Skip Triggers for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-short-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>2024 Approved Short-Form Spectacularity Compile the Top 10 Video Editing Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/elite-microphones-matched-to-premium-4k-camera-systems/"><u>Elite Microphones Matched to Premium 4K Camera Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/fine-tuning-your-fly-top-tips-for-choosing-drone-propellers-for-2024/"><u>Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y78t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y78t Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/leading-edge-servers-for-maximum-efficiency/"><u>Leading Edge Servers for Maximum Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-of-google-drive-files-into-microsoft-docx-a-step-by-step-guide/"><u>Seamless Conversion of Google Drive Files Into Microsoft Docx: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-windows-11-pc/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your Windows 11 PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-gt-neo-5-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme GT Neo 5 Phone Hassle-Free</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2022-olympic-sprint-ice-key-moments-and-winners/"><u>[New] 2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-professional-screen-recorders-for-the-web/"><u>[New] 2024 Approved Professional Screen Recorders for the Web</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-syncopated-soundscapes-logic-pros-fading-artistry/"><u>[New] 2024 Approved Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-turning-images-into-scenes-syncing-beats/"><u>[New] 2024 Approved Turning Images Into Scenes, Syncing Beats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>[New] Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-supercharge-your-online-sales-strategy-with-the-best-15-social-media-insight-apps/"><u>[New] Supercharge Your Online Sales Strategy with the Best 15 Social Media Insight Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tomtom-gopro-challenger-a-comprehensive-2023-review-for-2024/"><u>[New] TomTom GoPro Challenger - A Comprehensive 2023 Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-yuneec-typhoon-q500-a-glimpse-of-tomorrow-for-2024/"><u>[New] Yuneec Typhoon Q500 - A Glimpse of Tomorrow for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-journey-into-the-world-of-funny-metaverse-images/"><u>[Updated] 2024 Approved Your Journey Into the World of Funny Metaverse Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-scaling-up-your-income-with-instagram-mastery-for-2024/"><u>[Updated] Scaling Up Your Income with Instagram Mastery for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-techniques-for-computer-based-vhs-image-transformation/"><u>2024 Approved Essential Techniques for Computer-Based VHS Image Transformation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-accessories-to-elevate-your-sj4000-experience/"><u>2024 Approved Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-hp-color-laserjet-pro-m477-printer-drivers-compatible-with-windows-and-macos/"><u>Free HP Color LaserJet Pro M477 Printer Drivers - Compatible with Windows & MacOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-depth-assessment-comprehensive-camstudio-review-for-2024/"><u>In-Depth Assessment Comprehensive CamStudio Review for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-new-era-of-minimalism-reviewing-the-strategic-design-shift-in-samsung-galaxy-s21/"><u>The New Era of Minimalism: Reviewing the Strategic Design Shift in Samsung Galaxy S21</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Flight Controls and Beyond  The 2023 H501S Review\""
-date: 2025-01-15T16:48:12.732Z
-updated: 2025-01-22T17:38:45.599Z
+date: 2025-01-25T04:05:06.895Z
+updated: 2025-01-30T03:25:01.802Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
@@ -132,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -178,24 +178,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-streamline-content-creation-leading-after-effects-plugins/"><u>[New] 2024 Approved Streamline Content Creation Leading After Effects Plugins</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-streamline-your-creative-process-with-instagrams-audio-features/"><u>[New] 2024 Approved Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-auditory-enhancement-of-photographic-memories-online/"><u>[New] In 2024, Auditory Enhancement of Photographic Memories Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-gradual-volume-lessening-in-music-creation-garageband/"><u>[New] In 2024, Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-laugh-tracks-for-iphone-devices/"><u>[New] In 2024, Laugh Tracks for iPhone Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>[New] In 2024, Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-color-correction-best-practices-top-11/"><u>[New] In 2024, The Art of Color Correction Best Practices (Top 11)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-uniting-visuals-the-desktop-and-web-way/"><u>[New] Uniting Visuals The Desktop & Web Way</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>[Updated] 2024 Approved The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-becoming-a-master-of-instagram-auditory-aesthetics/"><u>[Updated] Becoming a Master of Instagram Auditory Aesthetics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-pc-vr-headsets-ranked/"><u>[Updated] Best PC VR Headsets Ranked</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pioneering-applications-in-3d-animation-design/"><u>[Updated] Pioneering Applications in 3D Animation Design</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-reverse-playbacks-on-instavids/"><u>[Updated] The Ultimate Guide to Reverse Playbacks on InstaVids</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-streamlined-intelligence-with-the-2019-tcl-32s325-roku-smart-led-reviewed-the-ultimate-guide/"><u>Experience Streamlined Intelligence with the 2019 TCL 32S325 Roku Smart LED Reviewed – The Ultimate Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-asus-rog-phone-8-pro-lock-screen-password-by-drfone-android/"><u>How To Change Asus ROG Phone 8 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>New In 2024, VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-cool-with-thermal-grizzlys-new-heatspreader-a-remarkable-15c-drop-in-processor-temperatures/"><u>Stay Cool with Thermal Grizzly's New Heatspreader: A Remarkable 15°C Drop in Processor Temperatures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/storyboard-pro-for-win8/"><u>StoryBoard Pro for Win8</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-storytelling-screenplays-that-transcend-genres-for-2024/"><u>Top Storytelling Screenplays that Transcend Genres for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-creating-smooth-time-lapses-with-samsung-mobile-for-2024/"><u>[New] Creating Smooth Time-Lapses with Samsung Mobile for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-inauthentic-affection-impacts-your-feeds-credibility-for-2024/"><u>[New] How Inauthentic Affection Impacts Your Feed's Credibility for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[New] In 2024, Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-bank-with-youtube-an-analysis-of-pewdiepies-earnings/"><u>[New] Making Bank with YouTube An Analysis of PewDiePie’s Earnings</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-editors-toolkit-maximizing-the-impact-of-gopro-videos-for-2024/"><u>[New] The Editor's Toolkit Maximizing the Impact of GoPro Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide-for-2024/"><u>[New] The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-1-global-musical-views/"><u>[New] Top 1 Global Musical Views</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-in-depth-look-at-facetune-complete-app-revision/"><u>[Updated] 2024 Approved In-Depth Look at Facetune Complete App Revision</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210200999-9781908005151-art-of-mindful-silence/"><u>Art of Mindful Silence | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE Nubia Flip 5G FRP?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/incorporating-distinctive-benefits-into-online-film-streaming-and-rental-services/"><u>Incorporating Distinctive Benefits Into Online Film Streaming and Rental Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
 </ul></div>
 

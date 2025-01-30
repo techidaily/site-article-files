@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Photoshop's Handy Hacks for Horizontal and Vertical Warping"
-date: 2025-01-17T18:19:19.124Z
-updated: 2025-01-22T18:25:14.119Z
+date: 2025-01-27T03:03:11.234Z
+updated: 2025-01-30T00:47:04.232Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -43,15 +39,15 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
@@ -60,7 +56,7 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -71,17 +67,21 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
@@ -90,7 +90,7 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,22 +127,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-action-cameras-clash-gopro-hero5-black-against-yi-4k-update-for-2024/"><u>[New] Action Cameras Clash GoPro Hero5 Black Against Yi 4K Update for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-beginners-guide-steady-sound-volume-rise-in-editing-for-2024/"><u>[New] Beginner's Guide Steady Sound Volume Rise in Editing for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>[New] In 2024, 10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-optimizing-podcasts-on-googles-platform/"><u>[New] In 2024, Optimizing Podcasts on Google's Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-serenade-selections-romantic-anthems-for-the-big-decision/"><u>[New] Serenade Selections Romantic Anthems for The Big Decision</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-vivid-visuals-on-your-computer-with-windows-hdr/"><u>[New] The Art of Vivid Visuals on Your Computer with Windows HDR</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-all-about-dji-inspire-2-today/"><u>[New] Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-churn-out-custom-internet-echo-jokes/"><u>[Updated] Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[Updated] In 2024, Capturing Clarity in Close-Ups The Filmmaker’s Kinemaster Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>[Updated] In 2024, In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-open-source-musical-aid-for-playing-games-for-2024/"><u>[Updated] Open Source Musical Aid for Playing Games for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-10-free-apps-for-crafting-youtube-channel-graphics/"><u>2024 Approved Top 10 Free Apps for Crafting YouTube Channel Graphics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/chrono-capture-excellence-slomo-apps-complete-critique-2024/"><u>Chrono-Capture Excellence SloMo App's Complete Critique, 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-remove-microsoft-account-from-windows-11-easily-solved/"><u>How to Remove Microsoft Account From Windows 11 Easily [Solved]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme FRP Bypass Instantly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maquillage-officiel-achetez-le-convertisseur-video-winx-hd-en-ligne-et-beneficiez-dun-rabais-vacances-exclusif/"><u>Maquillage Officiel : Achetez Le Convertisseur Vidéo WinX HD en Ligne Et Bénéficiez D'un Rabais Vacances Exclusif</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-achieving-stunning-iphone-hdr-results-for-2024/"><u>[New] Achieving Stunning iPhone HDR Results for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dodge-the-high-costs-lowest-price-cloud-storage-options-2024/"><u>[New] Dodge the High Costs Lowest Price Cloud Storage Options, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-forge-an-impeccable-vr-self-representation/"><u>[New] How to Forge an Impeccable VR Self-Representation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-windows-11-software-for-cutting-edge-editing/"><u>[New] In 2024, Prime Windows 11 Software for Cutting-Edge Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pictomixer-dynamic-media-player-for-macos-for-2024/"><u>[New] PictoMixer Dynamic Media Player for macOS for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prime-5-filters-elevating-submerged-cinematography/"><u>[New] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-compendium-hands-free-device-interaction/"><u>[New] The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-learning-and-work-habits-top-ideas-for-combining-tasks-with-podcasts/"><u>[Updated] 2024 Approved Elevate Your Learning & Work Habits Top Ideas for Combining Tasks with Podcasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-exploring-the-world-of-pc-based-tiktok-live-broadcasts/"><u>[Updated] 2024 Approved Exploring the World of PC-Based TikTok Live Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-premier-3d-visualization-app/"><u>[Updated] Android's Premier 3D Visualization App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-gigglegraphics-visual-humor-studio/"><u>[Updated] In 2024, GiggleGraphics Visual Humor Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dive-deep-into-quality-2023s-premier-aquatic-recorders/"><u>In 2024, Dive Deep Into Quality 2023'S Premier Aquatic Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-key-features-of-mozillas-innovative-popup-window/"><u>In 2024, Key Features of Mozilla's Innovative Popup Window</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-playlist-creation-tips-and-tricks-for-2024/"><u>Mastering YouTube Playlist Creation Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/reactivating-quick-access-on-new-iphones-a-step-by-step-tutorial-for-iphone-models-15-and-14/"><u>Reactivating Quick Access on New iPhones: A Step-by-Step Tutorial for iPhone Models 15 and 14</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-headphones-not-working-properly-in-windows-7-operating-system/"><u>Step-by-Step Solutions for Headphones Not Working Properly in Windows 7 Operating System</u></a></li>
 </ul></div>
 
