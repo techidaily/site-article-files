@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-08-15T07:29:46.752Z
-updated: 2024-08-16T07:29:46.752Z
+date: 2025-02-03T21:07:25.205Z
+updated: 2025-02-11T01:39:46.394Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -72,6 +76,10 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -82,9 +90,17 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -93,8 +109,9 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -127,6 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cutting-through-limitations-with-top-video-editor-alternatives/"><u>[New] 2024 Approved Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-become-a-pro-at-xbox-video-recording-in-minutes-for-2024/"><u>[New] Become a Pro at Xbox Video Recording in Minutes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-configuring-picture-in-picture-for-apple-browsers/"><u>[New] In 2024, Configuring Picture-in-Picture for Apple Browsers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-essential-image-editors-tips-for-text-in-pictures/"><u>[New] In 2024, Essential Image Editors Tips for Text in Pictures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-when-does-instagram-get-most-active-a-comprehensive-look/"><u>[New] When Does Instagram Get Most Active? A Comprehensive Look</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-laugh-out-loud-select-funny-photo-enhancers-online/"><u>[Updated] 2024 Approved Laugh Out Loud Select Funny Photo Enhancers Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-animation-solutions-with-advanced-3d-modellers/"><u>[Updated] Innovative Animation Solutions with Advanced 3D Modellers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>2024 Approved Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-ios-live-photo-handbook/"><u>Comprehensive iOS Live Photo Handbook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/decoding-social-media-analyzing-tiktok-and-snapchat-for-2024/"><u>Decoding Social Media Analyzing TikTok & Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-edge-in-gaming-a-step-by-step-tutorial-on-upgrading-to-asus-970-pro-graphics/"><u>Get the Edge in Gaming: A Step-by-Step Tutorial on Upgrading to ASUS 970 Pro Graphics</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chromatic-mastery-bridging-theory-and-art/"><u>In 2024, Chromatic Mastery Bridging Theory and Art</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-prevent-blue-screens-win11-plus-vmware-edition/"><u>Methods to Prevent Blue Screens: Win11 + VMware Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/skilled-pilots-choice-selecting-top-5-pro-drones-for-2024/"><u>Skilled Pilots' Choice - Selecting Top 5 Pro Drones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets-for-2024/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-moto-g13-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Moto G13? Fixed | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/yl-software-tips-mastering-your-computers-performance-configuration/"><u>YL Software Tips: Mastering Your Computer's Performance Configuration</u></a></li>
+</ul></div>
 

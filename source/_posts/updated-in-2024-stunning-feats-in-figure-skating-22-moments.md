@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Stunning Feats in Figure Skating '22 Moments"
-date: 2025-01-25T04:20:22.255Z
-updated: 2025-01-29T18:21:16.137Z
+date: 2025-02-08T19:18:11.941Z
+updated: 2025-02-11T04:31:38.584Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
@@ -47,31 +51,31 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -94,7 +98,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -108,10 +112,6 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,22 +136,22 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-art-of-iphone-photography-in-the-dark/"><u>[New] 2024 Approved The Art of iPhone Photography in the Dark</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-djis-sky-high-gameplay-showdown-mavic-air-clashes-with-spark/"><u>[New] DJI’s Sky-High Gameplay Showdown Mavic Air Clashes with Spark</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-explore-the-finest-camcorders-of-2024-our-choice-countdown/"><u>[New] Explore the Finest Camcorders of 2024 – Our Choice Countdown</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-dji-aerial-palette-changes-get-20-free-with-pay-options-available/"><u>[New] In 2024, DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-artisans-selection-best-photo-frame-software/"><u>[New] In 2024, The Artisan's Selection Best Photo Frame Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069268346-new-in-2024-top-tickles-for-young-game-fans/"><u>[New] In 2024, Top Tickles for Young Game Fans!</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[New] In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-15-best-youtube-movies-channels-for-you-to-kill-time-for-2024/"><u>[Updated] 15 Best YouTube Movies Channels for You to Kill Time for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008550624-boost-your-playtime-instantly-address-apex-legends-loading-errors/"><u>Boost Your Playtime: Instantly Address Apex Legends Loading Errors!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/exploring-the-most-exceptional-sapphire-options-for-your-brides-handcrafted-band-top-picks/"><u>Exploring the Most Exceptional Sapphire Options for Your Bride's Handcrafted Band - Top Picks !</u></a></li>
-<li><a href="https://article-files.techidaily.com/gaining-insights-how-to-ask-the-right-questions/"><u>Gaining Insights How to Ask the Right Questions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y78-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y78 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-fb-slideshows-for-content-sharing/"><u>In 2024, Mastering FB Slideshows for Content Sharing</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>In 2024, Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/kinemaster-edge-the-ultimate-transition-strategies/"><u>Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ue590-review-top-4k-game-display-with-fs/"><u>The UE590 Review Top 4K Game Display with FS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-star-citizen-windows-system-crashes-and-game-instability/"><u>Troubleshooting Guide: Fixing Star Citizen Windows System Crashes & Game Instability</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-insightful-guide-to-sharex-critiques-and-counterparts-for-2024/"><u>[New] Insightful Guide to ShareX Critiques & Counterparts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-new-layer-on-sony-s3700-blu-ray-play-for-2024/"><u>[New] New Layer on Sony S3700 Blu-Ray PLAY for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-effective-ways-for-home-based-podcasting/"><u>[Updated] 2024 Approved Effective Ways for Home-Based Podcasting</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-15-essential-soundtracks-curating-the-perfect-score-for-various-video-genres/"><u>2024 Approved 15 Essential Soundtracks Curating the Perfect Score for Various Video Genres</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>2024 Approved 3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-are-paid-reviews-common-amongst-online-reviewers/"><u>2024 Approved Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-10-ways-to-convert-youtube-to-mpeg/"><u>2024 Approved Best 10 Ways to Convert YouTube to MPEG</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-blending-sound-with-moving-pictures-hub/"><u>2024 Approved Blending Sound with Moving Pictures Hub</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>2024 Approved Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-hdmi-21-master-list-in-depth-screen-comparisons/"><u>2024 Approved HDMI 2.1 Master List In-Depth Screen Comparisons</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-to-superior-cloud-solutions-for-your-needs/"><u>2024 Approved Navigating to Superior Cloud Solutions for Your Needs</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>2024 Approved Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd202/"><u>最新无偿DVD播放器软件列表202</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-required-driver-to-operate-your-samsung-850-evo-hard-drive-smoothly/"><u>Get the Required Driver to Operate Your Samsung 850 EVO Hard Drive Smoothly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-palette-pro/"><u>In 2024, Perfect Palette Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/windows-best-chat-tools-ranked-3-1/"><u>Windows' Best Chat Tools Ranked #3-#1</u></a></li>
 </ul></div>
 

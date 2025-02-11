@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  VR Comfort Mastery  Top 10 Strategies\""
-date: 2024-08-15T07:30:43.521Z
-updated: 2024-08-16T07:30:43.521Z
+date: 2025-02-07T23:39:07.871Z
+updated: 2025-02-11T02:13:06.017Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 ways to prevent Oculus Rift motion sickness
 
@@ -51,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -60,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -87,6 +93,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-detecting-phony-instagram-connections-efficiently/"><u>[New] 2024 Approved Detecting Phony Instagram Connections Efficiently</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-capturing-tomorrow-today-leading-video-cams/"><u>[New] Capturing Tomorrow Today – Leading Video Cams</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-beyond-simple-cuts-deep-insights-into-vidas-editing-power/"><u>[New] In 2024, Beyond Simple Cuts Deep Insights Into Vida’s Editing Power</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>[Updated] 2024 Approved Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>[Updated] 2024 Approved Unmatched Mounting Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-design-hub-audit-for-2024/"><u>Apex Design Hub Audit for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-document-management-by-wonderfox-easily-organize-word-excel-pdf-and-powerpoint-files-for-business/"><u>Comprehensive Document Management by WonderFox: Easily Organize Word, Excel, PDF & PowerPoint Files for Business</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proof-energy-backups-elite-ups-selections-for-the-upcoming-year/"><u>Future-Proof Energy Backups: Elite UPS Selections for the Upcoming Year</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s17t-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S17t Phone Hassle-Free</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-15-free-web-based-image-enhancers-2023/"><u>In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/israelian-itinerary-essentials-top-7-insights-and-language-basics/"><u>Israelian Itinerary Essentials: Top 7 Insights and Language Basics</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-error-resolution-correcting-syntpsys-blue-screens-on-your-windows-computer/"><u>Mastering Error Resolution: Correcting SYNTP.SYS Blue Screens on Your Windows Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop-for-2024/"><u>Mastering HDR Photos Advanced Techniques in Photoshop for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>Updated In 2024, The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
+<li><a href="https://discover-great.techidaily.com/upgrade-your-viewing-experience-with-winx-free-dvd-ripper-compatible-with-windows-11-and-iphone-xs/"><u>Upgrade Your Viewing Experience with WinX Free DVD Ripper - Compatible with Windows 11 and iPhone XS</u></a></li>
+</ul></div>
 

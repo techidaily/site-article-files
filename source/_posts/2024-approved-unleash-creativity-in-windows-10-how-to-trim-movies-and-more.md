@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity in Windows 10  How To Trim Movies and More\""
-date: 2024-08-08T02:46:02.642Z
-updated: 2024-08-09T02:46:02.642Z
+date: 2025-02-03T17:07:38.356Z
+updated: 2025-02-10T23:16:08.662Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 
 # How to Trim Video in Windows 10 Photos Easily
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -35,6 +32,10 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to trim video in Windows 10 Photos
 
@@ -50,16 +51,18 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to trim video in Windows 10 with VLC
 
 Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
@@ -70,10 +73,11 @@ Here comes the step by step guide to trim video in VLC –
 
 1. Once you update and install the latest version of the VLC media player on your Windows or another computer, launch it and go to the 'View' menu for activating the 'Advanced controls' option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
@@ -81,17 +85,15 @@ Here comes the step by step guide to trim video in VLC –
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -118,6 +120,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-transitioning-from-srt-to-subtitles/"><u>[New] 2024 Approved Transitioning From SRT to Subtitles</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-list-of-easy-filming-cameras-for-starters/"><u>[New] In 2024, The Ultimate List of Easy Filming Cameras for Starters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pioneers-in-post-production-top-tools-for-instagram-content-creators/"><u>[New] Pioneers in Post-Production Top Tools for Instagram Content Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-method-to-share-subtitle-text-online/"><u>[Updated] 2024 Approved Step-by-Step Method to Share Subtitle Text Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-5-free-youtube-video-editor-apps-for-apple-users/"><u>[Updated] 2024 Approved Top 5 Free YouTube Video Editor Apps for Apple Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>[Updated] Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-video-cut-off-chronicles-in-digital-photobooths/"><u>[Updated] Video Cut-Off Chronicles in Digital Photobooths</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-vg248qe-driver-update-and-download-made-easy-for-windows-users/"><u>Asus VG248QE Driver Update & Download Made Easy for Windows Users!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-create-awesome-instagram-videos/"><u>How to Create Awesome Instagram Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-improving-visual-storytelling-with-secondary-shoots/"><u>In 2024, Improving Visual Storytelling with Secondary Shoots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-magic-vs-2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Magic Vs 2 Location | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/leading-filmmaking-applications-for-gopro/"><u>Leading Filmmaking Applications for GoPro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play!</u></a></li>
+</ul></div>
 

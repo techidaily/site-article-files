@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Filmography  Mastering Cinematic Shots and Lighting\""
-date: 2024-08-08T02:44:26.971Z
-updated: 2024-08-09T02:44:26.971Z
+date: 2025-02-06T18:57:46.967Z
+updated: 2025-02-11T05:45:01.390Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Do you want to experience top-tier cinematic effects but are low on budget? Unfo
 
 You can use common household items to uplift the quality of your videos. But how to use these tricks to get great cinematic shots? Don't worry; this article will guide you about using top cinematic/camera tips to boost your video-making experience. We are starting with the smooth camera movement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tip 1\. Smooth Camera Movement
 
 Smooth camera movement is the most basic and vital part of the video-making process. Expensive equipment is used to get smooth camera movements on a professional level.
@@ -32,23 +36,22 @@ Still, if you are on a budget, you can use some everyday household objects to ge
 
 Step 1 Attach your phone to the side of a door using duct tape or any strong tape that can hold your phone and not let it fall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 Now open and close the door to get smooth camera movement.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DIY LED Panel
 
 You can create LED Panel at home to add light to a subject. Unfortunately, LED strips do not produce bright light when spread as a straight line. However, we can use cardboard and LED light strips to build a broader, more brilliant light. Follow the steps below to make DIY LED Panel.
@@ -66,6 +69,10 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -105,14 +112,8 @@ Step 5 Put the bulb on the lamp and turn it on the lamp.
 
 Here is a GIF attached for a better understanding of the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -132,11 +133,16 @@ There is a GIF attached below to understand the steps visually.
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Diffuse Lights With a Desk Mat
 
@@ -154,21 +160,12 @@ Step 3 Use this diffuser to reduce the intensity of light.
 
 For a better understanding of the steps, watch the GIF attached below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -185,9 +182,6 @@ Step 4 Locking mode is best for recording reveal movement shots.
 
 Here is a video showing how to record reveal movement.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
 ### 180° Presentation Movement
@@ -208,6 +202,10 @@ A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tip 5\. Create a Barrel Roll Shot
 
 A barrel roll shot is one of the most advanced and creative camera movements. A gimbal is required to produce a Barrel roll shot. But you can use a power drill and your phone to record this Movement.
@@ -227,6 +225,10 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 The video attached below will help you to understand these steps.
 
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -262,6 +264,24 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-fusing-high-frame-rate-and-stunts-yi-hero-reviewed/"><u>[New] 2024 Approved Fusing High Frame Rate and Stunts Yi Hero Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-captivating-books-in-video-form/"><u>[New] Captivating Books in Video Form</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-quick-quirky-and-funny-creating-memes-anytime/"><u>[New] In 2024, Quick, Quirky, and Funny Creating Memes Anytime</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-finding-cost-effective-buys-on-gopros/"><u>[Updated] 2024 Approved Finding Cost-Effective Buys on GoPros</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pixels-to-percussion-composing-visuals-in-video/"><u>[Updated] 2024 Approved Pixels to Percussion Composing Visuals in Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-trending-decor-ideas-for-livestreaming/"><u>[Updated] 2024 Approved Trending Decor Ideas for Livestreaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-professional-audio-recording-strategies-for-windows-10/"><u>[Updated] In 2024, Professional Audio Recording Strategies for Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-12-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme 12 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-driven-automation-enhance-your-sites-user-engagement/"><u>Cookiebot-Driven Automation: Enhance Your Site's User Engagement</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-pivotal-principles-in-digital-story-making/"><u>In 2024, Pivotal Principles in Digital Story Making</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>In 2024, PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/long-lasting-and-reliable-the-complete-review-of-uniden-r3-radar-detector-for-savvy-users/"><u>Long-Lasting & Reliable: The Complete Review of Uniden R3 Radar Detector for Savvy Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/quick-fix-for-paused-facebook-livestreams-2023s-tips-and-tricks/"><u>Quick Fix for Paused Facebook Livestreams, 2023'S Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/second-pc-same-printer-issue-resolved/"><u>Second PC, Same Printer Issue? Resolved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-mac-video-converter-apps-free-trials-and-in-depth-reviews/"><u>Top 7 Mac Video Converter Apps : Free Trials and In-Depth Reviews</u></a></li>
+</ul></div>
 

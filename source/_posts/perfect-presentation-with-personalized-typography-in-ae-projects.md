@@ -1,7 +1,7 @@
 ---
 title: "Perfect Presentation with Personalized Typography in AE Projects"
-date: 2025-01-24T17:17:17.895Z
-updated: 2025-01-29T22:29:40.755Z
+date: 2025-02-03T16:44:53.262Z
+updated: 2025-02-10T17:00:12.599Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 ![enable fonts adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-fonts-adobe-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
@@ -44,6 +48,10 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
@@ -67,7 +75,7 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. Alternative ways to edit text fonts
@@ -82,16 +90,12 @@ These features also include adding texts and changing the fonts of those texts o
 
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -112,7 +116,7 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
@@ -125,10 +129,6 @@ These features also include adding texts and changing the fonts of those texts o
 * You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -158,22 +158,19 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-highlight-cover-art-inspiration-and-techniques-guide/"><u>[New] 2024 Approved Instagram Highlight Cover Art Inspiration & Techniques Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-top-10-clear-sound-microphones-for-cams/"><u>[New] In 2024, Top 10 Clear Sound Microphones for Cams</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ai-driven-naming-tools-for-dynamic-podcast-titles-for-2024/"><u>[Updated] AI-Driven Naming Tools for Dynamic Podcast Titles for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-audio-exploration-the-comprehensible-review-of-pazera/"><u>[Updated] Audio Exploration The Comprehensible Review of Pazera</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-between-audio-and-video-which-platform-takes-the-lead/"><u>[Updated] Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-rapid-share-tactics-for-youtube-lists/"><u>[Updated] In 2024, Rapid Share Tactics for YouTube Lists</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>[Updated] In 2024, The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds-for-2024/"><u>[Updated] Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-obs-for-android-streaming/"><u>2024 Approved Mastering OBS for Android Streaming</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/basics-of-chinese-characters/"><u>Basics of Chinese Characters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dynamic-cutting-the-best-6-mac-os-big-sur-video-editors-unveiled/"><u>Dynamic Cutting The Best 6 Mac OS Big Sur Video Editors Unveiled</u></a></li>
-<li><a href="https://article-files.techidaily.com/examining-wirecasts-features-against-competitors/"><u>Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://article-files.techidaily.com/giggle-guides-essential-websites-for-humorous-ringtones-for-2024/"><u>Giggle Guides Essential Websites for Humorous Ringtones for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c51-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C51 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-reversal-a-guide-to-rewinding-your-youtube-sequence/"><u>Mastering Reversal A Guide to Rewinding Your YouTube Sequence</u></a></li>
-<li><a href="https://article-files.techidaily.com/tips-for-transforming-twitter-videos-into-audio-songs-mp3-for-2024/"><u>Tips for Transforming Twitter Videos Into Audio Songs (MP3) for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>Updated Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revolutionary-modifications-elevate-your-computer-experience/"><u>[New] 2024 Approved Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>[New] 2024 Approved Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-knowledge-deploying-azure-speech-to-text-for-2024/"><u>[New] Essential Knowledge Deploying Azure Speech-to-Text for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>[New] Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-bridging-gap-integrating-zoom-into-your-gmail-setup/"><u>[Updated] Bridging Gap Integrating Zoom Into Your Gmail Setup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-optimizing-video-load-time-on-instagram-apps/"><u>[Updated] In 2024, Optimizing Video Load Time on Instagram Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/ace-your-workflow-fast-signature-backdrop-elimination/"><u>Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-your-youtube-comments-with-emoji-skills-for-2024/"><u>Elevating Your YouTube Comments with Emoji Skills for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>In 2024, A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-discovering-if-quick-youtube-subscriptions-really-work/"><u>In 2024, Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-young-users-on-discord-the-ultimate-guide-to-activating-parent-locks/"><u>Protecting Young Users on Discord: The Ultimate Guide to Activating Parent Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pinnacle-of-presentation-aids-top-7-ai-excellence/"><u>The Pinnacle of Presentation Aids: Top 7 AI Excellence</u></a></li>
 </ul></div>
 

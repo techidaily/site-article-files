@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Techniques for 3D Text Transformation in PS\""
-date: 2024-08-08T02:44:06.283Z
-updated: 2024-08-09T02:44:06.283Z
+date: 2025-02-05T21:26:19.156Z
+updated: 2025-02-11T03:53:13.002Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,6 @@ Photoshop is not the easiest image editing software to use. It can get really co
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
@@ -39,10 +36,11 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
@@ -52,25 +50,10 @@ Step5 Now, without touching anything else, hold on to the **SHIFT** key and clic
 
 Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, from the **Properties** panel above, select a **Shape Preset** to be applied to your current text.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
@@ -79,9 +62,6 @@ Step8 You can now go to the Properties panel to adjust the 3D effects and light 
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
@@ -102,9 +82,6 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -113,12 +90,17 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
@@ -128,11 +110,16 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -149,29 +136,32 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -198,6 +188,20 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/0-must-try-microphones-for-exceptional-asmr-sounds-for-2024/"><u>[New] 10 Must-Try Microphones for Exceptional ASMR Sounds for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-harmonious-habits-to-develop-while-taking-in-your-favorite-episodes/"><u>[New] 2024 Approved Harmonious Habits to Develop While Taking in Your Favorite Episodes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-enhanced-experience-of-movavi-video-pro/"><u>[New] 2024 Approved The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-is-auroras-hdr-enhancing-your-viewing-experience/"><u>[Updated] 2024 Approved Is Aurora's HDR Enhancing Your Viewing Experience?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-card-selection-for-professional-video-editing/"><u>[Updated] Optimal Card Selection for Professional Video Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-prime-selections-securing-entry-level-channel-monetization-sites/"><u>[Updated] Prime Selections Securing Entry-Level Channel Monetization Sites</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-s24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy S24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-modern-techniques-for-gesture-interpretation/"><u>2024 Approved Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-and-efficiency-with-proper-gpu-thermals/"><u>Ensuring Longevity and Efficiency with Proper GPU Thermals</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories-for-2024/"><u>From Analog to Digital Safeguarding Older Photographic Memories for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency/"><u>Updated 2024 Approved 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/viral-visuals-photos-and-their-lives/"><u>Viral Visuals Photos and Their Lives</u></a></li>
+</ul></div>
 

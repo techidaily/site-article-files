@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  XS 100 I  Shattering Boundaries of Action Filming\""
-date: 2024-08-08T02:47:14.187Z
-updated: 2024-08-09T02:47:14.187Z
+date: 2025-02-07T00:44:14.998Z
+updated: 2025-02-11T04:39:54.967Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 # Polaroid XS 100i Action Camera Review
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,19 +31,16 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review for Polaroid XS 100i
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Polaroid-XS-100-Extreme](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
@@ -95,20 +89,18 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. **Battery and Memory:**  
  This action camera comes with built in 120mAh battery so it cannot be removed and replaced with other. But the battery life is comparatively good as it can serve up to 2.5 hours. But remember that too avail this long hour assistance you need to keep your Wi-Fi switched off. The best part is that USB charging option is included so that you can recharge your camera to make it ready for the next shoot.  
@@ -117,10 +109,11 @@ No advertising on the website.
 
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -145,6 +138,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-the-vr-future-latest-trends/"><u>[New] 2024 Approved Unveiling the VR Future Latest Trends</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-tier-tactics-for-crafting-fbs-most-watched-videos/"><u>[New] In 2024, Top-Tier Tactics for Crafting #FB's Most Watched Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-outstanding-book-trailer-samples-for-2024/"><u>[New] Outstanding Book Trailer Samples for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-windows-wizardry-for-swift-image-editing/"><u>[New] Window's Wizardry for Swift Image Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras/"><u>[Updated] 2024 Approved Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-in-class-extensive-sweep-cameras-for-2024/"><u>[Updated] Best in Class Extensive Sweep Cameras for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-xbox-live-top-four-recording-techniques/"><u>[Updated] In 2024, Mastering Xbox Live Top Four Recording Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[Updated] Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10-video-grabber-ultimate-for-2024/"><u>[Updated] Windows 10 Video Grabber Ultimate for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>[Updated] Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitch-your-way-mastering-twitter-video-livestreaming/"><u>2024 Approved Twitch Your Way Mastering Twitter Video Livestreaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-xcover-7-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy XCover 7 Without Password | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-picture-perfection-with-background-ipod-sounds/"><u>In 2024, Picture Perfection with Background iPod Sounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-compact-razer-docking-station-analysis-the-perfect-gaming-accoutrement-for-on-the-go-players/"><u>Ultimate Compact Razer Docking Station Analysis: The Perfect Gaming Accoutrement for On-the-Go Players</u></a></li>
+</ul></div>
 

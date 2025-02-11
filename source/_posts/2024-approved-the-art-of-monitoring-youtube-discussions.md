@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Monitoring YouTube Discussions\""
-date: 2024-08-15T07:29:54.558Z
-updated: 2024-08-16T07:29:54.558Z
+date: 2025-02-05T18:32:23.277Z
+updated: 2025-02-10T17:05:58.746Z
 tags: 
   - screen-recording
   - ai video
@@ -45,8 +45,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -77,6 +78,10 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -86,8 +91,9 @@ Step3 From the drop down menu, select “History”.
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -95,8 +101,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -106,9 +113,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -126,13 +133,7 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -167,6 +168,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-is-earnings-linked-to-product-reviews-in-media/"><u>[New] In 2024, Is Earnings Linked to Product Reviews in Media?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[New] In 2024, The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unmatched-4k-hdtvs-for-intense-gaming/"><u>[New] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-visionary-writing-spanning-eight-cinematic-divisions-for-2024/"><u>[New] Visionary Writing Spanning Eight Cinematic Divisions for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon/"><u>[Updated] 2024 Approved Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-editing-experience-photonshift-phenomenon/"><u>[Updated] 2024 Approved Elite Editing Experience PhotonShift Phenomenon</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-tailoring-trailers-for-virtual-broadcasts/"><u>[Updated] 2024 Approved Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-choices-customizable-mobile-alerts/"><u>[Updated] Foremost Choices Customizable Mobile Alerts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-one-device-one-storage-transferring-files-smoothly-for-2024/"><u>[Updated] One Device, One Storage Transferring Files Smoothly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>[Updated] The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-and-accelerate-your-windows-nx-boot-process/"><u>Optimize and Accelerate Your Windows nX Boot Process</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfect-accompaniments-for-your-sj4000-journey-for-2024/"><u>Perfect Accompaniments for Your SJ4000 Journey for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/thorough-review-gopro-hero4-slr4-sliver-features/"><u>Thorough Review GoPro Hero4 SLR4 Sliver Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/form-youtube-performance-leading-tracking-apps-revealed/"><u>Transform YouTube Performance - Leading Tracking Apps Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-disabled-ios-device-how-to-regain-access-quickly/"><u>Troubleshooting a Disabled iOS Device: How to Regain Access Quickly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-newest-graphics-and-chipset-drivers-for-amds-ryzen-processors/"><u>Update to the Newest Graphics and Chipset Drivers for AMD's Ryzen Processors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-securing-an-annotate-free-video-experience-tips-for-new-avi-users-for-2024/"><u>Updated Securing an Annotate-Free Video Experience Tips for New AVI Users for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samsung Galaxy S8  Setting New Standards for 4K Video\""
-date: 2025-01-23T21:10:37.672Z
-updated: 2025-01-29T20:38:38.530Z
+date: 2025-02-08T21:31:17.902Z
+updated: 2025-02-10T21:31:27.331Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ The Samsung galaxy S8 offers an incredible level of performance from one of the 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S8 Pros and cons
 
 **Pros:**
@@ -72,10 +68,6 @@ A standard headphone jack can still be found at the top of this device as well.
 #### 2.Samsung Galaxy S8 Display
 
 ![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
 
@@ -116,7 +108,7 @@ However, if you are looking for a more advanced video editing tool to make a vid
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Samsung Galaxy S8 Audio Performance
@@ -138,7 +130,7 @@ It can handle plenty of demanding applications but it's very important to use th
 ![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
@@ -149,23 +141,31 @@ The S8 has some of the most advanced biometric security available on any smart p
 
 The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Section 3: Samsung Galaxy S8 Onboard Software
 
 The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
 
 ![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
 
-Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
 
 ### Conclusion
 
 This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -192,22 +192,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-demystifying-advanced-video-coding-techniques/"><u>[New] 2024 Approved Demystifying Advanced Video Coding Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-lighten-up-with-funny-images-in-adobe/"><u>[New] 2024 Approved Lighten Up with Funny Images in Adobe</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-dynamic-movement-synopsis-overview/"><u>[New] Dynamic Movement Synopsis Overview</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-explore-free-fcp-download-options/"><u>[New] In 2024, Explore FREE FCP Download Options</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-best-gopro-accessories-for-beginners/"><u>[New] The Best GoPro Accessories for Beginners</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-voice-yourself-audio-recording-on-windows-10/"><u>[Updated] 2024 Approved Voice Yourself Audio Recording on Windows 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-crafting-a-commercial-channel-youtubes-premium-pathway-guide-for-2024/"><u>[Updated] Crafting a Commercial Channel YouTube's Premium Pathway Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>[Updated] In 2024, Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unleashing-clarity-the-ultimate-video-enhancer-22-techniques-for-2024/"><u>[Updated] Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-cyber-monday-savings-snag-a-discounted-13-inch-samsung-galaxy-book2-360-for-just-450-less-shop-now/"><u>Huge Cyber Monday Savings: Snag a Discounted 13-Inch Samsung Galaxy Book2 360 for Just $450 Less - Shop Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-6s-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 6s Plus or iPad?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-maximum-capacity-choices-ultimate-cloud-service-list/"><u>In 2024, Maximum Capacity Choices Ultimate Cloud Service List</u></a></li>
-<li><a href="https://fox-http.techidaily.com/keeping-memories-afloat-unlimited-free-photo-stash-plus-charged-backups/"><u>Keeping Memories Afloat Unlimited Free Photo Stash + Charged Backups</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-11-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus 11 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transforming-your-instagram-films-with-border-magic/"><u>[New] In 2024, Transforming Your Instagram Films with Border Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44or44k944kz44oz5l244gj44gm5a625bqt55so44ot44oh44kq44kr44od44oi44gu5oml6acg44ks44kk44oj44cn/"><u>「パソコン使って家庭用ビデオカットの手順ガイド」</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-aesthetic-innovations-showcase/"><u>2024 Approved Aesthetic Innovations Showcase</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>2024 Approved Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-propel-your-skills-with-the-finest-android-drawing-software/"><u>2024 Approved Propel Your Skills with the Finest Android Drawing Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>2024 Approved Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-tranquility-techniques-managing-in-system-sounds/"><u>2024 Approved Tranquility Techniques Managing In-System Sounds</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-filmography-mastering-cinematic-shots-and-lighting/"><u>2024 Filmography Mastering Cinematic Shots and Lighting</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-unveiling-the-features-of-the-newly-launched-samsung-galaxy-chromebook-2/"><u>Expert Review: Unveiling the Features of the Newly Launched Samsung Galaxy Chromebook 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-prospects-on-bumble-effective-ways-to-tackle-no-match-situations/"><u>Improve Your Prospects on Bumble: Effective Ways to Tackle 'No Match' Situations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>In 2024, Silent Blades & Righteous Honor Your Next Game Adventure Awaits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-motherboard-compatibility-a-review-of-the-gskill-trident-z5-rgb-ddr5-640cu-c32-dual-channel-memory-solution/"><u>Maximizing Motherboard Compatibility: A Review of the G.SKILL Trident Z5 RGB DDR5-640cu C32 Dual-Channel Memory Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionizing-medical-billing-master-the-art-of-revenue-cycle-optimization-with-abbyy-software-solutions/"><u>Revolutionizing Medical Billing: Master the Art of Revenue Cycle Optimization with ABBYY Software Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nseen-aspect-of-youtube-live-imagery/"><u>The Unseen Aspect of YouTube Live Imagery</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-3-applicazioni-di-backup-e-mail-piu-popolari-con-cliente-imap/"><u>Top 3 Applicazioni Di Backup E-Mail Più Popolari Con Cliente IMAP</u></a></li>
 </ul></div>
 

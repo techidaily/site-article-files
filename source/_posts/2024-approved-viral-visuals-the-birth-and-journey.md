@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Viral Visuals  The Birth and Journey\""
-date: 2024-08-08T02:45:14.625Z
-updated: 2024-08-09T02:45:14.625Z
+date: 2025-02-07T22:16:00.404Z
+updated: 2025-02-11T05:40:18.630Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -36,6 +33,10 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
 * The stock photo meme guy conducted a TEDx talk in his native Ukraine in September 2018\. During the talk, Mr. Andras Arato, a 73-year-old retired electrical engineer, speaks on his fame as a meme-personality and his profession. Currently, the video has nearly 7.87 million views on TEDx's official YouTube channel.
 * Finally, you can view all Hide the Pain Harold memes from its dedicated website.
@@ -46,16 +47,10 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -73,25 +68,31 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
@@ -105,10 +106,11 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
@@ -116,16 +118,16 @@ Twitter user @chocos posts the image with Spanish captions, with the woman sure 
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
 Since then, internet users have continued to use the Bonjour Bear meme to reference their reactions to different scenarios. Typically, you will find the stock photo meme representing some surprise attacks. Below are some of the most popular versions of the meme:
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -136,13 +138,11 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part5: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -153,9 +153,6 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -190,6 +187,23 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tips-for-broadcasting-youtube-content-via-facebook/"><u>[New] 2024 Approved Tips for Broadcasting YouTube Content via Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-pc-video-editing-substitutes-for-2024/"><u>[New] Exploring PC Video Editing Substitutes for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-joking-jokebooks-top-10-hilarious-social-media-posts/"><u>[New] In 2024, Joking Jokebooks Top 10 Hilarious Social Media Posts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-into-virtual-realms-assessing-current-progress-future-hurdles/"><u>[New] Into Virtual Realms Assessing Current Progress, Future Hurdles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>[New] Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-the-art-of-haul-video-shopping-showcasing-and-editing/"><u>[Updated] Mastering the Art of Haul Video Shopping, Showcasing & Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-of-3d-entertainment-premium-blu-ray-decks/"><u>2024 Approved Pinnacle of 3D Entertainment Premium Blu-Ray Decks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-go-2024-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark Go (2024) Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-start-a-facebook-giveaway-post/"><u>How to Start a Facebook Giveaway Post</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-strategies-for-acquiring-photo-and-video-backdrops/"><u>In 2024, Essential Strategies for Acquiring Photo & Video Backdrops</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-10-professional-360-degree-cameras/"><u>In 2024, Top 10 Professional 360 Degree Cameras</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>New 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schnelldokumentation-wie-man-die-anti-piraterie-mechanismen-in-disney-filmdvds-aufdeckt-und-entfernt/"><u>Schnelldokumentation: Wie Man Die Anti-Piraterie-Mechanismen in Disney-FilmdVDs Aufdeckt Und Entfernt</u></a></li>
+<li><a href="https://article-files.techidaily.com/streamline-xbox-interactions-by-embracing-zooming-capabilities/"><u>Streamline Xbox Interactions by Embracing Zooming Capabilities</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/the-ultimate-guide-to-picking-a-digital-asset-platform-insights-from-yl-tech-experts/"><u>The Ultimate Guide to Picking a Digital Asset Platform: Insights From YL Tech Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-professional-editing-skills-using-gopro-studio/"><u>Unlock Professional Editing Skills Using GoPro Studio</u></a></li>
+</ul></div>
 

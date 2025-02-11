@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Virtual Background Magic  A Streamer's Guide to Chroma Key\""
-date: 2024-08-08T02:46:43.291Z
-updated: 2024-08-09T02:46:43.291Z
+date: 2025-02-07T19:30:15.044Z
+updated: 2025-02-11T04:45:31.023Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 
 # How to use Green Screen for Streaming
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -47,14 +44,15 @@ The details of the needed equipment for different scenarios are explained below:
 
 If you want to set up a large broadcasting studio the camera you’ll need should have adequate qualities. A live system studio and the broadcasting camera should do the trick if you have a sufficient budget. They can range anywhere from **$2000 to $25000** depending on your need. **A video with a quality of less than 2k resolution is not enough for streaming from a big newsroom studio.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![sony hdc 5500 studio camera](https://images.wondershare.com/filmora/Mac-articles/sony-hdc-5500-studio-camera.jpg)
 
 For normal web or twitch streaming a high-quality webcam should be used. It should have good face tracking and great picture quality. **A 1080p resolution** with the capability of 30-60 frames is a bonus. There are some great cameras on the market that you can even land at **under $100**.
 
 ![clear one unite pro webcam](https://images.wondershare.com/filmora/Mac-articles/clear-one-unite-pro-webcam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Green Screen
 
@@ -62,11 +60,12 @@ The green screen requirements are also different for different types of broadcas
 
 ![green screen for studio](https://images.wondershare.com/filmora/Mac-articles/green-screen-for-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For gamers and other streamers like beauty vloggers, twitch anchors, and YouTubers there are different kinds of green screens in the market depending on the budget. There are foldable ones that can fold into a circle like a small tent. They open up to a considerably decent size. These green screens need to be hanged to keep them standing and come at a considerably lower price range of around $40.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![foldable green screen](https://images.wondershare.com/filmora/Mac-articles/foldable-green-screen.jpg)
 
 Another option of the green screen for streamers is a collapsible green screen. It was introduced by Elgato and is easy to carry and easy to set-up. It can be adjusted to any height and can open and tear down in a matter of seconds. It comes with a relatively high price of around $150 but they are worth the money.
@@ -74,6 +73,10 @@ Another option of the green screen for streamers is a collapsible green screen. 
 Do remember that any green screen you use should be large enough to give your main subject space to move around. Apart from that, make sure you don’t have any green elements in your subject or your software will also make those areas disappear. **If your subject has blonde hair, a blue screen instead of a green screen is recommended.**
 
 ![elgato green screen stand](https://images.wondershare.com/filmora/Mac-articles/elgato-green-screen-stand.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Lights
 
@@ -83,10 +86,11 @@ If it is a straight background two high-powered lights should be enough. However
 
 For small setups, the most commonly used set-up is the three-point set-up. It is a formation of a triangle with a key light, fill light, and a backlight to cover the subject or the talent. For a green screen, one light on each side would do the job of providing enough light to keep the screen lit.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![lighting guide for a green screen](https://images.wondershare.com/filmora/Mac-articles/lighting-guide-for-a-green-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The two things to remember about lighting are that there is should be no shadow in the background and the green screen should be lit across evenly. It may take some time for you to learn the correct ways but practice and observation will make it perfect.
 
@@ -98,9 +102,6 @@ Once your set-up is complete the next step is to choose the right software. Ther
 
 To start a live stream you need to download [XSplit](https://www.xsplit.com/) broadcaster software which will allow you to start your live streaming with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![xsplit](https://images.wondershare.com/filmora/Mac-articles/xsplit.png)
 
 #### Conclusion
@@ -113,10 +114,11 @@ Learn More: [How to use OBS Streamlabs on Mac？>>>](https://tools.techidaily.co
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -141,6 +143,17 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-chuckle-chamber-fast-track-to-funny-memes/"><u>[New] In 2024, Chuckle Chamber Fast Track to Funny Memes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-achieving-teleportation-magic-illusions/"><u>[Updated] 2024 Approved Achieving Teleportation Magic Illusions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-software-for-beat-alteration-tech-for-2024/"><u>[Updated] Superior Software for Beat Alteration Tech for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/adjusting-your-mouse-configurations-a-guide-using-the-windows-control-panel-by-yl-software/"><u>Adjusting Your Mouse Configurations: A Guide Using the Windows Control Panel by YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-skills-for-successful-interviews/"><u>In 2024, Essential Skills for Successful Interviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-s21-fe-5g-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy S21 FE 5G (2023) Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-13-repairs-tackling-the-six-biggest-tech-hurdles/"><u>Mastering iPhone 13 Repairs: Tackling the Six Biggest Tech Hurdles</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-video-guide-top-enterprise-data-wipe-tool-bitraser/"><u>Professional Video Guide: Top Enterprise Data Wipe Tool - BitRaser</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/purchase-aomei-backupper-pro-suite-and-aomei-cyber-backup-the-ideal-solution-for-corporate-data-protection/"><u>Purchase AOMEI Backupper Pro Suite and AOMEI Cyber Backup: The Ideal Solution for Corporate Data Protection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-guide-converting-stereo-wav-audio-tracks-into-mono-format/"><u>Simple Guide: Converting Stereo WAV Audio Tracks Into Mono Format</u></a></li>
+</ul></div>
 

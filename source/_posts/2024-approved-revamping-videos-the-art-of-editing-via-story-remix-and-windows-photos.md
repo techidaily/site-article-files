@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revamping Videos  The Art of Editing via Story Remix and Windows Photos\""
-date: 2024-08-15T07:29:48.391Z
-updated: 2024-08-16T07:29:48.391Z
+date: 2025-02-05T03:49:06.590Z
+updated: 2025-02-11T05:38:43.948Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ Go to **Start** menu and open **Windows Photos**. you can see videos and photos 
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -69,8 +73,9 @@ How to create a Story Remix project automatically –
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -83,6 +88,10 @@ Here is the guide –
 
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to edit a Story Remix video
 
@@ -98,13 +107,11 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -112,13 +119,11 @@ While adding media to the timeline in Story Mix, you will see that there is a de
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -126,21 +131,16 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 3. Hit ‘Done’ after that.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
 2. Preview the changes and click ‘Done’.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Trimming video clips
@@ -174,12 +174,9 @@ Now, pick the app or contact and send the video.
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -189,8 +186,9 @@ Why bother for messy and complex video editing tools, when you can get everythin
 If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -218,6 +216,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-hololens-unravelled-microsofts-augmented-future-insight/"><u>[New] 2024 Approved HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-capture-and-captivate-creating-incredible-slow-motion-video-masterpieces-on-instagram/"><u>[New] Capture and Captivate Creating Incredible Slow-Motion Video Masterpieces on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>[New] Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-softening-audio-fl-basics/"><u>[New] Softening Audio FL Basics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-how-to-for-finding-freely-available-pictorial-frames/"><u>[Updated] 2024 Approved The How-To for Finding Freely Available Pictorial Frames</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-charting-new-territory-youtubes-revised-policies/"><u>[Updated] Charting New Territory YouTube's Revised Policies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>[Updated] Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-tiktok-meets-snap-a-comparative-study-of-social-media-platforms/"><u>[Updated] In 2024, TikTok Meets Snap A Comparative Study of Social Media Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-ultimate-9-free-youtube-channel-branding-solutions/"><u>[Updated] In 2024, Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-uncharted-territories-discovering-hidden-vlc-capabilities-for-2024/"><u>[Updated] Uncharted Territories Discovering Hidden VLC Capabilities for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-turning-on-and-off-automatic-launch-programs-on-windows-abinary-operating-system/"><u>Step-by-Step Guide: Turning On and Off Automatic Launch Programs on Windows Abinary Operating System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-11-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 11 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-features-for-creatives-the-latest-in-paint-upgrades/"><u>Transformative Features for Creatives: The Latest in Paint Upgrades</u></a></li>
+</ul></div>
 

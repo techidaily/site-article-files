@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The DJI X20 Drone Vision Wear Review\""
-date: 2024-08-08T02:45:01.299Z
-updated: 2024-08-09T02:45:01.299Z
+date: 2025-02-06T22:37:28.084Z
+updated: 2025-02-10T20:47:24.509Z
 tags: 
   - screen-recording
   - ai video
@@ -30,16 +30,21 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
 [Check at Amazon](https://www.amazon.com/gp/product/B071Z6DSHB/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071Z6DSHB&linkId=7289b5ef284ae3b0206e825eeb794baa)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design
 
  DJI Goggles can be split into two parts - headband and display module.
 
  The display module has two 5" 1080O LED display, DJI cleverly position the display screen on the back and top of the display module.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![DJI Goggle's design](https://images.wondershare.com/filmora/article-images/dji-goggle-gif.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
 
@@ -51,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 * The feeling of \[top heavy\] is obvious.
 * When using head trackingfeature, the goggles have a risk of falling off.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Compatible products for DJI Goggles
 
  Available on Mavic Pro, Phantom 4 Advanced, Professional, Inspire 2, etc.
@@ -71,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 ## Main features and experience
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Head Tracking
 
 ###### #1\. What is Head Tracking
@@ -96,18 +99,20 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
  The mission of 3-axis gimbal is to remove any camera shakes and stabilize the footage. But, the DJI Goggles' head tracking actually bring back these shakes which do not come from the camera itself, but as a result of the commands of head tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tapfly
 
 ###### #1\. What is Tapfly
 
  With the integration of touchpad into DJI Goggles or 5D button on the Mavic Pro controller, users can access to key intelligent features. This makes navigating the internal menu system simple and intuitive.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DJI Goggle's touchpad](https://images.wondershare.com/filmora/article-images/goggles-touchpad.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: [DJI Official Site](https://store.dji.com/guides/dji-goggles-unboxing-and-quick-review/)
 
@@ -115,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
  DJI Goggles's main interaction needs to be done through the touchpad. This touchpad supports swipe and clicks of single and double fingers. It is responsive to unusual speed. Sometimes it is too sensitive that occasionally, a swipe will be misunderstood as a click. In the case of a fault in touch, we can use double fingers to slide back to lock the touchpad.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  As DJI's first generation digital image transmission FPV goggles, I think it has a lot of room for improvement. Although Many software issues and hardware design still need to be improved, I think it worth to try.
@@ -147,6 +149,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-gopro-hero5-black-vs-garmin-virb-ultra-30-which-one-is-better/"><u>[New] In 2024, GoPro Hero5 Black VS Garmin Virb Ultra 30 Which One Is Better?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pixelcasting-app-reviews/"><u>[New] In 2024, PixelCasting App Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-photobooth-lags-steadying-the-playback-journey/"><u>[New] Photobooth Lags Steadying the Playback Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[New] Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-step-by-step-introduction-to-ffpm/"><u>[Updated] 2024 Approved A Step-by-Step Introduction to FFPM</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-complete-premiere-pro-full-screen-insight/"><u>[Updated] In 2024, Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-tips-for-secure-clear-stock-purchases/"><u>[Updated] In 2024, Top Tips for Secure, Clear Stock Purchases</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>[Updated] In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-empower-your-digital-tales-with-complimentary-upgrades/"><u>In 2024, Empower Your Digital Tales with Complimentary Upgrades</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-turns-dark-with-new-driver/"><u>Monitor Turns Dark with New Driver</u></a></li>
+<li><a href="https://os-tips.techidaily.com/overcoming-password-issues-on-macbook-proair-and-imac-effective-techniques-for-restoration/"><u>Overcoming Password Issues on MacBook Pro/Air & iMac - Effective Techniques for Restoration</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-f23-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo F23 5G.</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-power-stealers-in-windows-1011/"><u>WMI Power Stealers in Windows 10/11</u></a></li>
+</ul></div>
 

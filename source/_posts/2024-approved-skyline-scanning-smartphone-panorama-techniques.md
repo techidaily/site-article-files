@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Skyline Scanning  Smartphone Panorama Techniques\""
-date: 2024-08-08T02:43:07.870Z
-updated: 2024-08-09T02:43:07.870Z
+date: 2025-02-09T19:06:36.773Z
+updated: 2025-02-11T03:56:13.164Z
 tags: 
   - screen-recording
   - ai video
@@ -20,14 +20,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -36,26 +28,21 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  When the term 'Panorama' reaches to our ears, majority of people bring those horizontal landscapes in their minds. But what about the beautiful Eiffel Tower or the Statue of Liberty or say a lavish building view? All these tall looking objects will not fit into the traditional horizontal panorama. And here comes vertoramas handy. Vertoramas are basically panorama shots but taken vertically. The **vertical panoramic photos** provide an elevated quality to the tall things of the world ultimately giving them a stunning look and unusual twist.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama.jpg)
 
  Image source: Imgur
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -70,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -77,10 +68,11 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 * Start with opening the camera followed by choosing the "Panorama" option from the menu.
 * Hit on "Vertical" and begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -89,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -99,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -123,6 +120,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-finding-and-obtaining-free-image-frame-content-for-2024/"><u>[New] Finding and Obtaining Free Image Frame Content for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-5-premier-drone-engines-to-supercharge-your-qxp/"><u>[New] In 2024, 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prospective-software-for-precision-in-animated-3d-modeling/"><u>[New] In 2024, Prospective Software for Precision in Animated 3D Modeling</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-structuring-stimulating-podcast-sneak-peeks/"><u>[New] In 2024, Structuring Stimulating Podcast Sneak Peeks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-and-captioning-a-guide-to-dynamic-text/"><u>[New] Photography & Captioning A Guide to Dynamic Text</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-augmented-reality-excellence-mastering-the-use-of-spark-ar-luts-for-2024/"><u>[Updated] Augmented Reality Excellence Mastering the Use of Spark AR LUTs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-visual-filmmaking-aids-go-green-no-money/"><u>[Updated] In 2024, Visual Filmmaking Aids Go Green, No Money</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>[Updated] The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-10-gimbals-enhancing-dsrl-quality/"><u>[Updated] Top 10 Gimbals Enhancing DSRL Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-turbo-speed-photo-browser-for-windows-10-for-2024/"><u>[Updated] Turbo Speed Photo Browser for Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-standout-solo-podcast-experience/"><u>2024 Approved Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-phantom-v-fold-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Phantom V Fold by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-zte-blade-a73-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast ZTE Blade A73 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-hdr-image-creation-with-photoshop-secrets/"><u>Pro HDR Image Creation with Photoshop Secrets</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola</u></a></li>
+</ul></div>
 
