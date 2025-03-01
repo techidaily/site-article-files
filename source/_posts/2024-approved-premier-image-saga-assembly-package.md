@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier Image Saga Assembly Package\""
-date: 2024-08-15T07:33:32.982Z
-updated: 2024-08-16T07:33:32.982Z
+date: 2025-02-24T16:42:41.043Z
+updated: 2025-03-01T01:43:19.990Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -55,9 +52,6 @@ After the installation of the program, you will see a window with two options: s
 After the mode selection, click the Add Files button to import your photos and videos.
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2\. Personalize your photo story
 
@@ -66,9 +60,6 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -80,9 +71,6 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Supported Output Formats by Web Converter
 
 * **DVD**: Standard DVD (D5 or D9)
@@ -93,15 +81,8 @@ Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techi
 Learn about the detailed [technical specifications](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) of Wondershare Photo Story Platinum for Windows.
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -126,8 +107,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-all-encompassing-az-screenshot-tool-app-evaluations-for-2024/"><u>[New] All-Encompassing AZ Screenshot Tool App Evaluations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>[Updated] Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-high-quality-game-recordings-methods-and-tools-for-2024/"><u>[Updated] High-Quality Game Recordings Methods and Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevating-your-live-experience-with-recorded-content/"><u>2024 Approved Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/adventure-gear-debate-gopro-hero5-black-and-garmin-virb-2e/"><u>Adventure Gear Debate GoPro Hero5 Black & Garmin VIRB (2E)</u></a></li>
+<li><a href="https://article-files.techidaily.com/apex-workplace-data-sphere/"><u>Apex Workplace Data Sphere</u></a></li>
+<li><a href="https://article-files.techidaily.com/capture-every-angle-top-360-streaming-devices-reviewed/"><u>Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/cookiebot-enhance-your-website-with-automated-data-collection/"><u>Cookiebot: Enhance Your Website with Automated Data Collection</u></a></li>
+<li><a href="https://article-files.techidaily.com/cooking-cut-away-classics-top-7-techniques-for-tasty-videos-for-2024/"><u>Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-lineup-all-angle-recorders/"><u>In 2024, Exclusive Lineup All-Angle Recorders</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-why-audews-portable-air-compressor-is-a-top-choice-for-reliability-and-convenience/"><u>In-Depth Analysis: Why Audew’s Portable Air Compressor Is a Top Choice for Reliability and Convenience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/learn-basic-video-editing-on-vimeo-at-no-cost-for-2024/"><u>Learn Basic Video Editing on Vimeo at No Cost for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mac-mini-meets-mac-studio-comparing-apples-latest-processors-does-the-m2-outperform-the-m1/"><u>Mac Mini Meets Mac Studio: Comparing Apple's Latest Processors - Does the M2 Outperform the M1?</u></a></li>
+</ul></div>
 

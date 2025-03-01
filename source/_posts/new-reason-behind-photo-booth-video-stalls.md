@@ -1,7 +1,7 @@
 ---
 title: "[New] Reason Behind Photo Booth Video Stalls"
-date: 2025-02-03T18:57:48.815Z
-updated: 2025-02-10T23:40:05.615Z
+date: 2025-02-26T19:16:09.614Z
+updated: 2025-02-28T20:41:40.317Z
 tags: 
   - screen-recording
   - ai video
@@ -67,10 +67,6 @@ Filmora's Media tab, underneath the Load button, will hold the files you import 
 
 ![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To create and name a new folder, click the Add a New Folder icon in the top right corner of the editor's screen, situated at the bottom of the My Project page. You can sort the footage alphabetically or any other way that improves your efficiency and reduces the time you spend looking through files.
 
 **Step 3: Add Effects**
@@ -110,9 +106,62 @@ Here are some ways you can try to fix the photo booth from freezing:
 * When you record a video with the camera, be sure it works in iMovie (from the camera icon somewhere down the left-hand side). If the problem persists in iMovie, it indicates a problem with the camera hardware, necessitating the return of the Mac to Apple.
 * If iMovie works fine, try removing the Photo Booth preferences: /Library/Preferences/com.apple. In addition, PhotoBooth.plist should be deleted.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## Bonus tip: How to edit a video on a computer?
+
+Wondershare Filmora is the greatest [video editor for PC](https://tools.techidaily.com/wondershare/filmora/download/) on the market, without a doubt, and it deserves to be at the top of our list.
+
+You'll discover some professional tools to help you improve video quality and over 300 creative filters and effects to give your movie a new, fresh look without putting in a lot of effort with the Filmora video editor. This tool is one of the most dependable, aside from the features that allow you to modify video rotation easily.
+
+**Step 1: Import the video file**
+
+To access the primary editing interface, open Wondershare Filmora and select "New Project." Then select "Import" to load files from your computer. You can also connect your devices by dragging and dropping files into the software or using the Import option. Filmora can handle images, video, and audio files with ease.
+
+![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-1.jpg)
+
+**Step 2: Organize the media**
+
+Filmora's Media tab, underneath the Load button, will hold the files you import into the editor. However, when searching for the video clips, you want to add to the timeline, working with many different files in a single project becomes considerably more difficult. To reduce clutter and confusion, use the My Album feature, which allows you to create folders and organize your files.
+
+![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-2.jpg)
+
+To create and name a new folder, click the Add a New Folder icon in the top right corner of the editor's screen, situated at the bottom of the My Project page. You can sort the footage alphabetically or any other way that improves your efficiency and reduces the time you spend looking through files.
+
+**Step 3: Add Effects**
+
+You may now disconnect the audio and video files, add music, make transitions between the clips, or utilize one of Filmora's many graphic effects after deleting all the undesirable sections from your video clips.
+
+![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-3.jpg)
+
+If you want to add opening titles, end credits, or subtitles to a video, click the Text /Credit icon. The software comes with various text templates that you can use for various reasons. Drag and drop the template you chose to the proper spot on the timeline, then use the software's preview box to add the required text.
+
+![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-4.jpg)
+
+Next to the Text/Credit symbol, you'll find the Transitions icon in the editor's toolbar, which gives you access to hundreds of settings. Learn more about video transitions and how to apply them in Filmora by watching this video tutorial.
+
+**Step 4: Export and Share**
+
+When you're certain there's nothing else you want to change or add to your project, click the Export button. You can quickly select the video file format in the Format menu in the Output window and optimize the video for Smartphones, iPads, or gaming consoles like the PS4 or Xbox One.
+
+Select the file type that best suits the project you're working on from the Format tab, gives the video a title, and choose the folder on your hard drive where the video will be exported. Next, you can select the video resolution, modify the frame rate, and choose an encoder by clicking the Settings button.
+
+![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-5.jpg)
+
+How to fix the photo booth video to keep freezing?
+
+Here are some ways you can try to fix the photo booth from freezing:
+
+* If you're recording while using many apps other than the Photo Booth software, your Mac's processor may be nearing its maximum. After you've closed all other programs, try recording.
+* Before recording a video, restart your Mac to ensure that you are not being interrupted by numerous user accounts or the apps/widgets they are using.
+* Check to determine if your computer's startup disc has adequate free space. To check available free space on your Mac, go to the Finder > File > Get Info menu command. You can free up disc space by moving files to another drive and deleting files from the startup disc that you no longer require.
+* After moving the photos and videos from the Photo Booth application to a different directory, restart the software.
+* Select Get Info and check the option Open in 32-bit mode by right-clicking or Control + clicking on Photo Booth in the programs folder.
+* Your system software could also be the source of these symptoms.
+* Update the system software to the most recent version.
+* NVRAM / PRAM should be reset.
+* To see if you have read and written permissions on Photo Booth in the programs folder, right-click or Control + Click on it and pick Get Info. Give yourself permission to read and write if you haven't before.
+* If your Photo Booth still stalls and crashes after trying all of the above methods, reinstall OS X.
+* When you record a video with the camera, be sure it works in iMovie (from the camera icon somewhere down the left-hand side). If the problem persists in iMovie, it indicates a problem with the camera hardware, necessitating the return of the Mac to Apple.
+* If iMovie works fine, try removing the Photo Booth preferences: /Library/Preferences/com.apple. In addition, PhotoBooth.plist should be deleted.
 
 ## Bonus tip: How to edit a video on a computer?
 
@@ -196,91 +245,6 @@ To create and name a new folder, click the Add a New Folder icon in the top righ
 You may now disconnect the audio and video files, add music, make transitions between the clips, or utilize one of Filmora's many graphic effects after deleting all the undesirable sections from your video clips.
 
 ![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-If you want to add opening titles, end credits, or subtitles to a video, click the Text /Credit icon. The software comes with various text templates that you can use for various reasons. Drag and drop the template you chose to the proper spot on the timeline, then use the software's preview box to add the required text.
-
-![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Next to the Text/Credit symbol, you'll find the Transitions icon in the editor's toolbar, which gives you access to hundreds of settings. Learn more about video transitions and how to apply them in Filmora by watching this video tutorial.
-
-**Step 4: Export and Share**
-
-When you're certain there's nothing else you want to change or add to your project, click the Export button. You can quickly select the video file format in the Format menu in the Output window and optimize the video for Smartphones, iPads, or gaming consoles like the PS4 or Xbox One.
-
-Select the file type that best suits the project you're working on from the Format tab, gives the video a title, and choose the folder on your hard drive where the video will be exported. Next, you can select the video resolution, modify the frame rate, and choose an encoder by clicking the Settings button.
-
-![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-How to fix the photo booth video to keep freezing?
-
-Here are some ways you can try to fix the photo booth from freezing:
-
-* If you're recording while using many apps other than the Photo Booth software, your Mac's processor may be nearing its maximum. After you've closed all other programs, try recording.
-* Before recording a video, restart your Mac to ensure that you are not being interrupted by numerous user accounts or the apps/widgets they are using.
-* Check to determine if your computer's startup disc has adequate free space. To check available free space on your Mac, go to the Finder > File > Get Info menu command. You can free up disc space by moving files to another drive and deleting files from the startup disc that you no longer require.
-* After moving the photos and videos from the Photo Booth application to a different directory, restart the software.
-* Select Get Info and check the option Open in 32-bit mode by right-clicking or Control + clicking on Photo Booth in the programs folder.
-* Your system software could also be the source of these symptoms.
-* Update the system software to the most recent version.
-* NVRAM / PRAM should be reset.
-* To see if you have read and written permissions on Photo Booth in the programs folder, right-click or Control + Click on it and pick Get Info. Give yourself permission to read and write if you haven't before.
-* If your Photo Booth still stalls and crashes after trying all of the above methods, reinstall OS X.
-* When you record a video with the camera, be sure it works in iMovie (from the camera icon somewhere down the left-hand side). If the problem persists in iMovie, it indicates a problem with the camera hardware, necessitating the return of the Mac to Apple.
-* If iMovie works fine, try removing the Photo Booth preferences: /Library/Preferences/com.apple. In addition, PhotoBooth.plist should be deleted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Bonus tip: How to edit a video on a computer?
-
-Wondershare Filmora is the greatest [video editor for PC](https://tools.techidaily.com/wondershare/filmora/download/) on the market, without a doubt, and it deserves to be at the top of our list.
-
-You'll discover some professional tools to help you improve video quality and over 300 creative filters and effects to give your movie a new, fresh look without putting in a lot of effort with the Filmora video editor. This tool is one of the most dependable, aside from the features that allow you to modify video rotation easily.
-
-**Step 1: Import the video file**
-
-To access the primary editing interface, open Wondershare Filmora and select "New Project." Then select "Import" to load files from your computer. You can also connect your devices by dragging and dropping files into the software or using the Import option. Filmora can handle images, video, and audio files with ease.
-
-![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 2: Organize the media**
-
-Filmora's Media tab, underneath the Load button, will hold the files you import into the editor. However, when searching for the video clips, you want to add to the timeline, working with many different files in a single project becomes considerably more difficult. To reduce clutter and confusion, use the My Album feature, which allows you to create folders and organize your files.
-
-![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-To create and name a new folder, click the Add a New Folder icon in the top right corner of the editor's screen, situated at the bottom of the My Project page. You can sort the footage alphabetically or any other way that improves your efficiency and reduces the time you spend looking through files.
-
-**Step 3: Add Effects**
-
-You may now disconnect the audio and video files, add music, make transitions between the clips, or utilize one of Filmora's many graphic effects after deleting all the undesirable sections from your video clips.
-
-![photo-booth-video-freezing-](https://images.wondershare.com/filmora/article-images/2022/05/photo-booth-video-freezing-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you want to add opening titles, end credits, or subtitles to a video, click the Text /Credit icon. The software comes with various text templates that you can use for various reasons. Drag and drop the template you chose to the proper spot on the timeline, then use the software's preview box to add the required text.
 
@@ -320,18 +284,16 @@ Select the file type that best suits the project you're working on from the Form
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/dit-your-way-to-success-iosandroid-apps-for-youtube-shorts-for-2024/"><u>[New] Edit Your Way to Success IOS/Android Apps for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-high-speed-media-manipulation-a-practical-approach-for-2024/"><u>[New] High-Speed Media Manipulation A Practical Approach for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-8-best-free-mp3-downloader-for-android/"><u>[Updated] In 2024, 8 Best Free MP3 Downloader for Android</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-acquiring-vivid-clipart-without-investment/"><u>2024 Approved Acquiring Vivid Clipart Without Investment</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-array-of-unique-video-cameras-by-type/"><u>2024 Approved Array of Unique Video Cameras by Type</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fine-tuning-your-remote-visual-experience/"><u>2024 Approved Fine-Tuning Your Remote Visual Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-metaverse-perspectives-a-30-quote-collection/"><u>2024 Approved Innovative Metaverse Perspectives A 30-Quote Collection</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>2024 Approved SRT Conversion Made Simple XML, SSA, TTML, and More</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-devices-for-home-and-office/"><u>2024 Approved Ultimate Devices for Home and Office</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-exporting-mp4-files-using-final-cut-pro/"><u>Complete Guide: Exporting MP4 Files Using Final Cut Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c02-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C02 Screen | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>New 2024 Approved Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unboxing-the-typhoon-h-yuneecs-drone-expertise-for-2024/"><u>Unboxing the Typhoon H Yuneec's Drone Expertise for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-flying-innovations-unveiling-the-new-hubsan-x4-drone-review/"><u>[New] Flying Innovations Unveiling the New Hubsan X4 Drone Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-in-depth-look-at-best-videographer-selection/"><u>[Updated] In 2024, In-Depth Look at Best Videographer Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-comprehensive-analysis-strengths-and-weaknesses-of-the-new-open-source-security-legislation/"><u>A Comprehensive Analysis: Strengths and Weaknesses of the New Open Source Security Legislation</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/configuring-your-pcs-network-settings-via-control-panel-with-tips-from-yl-software-experts/"><u>Configuring Your PC's Network Settings via Control Panel with Tips From YL Software Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-driver-load-error-1450-when-initializing-the-battleye-service-successfully/"><u>How to Resolve 'Driver Load Error (1450)' When Initializing the BattlEye Service Successfully</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enchant-your-e-images-with-electronic-soundtracks/"><u>In 2024, Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-5-240w-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT 5 (240W) Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-10-best-performers-elite-4k-laptops/"><u>In 2024, Top 10 Best Performers Elite 4K Laptops</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-6-android-apps-for-immersive-music-videos/"><u>In 2024, Top 6 Android Apps for Immersive Music Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-pairing-personal-computers-with-external-projection-units/"><u>Seamless Setup: Pairing Personal Computers with External Projection Units</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/two-methods-to-access-hp-recovery-mode-on-your-laptop/"><u>Two Methods to Access HP Recovery Mode on Your Laptop</u></a></li>
 </ul></div>
 

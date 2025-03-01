@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Tailored Volume Reduction in Audacity"
-date: 2025-02-09T19:58:49.419Z
-updated: 2025-02-11T00:44:35.940Z
+date: 2025-02-25T01:29:24.137Z
+updated: 2025-02-28T21:02:31.777Z
 tags: 
   - screen-recording
   - ai video
@@ -45,23 +45,11 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
 
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Adjustable Fade
 
@@ -73,10 +61,6 @@ A dialog box will show up on the screen when you choose the customizable fade op
 * Select the variable fading option.
 
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Crossfades Audacity
 
@@ -118,19 +102,11 @@ You must drag the files into Filmora's timeline after importing your media files
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
 
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To finish the fade-out, click and drag the other icon in Filmora to the necessary duration. You may hear the music by playing the file within the timeline of the Filmora preview layout.
 
@@ -156,10 +132,6 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -167,10 +139,6 @@ By choosing the Video Editor option from the software's home screen, you may now
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Fade-in/fade-out audio
 
@@ -214,16 +182,20 @@ You may access a variety of tools and services on the platform known as Audacity
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-highlights-our-top-5-favorites/"><u>[New] In 2024, FB Video Highlights Our Top 5 Favorites</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-yearbook-of-viral-content-on-twitter-2023-edition/"><u>[Updated] 2024 Approved The Yearbook of Viral Content on Twitter, 2023 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bebop-unleashed-the-parrots-aerial-showcase-review/"><u>2024 Approved Bebop Unleashed The Parrot's Aerial Showcase Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-elite-6-software-for-audiovisual-translation/"><u>2024 Approved Elite 6 Software for Audio/Visual Translation</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-leading-edge-of-technology-top-10-4k-displays/"><u>2024 Approved Leading Edge of Technology #Top 10 4K Displays</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-navigating-the-curveball-mastering-gopro-lens-distortion/"><u>2024 Approved Navigating the Curveball Mastering GoPro Lens Distortion</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-precision-zooms-for-peak-snapchat-performance/"><u>2024 Approved Precision Zooms for Peak Snapchat Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ableton-live-mastering-volume-dampening/"><u>Ableton Live Mastering Volume Dampening</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-pc-intro-creation-made-easy-top-10-tools-online-and-offline/"><u>New In 2024, PC Intro Creation Made Easy Top 10 Tools Online and Offline</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-confluence-of-visual-storytelling-and-soundtracks-top-5/"><u>The Ultimate Confluence of Visual Storytelling and Soundtracks (Top 5)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-hardware-for-high-quality-livestreams-for-2024/"><u>[New] Best Hardware for High-Quality Livestreams for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-crafting-perfect-playlists-import-music-with-inshot/"><u>[New] In 2024, Crafting Perfect Playlists Import Music with InShot</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-quest-for-ultimate-clarity-with-the-z32x-monitor/"><u>[New] The Quest for Ultimate Clarity with the Z32X Monitor</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hacky-yet-effective-face-blurring-on-piscart-for-2024/"><u>[Updated] Hacky Yet Effective Face-Blurring on PiscArt for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[Updated] In 2024, A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>[Updated] In 2024, Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-yuva-2-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Yuva 2 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/evaluating-cloud-options-price-and-performance/"><u>Evaluating Cloud Options Price & Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-sony-xperia-10-v-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Sony Xperia 10 V Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>In 2024, How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streamlined-playback-import-tunes-into-inshot/"><u>In 2024, Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mass-movement-mastery-the-drone-top-list/"><u>Mass Movement Mastery The Drone Top List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-16-hp-laptop-bargains-this-season-exclusive-offers-unveiled-by-zdnet/"><u>Top 16 HP Laptop Bargains This Season - Exclusive Offers Unveiled by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a34-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A34 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-full-web-experience-how-to-allow-cookies-in-your-browser/"><u>Unlock Full Web Experience: How to Allow Cookies in Your Browser</u></a></li>
 </ul></div>
 

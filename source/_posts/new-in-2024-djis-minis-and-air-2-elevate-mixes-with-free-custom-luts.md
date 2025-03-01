@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, DJI's Minis & Air 2  Elevate Mixes with Free, Custom LUTS\""
-date: 2025-02-07T03:04:20.752Z
-updated: 2025-02-11T00:45:02.427Z
+date: 2025-02-25T03:35:51.260Z
+updated: 2025-03-01T02:02:23.760Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,6 @@ This LUT focus on the original displays of the aerial space in the recordings. I
 
 ![Free DJI LUTs - Aerial Sky](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aerial Sky
 
 ### 2\. Vibrance Colors
@@ -79,19 +75,11 @@ When the drones zoom through the sky, the blue shade gives out reflective record
 
 Blue Space
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Matte
 
 If you want your captures to take up the matte texture, then apply this effect without hesitation. It gives you quality outcomes and you will witness the matte finish on the media files. The color gradients are adjusted to reach the matte looks of the content.
 
 ![Free DJI LUTs - Matte](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Matte
 
@@ -102,10 +90,6 @@ The Wheat Color LUT focus on the brown shades. When you capture the landscapes a
 ![Free DJI LUTs - Wheat Color](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-7.jpg)
 
 Wheat Color
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Vintage
 
@@ -129,10 +113,6 @@ It is one of the common LUTs to convert the videos or photos into the black and 
 
 ![Free DJI LUTs - Black & White](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Black & White
 
 ### 10\. Landscape
@@ -140,10 +120,6 @@ Black & White
 When you record or capture the landscapes like plains, mountains, and valleys, this LUT effect portrays realistic images and videos. According to the landscape types, modify the settings in this LUT accordingly to enhance the overall appearance.
 
 ![Free DJI LUTs - Landscape](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Landscape
 
@@ -160,10 +136,6 @@ This LUT focus on the moods like weather, landscapes, happy moments, and surpris
 ![Paid DJI LUTs - Moody Drone LUTs](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-12.jpg)
 
 Moody Drone LUTs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [Drone LUTS collections](https://www.chrisfilmpresents.com/shop/cfp-drone-lut-collection)
 
@@ -205,10 +177,6 @@ It is a unique LUTs effect that works on every detail of the footage. The hue an
 
 Chromatica LUTS
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. [Buttery LUTS](https://www.shopmoment.com/digital-products/buttery-luts-dji-rec709)
 
 Price: $39
@@ -226,10 +194,6 @@ Price: $89.84
 It is also a film-like LUTs, and it impacts the overall tracks in the videos with stunning clarity. This LUT brings unique changes to the footage. You can add extra detail to the recordings by working with the color gradients, brightness, and saturation controls.
 
 ![Paid DJI LUTs - Cine Vision LUTs](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-18.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cine Vision LUTs
 
@@ -279,10 +243,6 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Summarize:
 
 Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use the above-listed free and paid version of the LUTs to enhance the footage quality and clarity. Most LUTs are compatible with any editing platform. Download the favorite ones from the list and start applying them to your memorable footage to sound natural and realistic.
@@ -311,24 +271,14 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>[New] In 2024, The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-dominate-youtube-with-effective-content-strategies/"><u>[Updated] In 2024, Dominate YouTube with Effective Content Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>[Updated] Mellow Playtime 10 Top-Rated Stress Erasers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-demystifying-periscope-your-ultimate-learning-resource/"><u>2024 Approved Demystifying Periscope Your Ultimate Learning Resource</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-ppts-appeal-through-soundtracks/"><u>2024 Approved Enhance PPT's Appeal Through Soundtracks</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-shooting-the-best-cinematographic-tips-and-ideas/"><u>2024 Approved Innovative Shooting The Best Cinematographic Tips & Ideas</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>2024 Approved Maximize Engine Power The Best Windows & Mac SRT Mods Countdown</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-money-smart-sports-photography-innovation-on-a-dime/"><u>2024 Approved Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-revival-artisan-selection/"><u>2024 Approved Revival Artisan Selection</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>2024 Approved Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-art-of-color-grading-utilizing-luts-in-ae/"><u>2024 Approved The Art of Color Grading Utilizing LUTs in AE</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>2024 Approved Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-best-free-user-friendly-srt-translators-online/"><u>2024 Approved Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-secrets-of-whatsapp-audio-conversations/"><u>2024 Approved Unveiling the Secrets of WhatsApp Audio Conversations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/des-astuces-pour-faire-en-sorte-que-windows-media-player-lise-les-dvd-sans-problemes/"><u>Des Astuces Pour Faire en Sorte Que Windows Media Player Lise Les DVD Sans Problèmes!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/ejecutivo-provenientes-los-metodos-mas-eficaces-para-realizar-copias-de-seguridad-en-servidores-windows-desde-el-2022-al-2012/"><u>Ejecutivo Provenientes: Los Métodos Más Eficaces Para Realizar Copias De Seguridad en Servidores Windows - Desde El 2022 Al 2012</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-blaze-curve-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Blaze Curve 5G without App | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-wireless-keyboard-driver-for-windows-11-download-easily/"><u>Logitech Wireless Keyboard Driver for Windows 11 Download Easily</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-imovie-replacements-for-windows-10-free-and-paid-options-for-2024/"><u>Top iMovie Replacements for Windows 10 Free and Paid Options for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eliminate-camera-sway-no-tripods-allowed/"><u>[New] Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-first-steps-into-facebook-data-analysis-for-new-users-for-2024/"><u>[New] First Steps Into Facebook Data Analysis for New Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sims-4-gametime-the-recorders-handbook/"><u>[New] Sims 4 Gametime The Recorder's Handbook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boost-your-content-access-free-vocal-sfx/"><u>[Updated] Boost Your Content Access Free Vocal SFX!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughter-on-the-go-iphones/"><u>[Updated] Laughter on the Go (iPhones)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-vreach-overcoming-virtual-reality-sickness-tips/"><u>[Updated] VREACh Overcoming Virtual Reality Sickness Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/funny-frameworks-crafting-memes-with-ease-for-2024/"><u>Funny Frameworks Crafting Memes with Ease for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-comprehensive-codes-of-conduct-for-the-yt-community/"><u>In 2024, Comprehensive Codes of Conduct for the Yt Community</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows/"><u>Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
 </ul></div>
 

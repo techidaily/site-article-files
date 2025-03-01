@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Mac's Preview App  An In-Depth Tutorial for Users\""
-date: 2024-08-15T07:32:34.976Z
-updated: 2024-08-16T07:32:34.976Z
+date: 2025-02-23T01:24:13.786Z
+updated: 2025-03-01T03:14:11.767Z
 tags: 
   - screen-recording
   - ai video
@@ -50,9 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -83,9 +80,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -98,9 +92,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -133,9 +124,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -152,9 +140,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -200,9 +185,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Click **Choose** to convert all the images in a single go
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -227,8 +209,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-file-transfers-from-android-to-apple-devices/"><u>[Updated] 2024 Approved Navigating File Transfers From Android to Apple Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>[Updated] 8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cracking-the-code-of-photoshop-for-beginners/"><u>2024 Approved Cracking the Code of Photoshop for Beginners</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>2024 Approved Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-edits-made-easy-utilizing-the-eraser-tool-in-photoshop/"><u>2024 Approved Edits Made Easy Utilizing the Eraser Tool in Photoshop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-cinematic-promo-reels/"><u>2024 Approved Elite Cinematic Promo Reels</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-global-cloud-savings-summary-comparing-and-choosing-the-cheapest/"><u>2024 Approved Global Cloud Savings Summary Comparing and Choosing the Cheapest</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leaderboards-best-12-action-recorders-including-satellite-positioning/"><u>2024 Approved Leaderboard's Best 12 Action Recorders Including Satellite Positioning</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-5-android-clippers-essential-image-editing-apps/"><u>2024 Approved Top 5 Android Clippers Essential Image Editing Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>2024 Approved Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unleash-creativity-using-mematic-app/"><u>2024 Approved Unleash Creativity Using Mematic App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/extending-your-video-length-on-instagram-tips-from-16-secs-up-to-2-hrs/"><u>Extending Your Video Length on Instagram: Tips From 16 Secs. Up to 2 Hrs.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-code-alert-no-need-to-scour-reddit/"><u>Filmora Promo Code Alert No Need to Scour Reddit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/go-big-or-go-home-full-screen-fb-videos/"><u>Go Big or Go Home Full-Screen FB Videos</u></a></li>
+<li><a href="https://discover-best.techidaily.com/riduci-le-dimensioni-dei-tuoi-video-hd-4k-e-8k-del-90-metodi-semplici-ed-efficaci/"><u>Riduci Le Dimensioni Dei Tuoi Video HD, 4K E 8K Del 90%: Metodi Semplici Ed Efficaci</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-x7b-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor X7b to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

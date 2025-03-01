@@ -1,7 +1,7 @@
 ---
 title: "[New] Capturing Still Moments From Clips on Windows 11 for 2024"
-date: 2025-02-03T23:12:34.625Z
-updated: 2025-02-11T04:40:58.701Z
+date: 2025-02-26T18:11:06.923Z
+updated: 2025-02-28T18:39:26.885Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -56,10 +52,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -69,15 +61,7 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -92,10 +76,6 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -143,18 +123,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods/"><u>[New] 2024 Approved Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>[Updated] 2024 Approved Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-bring-back-the-light-solutions-for-gaming-screens-turned-black-with-obs-for-2024/"><u>[Updated] Bring Back the Light Solutions for Gaming Screens Turned Black with OBS for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-culinary-carousel-swirling-up-top-food-network-names-for-2024/"><u>[Updated] Culinary Carousel Swirling Up Top Food Network Names for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-achieve-cinematic-brilliance-the-11-ultimate-tutorials-on-color-grading/"><u>2024 Approved Achieve Cinematic Brilliance The 11 Ultimate Tutorials on Color Grading</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-elevate-your-vision-experience-these-7-grading-styles/"><u>2024 Approved Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-pathway-to-free-final-cut-pro/"><u>2024 Approved The Pathway to Free Final Cut Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-updated-list-of-conversation-catalysts-for-listener-retention/"><u>2024 Approved Updated List of Conversation Catalysts for Listener Retention</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-updated-scrutiny-of-sony-s3700-high-definition-playback/"><u>2024 Approved Updated Scrutiny of Sony S3700 High Definition Playback</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/edit-and-cut-videos-anywhere-best-free-online-cropping-software/"><u>Edit and Cut Videos Anywhere: Best Free Online Cropping Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emojis-are-financial-advice-activision-hacked-and-will-chatgpt-powered-ai-steal-your-job/"><u>Emojis Are Financial Advice, Activision Hacked, and Will ChatGPT-Powered AI Steal Your Job?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-computer-hardware-analysis/"><u>Tom's Tech Review: Ultimate Computer Hardware Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-fix-when-your-wi-fi-wont-show-up/"><u>Unveiling the Fix: When Your Wi-Fi Won't Show Up</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[New] 2024 Approved Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-captivating-clips-select-5-brightening-apps/"><u>[New] In 2024, Captivating Clips Select 5 Brightening Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>[New] In 2024, DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-visionboost-converter-windows-mac-online-version/"><u>[New] VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[Updated] 2024 Approved Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>[Updated] 2024 Approved Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ban-unwanted-youtube-recommended-titles/"><u>[Updated] Ban Unwanted YouTube Recommended Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-art-to-blockchain-assets-with-top-7-tools-for-2024/"><u>[Updated] Elevate Art to Blockchain Assets with Top 7 Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-screen-recorder-software-for-youtube-creators/"><u>[Updated] In 2024, Top Screen Recorder Software For YouTube Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10-for-2024/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/expert-advice-moving-multimedia-on-apple-gear/"><u>Expert Advice Moving Multimedia on Apple Gear</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boost-your-channels-following-by-a-thousand/"><u>In 2024, Boost Your Channels' Following by a Thousand</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-the-potential-of-next-gen-srt-systems/"><u>In 2024, Discovering the Potential of Next-Gen SRT Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://article-files.techidaily.com/mobile-filming-tools-for-tourists-for-2024/"><u>Mobile Filming Tools for Tourists for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-lost-remotes-our-innovative-location-tiles-keep-them-in-sight/"><u>Say Goodbye To Lost Remotes - Our Innovative Location Tiles Keep Them in Sight!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-iphone-models-ranked-the-ultimate-guide-for-gamers/"><u>Top iPhone Models Ranked: The Ultimate Guide for Gamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030507328-windows-11mp3/"><u>Windows 11におけるスタンダード音楽再生ソフトウェア上のMP3編集手順</u></a></li>
 </ul></div>
 

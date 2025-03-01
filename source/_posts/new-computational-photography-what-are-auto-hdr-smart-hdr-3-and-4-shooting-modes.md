@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Computational Photography  What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?\""
-date: 2025-02-07T21:04:00.578Z
-updated: 2025-02-11T00:06:37.976Z
+date: 2025-02-26T04:01:35.283Z
+updated: 2025-03-01T02:22:30.428Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ The table below shows different HDR and their details;
 | **Available on**              | iPhone 12 line, iPhone 13 line                                                                                             | iPhone 11 lineup and iPhone 12 lineup | iPhone Xs and later | iPhone X and newer |
 | **Photo types it works with** | smart HDR works with Portrait and Portrait Lighting modes, panoramic shots, bursts, frames in Live Photos and action shots | single high dynamic range (HDR) image |                     |                    |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart HDR 4 (iPhone 13)
 
 Apple's computational photography system smart HDR 4 is available on iPhone 13.
@@ -76,10 +72,6 @@ For example, a picture of the sun may show more detail in the cloudless sky whil
 
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart HDR 3 (iPhone 12)
 
 Apple's computational photography system "smart HDR 3" is available on iPhone 12\. The feature has been upgraded with a new algorithm to create more natural-looking images by removing some of the artifacts that have been found in previous iterations of the technology.
@@ -91,10 +83,6 @@ Apple's computational photography system "smart HDR 3" is available on iPhone 12
 In this, we can get A preview of the final image shown as you capture an image and can be used to remove distracting elements from a scene before taking a photo or video.
 
 ![smart hdr 3](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Smart HDR (iPhone 11)
 
@@ -121,10 +109,6 @@ This feature is designed to improve the quality of your photos by automatically 
 * It's enabled by default in iOS 11 so you don't have to do anything.
 
 ![auto hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should you Lookout for the HDR feature on iPhone 14?
 
@@ -182,10 +166,6 @@ For example, a picture of the sun may show more detail in the cloudless sky whil
 
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart HDR 3 (iPhone 12)
 
 Apple's computational photography system "smart HDR 3" is available on iPhone 12\. The feature has been upgraded with a new algorithm to create more natural-looking images by removing some of the artifacts that have been found in previous iterations of the technology.
@@ -210,10 +190,6 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Auto HDR (iPhone X)
 
 Auto HDR is a feature in the camera of the iPhone X series that takes multiple pictures at different exposures and then combines them to create one well-exposed photo. One of the things that make the iPhone camera so great is computational photography.
@@ -228,10 +204,6 @@ This feature is designed to improve the quality of your photos by automatically 
 
 ![auto hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should you Lookout for the HDR feature on iPhone 14?
 
 The rumor mill is generating leaks about a possible new 48 MP main sensor for the next-generation iPhone 14 Pro camera. Some features of this camera may include more-realistic colors and better low-light performance in addition to all of the other specs we have been hearing about recently.
@@ -241,10 +213,6 @@ If these rumors prove true, it’s possible that Apple will introduce an even mo
 * iPhone 14 camera will come with a 48 Megapixel sensor. It is rumored that there would be more-realistic colors and better low light performance too.
 * 8K video recording is a simple resolution bump for the Pro models. For example, if you record a 4K video at 30 frames per second (fps), then your videos playback at 15 fps when played back on an iPhone.
 * The selfie cameras of the iPhone 14 models will also receive a major upgrade. The new front-facing sensors are said to offer three times as many pixels. These pixels should help keep faces from looking distorted or pixilated while maintaining natural skin tones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final words
 
@@ -282,16 +250,17 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[New] 2024 Approved Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-power-of-precision-crafting-effective-video-titles/"><u>[New] The Power of Precision Crafting Effective Video Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>2024 Approved A Visual Marvel Unveiled EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-behind-the-scenes-of-vivacut-full-video-editing-review-24/"><u>2024 Approved Behind the Scenes of VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enhance-images-with-text-via-web-and-mobile-apps/"><u>2024 Approved Enhance Images with Text via Web & Mobile Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-exemplary-episodes-for-auditory-drama/"><u>2024 Approved Exemplary Episodes for Auditory Drama</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-optimal-text-movement-collections/"><u>2024 Approved Optimal Text Movement Collections</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722882868738-easy-steps-to-connect-remote-drives-seamlessly-with-your-mac-system/"><u>Easy Steps to Connect Remote Drives Seamlessly with Your Mac System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-ultimate-list-of-chatgpt-extensions-for-immediate-use/"><u>Explore the Ultimate List of ChatGPT Extensions for Immediate Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-youtubes-signature-interactions/"><u>Tracking YouTube's Signature Interactions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/which-is-superior-in-media-management-vlc-or-mx-in-2024/"><u>Which Is Superior in Media Management VLC or MX, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-beginners-guide-making-your-podcasts-rss-feed/"><u>[New] 2024 Approved A Beginner's Guide Making Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-zenith-of-plotting-in-cinemas-eight-divisions/"><u>[Updated] 2024 Approved Zenith of Plotting in Cinema's Eight Divisions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>[Updated] Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-connect-and-control-your-android-from-a-fire-stick/"><u>Easy Ways to Connect and Control Your Android From a Fire Stick</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://article-files.techidaily.com/prestige-pcs-and-laptops-technologys-elite/"><u>Prestige PCs & Laptops - Technology's Elite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealed-the-powerhouse-of-a-board-unboxing-the-declassified-evgas-amd-motherboard/"><u>Revealed: The Powerhouse of a Board - Unboxing the Declassified EVGA's AMD Motherboard</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolution-of-drones-present-impact-and-future-prospects-for-2024/"><u>The Evolution of Drones Present Impact and Future Prospects for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-acer-discounts-maximizing-savings-in-novemberdecember-2024/"><u>Ultimate Acer Discounts: Maximizing Savings in November/December 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/wave-weaver-toolkit/"><u>Wave Weaver Toolkit</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/wheauncorrectableissue-eliminated-a-step-by-step-troubleshooting-methodology/"><u>WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology</u></a></li>
 </ul></div>
 

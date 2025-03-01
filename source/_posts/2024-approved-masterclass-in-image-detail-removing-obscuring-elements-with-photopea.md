@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Image Detail  Removing Obscuring Elements with Photopea\""
-date: 2024-08-15T07:33:42.482Z
-updated: 2024-08-16T07:33:42.482Z
+date: 2025-02-25T02:53:14.987Z
+updated: 2025-02-28T23:34:42.040Z
 tags: 
   - screen-recording
   - ai video
@@ -50,9 +50,6 @@ Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its 
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How To Use Magic Cut To Remove The Image's Background
 
 If your picture has a complicated background, the following steps will help you use the Magic Cut tool to **remove the image's background with Photopea:**
@@ -66,15 +63,9 @@ Step3 In the next window, use the red brush to mark your background, the green o
 You can modify the brush size using the drop-down icon at the top-right of the window.
 
 ![using magic cut to remove image background in photopea](https://images.wondershare.com/filmora/article-images/2023/03/using-magic-cut-to-remove-image-background-in-photopea.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Once satisfied with your changes, click **"OK"** to save your settings and remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Select the Subject Manually When The Image Is Detailed
 
 Although Magic Cut can handle difficult photos, there are also more precise tools available in Photopea that can help you erase the background from your images through manual selection. However, this process will be slower if your image is very detailed.
@@ -91,9 +82,6 @@ Step3 In the next step, select your object as precisely as possible. Now, right-
 
 Step4 Finally, hit the **"Delete"** button to remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## A Bonus Tip: How To Add The New Background After Removing The Image's Background
 
 Now that you've removed the BG from your images, you might want to add a new one. Luckily, Photopea can help you with this.
@@ -109,9 +97,6 @@ Step2 Choose the new background image from your system and click **"Open"** to i
 Step3 Now, click the **"Edit"** option from the top menu and select **"Transform" > "Scale."** Drag the handles to resize the background image and click **"Enter"** to apply the changes.
 
 ![scaling the new background image](https://images.wondershare.com/filmora/article-images/2023/03/scaling-the-new-background-image.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Step4 Under the **"Layers"** header in the right panel, drag the new image layer below the object layer, and the background will be applied to your object.
 
@@ -123,24 +108,14 @@ If you want to remove the BG of an image with just one click or of images in bul
 
 PixCut's Artificial Intelligence-based background remover can erase the background of your images in just a few clicks. You can also use the **"Bulk Remove BG"** feature to erase the background of pictures in bulk.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Image Resizer
 
 With its Image Resizer tool, you can make your image smaller or larger in size to fulfill your requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Manual Background Erase and Restore options
 
 PixCut also offers the "Erase & Restore" tool to help you remove or restore certain parts of your image after removing the background using the AI-based tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Background Change
 
 PixCut gives you the option to change the removed background to something more unique using the presets available on the platform or by adding your own templates/images.
@@ -163,9 +138,6 @@ Hopefully, you've found this guide helpful and can now make changes to your imag
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -176,9 +148,6 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -207,8 +176,26 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-elite-professionals-drone-choices-top-5-for-2024/"><u>[New] Elite Professionals' Drone Choices (Top 5) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-rpg-heritage-clashing-with-new-age-designs/"><u>[New] In 2024, RPG Heritage Clashing with New-Age Designs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-viral-video-vigilantes-top-ten-in-a-day-one-hour-at-a-time/"><u>[New] In 2024, Viral Video Vigilantes Top Ten in a Day, One Hour at a Time</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision-for-2024/"><u>[New] Turn Your iPhone Images Upside Down with Precision for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-photographers-journey-to-jaw-dropping-colors-for-2024/"><u>A Photographer's Journey to Jaw-Dropping Colors for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-thorough-introduction-to-gdocs-speech-to-text-capabilities-for-2024/"><u>A Thorough Introduction to GDoc's Speech-to-Text Capabilities for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/accelerating-periscope-video-transmission/"><u>Accelerating Periscope Video Transmission</u></a></li>
+<li><a href="https://article-files.techidaily.com/ai-driven-nomenclature-best-10-name-generators-online-for-2024/"><u>AI-Driven Nomenclature Best 10 Name Generators Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-practices-for-procuring-customized-text-files-for-2024/"><u>Best Practices for Procuring Customized Text Files for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/chiefs-choice-for-elite-cloud-storage-for-2024/"><u>Chiefs' Choice for Elite Cloud Storage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/comparative-analysis-lowest-priced-cloud-vendors/"><u>Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-a-connected-collection-across-applications-for-2024/"><u>Crafting a Connected Collection Across Applications for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-mac-apps-screen-recording-made-simple/"><u>Essential Mac Apps Screen Recording Made Simple</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-90-gt-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor 90 GT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcasters-guide-to-the-10-finest-mic-options-for-2024/"><u>Podcaster's Guide to the 10 Finest Mic Options for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-11-slow-on-ssd-scopri-le-top-3-soluzioni-per-velocita-ottimale/"><u>Windows 11 Slow on SSD? Scopri Le Top 3 Soluzioni per Velocità Ottimale</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728495139668-sd/"><u>ストレージ修復ガイド: SDカードの損傷により失われた画像や写真を回収方法</u></a></li>
+</ul></div>
 

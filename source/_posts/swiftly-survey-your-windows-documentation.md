@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Survey Your Windows Documentation"
-date: 2025-02-05T18:05:00.052Z
-updated: 2025-02-10T18:09:26.068Z
+date: 2025-02-27T20:32:23.724Z
+updated: 2025-02-28T17:45:03.202Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ Windows operating system comes with an inbuilt file preview feature embedded in 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Download Quick Look App on Microsoft Store
 
 If your computer is always handling documents, spreadsheets, PDFs, presentations, images, and other files, it’s probably time to install **QuickLook for Mac** and Windows. This intelligent program lets you quickly preview files without opening them on separate apps. Just think of it as the “file viewer” feature on Windows File Explorer, which allows you to view files before loading online or opening them on local apps. Of course, this can help you know which app can open the file and if it’s the correct file to open.
@@ -40,10 +36,6 @@ Below is how to install and use QuickLook by Paddy Xu:
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
@@ -67,10 +59,6 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
@@ -87,10 +75,6 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -104,10 +88,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,17 +123,21 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-extracting-youtube-videos-simplified-for-2024/"><u>[New] Extracting YouTube Videos Simplified for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-boost-engagement-with-essential-marketing-terms/"><u>[New] In 2024, Boost Engagement with Essential Marketing Terms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-video-quest-hero5-black-vs-virb-for-adventurers/"><u>[Updated] Video Quest Hero5 Black VS. VIRB for Adventurers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>2024 Approved Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-decoding-the-secrets-of-compelling-gif-designs/"><u>2024 Approved Decoding the Secrets of Compelling GIF Designs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-inshots-ecosystem-a-detailed-editor-app-study/"><u>2024 Approved InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>2024 Approved Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-software-limitations-on-freesync/"><u>Overcoming Software Limitations on FreeSync</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-magic-vs-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor Magic Vs 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-a-missing-msvcr80dll-a-step-by-step-guide/"><u>Solving the Mystery of a Missing msvcr80.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-6-ways-to-increase-audience-retention-on-youtube-filmora-for-2024/"><u>[New] 6 Ways To Increase Audience Retention on YouTube - Filmora for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-setting-pip-mode-in-the-youtube-app-for-mobile-viewing/"><u>[New] Setting PIP Mode in the YouTube App for Mobile Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-build-haha-images/"><u>[Updated] 2024 Approved Build Haha Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-introduce-dynamic-blurring-to-pics-in-ps/"><u>[Updated] 2024 Approved Introduce Dynamic Blurring to Pics in PS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-analyzing-t-series-youtube-financial-gains/"><u>[Updated] Analyzing T-Series Youtube Financial Gains</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>[Updated] In 2024, Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-reviewing-the-pinnacle-of-tv-tech-lg-27ud88-uhd-oled-hdtv-for-2024/"><u>[Updated] Reviewing the Pinnacle of TV Tech - LG 27UD88-UHD OLED HDTV for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-revolutionary-techniques-to-elevate-vhs-photos-on-pcs/"><u>[Updated] Revolutionary Techniques to Elevate VHS Photos on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-downloading-user-manuals-for-all-iphone-models/"><u>Comprehensive Guide: Downloading User Manuals for All iPhone Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-attention-top-10-grids-for-stunning-pics/"><u>In 2024, Capture Attention Top 10 Grids for Stunning Pics</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dynamic-voice-training-in-free-fire-games/"><u>In 2024, Dynamic Voice Training in Free Fire Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-lava-yuva-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Lava Yuva 3 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-pc-troubleshooting-with-a-complete-list-of-crash-codes-explained/"><u>Mastering PC Troubleshooting with a Complete List of Crash Codes Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-solution-pack-6-best-apps-for-signature-erasure-for-2024/"><u>Ultimate Solution Pack - 6 Best Apps for Signature Erasure for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-pc-upgrading-to-windows-11-version-1607-troubleshooting-tips/"><u>Why Isn't My PC Upgrading to Windows 11 Version 1607? Troubleshooting Tips</u></a></li>
 </ul></div>
 

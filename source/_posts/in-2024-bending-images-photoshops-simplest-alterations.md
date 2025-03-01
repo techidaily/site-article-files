@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bending Images  Photoshop's Simplest Alterations\""
-date: 2025-02-06T21:30:25.279Z
-updated: 2025-02-10T16:25:50.079Z
+date: 2025-02-27T02:53:09.122Z
+updated: 2025-03-01T01:15:19.041Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -55,10 +51,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
@@ -71,27 +63,15 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,24 +107,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-10-ultimate-webcam-reviews-for-informed-buyers/"><u>[New] 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-best-choice-avi-player-with-multiplatform-support/"><u>2024 Approved Best Choice Avi Player with Multiplatform Support</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-calendar-integration-for-efficient-google-meets/"><u>2024 Approved Calendar Integration for Efficient Google Meets</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-deciphering-digital-narratives-building-blocks/"><u>2024 Approved Deciphering Digital Narratives' Building Blocks</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enablingdisabling-multitasking-in-safari-devices/"><u>2024 Approved Enabling/Disabling Multitasking in Safari Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-youtube-to-mpeg-compression-guide/"><u>2024 Approved Expert Advice YouTube to MPEG Compression Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>2024 Approved Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-master-plan-youtube-content-into-mp4/"><u>2024 Approved Master Plan YouTube Content Into MP4</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-cross-service-playlist-migration-step-by-step-guide/"><u>2024 Approved Mastering Cross-Service Playlist Migration Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-masterpieces-of-modern-mythology-top-youtube-storytellers/"><u>2024 Approved Masterpieces of Modern Mythology - Top YouTube Storytellers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features/"><u>2024 Approved Swiftly Adjust Video Speeds A User's Guide to YouTube Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>2024 Approved The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unlocking-m1-max-clip-potentials/"><u>2024 Approved Unlocking M1 Max Clip Potentials</u></a></li>
-<li><a href="https://win-online.techidaily.com/creating-a-free-disk-clone-on-microsoft-windows-os-versions-a-step-by-step-tutorial/"><u>Creating a Free Disk Clone on Microsoft Windows OS Versions - A Step-by-Step Tutorial!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-y78-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Y78 5G.</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-beginners-guide-to-interpreting-youtube-analytics-scores/"><u>In 2024, A Beginner’s Guide to Interpreting Youtube Analytics Scores</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y36i-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y36i?</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-anti-blue-radiation-frames/"><u>Premier Anti-Blue Radiation Frames</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-newbie-kids-cameras-that-can-handle-moisture-and-fun/"><u>[New] Best Newbie Kids' Cameras That Can Handle Moisture and Fun</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>[New] In 2024, ION's Innovation Showcased Action Camera Review of Pro 3 Model</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-professional-secrets-to-flawless-photo-cropping-online/"><u>[New] In 2024, Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-instagram-image-enhancement-tips/"><u>[New] Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-dynamic-dialogue-dance-decks/"><u>[Updated] 2024 Approved Dynamic Dialogue Dance Decks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-copyright-conduct-for-instagram-artists/"><u>[Updated] Copyright Conduct for Instagram Artists</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-beginner-to-expert-in-funimate-for-2024/"><u>[Updated] From Beginner to Expert in Funimate for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-tips-for-adding-effects-on-digital-videos/"><u>[Updated] In 2024, Advanced Tips for Adding Effects on Digital Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-xbox-broadcast-transitioning-to-fb-live-for-2024/"><u>[Updated] Maximizing Xbox Broadcast Transitioning to FB Live for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery-for-2024/"><u>[Updated] The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-enhancement-the-art-of-background-blur/"><u>2024 Approved YouTube Enhancement The Art of Background Blur</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-convertir-votre-blu-ray-en-video-avec-handbrake-un-guide-pratique-et-detaille/"><u>Comment Convertir Votre Blu-Ray En Vidéo Avec HandBrake - Un Guide Pratique Et Détaillé</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-clearing-out-memory-dump-files-in-windows-10-operating-system/"><u>Expert Advice on Clearing Out Memory Dump Files in Windows 10 Operating System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>Flavorful Footage The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973421898-get-the-latest-rtx-2060-super-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Get the Latest RTX 2060 Super Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-k70-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi K70 Lock Screen Password?</u></a></li>
+<li><a href="https://article-files.techidaily.com/livestreaming-hacks-every-broadcaster-should-know-for-2024/"><u>Livestreaming Hacks Every Broadcaster Should Know for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/pros-and-cons-reviewing-nikon-d7500/"><u>Pros & Cons Reviewing Nikon D7500</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-miracast-display-issues-upgrading-your-graphics-drivers/"><u>Resolving Miracast Display Issues: Upgrading Your Graphics Drivers</u></a></li>
 </ul></div>
 
