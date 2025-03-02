@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Basic to Advanced Usage  Maximize Your Experience with Mac's Preview\""
-date: 2025-01-28T16:19:08.393Z
-updated: 2025-01-30T05:45:19.337Z
+date: 2025-02-25T07:23:22.377Z
+updated: 2025-02-28T18:32:58.281Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -58,10 +54,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -92,10 +84,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -140,10 +128,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -207,10 +191,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,24 +216,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-dynamic-strategies-for-complementary-podcast-consumption/"><u>[New] 2024 Approved Dynamic Strategies for Complementary Podcast Consumption</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-gain-recovery-of-personal-snapshots/"><u>[New] 2024 Approved Gain Recovery of Personal Snapshots</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-dynamic-duo-wearable-and-mac-harmony/"><u>[New] Dynamic Duo Wearable & Mac Harmony</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>[New] In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-action-recorder-the-thievery-t5-edition/"><u>[New] In 2024, The Ultimate Action Recorder – The Thievery T5 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-integrating-creative-filters-into-your-mobile-and-pc-videos-for-2024/"><u>[New] Integrating Creative Filters Into Your Mobile and PC Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-leading-uav-models-suited-for-gopro-cameras-for-2024/"><u>[New] Leading UAV Models Suited for GoPro Cameras for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-spectacular-20-anime-openers-hits-for-2024/"><u>[New] Spectacular 20 Anime Openers' Hits for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-harness-ai-to-generate-prime-video-titles-for-2024/"><u>[Updated] Harness AI to Generate Prime Video Titles for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>[Updated] The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-winters-chill-and-your-videos-selecting-heated-backdrops-for-2024/"><u>[Updated] Winter's Chill & Your Videos Selecting Heated Backdrops for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-systems-best-of-the-desk-lineup/"><u>2024 Approved Superior Systems Best of the Desk Lineup</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1725288339677-2024/"><u>2024年節分賀状原稿とコンテンツ - 久しぶりに会った友人や上司、ビジネスパートナー、先輩、家族への新春あいさつメッセージ</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dynamic-dialogue-driven-decks-for-2024/"><u>Dynamic Dialogue Driven Decks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-collection-highest-quality-webcam-supports/"><u>Excellence Collection Highest Quality Webcam Supports</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-update-to-apple-podcasts-with-automated-closed-captioning-technology-zdnets-insightful-review/"><u>Exploring the Latest Update to Apple Podcasts with Automated Closed-Captioning Technology | ZDNet's Insightful Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/finding-the-right-sound-top-asmrists-advice/"><u>Finding the Right Sound Top ASMRists Advice</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-xr-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone XR? How to Fix</u></a></li>
-<li><a href="https://article-files.techidaily.com/lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-10-best-webcams-a-buyers-guide-for-2024/"><u>[New] 10 Best Webcams | A Buyer’s Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revolutionizing-operations-with-virtual-engineering/"><u>[New] 2024 Approved Revolutionizing Operations with Virtual Engineering</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-next-gen-webcams-a-deep-dive-into-live-videography-gear/"><u>[Updated] 2024 Approved Next-Gen WebCams A Deep Dive Into Live Videography Gear</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-eternal-gallery-of-commons-artworks-online/"><u>[Updated] 2024 Approved The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-ultimate-checklist-for-video-quality-boost-version-22/"><u>[Updated] In 2024, The Ultimate Checklist for Video Quality Boost Version 2.2</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-the-sky-advanced-drone-footage-editing-for-2024/"><u>[Updated] Navigating the Sky Advanced Drone Footage Editing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries/"><u>2024 Approved Engaging Audiences Perfecting the Art of IGTV Titles & Summaries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-hurdle-effective-solutions-for-fixing-stop-code-0x0000003d-issues/"><u>Bypassing the Hurdle: Effective Solutions for Fixing Stop Code 0X0000003D Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977431334-fast-track-to-enhanced-performance-download-nvidia-geforce-gt-730-drivers-today/"><u>Fast Track to Enhanced Performance: Download NVIDIA GeForce GT 730 Drivers Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-11-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 11 Pro IMEI Checker</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-vr-lexicon-key-concepts-unveiled/"><u>In 2024, Essential VR Lexicon Key Concepts Unveiled</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-c51-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme C51 | Dr.fone</u></a></li>
 </ul></div>
 

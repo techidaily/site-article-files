@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Splendid Screenplay  Strategies for Spectaculous Lights\""
-date: 2025-01-26T04:00:48.787Z
-updated: 2025-01-29T22:46:23.084Z
+date: 2025-02-23T00:31:04.466Z
+updated: 2025-03-01T02:48:22.144Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -57,19 +53,11 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -89,10 +77,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -106,10 +90,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -151,21 +131,18 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-digital-dimensions-rise-of-vr-cinema/"><u>[New] 2024 Approved Digital Dimensions Rise of VR Cinema</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elite-4k-recording-units-our-favorites-of-18/"><u>[New] 2024 Approved Elite 4K Recording Units Our Favorites of 18</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-rated-mobile-devices-for-pocket-sized-gaming/"><u>[New] 2024 Approved Top-Rated Mobile Devices for Pocket-Sized Gaming</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-prime-instant-window-photo-viewer/"><u>[New] In 2024, Prime Instant Window Photo Viewer</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-virtual-ride-wonders-select-your-favorites/"><u>[New] In 2024, Virtual Ride Wonders Select Your Favorites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-recorders-for-console-gameplay-footage/"><u>[Updated] 2024 Approved Innovative Recorders for Console Gameplay Footage</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-6-most-used-4k-youtube-converters-to-compare-for-2024/"><u>[Updated] 6 Most-Used 4K YouTube Converters to Compare for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-crafting-audible-magic-cropping-and-edits-in-canva-videos-for-2024/"><u>[Updated] Crafting Audible Magic Cropping and Edits in Canva Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools-in-2024/"><u>[Updated] Exploring the Best of Android Does PickUp Lead Photo Editing Tools, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>[Updated] In 2024, How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-elite-screen-hunt-10-monitors-for-your-mac/"><u>[Updated] In 2024, The Elite Screen Hunt #10 Monitors for Your Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-navigating-advanced-features-in-obs-studio-android-for-2024/"><u>[Updated] Navigating Advanced Features in OBS Studio (Android) for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/evaluating-various-hardware-component-performances-an-in-depth-guide-yl-computing/"><u>Evaluating Various Hardware Component Performances: An In-Depth Guide - YL Computing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-phantoms-time-reversal-feature-for-2024/"><u>Mastering Phantom's Time-Reversal Feature for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/network-security/"><u>Network Security</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11/"><u>[New] 2024 Approved Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-android-essentials-for-immersive-video-and-vr-content-for-2024/"><u>[New] Android Essentials for Immersive Video and VR Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-10-volume-elevators-for-windows-ios-and-android-for-2024/"><u>[New] Best 10 Volume Elevators for Windows, iOS & Android for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-metaverse-or-omniverse-unpacking-the-digital-spheres-for-2024/"><u>[New] Metaverse or Omniverse? Unpacking the Digital Spheres for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-perfecteraser-premium-bg-erase-software-for-2024/"><u>[New] PerfectEraser Premium BG Erase Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-top-10-action-cameras-with-image-stabilization/"><u>[New] Top 10 Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-partitioned-presence-ranking-splittest-cam-for-2024/"><u>[Updated] Partitioned Presence Ranking Splittest Cam for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/17304968517811-infobox/"><u>/Infobox</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-broadcast-videos-on-twitter-without-the-retweet-step/"><u>2024 Approved How To Broadcast Videos on Twitter without the 'Retweet' Step</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/celebrating-the-best-movies-that-evoke-hope-and-courage-for-2024/"><u>Celebrating the Best Movies that Evoke Hope and Courage for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-gt-neo-5-se-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme GT Neo 5 SE to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/preserving-periscope-content-tips-from-the-pros/"><u>Preserving Periscope Content Tips From the Pros</u></a></li>
 </ul></div>
 

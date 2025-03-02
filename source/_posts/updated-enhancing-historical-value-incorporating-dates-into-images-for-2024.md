@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Enhancing Historical Value  Incorporating Dates Into Images for 2024\""
-date: 2025-01-24T19:36:36.307Z
-updated: 2025-01-30T01:49:57.468Z
+date: 2025-02-23T18:58:01.505Z
+updated: 2025-03-01T00:41:08.257Z
 tags: 
   - screen-recording
   - ai video
@@ -100,10 +100,6 @@ The stock Android Camera app has full editing features that allow you to crop, r
 
 The stock iPhone Camera app also has full editing tools that allow you to crop, rotate and adjust the contrast of your photos. You can also add stickers and frames to your photo within this app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use other photo editors to edit photos
 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
@@ -145,10 +141,6 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 * Healing Brushes
 
 You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US)and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **VSCO**
 
@@ -217,15 +209,7 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6Finally, select File>Save to add your date to the picture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use an inbuilt app to edit photos on Windows
 
@@ -252,10 +236,6 @@ Step3Go to the screen's top and click Text.
 Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5Enter the date you want.
 
@@ -304,10 +284,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 
 ![pixlp](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key features**
 
 * Photo Resizing
@@ -331,10 +307,6 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 1. [Canva](#part4-1)  
 2. [Fotor](#part4-2)  
 3. [PIXLR](#part4-3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Add Date Stamps Using Third-Party Camera Apps
 
@@ -361,10 +333,6 @@ You probably know that you can **edit photos on your phone** or tablet. With the
 But what if you miss an important date? How would you plan for this? Well, now you have a solution to this problem by using **date stamps on your photos**.
 
 You can do this in two ways: With an **inbuilt photo editor** or an **external photo editor**. Let's take a look at both.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the inbuilt photo app on Android and iPhone to add date stamps
 
@@ -394,10 +362,6 @@ The stock Android Camera app has full editing features that allow you to crop, r
 
 The stock iPhone Camera app also has full editing tools that allow you to crop, rotate and adjust the contrast of your photos. You can also add stickers and frames to your photo within this app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use other photo editors to edit photos
 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
@@ -421,10 +385,6 @@ Instasize is an app that you will find quite useful. The app was developed for i
 * Video editing
 
 You can download the app on [Android](https://play.google.com/store/apps/details?id=com.jsdev.instasize&gl=US) and [iPhone.](https://apps.apple.com/us/app/instasize-photo-editor-video/id576649830)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Adobe Photoshop Lightroom**
 
@@ -624,18 +584,19 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-does-youtube-offer-frequent-payments-to-you/"><u>[New] 2024 Approved Does YouTube Offer Frequent Payments to You?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-alleviate-problem-buffering-tweets-in-chromebook-for-2024/"><u>[New] Alleviate Problem Buffering Tweets in Chromebook for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-content-delivery-network-examination/"><u>[New] Content Delivery Network Examination</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-alternatives-to-xsplit-for-digital-media-masters/"><u>[Updated] 2024 Approved Alternatives to Xsplit for Digital Media Masters</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-your-chats-discords-textual-customization-guide/"><u>[Updated] 2024 Approved Elevate Your Chats Discord's Textual Customization Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-inside-look-how-dell-p2715q-delivers-on-4k-quality/"><u>[Updated] 2024 Approved Inside Look How Dell P2715Q Delivers on 4K Quality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-image-sharing-blueprint-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved The Ultimate Image Sharing Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-ocean-shots-top-7-shooting-tips-uncovered/"><u>[Updated] Seamless Ocean Shots Top 7 Shooting Tips Uncovered</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-ethernet-connection-failures-on-windows-10-and-windows-7-devices/"><u>Comprehensive Guide: Overcoming Ethernet Connection Failures on Windows 10 and Windows 7 Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-techniques-for-windows-gaming-on-arm-apple-silicon/"><u>CrossOver Techniques for Windows Gaming on ARM Apple Silicon</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-tutorial-boosting-graphics-performance-with-hardware-accelerated-gpu-scheduling-in-windows/"><u>Step-by-Step Tutorial: Boosting Graphics Performance with Hardware-Accelerated GPU Scheduling in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>[New] 2024 Approved Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-synching-youtube-songs-to-video-frameworks/"><u>[New] 2024 Approved Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>[New] Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>[New] From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-digital-diaspora-mixing-music-and-memory-images/"><u>[New] In 2024, Digital Diaspora Mixing Music and Memory Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-crafting-a-perfect-photomontage-like-a-pro/"><u>[Updated] 2024 Approved Crafting a Perfect PhotoMontage Like a Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleash-creativity-essential-tips-for-lut-production/"><u>2024 Approved Unleash Creativity Essential Tips for LUT Production</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-disinfecting-your-vr-gear-effectively-and-safely/"><u>Essential Tips for Disinfecting Your VR Gear Effectively and Safely</u></a></li>
+<li><a href="https://article-files.techidaily.com/gradual-aesthetic-launch/"><u>Gradual Aesthetic Launch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Smart 8 HD</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dialogue-dynamics-balancing-verisimilitude-and-style/"><u>In 2024, Dialogue Dynamics Balancing Verisimilitude and Style</u></a></li>
+<li><a href="https://facebook.techidaily.com/karate-krews-ban-social-media-engagement/"><u>Karate Krews Ban Social Media Engagement</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-picart-a-guide-to-clear-backgrounds-for-2024/"><u>Mastering PicArt A Guide to Clear Backgrounds for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
 </ul></div>
 

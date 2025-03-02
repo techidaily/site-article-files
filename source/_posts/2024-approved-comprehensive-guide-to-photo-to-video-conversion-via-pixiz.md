@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comprehensive Guide to Photo-to-Video Conversion via Pixiz\""
-date: 2024-08-22T15:01:57.964Z
-updated: 2024-08-23T15:01:57.964Z
+date: 2025-02-27T01:46:41.316Z
+updated: 2025-02-28T17:50:32.121Z
 tags: 
   - screen-recording
   - ai video
@@ -68,12 +68,6 @@ Step5Now click on download and then save. Your photo video will be saved in GIF 
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 2\. The best software for creating slideshows - Filmora
 
 ### About Filmora
@@ -92,23 +86,14 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
 
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
@@ -121,30 +106,18 @@ Step7Let's add some music. **Click** the **audio tab** at the top right. Now **c
 
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Step10After finishing all the editing, you can export your creation to any format you want.
 
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, Pixiz is an excellent service to make photo videos online by just uploading photos and clicking to generate. But there aren't many ways to customize it. Additionally, there are a lot of problems with the commercials, the little selection of templates, and the brief movie length. On the other hand, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers more advanced tools than Pixiz online slideshow maker to create more attractive and advanced slideshows or photo videos. However, you must buy the premium version to unlock its full potential and remove the watermark. I hope you'll find this article helpful. Thanks for Reading!
@@ -163,23 +136,14 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
 
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
@@ -192,16 +156,10 @@ Step7Let's add some music. **Click** the **audio tab** at the top right. Now **c
 
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
@@ -240,8 +198,26 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-hangout-history-top-4-strategies/"><u>[New] In 2024, Hangout History Top 4 Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-the-art-of-monochrome-modification/"><u>[New] In 2024, Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-visionary-video-techniques-mastering-version-22-of-enhancer/"><u>[New] In 2024, Visionary Video Techniques - Mastering Version 2.2 of Enhancer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-steady-craft-fights-against-camera-jiggles/"><u>[New] Steady Craft Fights Against Camera Jiggles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-watchlist-the-best-unboxers-of-the-new-era-for-2024/"><u>[New] Ultimate Watchlist The Best Unboxers of the New Era for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions/"><u>[New] Unveiling the Simplicity Accessing Highly Engaged YouTube Reactions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-explore-the-premier-free-overlay-tools-to-elevate-images/"><u>[Updated] Explore the Premier Free Overlay Tools to Elevate Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-htc-vive-comfort-strategies-for-a-smoother-ride-for-2024/"><u>[Updated] HTC Vive Comfort Strategies for a Smoother Ride for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-professional-photo-editing-blur-or-eliminate-unwanted-borders-for-2024/"><u>[Updated] Professional Photo Editing Blur or Eliminate Unwanted Borders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-uncomplicated-methodology-win-os-clownvoice-tweaking-guide-for-2024/"><u>[Updated] Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>2024 Approved Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-the-secret-ingredient-behind-effective-online-tracking-solutions/"><u>Cookiebot: The Secret Ingredient Behind Effective Online Tracking Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-the-language-code-insights-into-gpts-translation-mechanism/"><u>Cracking the Language Code: Insights Into GPT's Translation Mechanism</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-with-iphones-dual-function-capability/"><u>In 2024, Capturing Life with iPhone’s Dual-Function Capability</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/innovative-windows-media-cutting-tools/"><u>Innovative Windows Media Cutting Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-vertical-computer-mice-of-2024-reviewed-for-maximum-productivity/"><u>Leading Vertical Computer Mice of 2024 Reviewed for Maximum Productivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-your-content-choose-these-top-10-reel-apps/"><u>Mastering Your Content Choose These Top 10 Reel Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-of-3d-entertainment-premium-blu-ray-decks/"><u>Pinnacle of 3D Entertainment Premium Blu-Ray Decks</u></a></li>
+</ul></div>
 

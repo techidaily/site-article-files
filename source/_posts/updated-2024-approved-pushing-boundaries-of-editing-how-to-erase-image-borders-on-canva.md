@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Pushing Boundaries of Editing  How to Erase Image Borders on Canva\""
-date: 2025-01-26T01:29:05.368Z
-updated: 2025-01-29T23:01:59.143Z
+date: 2025-02-26T00:37:32.886Z
+updated: 2025-03-01T01:10:56.744Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,6 @@ However, if you need to learn how to use the tool and remove an image's Backgrou
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Use Canva To Remove Image's Background
 
 Canva is beloved by bloggers and small businesses for its simple, intuitive design interface and range of features, including its background-removing capability that can help to create a Pinterest graphic or blog post with a clean and professional look.
@@ -53,25 +49,13 @@ Step2 Click **"Create a Design"** and select **"Edit Photo."** Click the **"Use 
 
 ![remove an image background in canva on pc](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-pc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now, you will be directed to a new tab. Select your image and click the **"Edit Image"** option from the top ribbon.
 
 Step4 From the left side menu, click **"Background Remover."** Wait for the background to be processed and click **"Erase."** You can also use the cursor brush to remove the sides manually.
 
 ![background remover in canva](https://images.wondershare.com/filmora/article-images/2023/03/background-remover-in-canva.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the background is disappeared, click **"Apply"** to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Mobile
 
@@ -80,10 +64,6 @@ The following steps will help you remove the image's background in Canva using i
 Step1 Install Canva from [App Store](https://apps.apple.com/us/app/canva-design-photo-video/id897446215) or [Google Play Store](https://play.google.com/store/apps/details?id=com.canva.editor&hl=en&gl=US) in first step. Launch the app and tap the purple "Plus" icon at the bottom-right of the screen.
 
 ![remove an image background in canva on mobile](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-mobile.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Go to the **"More Ways To Create"** section and tap the **"See All"** option. Select your image and tap **"Create"** at the top right corner of the screen.
 
@@ -116,10 +96,6 @@ Step1 Select the **Restore** brush from the left panel under the **Background Re
 Step2 Click on the **area** you want to restore.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** These tools are only available in the Canva web and desktop version.
 
@@ -183,10 +159,6 @@ Canva's Erase and Restore function makes it easy to remove image backgrounds. [W
 
 ![erase and restore options in canva](https://images.wondershare.com/filmora/article-images/2023/03/erase-and-restore-options-in-canva.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### To erase an element from an image
 
 Step1 Select the **Erase** brush from the left panel under the **Background Remover** option
@@ -202,10 +174,6 @@ Step1 Select the **Restore** brush from the left panel under the **Background Re
 Step2 Click on the **area** you want to restore.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** These tools are only available in the Canva web and desktop version.
 
@@ -244,10 +212,6 @@ After removing their Background, you can add shadows to your objects in PixCut. 
 PixCut also can remove watermarks from images, which can be handy when you want to use an image for commercial purposes and need to remove any copyright restrictions.
 
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here's how you can use the PixCut platform to remove an image's background in one click:
 
@@ -289,21 +253,22 @@ Hopefully, you've found this article helpful and can now optimize your images in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-best-of-the-best-15-4k-video-capture-units/"><u>[New] Best of the Best #15 4K Video Capture Units</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-superior-software-convert-and-upload-to-twitter/"><u>[New] In 2024, Superior Software Convert and Upload to Twitter</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech-for-2024/"><u>[New] M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-dynamic-capture-excellence-the-premium-seven-list/"><u>[Updated] 2024 Approved Dynamic Capture Excellence The Premium Seven List</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mobile-melodies-crafting-unique-phone-ringtones-for-android-enthusiasts/"><u>[Updated] 2024 Approved Mobile Melodies Crafting Unique Phone Ringtones for Android Enthusiasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unveiling-the-secrets-of-voiced-powerpoint-presentations/"><u>[Updated] In 2024, Unveiling the Secrets of Voiced PowerPoint Presentations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile-for-2024/"><u>[Updated] Tricks to Improve Instagram Video Load Speeds (Mobile) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-physical-action-survey/"><u>2024 Approved Extended Physical Action Survey</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-surging-up-the-search-listings-key-tips-for-optimizing-your-videos/"><u>2024 Approved Surging Up the Search Listings Key Tips for Optimizing Your Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-tecno-spark-10c-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Tecno Spark 10C Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-pop-8-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Pop 8 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>In 2024, Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/maos-command-unveiling-the-strategies-behind-the-communist-party-of-chinas-triumph-in-civil-conflict-expert-analysis-by-yl-software/"><u>Mao's Command: Unveiling the Strategies Behind the Communist Party of China's Triumph in Civil Conflict - Expert Analysis by YL Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-8-tablets-for-photo-editing-worth-a-try-for-2024/"><u>Top 8 Tablets for Photo Editing Worth a Try for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unraveling-visual-clarity-for-the-new-digital-age-for-2024/"><u>Unraveling Visual Clarity for the New Digital Age for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ai-powered-image-processing-hub-for-2024/"><u>[New] AI-Powered Image Processing Hub for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-prioritize-close-up-views-for-effective-collaboration-for-2024/"><u>[New] How to Prioritize Close-Up Views for Effective Collaboration for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tackling-windows-files-swiftly-and-smartly/"><u>[New] In 2024, Tackling Windows Files Swiftly and Smartly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-master-the-art-of-persuasion-top-30-video-strategies/"><u>[New] Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[Updated] 2024 Approved Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-restarting-disrupted-streams-on-fb-fixes-for-todays-broadcasters/"><u>[Updated] 2024 Approved Restarting Disrupted Streams on FB Fixes for Today's Broadcasters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unmatched-quality-the-premier-4k-mirrorless-choices/"><u>[Updated] 2024 Approved Unmatched Quality The Premier 4K Mirrorless Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-value-capture-affordable-cam-options/"><u>[Updated] 2024 Approved Value Capture Affordable Cam Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>[Updated] Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming-for-2024/"><u>[Updated] Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-editing-upgrades-for-final-cut-pro-professionals-for-2024/"><u>[Updated] Top 10 Editing Upgrades for Final Cut Pro Professionals for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95688136-9781440594748-astrology-101/"><u>Astrology 101 | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE!</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ignite-passion-a-selection-of-10-invigorating-films/"><u>In 2024, Ignite Passion A Selection of 10 Invigorating Films</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-site-including-youtube-playlists-directly/"><u>In 2024, Streamline Your Site Including YouTube Playlists Directly</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-ear-mastery-a-gamers-search-for-perfect-audio/"><u>In-Ear Mastery: A Gamer's Search for Perfect Audio</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-the-troubleshoot-fixing-a-non-working-igfxem-module/"><u>Mastering the Troubleshoot: Fixing a Non-Working igfxEM Module</u></a></li>
 </ul></div>
 

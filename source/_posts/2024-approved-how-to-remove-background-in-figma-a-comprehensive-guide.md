@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Remove Background In Figma  A Comprehensive Guide\""
-date: 2024-08-22T15:04:59.060Z
-updated: 2024-08-23T15:04:59.060Z
+date: 2025-02-25T18:25:04.972Z
+updated: 2025-02-28T18:18:01.968Z
 tags: 
   - screen-recording
   - ai video
@@ -60,9 +60,6 @@ Step1 First, open a browser, visit the [Figma website](https://www.figma.com), a
 
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
 Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.com/community/plugin/990188175789012011)**"** using the search option and select it from the result. Click **"Run,"** choose the **"Select App key"** option from the drop-down menu, and you will be asked for your **"Appkey."**
@@ -73,26 +70,12 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -122,12 +105,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -158,9 +135,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -201,8 +175,24 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-from-script-to-sound-crafting-captivating-podcast-episodes-for-2024/"><u>[New] From Script to Sound Crafting Captivating Podcast Episodes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-10-superior-soundspeed-apps-for-devices/"><u>[New] In 2024, 10 Superior Soundspeed Apps for Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-using-luts-in-spark-ar-and-download-free-luts/"><u>[New] In 2024, Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-xmlssattml-to-srt-actionable-insights-for-media-professionals-for-2024/"><u>[New] XML/SSA/TTML-to-SRT Actionable Insights for Media Professionals for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-steps-for-starting-a-youtube-channel/"><u>[Updated] 2024 Approved Essential Steps for Starting a YouTube Channel</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unboxing-the-polaroid-camplus-cube-action-video-analysis/"><u>[Updated] 2024 Approved Unboxing the Polaroid Cam+ Cube Action Video Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-auroras-role-in-enhancing-image-contrast-for-2024/"><u>[Updated] Aurora's Role in Enhancing Image Contrast for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-interactive-therapy-in-the-virtual-world/"><u>[Updated] In 2024, Interactive Therapy in the Virtual World</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-proven-ways-to-record-and-save-ps4-games/"><u>[Updated] In 2024, Proven Ways to Record and Save PS4 Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-meaningful-conversations-an-interviewers-journey/"><u>2024 Approved Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dell-migrate/"><u>Dell Migrateで動作不良につきトラブルシューティングガイド</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-f5-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco F5 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 8 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-conquer-iphone-audiophiles-playlist-tips/"><u>In 2024, Conquer iPhone Audiophile's Playlist Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-off-line-disconnecting-discord-servers/"><u>In 2024, Off-Line Disconnecting Discord Servers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-changes-to-your-pubg-characters-speech/"><u>In 2024, Pioneering Changes to Your PUBG Character's Speech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/pie-cutter/"><u>PixelPie Cutter</u></a></li>
+</ul></div>
 
