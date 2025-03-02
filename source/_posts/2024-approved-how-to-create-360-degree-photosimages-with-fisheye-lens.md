@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create 360 Degree Photos/Images with Fisheye Lens\""
-date: 2024-08-27T08:16:56.651Z
-updated: 2024-08-28T08:16:56.651Z
+date: 2025-02-23T10:56:25.979Z
+updated: 2025-03-02T00:18:23.235Z
 tags: 
   - screen-recording
   - ai video
@@ -36,21 +36,12 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -74,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -87,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -119,8 +101,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-discover-the-leading-free-srt-translators-of-today-for-2024/"><u>[New] Discover the Leading Free SRT Translators of Today for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>[New] In 2024, Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-professional-camera-spin-360-edition-2023-for-2024/"><u>[New] Mastering Professional Camera Spin 360° Edition, 2023 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vegas-pro-2021-a-detailed-gaming-world-survey/"><u>[New] Vegas Pro 2021 A Detailed Gaming World Survey</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovative-ways-to-decrease-audio-levels/"><u>[Updated] 2024 Approved Innovative Ways to Decrease Audio Levels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-iphones-vr-video-viewing/"><u>[Updated] 2024 Approved Mastering iPhone's VR Video Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-groundbreaking-companies-at-the-vr-content-frontier/"><u>[Updated] Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-comprehensive-guide-to-locating-and-creating-superb-instagram-alarms/"><u>[Updated] In 2024, A Comprehensive Guide to Locating and Creating Superb Instagram Alarms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>[Updated] Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotwit2mp4-simple-conversion-for-2024/"><u>[Updated] VideoTwit2MP4 Simple Conversion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-galaxy-a25-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Galaxy A25 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-fact-sheet-for-youtube-premium-users/"><u>In 2024, The Ultimate Fact Sheet for YouTube Premium Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issues-with-iphones-volume-buttons-apply-these-7-reliable-troubleshooting-steps/"><u>Issues With iPhones Volume Buttons? Apply These 7 Reliable Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-innovative-resin-based-3d-printers-on-the-market-2024-edition/"><u>Most Innovative Resin-Based 3D Printers on the Market - 2024 Edition</u></a></li>
+</ul></div>
 

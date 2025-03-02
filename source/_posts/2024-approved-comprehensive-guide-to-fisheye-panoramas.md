@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comprehensive Guide to Fisheye Panoramas\""
-date: 2024-08-22T15:06:23.498Z
-updated: 2024-08-23T15:06:23.498Z
+date: 2025-02-25T20:48:17.479Z
+updated: 2025-03-01T22:13:12.089Z
 tags: 
   - screen-recording
   - ai video
@@ -36,18 +36,12 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -60,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -71,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -84,18 +72,12 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -119,8 +101,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-analyzing-magix-photo-management-system/"><u>[New] 2024 Approved Analyzing MAGIX Photo Management System</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>[New] 2024 Approved HoloLens Analysis A 3D Interface Revolution by Microsoft</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-killer-wireless-drivers-download/"><u>[SOLVED] Killer Wireless Drivers Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-essential-guide-for-adding-depth-and-style-in-instagram-stories/"><u>[Updated] 2024 Approved The Essential Guide for Adding Depth & Style in Instagram Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-detailed-examination-intuitive-hdr-techniques/"><u>[Updated] In 2024, Detailed Examination Intuitive HDR Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/62232491-updated-in-2024-pro-gamers-and-casters-to-subscribe-now/"><u>[Updated] In 2024, Pro Gamers & Casters to Subscribe Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-tactics-to-record-gameplay-in-minecraft-via-macos/"><u>2024 Approved Top 5 Tactics to Record Gameplay in Minecraft via MacOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discover-the-power-of-kinemaster-and-learn-about-its-10-online-rivals/"><u>Discover the Power of KineMaster & Learn About Its 10 Online Rivals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-magic-6-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Magic 6 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-engaging-instagram-stories-with-animated-text-effects/"><u>In 2024, Engaging Instagram Stories with Animated Text Effects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-maximum-video-stowage-on-a-single-64gb-unit/"><u>In 2024, Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-earnings-via-sponsored-youtube-videos-for-2024/"><u>Mastering Earnings via Sponsored YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-fundamentals-of-captivating-video-scripts/"><u>The Fundamentals of Captivating Video Scripts</u></a></li>
+<li><a href="https://article-files.techidaily.com/zoom-mastery-embracing-intricate-screen-images/"><u>Zoom Mastery Embracing Intricate Screen Images</u></a></li>
+</ul></div>
 
